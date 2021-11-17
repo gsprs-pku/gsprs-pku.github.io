@@ -13,7 +13,8 @@ permalink: /members/
 <n></n>
 **Reserach Assistant**
 
-**Yuqi Song (PhD student starting from 2022 fall)**
+**Yuqi Song**
+<a>PhD student starting from 2022 fall</a>
 
 **Xiao Yu (currently PhD student at the University of Houston)**
 
