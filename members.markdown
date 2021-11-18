@@ -21,11 +21,13 @@ permalink: /members/
 
 **Yuqi Song**
 
-PhD student starting from 2022 fall
+Currently undergrad at Wuhan University, PhD program at PKU starting from 2022 fall
+
 
 **Xiao Yu**
 
 Currently PhD student at the University of Houston
+
 
 **Qingyu Sui**
 
