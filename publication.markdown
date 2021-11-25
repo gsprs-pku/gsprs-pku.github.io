@@ -5,7 +5,7 @@ permalink: /publication/
 ---
 **Journal Publications**
 
-17.&nbsp;Hu, X., Bürgmann, R., Fielding, E.J., Xu, X., Zhen, L., 2021, Machine-learning characterization of tectonic, hydrological and anthropogenic sources of ground deformation in California. Journal of Geophysical Research: Solid Earth.
+17.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Xu, X., Zhen, L., 2021, Machine-learning characterization of tectonic, hydrological and anthropogenic sources of ground deformation in California. Journal of Geophysical Research: Solid Earth.
 
 16.&nbsp;Hu, X., Xue, L., Yu, Y., Guo, S., Cui, Y., Li, Y., Qi, S. (2021). Remote sensing characterization of mountain excavation and city construction in loess plateau. Geophysical Research Letters (Accepted).
 
