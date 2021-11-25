@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Members
-permalink: /members/
+title: People
+permalink: /people/
 ---
 
 **PI Xie Hu**
