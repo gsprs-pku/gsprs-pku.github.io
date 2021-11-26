@@ -3,13 +3,13 @@ layout: page
 title: Publication
 permalink: /publication/
 ---
-**Journal Publications**
+**Journal Publications  † denotes group members under direct supervision  * denotes corresponding**
 
-18.&nbsp;<b>Hu, X.</b>, Xue, L., Bürgmann, R., Fu, Y., Wang, T., Stress perturbations from elastic loads and seismicity in the Salt Lake City region. <i>Journal of Geophysical Research: Solid Earth</i> (Accepted)
+18.&nbsp;<b>Hu, X.</b>, Xue, L., Bürgmann, R., Fu, Y., 2021, Stress perturbations from elastic loads and seismicity in the Salt Lake City region. <i>Journal of Geophysical Research: Solid Earth</i> (Accepted)
   
 17.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Xu, X., Zhen, L., 2021, Machine-learning characterization of tectonic, hydrological and anthropogenic sources of ground deformation in California. <i>Journal of Geophysical Research: Solid Earth</i>, 126, e2021JB022373. <a href="https://doi.org/10.1029/2021JB022373" target="_blank">https://doi.org/10.1029/2021JB022373</a> <a href="/articles/Hu_JGR_2021JB022373.pdf" download>&#91;*pdf*&#93;</a>
 
-16.&nbsp;<b>Hu, X.</b>, Xue, L., Yu, Y., Guo, S., Cui, Y., Li, Y., Qi, S. (2021). Remote sensing characterization of mountain excavation and city construction in loess plateau. <i>Geophysical Research Letters</i>, 48, e2021GL095230. <a href="https://doi.org/10.1029/2021GL095230" target="_blank">https://doi.org/10.1029/2021GL095230</a> <a href="/articles/Hu_GRL_2021GL095230.pdf" download>&#91;*pdf*&#93;</a>
+16.&nbsp;<b>Hu, X.</b>, Xue, L., Yu, Y., Guo, S., Cui, Y., Li, Y., Qi, S., 2021, Remote sensing characterization of mountain excavation and city construction in loess plateau. <i>Geophysical Research Letters</i>, 48, e2021GL095230. <a href="https://doi.org/10.1029/2021GL095230" target="_blank">https://doi.org/10.1029/2021GL095230</a> <a href="/articles/Hu_GRL_2021GL095230.pdf" download>&#91;*pdf*&#93;</a>
 
 15.&nbsp;Shi, X.G., <b>Hu, X.*</b>, Sitar, N., Kayen, R., Qi, S., Jiang, H., Wang, X., Zhang, L., 2021, Hydrological control shift from river level to rainfall in the reactivated Guobu Slope besides the Laxiwa hydropower station (China). <i>Remote Sensing of Environment</i>, 265, 112664. <a href="https://doi.org/10.1016/j.rse.2021.112664" target="_blank">https://doi.org/10.1016/j.rse.2021.112664</a> <a href="/articles/Hydrological control shift from river level to rainfall.pdf" download>&#91;*pdf*&#93;</a>
 
@@ -43,7 +43,7 @@ permalink: /publication/
 
 <br>
 
-**Under Review**
+**Under Review  † denotes group members under direct supervision  * denotes corresponding**
 
 5.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
 
