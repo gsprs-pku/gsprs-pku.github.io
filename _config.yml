@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Geohazards and Shallow Processes Remote Sensing Lab
+title: Geohazards and Shallow Processes Remote Sensing Lab
 contact: PI Xie Hu
 email: hu.xie@pku.edu.cn
-description: >- # this means to ignore newlines until "baseurl:"
-  College of Urban and Environmental Sciences <br>
-  Peking University <br>
-  No 5 Yiheyuan Road <br>
-  Beijing 100871, China <br>
+description: # >- # this means to ignore newlines until "baseurl:"
+  College of Urban and Environmental Sciences
+  Peking University
+  No 5 Yiheyuan Road
+  Beijing 100871, China
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
