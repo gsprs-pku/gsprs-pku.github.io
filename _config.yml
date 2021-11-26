@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Geohazards and Shallow Processes Remote Sensing Lab
-contact: PI Xie Hu
+#contact: PI Xie Hu
 email: hu.xie@pku.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   College of Urban and Environmental Sciences
