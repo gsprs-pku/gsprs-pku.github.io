@@ -6,6 +6,7 @@ permalink: /people/
 
 **PI Xie Hu**
 
+
 2014-2018   Ph.D. Geophysics       Southern Methodist University, Dallas, TX, USA
 
 2011-2013   M.E.  Remote Sensing   Wuhan University, Wuhan, China
@@ -21,7 +22,7 @@ permalink: /people/
 
 **Yuqi Song**
 
-Currently undergrad at Wuhan University, PhD program at PKU starting from 2022 fall
+Currently undergrad at Wuhan University, PhD program at PKU starting from 2022 Fall
 
 
 **Xiao Yu**
@@ -31,7 +32,7 @@ Currently PhD student at the University of Houston
 
 **Qingyu Sui**
 
-To join Dr. Zhong Lu's lab at Southern Methodish University in 2022 spring
+To join Dr. Zhong Lu's lab at Southern Methodish University in 2022 Spring
 
 <br>
 <br>
