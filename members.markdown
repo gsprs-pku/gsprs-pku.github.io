@@ -5,9 +5,7 @@ permalink: /people/
 ---
 
 **PI Xie Hu**
-<div align=left>
-<a><img src="{{site.url}}/imgs/XH.jpg"></a>
-</div>
+
 2014-2018   Ph.D. Geophysics       Southern Methodist University, Dallas, TX, USA
 
 2011-2013   M.E.  Remote Sensing   Wuhan University, Wuhan, China
