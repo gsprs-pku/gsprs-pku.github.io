@@ -3,7 +3,8 @@ layout: page
 title: Publication
 permalink: /publication/
 ---
-**Journal Publications  † denotes group members under direct supervision  * denotes corresponding**
+**Journal Publications**
+† denotes group members under direct supervision  * denotes corresponding
 
 18.&nbsp;<b>Hu, X.</b>, Xue, L., Bürgmann, R., Fu, Y., 2021, Stress perturbations from elastic loads and seismicity in the Salt Lake City region. <i>Journal of Geophysical Research: Solid Earth</i> (Accepted)
   
@@ -43,7 +44,8 @@ permalink: /publication/
 
 <br>
 
-**Under Review  † denotes group members under direct supervision  * denotes corresponding**
+**Under Review**
+† denotes group members under direct supervision  * denotes corresponding
 
 5.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
 
