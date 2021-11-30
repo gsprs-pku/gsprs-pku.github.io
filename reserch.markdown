@@ -3,7 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 ---
-
+<div align=center>
+<a><img src="{{site.url}}/imgs/research_images/idea1_E.png"></a>
+</div>
+<br>
 **Landslide**
 
 Landsliding is an intriguing interdisciplinary subject associated with geophysics, hydrology, geology, geomorphology, geodesy and geotechnical engineering. Researchers use their specialties to study fundamental questions related to the triggering mechanisms using the Coulomb stress-transfer model or the viscoplastic flow model. I intend to use SAR imaging techniques to derive spatiotemporal displacements and to develop physical models for a better understanding of landslide dynamics.
