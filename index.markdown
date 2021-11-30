@@ -14,12 +14,17 @@ We are the Geohazards and Shallow Processes Remote Sensing Lab (GSPRS) at Peking
 We are always looking for highly motivated young scientists to join our lab. Please contact PI Xie Hu with your CV.
 
 **NEWS**
+
 Welcome to submit abstract to our 2022 EGU session <a href="https://meetingorganizer.copernicus.org/EGU22/session/43347" target="_blank">Remote Sensing Big Data Analysis and Applications in Geoscience</a>
 
 11/2021   Our paper on machine-learning characterization of the natural and anthropogenic sources of ground deformation in California was published in <a href="https://doi.org/10.1029/2021JB022373" target="_blank">JGR</a>
+
           Our paper on elastic stress perturbations relating to the 2020 M5.7 Magna earthquake from centrurial industrial mine waste transport and surface water variations was accepted by <a href="https://meetingorganizer.copernicus.org/EGU22/session/43347" target="_blank">JGR</a>
+	  
 10/2021   Our paper on the unprecedented mountain excavation and city construction in Yan'an China was published in <a href="https://doi.org/10.1029/2021GL095230" target="_blank">GRL</a>
+
 9/2021    Virtual seminar talk at UTIG - UT Austin
+
 8/2021    Our paper on the shift of hydrological forcing in the movements of Guobo Slope besides the Laxiwa hydropower station in China was published in <a href="https://doi.org/10.1016/j.rse.2021.112664" target="_blank">RSE</a>
 7/2021    I moved to Peking University. I'm grateful for all help and kindness from the teams that I was in.
           Ground-based InSAR survey at the Slumgullion landslide, CO
