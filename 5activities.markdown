@@ -3,12 +3,24 @@ layout: page
 title: Activities
 permalink: /activities/
 ---
+<meta charset="utf-8">
+<link rel="stylesheet" href="fullcalendar/lib/main.css">
+<script src="fullcalendar/lib/main.js"></script>
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FShanghai&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&src=b3FpNXBicXFjdHNzZW9lOWNhMmdiNWg5b2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E4C441" style="border-width:0" width="740" height="600" frameborder="0" scrolling="no"></iframe>
+<script>
+    $(document).ready(function(){$('#calendar').fullCalendar({
+		 events:'{{site.url}}/calendar-data/'
+	     })
+    });
+</script>
 
+<!--
+{% for event in site.events %}
+{{event.title}} {{event.event_date}}<br/>
+{% endfor %}
+-->
 
-
-
+<div id="calendar"></div>
 
 <br>
 <br>
