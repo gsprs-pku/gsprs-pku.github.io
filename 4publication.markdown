@@ -6,7 +6,9 @@ permalink: /publication/
 **Journal Publications**
 † denotes group members under direct supervision  * denotes corresponding
 
-18.&nbsp;<b>Hu, X.</b>, Xue, L., Bürgmann, R., Fu, Y., 2021, Stress perturbations from elastic loads and seismicity in the Salt Lake City region. <i>Journal of Geophysical Research: Solid Earth</i> (Accepted)
+19. Zhou, C., Cao, Y., Hu, X., Yin, K., Enhanced dynamic landslide hazard assessment using MT-InSAR method in the Three Gorges Reservoir Area. <i>Landslides</i>. (Accepted)
+
+18.&nbsp;<b>Hu, X.</b>, Xue, L., Bürgmann, R., Fu, Y., 2021, Stress perturbations from elastic loads and seismicity in the Salt Lake City region. <i>Journal of Geophysical Research: Solid Earth</i>, 126, e2021JB022362. <a href="https://doi.org/10.1029/2021JB022362" target="_blank">https://doi.org/10.1029/2021JB022362</a> <a href="/articles/Hu_JGR_2021JB022362.pdf" download>&#91;*pdf*&#93;</a>
   
 17.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Xu, X., Zhen, L., 2021, Machine-learning characterization of tectonic, hydrological and anthropogenic sources of ground deformation in California. <i>Journal of Geophysical Research: Solid Earth</i>, 126, e2021JB022373. <a href="https://doi.org/10.1029/2021JB022373" target="_blank">https://doi.org/10.1029/2021JB022373</a> <a href="/articles/Hu_JGR_2021JB022373.pdf" download>&#91;*pdf*&#93;</a>
 
@@ -47,11 +49,9 @@ permalink: /publication/
 **Under Review**
 † denotes group members under direct supervision  * denotes corresponding
 
-5.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
+4.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
 
-4.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Machine learning characterization of the 2021 Texas statewide winter storm using SAR imagery. 
-
-3.&nbsp;Zhou, C., Cao, Y., <b>Hu, X.</b>, Yin, K., Enhanced dynamic landslide hazard assessment using MT-InSAR method in the Three Gorges Reservoir Area.
+3.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Machine learning characterization of the 2021 Texas statewide winter storm using SAR imagery. 
 
 2.&nbsp;Cui, Y., Li, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
 
