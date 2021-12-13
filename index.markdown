@@ -29,6 +29,10 @@ We are always looking for highly motivated students and young scientists to join
     <table>
         <tbody>
             <tr>
+                <td> 12/2021 </td>
+                <td> Welcome to our AGU poster on the crustal surgery in Yan'an (NH15D-0488) and the 2021 Texas winter storm (GG45B-0411)!</td>
+            </tr> 
+            <tr>
                 <td> 11/2021 </td>
                 <td>Our paper on machine-learning characterization of the natural and anthropogenic sources of ground deformation in California was published in <a href="https://doi.org/10.1029/2021JB022373" target="_blank"><i>JGR</i></a>.</td>
             </tr>
