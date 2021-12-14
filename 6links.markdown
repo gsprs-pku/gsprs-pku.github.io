@@ -5,7 +5,6 @@ permalink: /links/
 ---
 
 <br> &nbsp;
-
 **InSAR principles**
 
 NASA (NISAR Handbook) <a href="https://nisar.jpl.nasa.gov/files/nisar/NISAR_Science_Users_Handbook.pdf" target="_blank">https://nisar.jpl.nasa.gov/files/nisar/NISAR_Science_Users_Handbook.pdf</a>
@@ -19,7 +18,6 @@ Geospatial Information Authority of Japan (GSI) <a href="https://vldb.gsi.go.jp/
 NASA (SAR Handbook in forest and biomass monitoring) <a href="https://servirglobal.net/Global/Articles/Article/2674/sar-handbook-comprehensive-methodologies-for-forest-monitoring-and-biomass-estimation" target="_blank">https://servirglobal.net/Global/Articles/Article/2674/sar-handbook-comprehensive-methodologies-for-forest-monitoring-and-biomass-estimation</a>
 
 <br> &nbsp;
-
 **SAR data search and download**
   
 ASF <a href="https://vertex.daac.asf.alaska.edu" target="_blank">https://vertex.daac.asf.alaska.edu</a>
@@ -37,7 +35,6 @@ TerraSAR-X Airbus <a href="https://terrasar-x-archive.terrasar.com" target="_bla
 UAVSAR <a href="https://uavsar.jpl.nasa.gov" target="_blank">https://uavsar.jpl.nasa.gov</a>
 
 <br> &nbsp;
-
 **GPS**
 
 UNAVCO <a href="http://www.unavco.org/data/gps-gnss/data-access-methods/dai2/app/dai2.html#" target="_blank">http://www.unavco.org/data/gps-gnss/data-access-methods/dai2/app/dai2.html#</a>
@@ -51,7 +48,6 @@ Nevada Geodetic Laboratory <a href="http://geodesy.unr.edu/" target="_blank">htt
 GPS tools (courtesy of Dr. Kathryn Materna) <a href="https://github.com/kmaterna/GNSS_TimeSeries_Viewers" target="_blank">https://github.com/kmaterna/GNSS_TimeSeries_Viewers</a>
 
 <br> &nbsp;
-
 **LiDAR DEM**
 
 Washington DNR, LiDAR DEM in Washington <a href="http://lidarportal.dnr.wa.gov" target="_blank">http://lidarportal.dnr.wa.gov</a>
@@ -61,7 +57,6 @@ PSLC, LiDAR DEM over the Pacific Northwest <a href="http://pugetsoundlidar.ess.w
 OpenTopography, LiDAR DEM over the US <a href="https://opentopography.org" target="_blank">https://opentopography.org</a>
 
 <br> &nbsp;
-
 **Statewide/Worldwide DEM sources**
 
 SRTM DEM (page bottom for SRTM V2) <a href="https://www2.jpl.nasa.gov/srtm/" target="_blank">https://www2.jpl.nasa.gov/srtm/</a>
@@ -73,7 +68,6 @@ USGS NED <a href="https://catalog.data.gov/dataset/usgs-national-elevation-datas
 TanDEM <a href="https://download.geoservice.dlr.de/TDM90/" target="_blank">https://download.geoservice.dlr.de/TDM90/</a>
 
 <br> &nbsp;
-
 **Aerial imagery**
 
 NAIP <a href="https://datagateway.nrcs.usda.gov/GDGHome_DirectDownLoad.aspx" target="_blank">https://datagateway.nrcs.usda.gov/GDGHome_DirectDownLoad.aspx</a>
@@ -83,7 +77,6 @@ Landsat
 Sentinel-2
 
 <br> &nbsp;
-
 **Earthquake catalog**
 
 USGS <a href="https://earthquake.usgs.gov/earthquakes/search" target="_blank">https://earthquake.usgs.gov/earthquakes/search</a>
@@ -91,7 +84,6 @@ USGS <a href="https://earthquake.usgs.gov/earthquakes/search" target="_blank">ht
 University of Utah <a href="https://quake.utah.edu/regional-info/earthquake-catalogs" target="_blank">https://quake.utah.edu/regional-info/earthquake-catalogs</a>
 
 <br> &nbsp;
-
 **Water level and water discharge**
 
 USGS <a href="https://waterdata.usgs.gov/usa/nwis/" target="_blank">https://waterdata.usgs.gov/usa/nwis/</a>
@@ -99,7 +91,6 @@ USGS <a href="https://waterdata.usgs.gov/usa/nwis/" target="_blank">https://wate
 Utah Geological Survey <a href="https://apps.geology.utah.gov/gwdp/" target="_blank">https://apps.geology.utah.gov/gwdp/</a>
 
 <br> &nbsp;
-
 **Climate data**
 
 WRCC <a href="https://wrcc.dri.edu/summary/" target="_blank">https://wrcc.dri.edu/summary/</a>
@@ -117,7 +108,6 @@ California Data Exchange Center <a href="http://cdec.water.ca.gov/snow_rain.html
 PRISM <a href="http://www.prism.oregonstate.edu/" target="_blank">http://www.prism.oregonstate.edu/</a>
 
 <br> &nbsp;
-
 **Soil moisture**
 
 NLDAS GLDAS <a href="https://disc.gsfc.nasa.gov/datasets/" target="_blank">https://disc.gsfc.nasa.gov/datasets/</a>
@@ -125,13 +115,11 @@ NLDAS GLDAS <a href="https://disc.gsfc.nasa.gov/datasets/" target="_blank">https
 SMAP <a href="http://nsidc.org/data/smap/smap-data.html" target="_blank">http://nsidc.org/data/smap/smap-data.html</a>
 
 <br> &nbsp;
-
 **Gravity**
 
 USGS <a href="https://mrdata.usgs.gov/gravity/bouguer/" target="_blank">https://mrdata.usgs.gov/gravity/bouguer/</a>
 
 <br> &nbsp;
-
 **Shape files**
 
 Utah Automated Geographic Reference Center (aquifers, streams, faults, etc. in Utah) <a href="https://gis.utah.gov/data/geoscience/" target="_blank">https://gis.utah.gov/data/geoscience/</a>
@@ -143,31 +131,26 @@ California Department of Conservation (faults in California) <a href="https://ma
 Faults in China <a href="http://activefault-datacenter.cn" target="_blank">http://activefault-datacenter.cn</a> (interactive map only; no shape file)
 
 <br> &nbsp;
-
 **Geoid Height Calculator**
 
 UNAVCO <a href="https://www.unavco.org/software/geodetic-utilities/geoid-height-calculator/geoid-height-calculator.html" target="_blank">https://www.unavco.org/software/geodetic-utilities/geoid-height-calculator/geoid-height-calculator.html</a>
 
 <br> &nbsp;
-
 **Spatial Reference**
 
 <a href="http://spatialreference.org" target="_blank">http://spatialreference.org</a>
 
 <br> &nbsp;
-
 **Remote sensing data analysis**
 
 Custom scripts <a href="https://custom-scripts.sentinel-hub.com/" target="_blank">https://custom-scripts.sentinel-hub.com/</a>
 
 <br> &nbsp;
-
 **Earthquake catalog analysis**
 
 ZMAP (based on matlab) <a href="http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP/" target="_blank">http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP/</a>
 
 <br> &nbsp;
-
 **Strain calculation**
 
 Matlab script for 2D (courtesy of Dr. R. Mallick and Dr. K. Bradley) <a href="https://doi.org/10.21979/N9/FLOXET" target="_blank">https://doi.org/10.21979/N9/FLOXET</a>
@@ -175,19 +158,16 @@ Matlab script for 2D (courtesy of Dr. R. Mallick and Dr. K. Bradley) <a href="ht
 Mac APP SSPX for 2D/3D (courtesy of Dr. N. Cardozoa and Dr. R.W. Allmendinger)
 
 <br> &nbsp;
-
 **Analytical and semianalytical solutions for the displacements**
 
 Courtesy of Dr. S. Barbot, Dr. J.D.P. Moore, and Dr. V. <a href="Lambert https://bitbucket.org/sbarbot/bssa-2016237/" target="_blank">Lambert https://bitbucket.org/sbarbot/bssa-2016237/</a>
 
 <br> &nbsp;
-
 **Geoplot tool in Matlab**
 
 <a href="https://www.eoas.ubc.ca/~rich/map.html" target="_blank">https://www.eoas.ubc.ca/~rich/map.html</a>
 
 <br> &nbsp;
-
 **Cool brief educational videos and documents**
 
 Subduction Zone Processes (courtesy of Wada's Lab) <a href="https://www.youtube.com/watch?time_continue=148&v=RfSkUl5Bnhg" target="_blank">https://www.youtube.com/watch?time_continue=148&v=RfSkUl5Bnhg</a>
@@ -197,7 +177,6 @@ Darcy's Law (GE) <a href="https://www.youtube.com/watch?v=lPAbwD7A1M8" target="_
 Hydrologic Loading Model Displacements from the National and Global Data Assimilation Systems (NLDAS and GLDAS) <a href="https://www.unavco.org/data/gps-gnss/associated-products/hydrological/displacement-model-readme.pdf" target="_blank">https://www.unavco.org/data/gps-gnss/associated-products/hydrological/displacement-model-readme.pdf</a>
 
 <br> &nbsp;
-
 **GMT tutorials**
 
 <a href="http://gmt-tutorials.org/en/index.html" target="_blank">http://gmt-tutorials.org/en/index.html</a> (courtesy of Dr. Whyjay Zheng)
@@ -205,25 +184,20 @@ Hydrologic Loading Model Displacements from the National and Global Data Assimil
 <a href="http://140.112.56.1/geodesy1/images/course/GMT-2011/" target="_blank">http://140.112.56.1/geodesy1/images/course/GMT-2011/</a> (courtesy of Dr. Jyr-Ching HU)
 
 <br> &nbsp;
-
 **Ten simple rules for better figures**
 
 Rougier et al., 2014 <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833#s12" target="_blank">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833#s12</a>
 
 <br> &nbsp;
-
 **GeoMapApp**
 
 <br> &nbsp;
-
 **QGIS (free)**
 
 <br> &nbsp;
-
 **ArcGIS Pro (license required)**
 
 <br> &nbsp;
-
 ***Credits to the authors***
 
 <br>
