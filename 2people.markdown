@@ -10,7 +10,7 @@ permalink: /people/
 
 2011-2013   M.E.  Remote Sensing   Wuhan University, Wuhan, China
 
-2007-2011   B.E.  GIS              China University of Geosciences (CUG), Wuhan, China
+2007-2011   B.E.  GIS              China University of Geosciences, Wuhan, China
 
 <a href="https://www.ues.pku.edu.cn/szdw/qbjs/h/355860.htm" target="_blank">PKU personal profile</a>
 
