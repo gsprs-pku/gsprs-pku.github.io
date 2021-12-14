@@ -49,14 +49,18 @@ permalink: /publication/
 **Under Review**
 † denotes group members under direct supervision  * denotes corresponding
 
-4.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
+4.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Machine learning characterization of the 2021 Texas statewide winter storm using SAR imagery. 
 
-3.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Machine learning characterization of the 2021 Texas statewide winter storm using SAR imagery. 
+3.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
 
 2.&nbsp;Cui, Y., Li, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
 
 1.&nbsp;Zhang, Y., Fu, L., Sun, X., Yu, X., <b>Hu, X.</b>, Yang, Q., Continuous vertical leakage (ground subduction) incurred by fractures in a deep well - Depth of 3500 meters might not be sealed, cautions for deep waste burial.
 
+**In Preparation**
+2.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
+
+1.&nbsp;Xue, L., et al., Anthropogenic impacts on landscape evolution: A case study of mountain excavation and city construction in Loess Plateau.
 
 <br>
 <br>
