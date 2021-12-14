@@ -19,6 +19,7 @@ permalink: /people/
 <br>
 **Reserach Assistant**
 
+<br>
 **Yuqi Song**
 
 Currently undergrad at Wuhan University, PhD program at PKU starting from 2022 Fall
