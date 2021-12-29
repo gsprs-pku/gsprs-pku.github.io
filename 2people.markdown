@@ -3,54 +3,99 @@ layout: page
 title: People
 permalink: /people/
 ---
+<head>
+    <style type="text/css">
+        td{
+            text-align:left; 
+            padding:10px;
+            vertical-align:top;
+        }
+    </style>
+</head>
 
-**PI Xie Hu**
+<body>
 
+<p style="font-weight:bold">PI Xie Hu</p>
 Education
-
-2014-2018   &nbsp;Ph.D. &nbsp;Geophysics       &nbsp;Southern Methodist University, Dallas, TX, USA
-
-2011-2013   &nbsp;M.E.  &nbsp;Remote Sensing   &nbsp;Wuhan University, Wuhan, China
-
-2007-2011   &nbsp;B.E.  &nbsp;GIS              &nbsp;China University of Geosciences, Wuhan, China
-
-
+    <table>
+        <tbody>
+            <tr>
+                <td> 2014-2018 </td>
+                <td> Ph.D. </td>
+                <td> Geophysics </td>
+                <td> Southern Methodist University, Dallas, TX, USA </td>
+            </tr>
+            <tr>
+                <td> 2011-2013 </td>
+                <td> M.E. </td>
+                <td> Remote Sensing </td>
+                <td> Wuhan University, Wuhan, China </td>
+            </tr>
+            <tr>
+                <td> 2007-2011 </td>
+                <td> B.E. </td>
+                <td> GIS </td>
+                <td> China University of Geosciences, Wuhan, China </td>
+            </tr>
+        </tbody>
+    </table>
+<br>
 Employment
-
-2021-       &nbsp;Assistant Professor (tenure-track)    &nbsp;Peking University, Beijing, China
-
-2020-2021   &nbsp;Assistant Professor (tenure-track)    &nbsp;University of Houston, TX, USA
-
-2018-2020   &nbsp;Postdoctoral Researcher               &nbsp;University of California Berkeley, CA, USA
-
-2014-2018   &nbsp;Graduate Research Assistant           &nbsp;Southern Methodist University, Dallas, TX, USA
-
-2013-2014   &nbsp;Research Assistant                    &nbsp;King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
-
-
+   <table>
+        <tbody>
+            <tr>
+                <td> 2021-     </td>
+                <td> Assistant Professor<br>(tenure-track) </td>
+                <td> Peking University, Beijing, China </td>
+            </tr>
+            <tr>
+                <td> 2020-2021 </td>
+                <td> Assistant Professor<br>(tenure-track) </td>
+                <td> University of Houston, TX, USA </td>
+            </tr>
+            <tr>
+                <td> 2018-2020 </td>
+                <td> Postdoctoral Researcher </td>
+                <td> University of California Berkeley, CA, USA </td>
+            </tr>
+            <tr>
+                <td> 2014-2018 </td>
+                <td> Graduate Research Assistant </td>
+                <td> Southern Methodist University, Dallas, TX, USA </td>
+            </tr>
+            <tr>
+                <td> 2013-2014 </td>
+                <td> Research Assistant </td>
+                <td> King Abdullah University of Science and Technology,<br>Thuwal, Saudi Arabia </td>
+            </tr>
+        </tbody>
+    </table>
 <a href="https://www.ues.pku.edu.cn/szdw/qbjs/h/355860.htm" target="_blank">PKU personal profile</a>
-
+<br>
 <a href="https://sites.google.com/site/xiehusar/" target="_blank">Google Site</a>
-
 <br>
-**Reserach Assistant**
-
 <br>
-**Yuqi Song**
+<p style="font-weight:bold">Reserach Assistant</p>
 
+<p style="font-weight:bold">Yuqi Song</p>
 Currently undergrad at Wuhan University, PhD program at PKU starting from 2022 Fall
-
 <br>
-**Xiao Yu**
-
+<br>
+<br>
+<p style="font-weight:bold">Xiao Yu</p>
 Currently PhD student at the University of Houston
-
 <br>
-**Qingyu Sui**
-
+<br>
+<br>
+<p style="font-weight:bold">Qingyu Sui</p>
 To join Dr. Zhong Lu's lab at Southern Methodish University in 2022 Spring
+<br>
 
 <br>
 <br>
 <br>
 <br>
+</body>
+
+
+
