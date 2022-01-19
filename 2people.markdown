@@ -7,7 +7,7 @@ permalink: /people/
     <style type="text/css">
         td{
             text-align:left; 
-            padding:10px;
+            padding:5px;
             vertical-align:top;
         }
     </style>
@@ -74,11 +74,14 @@ Employment
 <br>
 <a href="https://sites.google.com/site/xiehusar/" target="_blank">Google Site</a>
 <br>
+<a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">Google Scholar</a>
 <br>
+<br>
+    
 <p style="font-weight:bold">Reserach Assistant</p>
 
 <p style="font-weight:bold">Yuqi Song</p>
-Currently undergrad at Wuhan University, PhD program at PKU starting from 2022 Fall
+Currently undergrad at Wuhan University, PhD program at PKU starting in 2022 Fall
 <br>
 <br>
 <br>
@@ -87,8 +90,11 @@ Currently PhD student at the University of Houston
 <br>
 <br>
 <br>
+    
+<p style="font-weight:bold">Alumni</p>
+    
 <p style="font-weight:bold">Qingyu Sui</p>
-To join Dr. Zhong Lu's lab at Southern Methodish University in 2022 Spring
+Research Assistant in GSPRS Lab during 2021 Fall. Move to Southern Methodish University to start his PhD program in 2022 Spring. Good luck, Qingyu!
 <br>
 
 <br>
