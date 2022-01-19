@@ -74,7 +74,9 @@ Employment
 <br>
 <a href="https://sites.google.com/site/xiehusar/" target="_blank">Google Site</a>
 <br>
-<a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">Google Scholar</a> 
+<br>
+<a href="CV" target="_blank">CV</a> <a href="/articles/CV_XieHU_202201.pdf" download>&#91;*pdf*&#93;</a>
 <br>
 <br>
     
