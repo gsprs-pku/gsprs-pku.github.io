@@ -14,9 +14,26 @@ permalink: /news/
 </head>
 
 <body>
+    <p>The application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-March. We have interesting research topics to strengthen your profile and to support your academic career! Good benefits in healthcare and excellent education support for the kids.</p>
+    <br>
     <p>Welcome to submit abstract to our 2022 EGU session <a href="https://meetingorganizer.copernicus.org/EGU22/session/43347" target="_blank"><i>Remote Sensing Big Data Analysis and Applications in Geoscience</i></a>!</p>
     <table>
         <tbody>
+            <tr>
+                <td>2/2022</td>
+                <td>Awarded the PAZ's satellite imagery program: Joint DLR-INTA Scientific Announcement of Opportunity.</td>
+            </tr> 
+            <tr>
+                <td>1/2022</td>
+                <td>Awarded JAXA's satellite imagery program: The 3rd Research Announcement on the Earth Observations.</td>
+                </tr>
+            <tr>
+                <td>&nbsp;</td> 
+                <td>Qingyu started his PhD program at the Southern Methodist University.</td>
+                </tr>
+            <tr>
+                <td>&nbsp;</td> 
+                <td>Invited talk in the Forum of Satellite Gravity and Hydrology on 1/15.</td>
             <tr>
                 <td> 12/2021 </td>
                 <td> Welcome to our AGU poster on the crustal surgery in Yan'an (NH15D-0488) and the 2021 Texas winter storm (GG45B-0411)!</td>
