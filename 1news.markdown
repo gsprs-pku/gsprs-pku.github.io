@@ -26,14 +26,15 @@ permalink: /news/
             <tr>
                 <td>1/2022</td>
                 <td>Awarded JAXA's satellite imagery program: The 3rd Research Announcement on the Earth Observations.</td>
-                </tr>
+            </tr>
             <tr>
                 <td>&nbsp;</td> 
                 <td>Qingyu started his PhD program at the Southern Methodist University.</td>
-                </tr>
+            </tr>
             <tr>
                 <td>&nbsp;</td> 
                 <td>Invited talk in the Forum of Satellite Gravity and Hydrology on 1/15.</td>
+            </tr>
             <tr>
                 <td> 12/2021 </td>
                 <td> Welcome to our AGU poster on the crustal surgery in Yan'an (NH15D-0488) and the 2021 Texas winter storm (GG45B-0411)!</td>
