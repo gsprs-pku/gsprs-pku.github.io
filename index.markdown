@@ -31,11 +31,26 @@ We are always looking for highly motivated students and postdocs to join our lab
     <table>
         <tbody>
             <tr>
-                <td> 12/2021 </td>
-                <td> Welcome to our AGU poster on the crustal surgery in Yan'an (NH15D-0488) and the 2021 Texas winter storm (GG45B-0411)!</td>
+                <td>2/2022</td>
+                <td>Awarded the PAZ's satellite imagery program: Joint DLR-INTA Scientific Announcement of Opportunity.</td>
             </tr> 
             <tr>
-                <td> 11/2021 </td>
+                <td>1/2022</td>
+                <td>Awarded JAXA's satellite imagery program: The 3rd Research Announcement on the Earth Observations.</td>
+                </tr>
+            <tr>
+                <td>&nbsp;</td> 
+                <td>Qingyu started his PhD program at the Southern Methodist University.</td>
+                </tr>
+            <tr>
+                <td>&nbsp;</td> 
+                <td>Invited talk in the Forum of Satellite Gravity and Hydrology on 1/15.</td>
+            <tr>
+                <td>12/2021</td>
+                <td>Welcome to our AGU poster on the crustal surgery in Yan'an (NH15D-0488) and the 2021 Texas winter storm (GG45B-0411)!</td>
+            </tr> 
+            <tr>
+                <td>11/2021</td>
                 <td>Our paper on machine-learning characterization of the natural and anthropogenic sources of ground deformation in California was published in <a href="https://doi.org/10.1029/2021JB022373" target="_blank"><i>JGR</i></a>.</td>
             </tr>
             <tr>
@@ -56,7 +71,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
                 <td>7/2021</td>
-                <td>I moved to Peking University. I'm grateful for all help and kindness from the teams that I was in.</td>
+                <td>Moved to Peking University. I'm grateful for all help and kindness from the teams that I was in.</td>
             </tr>
             <tr>
                 <td>&nbsp;</td>
