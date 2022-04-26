@@ -49,12 +49,17 @@ permalink: /publication/
 **Under Review**
 † denotes group members under direct supervision  * denotes corresponding
 
-3.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Machine learning characterization of the 2021 Texas statewide winter storm using SAR imagery. 
+6.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Machine learning characterization of the 2021 Texas statewide winter storm using SAR imagery. 
 
-2.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+5.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
 
-1.&nbsp;Cui, Y., Li, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
+4.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
 
+3.&nbsp;Shi, X., <b>Hu, X.*</b>, et al., Characterization of landslide displacements in active fault zone in Zhouqu, China.
+
+2.&nbsp;Chen, X., et al., INVC-Investigation of the water vapor channel within the Yarlung Zangbo Grand Canyon, China. 
+
+1.&nbsp;Qi, S., et al., 压实黄土场地湿陷沉降机理与平山造城工程适宜性研究
 <br>
 
 **In Preparation**
