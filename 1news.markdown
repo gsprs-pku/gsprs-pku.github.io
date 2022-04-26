@@ -28,6 +28,10 @@ permalink: /news/
                 <td>Chao's paper on landslide hazard mapping in the Three Gorges Reservoir Area was published in <a href="https://doi.org/10.1007/s10346-021-01796-1" target="_blank"><i>Landslides</i></a>.</td>
             </tr>
             <tr>
+                <td>&nbsp;</td> 
+                <td>Penghui joined the lab as a Research Assistant.</td>
+            </tr>
+            <tr>
                 <td>2/2022</td>
                 <td>Awarded the PAZ's satellite imagery program: Joint DLR-INTA Scientific Announcement of Opportunity.</td>
             </tr> 
