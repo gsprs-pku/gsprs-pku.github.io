@@ -6,7 +6,7 @@ permalink: /publication/
 **Journal Publications**
 † denotes group members under direct supervision  * denotes corresponding
 
-19.&nbsp;Zhou, C., Cao, Y., <b>Hu, X.</b>, Yin, K., Enhanced dynamic landslide hazard assessment using MT-InSAR method in the Three Gorges Reservoir Area. <i>Landslides</i>. <a href="https://doi.org/10.1007/s10346-021-01796-1" target="_blank">https://doi.org/10.1007/s10346-021-01796-1</a> <a href="/articles/Zhou_EngGeo_2022.pdf" download>&#91;*pdf*&#93;</a>
+19.&nbsp;Zhou, C., Cao, Y., <b>Hu, X.</b>, Yin, K., Enhanced dynamic landslide hazard assessment using MT-InSAR method in the Three Gorges Reservoir Area. <i>Landslides</i>. <a href="https://doi.org/10.1007/s10346-021-01796-1" target="_blank">https://doi.org/10.1007/s10346-021-01796-1</a> <a href="/articles/Zhou_Landslides_2022.pdf" download>&#91;*pdf*&#93;</a>
 
 18.&nbsp;<b>Hu, X.</b>, Xue, L., Bürgmann, R., Fu, Y., 2021, Stress perturbations from elastic loads and seismicity in the Salt Lake City region. <i>Journal of Geophysical Research: Solid Earth</i>, 126, e2021JB022362. <a href="https://doi.org/10.1029/2021JB022362" target="_blank">https://doi.org/10.1029/2021JB022362</a> <a href="/articles/Hu_JGR_2021JB022362.pdf" download>&#91;*pdf*&#93;</a>
   
