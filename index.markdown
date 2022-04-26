@@ -25,11 +25,23 @@ We are always looking for highly motivated students and postdocs to join our lab
 **NEWS**
 
 <body>
-    <p>The application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-March. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
+    <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-September. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
     <br>
-    <p>Welcome to submit abstract to our 2022 EGU session <a href="https://meetingorganizer.copernicus.org/EGU22/session/43347" target="_blank"><i>Remote Sensing Big Data Analysis and Applications in Geoscience</i></a>!</p>
+    <p>Our 2022 EGU session <a href="https://meetingorganizer.copernicus.org/EGU22/session/43347" target="_blank"><i>Remote Sensing Big Data Analysis and Applications in Geoscience</i></a> will be held in late May.</p>
     <table>
         <tbody>
+            <tr>
+                <td>4/2022</td>
+                <td>We invited Dr. Lin Liu from CNHK to give a virtual talk on 4/26.</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td> 
+                <td>Chao's paper on landslide hazard mapping in the Three Gorges Reservoir Area was published in <a href="https://doi.org/10.1007/s10346-021-01796-1" target="_blank"><i>Landslides</i></a>. Congras!</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td> 
+                <td>Penghui joined the lab as a Research Assistant.</td>
+            </tr>
             <tr>
                 <td>2/2022</td>
                 <td>Awarded the PAZ's satellite imagery program: Joint DLR-INTA Scientific Announcement of Opportunity.</td>
