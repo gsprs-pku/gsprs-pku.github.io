@@ -60,9 +60,11 @@ permalink: /publication/
 2.&nbsp;Chen, X., et al., INVC-Investigation of the water vapor channel within the Yarlung Zangbo Grand Canyon, China. 
 
 1.&nbsp;Qi, S., et al., 压实黄土场地湿陷沉降机理与平山造城工程适宜性研究
+
 <br>
 
 **In Preparation**
+† denotes group members under direct supervision  * denotes corresponding
 
 2.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
 
