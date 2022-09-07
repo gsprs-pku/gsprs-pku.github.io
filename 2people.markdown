@@ -15,7 +15,10 @@ permalink: /people/
 
 <body>
 
-<p style="font-weight:bold">PI Xie Hu</p>
+<p style="font-weight:bold">PI Xie Hu (hu.xie@pku.edu.cn)</p>
+    <div align=center>
+<img src="{{site.url}}/imgs/XH.jpg" width="200" >
+</div>
 Education
     <table>
         <tbody>
@@ -70,6 +73,15 @@ Employment
             </tr>
         </tbody>
     </table>
+    <br>
+Research interests:
+    <br>
+- SAR remote sensing in natural hazards and shallow solid earth
+    <br>
+- Landslide deformation and dynamics
+    <br>
+- Artificial intelligence in remote sensing big data analysis
+    <br>
 <a href="https://www.ues.pku.edu.cn/szdw/qbjs/h/355860.htm" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="https://sites.google.com/site/xiehusar/" target="_blank">&#91;Google Site&#93;</a>     <a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">&#91;Google Scholar&#93;</a>     <a href="/articles/CV_XieHU_202201.pdf" download>&#91;CV&#93;</a> 
 <br>
 <br>
@@ -82,22 +94,67 @@ Currently undergrad at Wuhan University, PhD program at PKU starting in 2022 Fal
 <br>
 <br>
 <p style="font-weight:bold">Xiao Yu (xyu3@central.uh.edu)</p>
-    <figure>
-    <a><img src="{{site.url}}/imgs/Xiao_headshot.jpg"></a>
-    </figure>
     
-     Ph.D. in Geology, University of Houston
-    <br>
-     B.S. in Geological Enginerring, China University of Petroleum (Beijing)
+<div align=center>
+<img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="200" >
+</div>
+   <table>
+        <tbody>
+            <tr>
+     <td> Ph.D. </td>  
+     <td> Geology </td> 
+     <td> University of Houston </td> 
+                 </tr>
+            <tr>           
+     <td> B.S. </td> 
+     <td> Geological Enginerring </td> 
+     <td> China University of Petroleum (Beijing) </td> 
+            </tr>
+        </tbody>
+    </table>
     <br>
      Research interests:
     <br>
-     Monitoring long-term and short-term natural hazards (e.g., subsidence, winter storm, flooding) through multiple remote sensing techniques, i.e., SAR and GPS
+     - Monitoring long-term and short-term natural hazards (e.g., subsidence, winter storm, flooding) through multiple remote sensing techniques, i.e., SAR and GPS 
     <br>
-     Machine learning in remote sensing big data analysis
+     - Machine learning in remote sensing big data analysis
 <br>
 <br>
 <br>
+
+<p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh (m.mirzadeh@mails.ucas.ac.cn)</p>
+
+   <table>
+        <tbody>
+            <tr>
+     <td> Ph.D. </td>  
+     <td> Astrometry and Celestial Mechanics </td> 
+     <td> University of Chinese Academy of Sciences </td> 
+                 </tr>
+            <tr>           
+     <td> M.S. </td> 
+     <td> hotogrammetry and Remote Sensing </td> 
+     <td> K.N.TOOSI University of Technology (Iran) </td> 
+            </tr>
+           <tr>           
+     <td> B.S. </td> 
+     <td> Geomatics Engineering </td> 
+     <td> University of Tehran (Iran) </td> 
+            </tr>
+    </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Interferometric Synthetic Aperture Radar (InSAR)
+    <br>
+     - Tectonics and geohazards
+     <br>
+     - Post-analysis of InSAR big data
+<br>
+<br>
+<br>
+
 <p style="font-weight:bold">Penghui Wu</p>
 Master program at PKU starting in 2022 Fall
 <br>
