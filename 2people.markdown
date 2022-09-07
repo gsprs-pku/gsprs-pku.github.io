@@ -98,6 +98,7 @@ Currently undergrad at Wuhan University, PhD program at PKU starting in 2022 Fal
 <div align=center>
 <img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="200" >
 </div>
+Education
    <table>
         <tbody>
             <tr>
@@ -123,7 +124,7 @@ Currently undergrad at Wuhan University, PhD program at PKU starting in 2022 Fal
 <br>
 
 <p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh (m.mirzadeh@mails.ucas.ac.cn)</p>
-
+Education
    <table>
         <tbody>
             <tr>
@@ -160,8 +161,29 @@ Master program at PKU starting in 2022 Fall
 <br>
 <br>
 <br>
-<p style="font-weight:bold">Yongxuan Ran</p>
-PhD program at PKU starting in 2023 Fall
+<p style="font-weight:bold">Yongxuan Ran </p>
+
+Education
+   <table>
+        <tbody>
+            <tr>           
+     <td> Ph.D </td> 
+     <td> physical geography and natural resources </td> 
+     <td> Peking University (Beijing) </td> 
+            </tr>
+            <tr>           
+     <td> B.S. </td> 
+     <td> Instrument of Remote Sensing </td> 
+     <td> Wuhan University (Wuhan) </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Monitoring long-term and short-term natural hazards and shallow processes though InSAR and GNSS
+    <br>
+     - Remote sensing satellites
 <br>
 <br>
 <br>    
