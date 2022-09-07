@@ -81,8 +81,20 @@ Currently undergrad at Wuhan University, PhD program at PKU starting in 2022 Fal
 <br>
 <br>
 <br>
-<p style="font-weight:bold">Xiao Yu</p>
-Currently PhD student at the University of Houston
+<p style="font-weight:bold">Xiao Yu (xyu3@central.uh.edu)</p>
+    <figure>
+    <a><img src="{{site.url}}/imgs/Xiao_headshot.jpg"></a>
+    </figure>
+    
+     Ph.D. in Geology, University of Houston
+    <br>
+     B.S. in Geological Enginerring, China University of Petroleum (Beijing)
+    <br>
+     Research interests:
+    <br>
+     Monitoring long-term and short-term natural hazards (e.g., subsidence, winter storm, flooding) through multiple remote sensing techniques, i.e., SAR and GPS
+    <br>
+     Machine learning in remote sensing big data analysis
 <br>
 <br>
 <br>
