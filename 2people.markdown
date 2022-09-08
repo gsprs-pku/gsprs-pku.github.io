@@ -192,7 +192,9 @@ Master program at PKU starting in 2022 Fall
 <br>
     
 <p style="font-weight:bold">Yongxuan Ran (yongxuanran@whu.edu.cn) </p>
-
+<div align=center>
+<img src="{{site.url}}/imgs/Yongxuan.jpg" width="400" >
+</div>
 Education
    <table>
         <tbody>
@@ -217,6 +219,35 @@ Education
 <br>
 <br>
 <br>    
+    
+<p style="font-weight:bold">Yiling Lin (201911051103@bnu.edu.cn) </p>
+<div align=center>
+<img src="{{site.url}}/imgs/Yiling.jpg" width="400" >
+</div>
+Education
+   <table>
+        <tbody>
+            <tr>           
+     <td> M.S. </td> 
+     <td> Physical Geography </td> 
+     <td> Peking University (Beijing) </td> 
+            </tr>
+            <tr>           
+     <td> B.S. </td> 
+     <td> Geographic Information Science </td> 
+     <td> Beijing Normal University (Beijing) </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Machine learning in remote sensing data
+    <br>
+     - Retrogressive thaw slumps detection
+<br>
+<br>
+<br>       
     
 <p style="font-weight:bold">Milk Cap </p>
 <div align=center>
