@@ -96,7 +96,7 @@ Currently undergrad at Wuhan University, PhD program at PKU starting in 2022 Fal
 <p style="font-weight:bold">Xiao Yu (xyu3@central.uh.edu)</p>
     
 <div align=center>
-<img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="200" >
+<img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="300" >
 </div>
 Education
    <table>
@@ -158,7 +158,7 @@ Education
 
 <p style="font-weight:bold">Yuqi Song (yqsong@stu.pku.edu.cn)</p>    
 <div align=center>
-<img src="{{site.url}}/imgs/Yuqi_Song.jpg" width="200" >
+<img src="{{site.url}}/imgs/Yuqi_Song.jpg" width="300" >
 </div>
 Education
    <table>
@@ -220,7 +220,7 @@ Education
     
 <p style="font-weight:bold">Milk Cap </p>
 <div align=center>
-<img src="{{site.url}}/imgs/milk_cap1.jpg" width="200" >
+<img src="{{site.url}}/imgs/milk_cap1.jpg" width="400" >
 </div>
 Education
    <table>
