@@ -193,7 +193,7 @@ Master program at PKU starting in 2022 Fall
     
 <p style="font-weight:bold">Yongxuan Ran (yongxuanran@whu.edu.cn) </p>
 <div align=center>
-<img src="{{site.url}}/imgs/Yongxuan.jpg" width="400" >
+<img src="{{site.url}}/imgs/Yongxuan.jpg" width="200" >
 </div>
 Education
    <table>
@@ -222,7 +222,7 @@ Education
     
 <p style="font-weight:bold">Yiling Lin (201911051103@bnu.edu.cn) </p>
 <div align=center>
-<img src="{{site.url}}/imgs/Yiling.jpg" width="400" >
+<img src="{{site.url}}/imgs/Yiling.jpg" width="300" >
 </div>
 Education
    <table>
