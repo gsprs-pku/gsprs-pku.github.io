@@ -156,19 +156,49 @@ Education
 <br>
 <br>
 
+<p style="font-weight:bold">Yuqi Song (yqsong@stu.pku.edu.cn)</p>    
+<div align=center>
+<img src="{{site.url}}/imgs/Yuqi_Song.jpg" width="200" >
+</div>
+Education
+   <table>
+        <tbody>
+            <tr>
+     <td> Ph.D. </td>  
+     <td> Physical Geography </td> 
+     <td> Peking University (Beijing) </td> 
+                 </tr>
+            <tr>           
+     <td> B.S. </td> 
+     <td> Science and Technology of Remote Sensing </td> 
+     <td> Wuhan University (Wuhan) </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Seismic and landslide hazards
+    <br>
+     - Machine learning in remote sensing big data analysis
+<br>
+<br>
+<br>
+
 <p style="font-weight:bold">Penghui Wu</p>
 Master program at PKU starting in 2022 Fall
 <br>
 <br>
 <br>
-<p style="font-weight:bold">Yongxuan Ran </p>
+    
+<p style="font-weight:bold">Yongxuan Ran (yongxuanran@whu.edu.cn) </p>
 
 Education
    <table>
         <tbody>
             <tr>           
      <td> Ph.D </td> 
-     <td> physical geography and natural resources </td> 
+     <td> Physical Geography </td> 
      <td> Peking University (Beijing) </td> 
             </tr>
             <tr>           
@@ -187,6 +217,32 @@ Education
 <br>
 <br>
 <br>    
+    
+<p style="font-weight:bold">Milk Cap </p>
+<div align=center>
+<img src="{{site.url}}/imgs/milk_cap1.jpg" width="200" >
+</div>
+Education
+   <table>
+        <tbody>
+            <tr>           
+     <td> Ph.D </td> 
+     <td> Physical Geography </td> 
+     <td> Home-Schooled </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Sleeping
+    <br>
+     - Playing
+    <br>
+     - Tins of chicken
+<br>
+<br>
+<br>   
  
 <p style="font-weight:bold">Alumni</p>
     
