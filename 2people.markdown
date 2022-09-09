@@ -47,7 +47,7 @@ Employment
    <table>
         <tbody>
             <tr>
-                <td> 2021-     </td>
+                <td> 2021- </td>
                 <td> Assistant Professor<br>(tenure-track) </td>
                 <td> Peking University, Beijing, China </td>
             </tr>
@@ -158,21 +158,23 @@ Education
    <table>
         <tbody>
             <tr>
-     <td> Ph.D. </td>  
-     <td> Physical Geography </td> 
-     <td> Peking University (Beijing) </td> 
-                 </tr>
-            <tr>           
-     <td> B.S. </td> 
-     <td> Science and Technology of Remote Sensing </td> 
-     <td> Wuhan University (Wuhan) </td> 
+                <td> 2022- </td>
+                <td> Ph.D. </td>  
+                <td> Physical Geography </td> 
+                <td> Peking University (Beijing) </td> 
+            </tr>
+            <tr>   
+                <td> 2018-2022 </td>
+                <td> B.S. </td>     
+                <td> Science and Technology of Remote Sensing </td> 
+                <td> Wuhan University (Wuhan) </td> 
             </tr>
         </tbody>
     </table>
     <br>
      Research interests:
     <br>
-     - Seismic and landslide hazards
+     - Landslide hazards in active tectonics
     <br>
      - Machine learning in remote sensing big data analysis
 <br>
@@ -192,15 +194,17 @@ Master program at PKU starting in 2022 Fall
 Education
    <table>
         <tbody>
-            <tr>           
-     <td> Ph.D </td> 
-     <td> Physical Geography </td> 
-     <td> Peking University (Beijing) </td> 
+            <tr>  
+                <td> 2023- </td>
+                <td> Ph.D </td> 
+                <td> Physical Geography </td> 
+                <td> Peking University (Beijing) </td> 
             </tr>
-            <tr>           
-     <td> B.S. </td> 
-     <td> Instrument of Remote Sensing </td> 
-     <td> Wuhan University (Wuhan) </td> 
+            <tr>          
+                <td> 2019-2023 </td>
+                <td> B.S. </td> 
+                <td> Instrument of Remote Sensing </td> 
+                <td> Wuhan University (Wuhan) </td> 
             </tr>
         </tbody>
     </table>
@@ -221,15 +225,17 @@ Education
 Education
    <table>
         <tbody>
-            <tr>           
-     <td> M.S. </td> 
-     <td> Physical Geography </td> 
-     <td> Peking University (Beijing) </td> 
+            <tr>    
+                <td> 2023- </td>
+                <td> M.S. </td> 
+                <td> Physical Geography </td> 
+                <td> Peking University (Beijing) </td> 
             </tr>
-            <tr>           
-     <td> B.S. </td> 
-     <td> Geographic Information Science </td> 
-     <td> Beijing Normal University (Beijing) </td> 
+            <tr>    
+                <td> 2019-2023 </td>
+                <td> B.S. </td> 
+                <td> Geographic Information Science </td> 
+                <td> Beijing Normal University (Beijing) </td> 
             </tr>
         </tbody>
     </table>
@@ -273,7 +279,11 @@ Education
 <p style="font-weight:bold">Alumni</p>
     
 <p style="font-weight:bold">Qingyu Sui</p>
-Research Assistant in GSPRS Lab during 2021 Fall. Move to Southern Methodish University to start his PhD program in 2022 Spring. Good luck, Qingyu!
+Research Assistant, now PhD student at the Southern Methodish University, USA.
+    
+<p style="font-weight:bold">Hanwen Yu</p>
+Postdoctoral Researcher, now Professor at the University of Electronic Science and Technology of China.
+      
 <br>
 
 <br>
