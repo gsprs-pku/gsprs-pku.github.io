@@ -161,13 +161,13 @@ Education
                 <td> 2022- </td>
                 <td> Ph.D. </td>  
                 <td> Physical Geography </td> 
-                <td> Peking University (Beijing) </td> 
+                <td> Peking University </td> 
             </tr>
             <tr>   
                 <td> 2018-2022 </td>
                 <td> B.S. </td>     
                 <td> Science and Technology of Remote Sensing </td> 
-                <td> Wuhan University (Wuhan) </td> 
+                <td> Wuhan University </td> 
             </tr>
         </tbody>
     </table>
