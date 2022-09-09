@@ -32,7 +32,7 @@ Education
                 <td> 2011-2013 </td>
                 <td> M.E. </td>
                 <td> Remote Sensing </td>
-                <td> Wuhan University, Wuhan, China </td>
+                <td> Wuhan University, China </td>
             </tr>
             <tr>
                 <td> 2007-2011 </td>
@@ -102,7 +102,7 @@ Education
             <tr>           
      <td> B.S. </td> 
      <td> Geological Enginerring </td> 
-     <td> China University of Petroleum (Beijing) </td> 
+     <td> China University of Petroleum, Beijing </td> 
             </tr>
         </tbody>
     </table>
@@ -121,19 +121,19 @@ Education
    <table>
         <tbody>
             <tr>
-     <td> Ph.D. </td>  
-     <td> Astrometry and Celestial Mechanics </td> 
-     <td> University of Chinese Academy of Sciences </td> 
-                 </tr>
-            <tr>           
-     <td> M.S. </td> 
-     <td> hotogrammetry and Remote Sensing </td> 
-     <td> K.N.TOOSI University of Technology (Iran) </td> 
+                <td> Ph.D. </td>  
+                <td> Astrometry and Celestial Mechanics </td> 
+                <td> University of Chinese Academy of Sciences </td> 
             </tr>
-           <tr>           
-     <td> B.S. </td> 
-     <td> Geomatics Engineering </td> 
-     <td> University of Tehran (Iran) </td> 
+            <tr>           
+                <td> M.S. </td> 
+                <td> hotogrammetry and Remote Sensing </td> 
+                <td> K.N.TOOSI University of Technology, Iran </td> 
+            </tr>
+            <tr>      
+               <td> B.S. </td> 
+               <td> Geomatics Engineering </td> 
+               <td> University of Tehran, Iran </td> 
             </tr>
     </tbody>
     </table>
@@ -196,15 +196,15 @@ Education
         <tbody>
             <tr>  
                 <td> 2023- </td>
-                <td> Ph.D </td> 
+                <td> Ph.D. </td> 
                 <td> Physical Geography </td> 
-                <td> Peking University (Beijing) </td> 
+                <td> Peking University </td> 
             </tr>
             <tr>          
                 <td> 2019-2023 </td>
                 <td> B.S. </td> 
                 <td> Instrument of Remote Sensing </td> 
-                <td> Wuhan University (Wuhan) </td> 
+                <td> Wuhan University </td> 
             </tr>
         </tbody>
     </table>
@@ -229,13 +229,13 @@ Education
                 <td> 2023- </td>
                 <td> M.S. </td> 
                 <td> Physical Geography </td> 
-                <td> Peking University (Beijing) </td> 
+                <td> Peking University </td> 
             </tr>
             <tr>    
                 <td> 2019-2023 </td>
                 <td> B.S. </td> 
                 <td> Geographic Information Science </td> 
-                <td> Beijing Normal University (Beijing) </td> 
+                <td> Beijing Normal University </td> 
             </tr>
         </tbody>
     </table>
