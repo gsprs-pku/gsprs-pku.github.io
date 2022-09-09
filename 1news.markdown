@@ -20,7 +20,7 @@ permalink: /news/
         <tbody>
             <tr>
                 <td>9/2022</td>
-                <td>Xie got the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>.</td>
+                <td>Xie obtained the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>.</td>
             </tr>
             <tr>
                 <td>8/2022</td>
@@ -29,7 +29,7 @@ permalink: /news/
             </tr>
             <tr>
                 <td>7/2022</td>
-                <td>Yongxuan Zhuo (undergrad from Wuhan University) and Yiling Lin (undergrad from Beijing Normal University) joined the GSPRS lab. Big Welcome!</td>
+                <td>Yongxuan Ran (undergrad from Wuhan University) and Yiling Lin (undergrad from Beijing Normal University) joined the GSPRS lab and will start their graduate study officially next fall. Big Welcome!</td>
             </tr>
             <tr>
                 <td>5/2022</td>
