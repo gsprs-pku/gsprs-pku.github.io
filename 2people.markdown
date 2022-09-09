@@ -87,14 +87,7 @@ Research interests:
 <br>
     
 <p style="font-weight:bold">Reserach Assistant</p>
-
-<p style="font-weight:bold">Yuqi Song</p>
-Currently undergrad at Wuhan University, PhD program at PKU starting in 2022 Fall
-<br>
-<br>
-<br>
 <p style="font-weight:bold">Xiao Yu (xyu3@central.uh.edu)</p>
-    
 <div align=center>
 <img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="300" >
 </div>
@@ -156,6 +149,7 @@ Education
 <br>
 <br>
 
+<p style="font-weight:bold">Students</p>
 <p style="font-weight:bold">Yuqi Song (yqsong@stu.pku.edu.cn)</p>    
 <div align=center>
 <img src="{{site.url}}/imgs/Yuqi_Song.jpg" width="300" >
@@ -249,6 +243,7 @@ Education
 <br>
 <br>       
     
+<p style="font-weight:bold">VIP</p>
 <p style="font-weight:bold">Milk Cap </p>
 <div align=center>
 <img src="{{site.url}}/imgs/milk_cap1.jpg" width="400" >
