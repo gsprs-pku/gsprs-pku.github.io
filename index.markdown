@@ -34,15 +34,22 @@ We are always looking for highly motivated students and postdocs to join our lab
                 <td>Xie obtained the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>.</td>
             </tr>
             <tr>
+                <td>&nbsp;</td> 
+                <td>Yuqi and Penghui officially started their graduate program at PKU. Big Welcome!
+            </tr>
+            <tr>
                 <td>8/2022</td>
                 <td>Xiao published her <a href="https://doi.org/10.1029/2022GL099119" target="_blank"><i>GRL</i></a> paper on quantifying large-scale snow depth during the winter storm and national major disaster across Texas in Feb. 2022 using SAR scenes and machine learning methods. Big Congrats!
                 </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td> 
                 <td>Xie co-hosted the Hydroclimate Hazards section and Xiao gave a talk in 2022 CYWater on 8/28.
                 </td>
             </tr>
             <tr>
                 <td>7/2022</td>
-                <td>Yongxuan Ran (undergrad from Wuhan University) and Yiling Lin (undergrad from Beijing Normal University) joined the GSPRS lab and will start their graduate program officially next fall. Big Welcome!</td>
+                <td>Yongxuan Ran (undergrad from Wuhan University) and Yiling Lin (undergrad from Beijing Normal University) joined the GSPRS lab and will start their graduate program officially next fall.</td>
             </tr>
             <tr>
                 <td>5/2022</td>
