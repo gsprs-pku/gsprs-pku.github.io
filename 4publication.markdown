@@ -6,7 +6,7 @@ permalink: /publication/
 **Journal Publications**
 † denotes group members under direct supervision  * denotes corresponding
 
-20.&nbsp;Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X., 2022, Machine-learning estimation of snow depth in 2021 Texas statewide winter storm using SAR imagery. <i>Geophys. Res. Lett.</i>, 49, e2022GL099119. <a href="https://doi.org/10.1029/2022GL099119" target="_blank">https://doi.org/10.1029/2022GL099119</a> <a href="/articles/Yu_GRL_2022.pdf"download>&#91;*pdf*&#93;</a>
+20.&nbsp;Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X., 2022, Machine-learning estimation of snow depth in 2021 Texas statewide winter storm using SAR imagery. <i>Geophys. Res. Lett.</i>, 49, e2022GL099119. <a href="https://doi.org/10.1029/2022GL099119" target="_blank">https://doi.org/10.1029/2022GL099119</a> <a href="/articles/Yu_GRL_2022.pdf" download>&#91;*pdf*&#93;</a>
 
 19.&nbsp;Zhou, C., Cao, Y., <b>Hu, X.</b>, Yin, K., 2022, Enhanced dynamic landslide hazard assessment using MT-InSAR method in the Three Gorges Reservoir Area. <i>Landslides</i>. <a href="https://doi.org/10.1007/s10346-021-01796-1" target="_blank">https://doi.org/10.1007/s10346-021-01796-1</a> <a href="/articles/Zhou_Landslides_2022.pdf" download>&#91;*pdf*&#93;</a>
 
