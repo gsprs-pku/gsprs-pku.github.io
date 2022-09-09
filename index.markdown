@@ -25,18 +25,35 @@ We are always looking for highly motivated students and postdocs to join our lab
 **NEWS**
 
 <body>
-    <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-September. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
+    <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-October. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
     <br>
-    <p>Our 2022 EGU session <a href="https://meetingorganizer.copernicus.org/EGU22/session/43347" target="_blank"><i>Remote Sensing Big Data Analysis and Applications in Geoscience</i></a> will be held in late May.</p>
     <table>
         <tbody>
+            <tr>
+                <td>9/2022</td>
+                <td>Xie obtained the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>.</td>
+            </tr>
+            <tr>
+                <td>8/2022</td>
+                <td>Xiao published her <a href="https://doi.org/10.1029/2022GL099119" target="_blank"><i>GRL</i></a> paper on quantifying large-scale snow depth during the winter storm and national major disaster across Texas in Feb. 2022 using SAR scenes and machine learning methods. Big Congrats!
+                </td>
+            </tr>
+            <tr>
+                <td>7/2022</td>
+                <td>Yongxuan Ran (undergrad from Wuhan University) and Yiling Lin (undergrad from Beijing Normal University) joined the GSPRS lab and will start their graduate study officially next fall. Big Welcome!</td>
+            </tr>
+            <tr>
+                <td>5/2022</td>
+                <td>Our 2022 EGU session <a href="https://meetingorganizer.copernicus.org/EGU22/session/43347" target="_blank"><i>Remote Sensing Big Data Analysis and Applications in Geoscience</i></a> leading by <a href="https://research.utwente.nl/en/persons/ling-chang" target="_blank">Dr. Ling Chang</a> from ITC, <a href="https://www.gfz-potsdam.de/en/staff/mahdi.motagh" target="_blank">Dr. Mahdi Motagh</a> from GFZ, <a href="https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/staff/scientific-staff/profdrir-rf-ramon-hanssen/" target="_blank">Dr. Ramon Hanssen</a> from Delft, <a href="https://www.professoren.tum.de/en/zhu-xiaoxiang/" target="_blank">Dr. Xiaoxiang Zhu</a> from TUM, and Dr. Xie Hu from PKU held successfully.
+                </td>
+            </tr>
             <tr>
                 <td>4/2022</td>
                 <td>We invited Dr. Lin Liu from CNHK to give a virtual talk on 4/26.</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
-                <td>Chao's paper on landslide hazard mapping in the Three Gorges Reservoir Area was published in <a href="https://doi.org/10.1007/s10346-021-01796-1" target="_blank"><i>Landslides</i></a>. Congras!</td>
+                <td>Chao's paper on landslide hazard mapping in the Three Gorges Reservoir Area was published in <a href="https://doi.org/10.1007/s10346-021-01796-1" target="_blank"><i>Landslides</i></a>.</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
@@ -59,11 +76,11 @@ We are always looking for highly motivated students and postdocs to join our lab
                 <td>Invited talk in the Forum of Satellite Gravity and Hydrology on 1/15.</td>
             </tr>
             <tr>
-                <td>12/2021</td>
-                <td>Welcome to our AGU poster on the crustal surgery in Yan'an (NH15D-0488) and the 2021 Texas winter storm (GG45B-0411)!</td>
-            </tr> 
+                <td> 12/2021 </td>
+                <td> Welcome to our AGU poster on the crustal surgery in Yan'an (NH15D-0488) and the 2021 Texas winter storm (GG45B-0411)!</td>
+            </tr>
             <tr>
-                <td>11/2021</td>
+                <td> 11/2021 </td>
                 <td>Our paper on machine-learning characterization of the natural and anthropogenic sources of ground deformation in California was published in <a href="https://doi.org/10.1029/2021JB022373" target="_blank"><i>JGR</i></a>.</td>
             </tr>
             <tr>
@@ -84,7 +101,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
                 <td>7/2021</td>
-                <td>Moved to Peking University. I'm grateful for all help and kindness from the teams that I was in.</td>
+                <td>I moved to Peking University. I'm grateful for all help and kindness from the teams that I was in.</td>
             </tr>
             <tr>
                 <td>&nbsp;</td>
@@ -128,9 +145,9 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
         </tbody>
     </table>
+    <br>
+    <br>
+    <br>
+    <br>
 </body>
 
-<br>
-<br>
-<br>
-<br>
