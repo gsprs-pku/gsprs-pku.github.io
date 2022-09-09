@@ -278,9 +278,12 @@ Education
  
 <p style="font-weight:bold">Alumni</p>
     
-<p style="font-weight:bold">Qingyu Sui</p> Research Assistant, now PhD student at the Southern Methodish University, USA.
+<p style="font-weight:bold">Qingyu Sui</p> 
+Research Assistant, now PhD student at the Southern Methodish University, USA.
 <br>  
-<p style="font-weight:bold">Hanwen Yu</p> Postdoctoral Researcher, now Professor at the University of Electronic Science and Technology of China.      
+<br>
+<p style="font-weight:bold">Hanwen Yu</p> 
+Postdoctoral Researcher, now Professor at the University of Electronic Science and Technology of China.      
 <br>
 <br>
 <br>
