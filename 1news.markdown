@@ -14,14 +14,13 @@ permalink: /news/
 </head>
 
 <body>
-    <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-September. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
+    <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-October. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
     <br>
-    <p>Our 2022 EGU session <a href="https://meetingorganizer.copernicus.org/EGU22/session/43347" target="_blank"><i>Remote Sensing Big Data Analysis and Applications in Geoscience</i></a> held in late May.</p>
     <table>
         <tbody>
             <tr>
                 <td>9/2022</td>
-                <td>Xie got the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a> on 9/6.</td>
+                <td>Xie got the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>.</td>
             </tr>
             <tr>
                 <td>8/2022</td>
@@ -30,7 +29,12 @@ permalink: /news/
             </tr>
             <tr>
                 <td>7/2022</td>
-                <td>Yongxuan Zhuo (undergrad from Wuhan University) and Yiling Lin (undergrad from Beijing Normal University) joined the GSPRS lab. Big welcome!</td>
+                <td>Yongxuan Zhuo (undergrad from Wuhan University) and Yiling Lin (undergrad from Beijing Normal University) joined the GSPRS lab. Big Welcome!</td>
+            </tr>
+            <tr>
+                <td>5/2022</td>
+                <td>Our 2022 EGU session <a href="https://meetingorganizer.copernicus.org/EGU22/session/43347" target="_blank"><i>Remote Sensing Big Data Analysis and Applications in Geoscience</i></a> leading by <a href="https://research.utwente.nl/en/persons/ling-chang" target="_blank">Dr. Ling Chang</a> from ITC, <a href="https://www.gfz-potsdam.de/en/staff/mahdi.motagh" target="_blank">Dr. Mahdi Motagh</a> from GFZ, <a href="https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/staff/scientific-staff/profdrir-rf-ramon-hanssen/" target="_blank">Dr. Ramon Hanssen</a> from Delft, <a href="https://www.professoren.tum.de/en/zhu-xiaoxiang/" target="_blank">Dr. Xiaoxiang Zhu</a> from TUM, and Dr. Xie Hu from PKU held successfully.
+                </td>
             </tr>
             <tr>
                 <td>4/2022</td>
