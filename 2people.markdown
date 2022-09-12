@@ -117,6 +117,9 @@ Education
 <br>
 
 <p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh (m.mirzadeh@mails.ucas.ac.cn)</p>
+<div align=center>
+<img src="{{site.url}}/imgs/Sayyed.jpg" width="250" >
+</div>
 Education
    <table>
         <tbody>
