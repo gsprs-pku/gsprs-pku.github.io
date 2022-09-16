@@ -184,8 +184,33 @@ Education
 <br>
 <br>
 
-<p style="font-weight:bold">Penghui Wu</p>
-Master program at PKU starting in 2022 Fall
+<p style="font-weight:bold">Penghui Wu (penghui_wu@stu.pku.edu.cn)</p>
+<div align=center>
+<img src="{{site.url}}/imgs/Penghui.jpg" width="350" >
+</div>
+Education
+   <table>
+        <tbody>
+            <tr>
+                <td> 2022- </td>
+                <td> Ph.D. </td>  
+                <td> Physical Geography </td> 
+                <td> Peking University, Beijing </td> 
+            </tr>
+            <tr>     
+               <td> 2018-2022 </td>
+               <td> B.S. </td> 
+               <td> Land Resource Managment </td> 
+               <td> China University of Geosciences, Beijing </td> 
+            </tr>
+    </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - SAR remote sensing in natural hazards and shallow solid earth
+    <br>
+     - Landslide deformation and dynamics
 <br>
 <br>
 <br>
