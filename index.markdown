@@ -31,7 +31,11 @@ We are always looking for highly motivated students and postdocs to join our lab
         <tbody>
             <tr>
                 <td>9/2022</td>
-                <td>Xie obtained the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>.</td>
+                <td>Xie obtained the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>. Read <a href="https://mp.weixin.qq.com/s/YTeDEQdhrV15d6SxjbNf-w" target="_blank"><i>News</i></a>!</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td> 
+                <td>Xiao was awarded the 3-minute thesis/dissertation competitionat at the University of Houston. Big Congrats!</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
