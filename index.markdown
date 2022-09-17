@@ -35,7 +35,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
                 <td>&nbsp;</td> 
-                <td>Xiao was awarded the 3-minute thesis/dissertation competitionat at the University of Houston. Big Congrats!</td>
+                <td>Xiao was awarded the 3-minute thesis/dissertation competition at the University of Houston. Big Congrats!</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
