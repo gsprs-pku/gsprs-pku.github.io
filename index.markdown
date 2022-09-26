@@ -15,7 +15,7 @@ layout: page
 		<script src="photoSlide/index.js"></script>
 	</head>
 	<body>
-		<div class-"main">
+		<div class="main">
 			<!-- 左按钮 -->
 			<a href="javascript:;" class="left">&lt;</a>
 			<!-- 右按钮 -->
