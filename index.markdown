@@ -4,6 +4,7 @@
 
 layout: page
 ---
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -30,9 +31,9 @@ layout: page
 		image[2] = "imgs/research_images/slumgullion_oli_2019268_modified_compressed.png";
 		
 		var introduce = new Array();		//声明数组用来存储要文字内容
-		introduce[0] = "Master Liu LOVE YOU !";//为数组中每一个元素赋值的文字内容
-		introduce[1] = "Master Liu LOVE YOU Again !";
-		introduce[2] = "Master Liu LOVEs YOU Three Thousand Times !";
+		introduce[0] = "";//为数组中每一个元素赋值的文字内容
+		introduce[1] = "";
+		introduce[2] = "";
 
 		document.getElementById("change").src = image[0];//初始化图片
 		document.getElementById("imgText").innerHTML = introduce[0];//初始化文字内容
@@ -45,14 +46,14 @@ layout: page
 			document.getElementById("imgText").innerHTML = introduce[i];//更改文字内容
 			exI();
 		}
-		var b = self.setInterval("changeImg()", 300);//定时执行函数
+		var b = self.setInterval("changeImg()", 3000);//定时执行函数
 		function last(){
 			self.clearInterval(b);						//清除计时
 			i = (i + image.length - 1) % image.length;	//对变量进行递减操作	
 			document.getElementById("change").src = image[i];//替换图片
 			document.getElementById("imgText").innerHTML = introduce[i];//替换文字内容
 			exI();
-			b = self.setInterval("changeImg()", 300);
+			b = self.setInterval("changeImg()", 3000);
 		}
 		function next(){
 			self.clearInterval(b);
@@ -60,7 +61,7 @@ layout: page
 			document.getElementById("change").src = image[i];
 			document.getElementById("imgText").innerHTML = introduce[i];
 			exI();
-			b = self.setInterval("changeImg()", 300);
+			b = self.setInterval("changeImg()", 3000);
 		}
 		function jump(k){//接收li标签的位置
 			self.clearInterval(b);//清除计时
@@ -68,7 +69,7 @@ layout: page
 			document.getElementById("change").src = image[i];//替换图片
 			document.getElementById("imgText").innerHTML = introduce[i];//替换文字内容
 			exI();//改变序号显示
-			b = self.setInterval("changeImg()", 300);//重新开始计时
+			b = self.setInterval("changeImg()", 3000);//重新开始计时
 		}
 		function exI(){
 			for(var j = 0; j < items.length; j++){
@@ -81,40 +82,6 @@ layout: page
 </body>
 </html>
 
-<html>
-	<head>
-    	        <meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, user-scalable=no,
-		initial-sale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
-		<title></title>
-		<link rel="stylesheet" type="text/css" href="photoSlide/index.css"/>
-		<script src="photoSlide/animate.js"></script>
-		<script src="photoSlide/index.js"></script>
-	</head>
-	<body>
-		<div class="main">
-			<!-- 左按钮 -->
-			<a href="javascript:;" class="left">&lt;</a>
-			<!-- 右按钮 -->
-			<a href="javascript:;" class="right">&gt;</a>
-			<!-- 滚动区 -->
-			<ul>
-				<li>
-					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.png"></a>
-				</li>
-				<li>
-					<a href="#"><img src="imgs/research_images/Slumgullion_landscape_compressed.png"></a>
-				</li>
-				<li>
-					<a href="#"><img src="imgs/research_images/slumgullion_oli_2019268_modified_compressed.png"></a>
-				</li>
-			</ul>
-			<!-- 小圆 -->
-			<ol class="circle">
-			</ol>
-		</div>
-	</body>
-	</html>
 We are the Geohazards and Shallow Processes Remote Sensing Lab (GSPRS) at Peking University. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with geohazards and surface processes in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer science.
 
 We are always looking for highly motivated students and postdocs to join our lab. Please contact PI Xie Hu if you are interested.
