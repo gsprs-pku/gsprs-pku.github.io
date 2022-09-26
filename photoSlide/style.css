@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+html,body{
+	width:1300px;
+	height:1000px;
+}
+.box{
+	position: relative;
+	z-index: 1;
+	width: 720px;
+	height: 405px;
+}
+.box .left,.right{
+	z-index: 5;
+	display: block;
+	position: absolute;
+	top: 40%;
+	width: 50px;
+	height: 80px;
+	font-size: 60px;
+	line-height: 70px;
+	text-decoration: none;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	background: rgba(0,155,255,0.50);
+}
+.box .left{
+	float: left;
+	left: 20px;
+}
+.box .right{
+	float: right;
+	right: 20px;
+}
+.box img{
+	display: block;
+	width: 720px;
+	height: 405px;
+}
+.box .text{
+	background: rgba(0,0,0,0.52);
+	padding: 30px 10px 30px 10px;
+	z-index: 3;
+	text-align: left;
+	font-size: 20px;
+	line-height: 20px;
+	color: rgba(255,255,255,1.00);
+	width: 700px;
+	position: absolute;
+	bottom: 0px;
+	margin: 0;
+}
+.box .imgBottom{
+	z-index: 4;
+	display: inline-block;
+	position: absolute;
+	margin: 0;
+	left: 45%;
+	bottom: 0;
+	padding-bottom: 5px;
+	padding-inline-start :0px;
+}
+.box .imgBottom li{
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	background: rgba(150,150,150,1.00);
+	color: rgba(255,255,255,1.00);
+	font-size: 12px;
+	text-align: center;
+	line-height: 12px;
+}
+.box .imgBottom .active{
+	background: rgba(255,255,255,1.00);
+}
