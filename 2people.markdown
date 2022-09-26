@@ -3,6 +3,9 @@ layout: page
 title: People
 permalink: /people/
 ---
+<!DOCTYPE html>
+<html lang="en">
+    
 <head>
     <style type="text/css">
         td{
@@ -19,6 +22,72 @@ permalink: /people/
     <div align=center>
 <img src="{{site.url}}/imgs/XH.jpg" width="200" >
 </div>
+    
+    <table>
+        <tbody>
+            <tr>
+                <td rowspan="4">
+        <div align=center>
+<img src="{{site.url}}/imgs/XH.jpg" width="200" >
+</div>
+                </td>
+                <td colspan="3">
+    Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2014-2018 </td>
+                <td> Ph.D. </td>
+                <td> Geophysics </td>
+                <td> Southern Methodist University, Dallas, TX, USA </td>
+            </tr>
+            <tr>
+                <td> 2011-2013 </td>
+                <td> M.E. </td>
+                <td> Remote Sensing </td>
+                <td> Wuhan University, China </td>
+            </tr>
+            <tr>
+                <td> 2007-2011 </td>
+                <td> B.E. </td>
+                <td> GIS </td>
+                <td> China University of Geosciences, Wuhan, China </td>
+            </tr>
+        </tbody>
+    </table>
+<br>
+Employment
+   <table>
+        <tbody>
+            <tr>
+                <td> 2021- </td>
+                <td> Assistant Professor<br>(tenure-track) </td>
+                <td> Peking University, Beijing, China </td>
+            </tr>
+            <tr>
+                <td> 2020-2021 </td>
+                <td> Assistant Professor<br>(tenure-track) </td>
+                <td> University of Houston, TX, USA </td>
+            </tr>
+            <tr>
+                <td> 2018-2020 </td>
+                <td> Postdoctoral Researcher </td>
+                <td> University of California Berkeley, CA, USA </td>
+            </tr>
+            <tr>
+                <td> 2014-2018 </td>
+                <td> Graduate Research Assistant </td>
+                <td> Southern Methodist University, Dallas, TX, USA </td>
+            </tr>
+            <tr>
+                <td> 2013-2014 </td>
+                <td> Research Assistant </td>
+                <td> King Abdullah University of Science and Technology,<br>Thuwal, Saudi Arabia </td>
+            </tr>
+        </tbody>
+    </table>
+    
+    
 Education
     <table>
         <tbody>
