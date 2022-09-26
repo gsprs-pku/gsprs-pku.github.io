@@ -9,9 +9,9 @@ layout: page
 		<meta name="viewport" content="width=device-width, user-scalable=no,
 		initial-sale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
 		<title></title>
-		<link rel="stylesheet" type="text/css" href="photoSilde/photoSilde.css"/>
-		<script src="photoSilde/animate.js"></script>
-		<script src="photoSilde/photoSilde.js"></script>
+		<link rel="stylesheet" type="text/css" href="photoSlide/photoSlide.css"/>
+		<script src="photoSlide/animate.js"></script>
+		<script src="photoSlide/photoSilde.js"></script>
 </head>
 		<body>
 		<div>
