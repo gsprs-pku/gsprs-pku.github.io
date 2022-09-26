@@ -4,16 +4,18 @@
 
 layout: page
 ---
-<head>
+<!DOCTYPE html>
+<html>
+	<head>
     	        <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no,
 		initial-sale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
 		<title></title>
-		<link rel="stylesheet" type="text/css" href="photoSlide/photoSlide.css"/>
+		<link rel="stylesheet" type="text/css" href="photoSlide/index.css"/>
 		<script src="photoSlide/animate.js"></script>
-		<script src="photoSlide/photoSlide.js"></script>
-</head>
-<body>
+		<script src="photoSlide/index.js"></script>
+	</head>
+	<body>
 		<div>
 			<!-- 左按钮 -->
 			<a href="javascript:;" class="left">&lt;</a>
@@ -35,7 +37,8 @@ layout: page
 			<ol class="circle">
 			</ol>
 		</div>
-</body>
+	</body>
+</html>
 
 <br>
 We are the Geohazards and Shallow Processes Remote Sensing Lab (GSPRS) at Peking University. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with geohazards and surface processes in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer science.
