@@ -21,29 +21,9 @@ layout: page
 		<script src="photoSilde/photoSilde.js"></script>
 </head>
 
-		<div class="main">
-			<!-- 左按钮 -->
-			<a href="javascript:;" class="left">&lt;</a>
-			<!-- 右按钮 -->
-			<a href="javascript:;" class="right">&gt;</a>
-			<!-- 滚动区 -->
-			<ul>
-				<li>
-					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified.jpg"></a>
-				</li>
-				<li>
-					<a href="#"><img src="imgs/research_images/Slumgullion_disp.png.jpg"></a>
-				</li>
-				<li>
-					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified2.jpg"></a>
-				</li>
-
-			</ul>
-			<!-- 小圆 -->
-			<ol class="circle">
-			</ol>
-		</div>
-
+<div align=center>
+<a><img src="{{site.url}}/imgs/research_images/slumgullion_sar_2018_modified.jpg"></a>
+</div>
 
 <br>
 We are the Geohazards and Shallow Processes Remote Sensing Lab (GSPRS) at Peking University. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with geohazards and surface processes in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer science.
