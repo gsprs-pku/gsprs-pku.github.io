@@ -104,7 +104,7 @@ Research interests:
             <tr>
                 <td rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="300" >
+                    <img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="2">
@@ -140,7 +140,7 @@ Research interests:
             <tr>
                 <td rowspan="4">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Sayyed.jpg" width="250" >
+                    <img src="{{site.url}}/imgs/Sayyed.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -184,7 +184,7 @@ Research interests:
             <tr>
                 <td rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Yuqi_Song.jpg" width="300" >
+                    <img src="{{site.url}}/imgs/Yuqi_Song.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -222,7 +222,7 @@ Research interests:
             <tr>
                 <td rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Penghui.jpg" width="350" >
+                    <img src="{{site.url}}/imgs/Penghui.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -298,7 +298,7 @@ Research interests:
             <tr>
                 <td rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Yiling.jpg" width="300" >
+                    <img src="{{site.url}}/imgs/Yiling.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -337,7 +337,7 @@ Research interests:
             <tr>
                 <td rowspan="10">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/milk_cap1.jpg" width="400" >
+                    <img src="{{site.url}}/imgs/milk_cap1.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
