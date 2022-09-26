@@ -22,7 +22,7 @@ permalink: /people/
     <table>
         <tbody>
             <tr>
-                <td rowspan="10">
+                <td style="width:100px;" rowspan="10">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/XH.jpg" width="200" >
                     </div>
