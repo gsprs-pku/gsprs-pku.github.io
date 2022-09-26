@@ -35,7 +35,8 @@ layout: page
 			<ol class="circle">
 			</ol>
 		</div>
-		<body>
+	</body>
+		
 
 <div align=center>
 <a><img src="{{site.url}}/imgs/research_images/slumgullion_sar_2018_modified.jpg"></a>
