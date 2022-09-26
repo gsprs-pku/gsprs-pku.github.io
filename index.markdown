@@ -31,6 +31,13 @@ layout: page
 				<li>
 					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified.jpg"></a>
 				</li>
+				<li>
+					<a href="#"><img src="imgs/research_images/Slumgullion_disp.png.jpg"></a>
+				</li>
+				<li>
+					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified2.jpg"></a>
+				</li>
+
 			</ul>
 			<!-- 小圆 -->
 			<ol class="circle">
