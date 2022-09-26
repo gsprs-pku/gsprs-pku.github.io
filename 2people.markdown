@@ -19,14 +19,11 @@ permalink: /people/
 <body>
 
 <p style="font-weight:bold">PI Xie Hu (hu.xie@pku.edu.cn)</p>
-    <div align=center>
-<img src="{{site.url}}/imgs/XH.jpg" width="200" >
-</div>
-    
+
     <table>
         <tbody>
             <tr>
-                <td rowspan="4">
+                <td rowspan="10">
         <div align=center>
 <img src="{{site.url}}/imgs/XH.jpg" width="200" >
 </div>
@@ -53,12 +50,11 @@ permalink: /people/
                 <td> GIS </td>
                 <td> China University of Geosciences, Wuhan, China </td>
             </tr>
-        </tbody>
-    </table>
-<br>
-Employment
-   <table>
-        <tbody>
+            <tr>
+       <td colspan="3">
+            Employment
+       </td>
+            </tr>
             <tr>
                 <td> 2021- </td>
                 <td> Assistant Professor<br>(tenure-track) </td>
@@ -86,62 +82,7 @@ Employment
             </tr>
         </tbody>
     </table>
-    
-    
-Education
-    <table>
-        <tbody>
-            <tr>
-                <td> 2014-2018 </td>
-                <td> Ph.D. </td>
-                <td> Geophysics </td>
-                <td> Southern Methodist University, Dallas, TX, USA </td>
-            </tr>
-            <tr>
-                <td> 2011-2013 </td>
-                <td> M.E. </td>
-                <td> Remote Sensing </td>
-                <td> Wuhan University, China </td>
-            </tr>
-            <tr>
-                <td> 2007-2011 </td>
-                <td> B.E. </td>
-                <td> GIS </td>
-                <td> China University of Geosciences, Wuhan, China </td>
-            </tr>
-        </tbody>
-    </table>
-<br>
-Employment
-   <table>
-        <tbody>
-            <tr>
-                <td> 2021- </td>
-                <td> Assistant Professor<br>(tenure-track) </td>
-                <td> Peking University, Beijing, China </td>
-            </tr>
-            <tr>
-                <td> 2020-2021 </td>
-                <td> Assistant Professor<br>(tenure-track) </td>
-                <td> University of Houston, TX, USA </td>
-            </tr>
-            <tr>
-                <td> 2018-2020 </td>
-                <td> Postdoctoral Researcher </td>
-                <td> University of California Berkeley, CA, USA </td>
-            </tr>
-            <tr>
-                <td> 2014-2018 </td>
-                <td> Graduate Research Assistant </td>
-                <td> Southern Methodist University, Dallas, TX, USA </td>
-            </tr>
-            <tr>
-                <td> 2013-2014 </td>
-                <td> Research Assistant </td>
-                <td> King Abdullah University of Science and Technology,<br>Thuwal, Saudi Arabia </td>
-            </tr>
-        </tbody>
-    </table>
+
     <br>
 Research interests:
     <br>
