@@ -5,14 +5,7 @@
 layout: page
 ---
 <head>
-    <style type="text/css">
-        td{
-            text-align:left; 
-            padding:10px;
-            vertical-align:top;
-        }
-    </style>
-    	<meta charset="utf-8">
+    	        <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no,
 		initial-sale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
 		<title></title>
@@ -20,6 +13,29 @@ layout: page
 		<script src="photoSilde/animate.js"></script>
 		<script src="photoSilde/photoSilde.js"></script>
 </head>
+		<body>
+		<div>
+			<!-- 左按钮 -->
+			<a href="javascript:;" class="left">&lt;</a>
+			<!-- 右按钮 -->
+			<a href="javascript:;" class="right">&gt;</a>
+			<!-- 滚动区 -->
+			<ul>
+				<li>
+					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified.jpg"></a>
+				</li>
+				<li>
+					<a href="#"><img src="/imgs/research_images/Slumgullion_disp.png"></a>
+				</li>
+				<li>
+					<a href="#"><img src="/imgs/research_images/slumgullion_sar_2018_modified2.jpg"></a>
+				</li>
+			</ul>
+			<!-- 小圆 -->
+			<ol class="circle">
+			</ol>
+		</div>
+		<body>
 
 <div align=center>
 <a><img src="{{site.url}}/imgs/research_images/slumgullion_sar_2018_modified.jpg"></a>
