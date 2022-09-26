@@ -3,7 +3,6 @@ layout: page
 title: People
 permalink: /people/
 ---
-<!DOCTYPE html>
 <html lang="en">
     
 <head>
