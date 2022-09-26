@@ -24,7 +24,7 @@ permalink: /people/
             <tr>
                 <td rowspan="10">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/XH.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/XH.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -103,7 +103,7 @@ Research interests:
             <tr>
                 <td rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Xiao_headshot.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="2">
@@ -139,7 +139,7 @@ Research interests:
             <tr>
                 <td rowspan="4">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Sayyed.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Sayyed.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -183,7 +183,7 @@ Research interests:
             <tr>
                 <td rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Yuqi_Song.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Yuqi_Song.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -221,7 +221,7 @@ Research interests:
             <tr>
                 <td rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Penghui.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Penghui.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -259,7 +259,7 @@ Research interests:
             <tr>
                 <td rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Yongxuan.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Yongxuan.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -297,7 +297,7 @@ Research interests:
             <tr>
                 <td rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/Yiling.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Yiling.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -336,7 +336,7 @@ Research interests:
             <tr>
                 <td rowspan="10">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/milk_cap1.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/milk_cap1.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
