@@ -24,12 +24,12 @@ permalink: /people/
         <tbody>
             <tr>
                 <td rowspan="10">
-        <div align=center>
-<img src="{{site.url}}/imgs/XH.jpg" width="200" >
-</div>
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/XH.jpg" width="200" >
+                    </div>
                 </td>
                 <td colspan="3">
-    Education
+                     Education
                 </td>
             </tr>
             <tr>
@@ -98,12 +98,19 @@ Research interests:
     
 <p style="font-weight:bold">Reserach Assistant</p>
 <p style="font-weight:bold">Xiao Yu (xyu3@central.uh.edu)</p>
-<div align=center>
-<img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="300" >
-</div>
-Education
-   <table>
+    
+    <table>
         <tbody>
+            <tr>
+                <td rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/Xiao_headshot.jpg" width="300" >
+                    </div>
+                </td>
+                <td colspan="2">
+                     Education
+                </td>
+            </tr>
             <tr>
      <td> Ph.D. </td>  
      <td> Geology </td> 
@@ -127,12 +134,19 @@ Education
 <br>
 
 <p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh (m.mirzadeh@mails.ucas.ac.cn)</p>
-<div align=center>
-<img src="{{site.url}}/imgs/Sayyed.jpg" width="250" >
-</div>
-Education
-   <table>
+
+    <table>
         <tbody>
+            <tr>
+                <td rowspan="4">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/Sayyed.jpg" width="250" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
             <tr>
                 <td> Ph.D. </td>  
                 <td> Astrometry and Celestial Mechanics </td> 
@@ -164,12 +178,19 @@ Education
 
 <p style="font-weight:bold">Students</p>
 <p style="font-weight:bold">Yuqi Song (yqsong@stu.pku.edu.cn)</p>    
-<div align=center>
-<img src="{{site.url}}/imgs/Yuqi_Song.jpg" width="300" >
-</div>
-Education
-   <table>
+
+    <table>
         <tbody>
+            <tr>
+                <td rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/Yuqi_Song.jpg" width="300" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
             <tr>
                 <td> 2022- </td>
                 <td> Ph.D. </td>  
@@ -195,12 +216,19 @@ Education
 <br>
 
 <p style="font-weight:bold">Penghui Wu (penghui_wu@stu.pku.edu.cn)</p>
-<div align=center>
-<img src="{{site.url}}/imgs/Penghui.jpg" width="350" >
-</div>
-Education
-   <table>
+
+    <table>
         <tbody>
+            <tr>
+                <td rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/Penghui.jpg" width="350" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
             <tr>
                 <td> 2022- </td>
                 <td> Ph.D. </td>  
@@ -226,12 +254,19 @@ Education
 <br>
     
 <p style="font-weight:bold">Yongxuan Ran (yongxuanran@whu.edu.cn) </p>
-<div align=center>
-<img src="{{site.url}}/imgs/Yongxuan.jpg" width="200" >
-</div>
-Education
-   <table>
+
+    <table>
         <tbody>
+            <tr>
+                <td rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/Yongxuan.jpg" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
             <tr>  
                 <td> 2023- </td>
                 <td> Ph.D. </td> 
@@ -257,12 +292,19 @@ Education
 <br>    
     
 <p style="font-weight:bold">Yiling Lin (201911051103@bnu.edu.cn) </p>
-<div align=center>
-<img src="{{site.url}}/imgs/Yiling.jpg" width="300" >
-</div>
-Education
-   <table>
+
+    <table>
         <tbody>
+            <tr>
+                <td rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/Yiling.jpg" width="300" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
             <tr>    
                 <td> 2023- </td>
                 <td> M.S. </td> 
@@ -289,12 +331,19 @@ Education
     
 <p style="font-weight:bold">VIP</p>
 <p style="font-weight:bold">Milk Cap </p>
-<div align=center>
-<img src="{{site.url}}/imgs/milk_cap1.jpg" width="400" >
-</div>
-Education
-   <table>
+
+    <table>
         <tbody>
+            <tr>
+                <td rowspan="10">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/milk_cap1.jpg" width="400" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
             <tr>           
      <td> Ph.D </td> 
      <td> Physical Geography </td> 
