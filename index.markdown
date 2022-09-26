@@ -23,6 +23,9 @@ layout: page
 			<!-- 滚动区 -->
 			<ul>
 				<li>
+					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.png"></a>
+				</li>
+				<li>
 					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified.jpg"></a>
 				</li>
 				<li>
