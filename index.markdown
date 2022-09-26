@@ -5,6 +5,83 @@
 layout: page
 ---
 <html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>explem</title>
+</head>
+<body>
+	<div class="box">
+		<img id="change" src="../image1.png" alt="" />
+		<div id="imgText" class="text"></div>
+		<ul id="num" class="imgBottom">
+			<li class onClick="jump(0)" >1</li>
+			<li class onClick="jump(1)" >2</li>
+			<li class onClick="jump(2)" >3</li>
+
+		</ul>
+		<a class="left" href="#" onclick="last();" ><</a>
+		<a class="right" href="#" onclick="next();" >></a>
+	</div>
+	<script>
+		var image = new Array();			//声明数组用来存储要轮播图片的地址
+		image[0] = "imgs/research_images/slumgullion_sar_2018_modified_compressed.png";			//为数组中每一个元素赋值图片的地址
+		image[1] = "imgs/research_images/Slumgullion_landscape_compressed.png";
+		image[2] = "imgs/research_images/slumgullion_oli_2019268_modified_compressed.png";
+		
+		var introduce = new Array();		//声明数组用来存储要文字内容
+		introduce[0] = "Master Liu LOVE YOU !";//为数组中每一个元素赋值的文字内容
+		introduce[1] = "Master Liu LOVE YOU Again !";
+		introduce[2] = "Master Liu LOVEs YOU Three Thousand Times !";
+
+		document.getElementById("change").src = image[0];//初始化图片
+		document.getElementById("imgText").innerHTML = introduce[0];//初始化文字内容
+		var items = document.getElementById("num").getElementsByTagName("li");//定义序号数组
+		items[0].className = "active";//初始化序号
+		var i = -1;							//用来迭代图片次序的变量
+		function changeImg(){				//定义更改img标签中src属性的函数	
+			i = (i + 1) % image.length;		//递增变量，用来指向下一张图片,并使变量不大于图片的数量
+			document.getElementById("change").src = image[i];//更改src属性
+			document.getElementById("imgText").innerHTML = introduce[i];//更改文字内容
+			exI();
+		}
+		var b = self.setInterval("changeImg()", 300);//定时执行函数
+		function last(){
+			self.clearInterval(b);						//清除计时
+			i = (i + image.length - 1) % image.length;	//对变量进行递减操作	
+			document.getElementById("change").src = image[i];//替换图片
+			document.getElementById("imgText").innerHTML = introduce[i];//替换文字内容
+			exI();
+			b = self.setInterval("changeImg()", 300);
+		}
+		function next(){
+			self.clearInterval(b);
+			i = (i + 1) % image.length;	
+			document.getElementById("change").src = image[i];
+			document.getElementById("imgText").innerHTML = introduce[i];
+			exI();
+			b = self.setInterval("changeImg()", 300);
+		}
+		function jump(k){//接收li标签的位置
+			self.clearInterval(b);//清除计时
+			i = k;//将选中的序号赋值给i
+			document.getElementById("change").src = image[i];//替换图片
+			document.getElementById("imgText").innerHTML = introduce[i];//替换文字内容
+			exI();//改变序号显示
+			b = self.setInterval("changeImg()", 300);//重新开始计时
+		}
+		function exI(){
+			for(var j = 0; j < items.length; j++){
+				items[j].className = "";
+				if(i == j)
+					items[i].className = "active";
+			}
+		}
+	</script>
+</body>
+</html>
+
+<html>
 	<head>
     	        <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no,
@@ -29,7 +106,7 @@ layout: page
 					<a href="#"><img src="imgs/research_images/Slumgullion_landscape_compressed.png"></a>
 				</li>
 				<li>
-					<a href="#"><img src="/imgs/research_images/slumgullion_oli_2019268_modified_compressed.png"></a>
+					<a href="#"><img src="imgs/research_images/slumgullion_oli_2019268_modified_compressed.png"></a>
 				</li>
 			</ul>
 			<!-- 小圆 -->
