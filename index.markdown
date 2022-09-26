@@ -26,13 +26,10 @@ layout: page
 					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.png"></a>
 				</li>
 				<li>
-					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified.jpg"></a>
+					<a href="#"><img src="imgs/research_images/Slumgullion_landscape_compressed.png"></a>
 				</li>
 				<li>
-					<a href="#"><img src="/imgs/research_images/Slumgullion_disp.png"></a>
-				</li>
-				<li>
-					<a href="#"><img src="/imgs/research_images/slumgullion_sar_2018_modified2.jpg"></a>
+					<a href="#"><img src="/imgs/research_images/slumgullion_oli_2019268_modified_compressed.png"></a>
 				</li>
 			</ul>
 			<!-- 小圆 -->
