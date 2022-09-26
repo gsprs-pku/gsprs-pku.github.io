@@ -44,7 +44,7 @@ window.addEventListener('load',function(){
 			// 当我们点击了某个小li 就要把这个li 的索引号给 circle  
 			circle = index;
 			// 5. 点击小圆圈，移动ul 
-			animate(ul, -index * 721);
+			animate(ul, -index * 721 *2);
 		})
 	}
 	//第一个小li设置为current
@@ -67,7 +67,7 @@ window.addEventListener('load',function(){
 				num = 0;
 			}
 			num++;
-			animate(ul, -num*721,function(){
+			animate(ul, -num*721*2,function(){
 				//打开节流阀
 				flag = true;
 			});
@@ -85,10 +85,10 @@ window.addEventListener('load',function(){
 			flag = false;
 			if(num == 0){
 				num = ul.children.length - 1;
-				ul.style.left = -num * 721 + 'px';
+				ul.style.left = -num * 721*2 + 'px';
 			}
 			num--;
-			animate(ul, -num*mainWidth, function(){
+			animate(ul, -num*721*2, function(){
 				flag = true;
 			});
 			circle--;
@@ -111,5 +111,5 @@ window.addEventListener('load',function(){
 	var timer = setInterval(function() {
 		//手动调用点击事件
 		right.click();
-	}, 200);
+	}, 2000);
 })
