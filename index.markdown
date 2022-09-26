@@ -11,7 +11,7 @@ layout: page
 		<title></title>
 		<link rel="stylesheet" type="text/css" href="photoSlide/photoSlide.css"/>
 		<script src="photoSlide/animate.js"></script>
-		<script src="photoSlide/photoSilde.js"></script>
+		<script src="photoSlide/photoSlide.js"></script>
 </head>
 		<body>
 		<div>
