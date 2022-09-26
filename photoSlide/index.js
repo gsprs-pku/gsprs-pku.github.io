@@ -111,5 +111,5 @@ window.addEventListener('load',function(){
 	var timer = setInterval(function() {
 		//手动调用点击事件
 		right.click();
-	}, 2000);
+	}, 200);
 })
