@@ -14,15 +14,15 @@ layout: page
     <title>Document</title>
     <style>
         img {
-            width: 600px;
-            height: 300px
+            width: 721px;
+            height: 455px
         }
         
         .focus {
             position: relative;
-            width: 600px;
-            height: 300px;
-            background-color: purple;
+            width: 721px;
+            height: 455px;
+            background-color: white;
             padding-left: 0px;
             overflow: hidden;
         }
@@ -108,7 +108,7 @@ layout: page
 					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" alt=""></a>
 				</li>
 				<li>
-					<a href="#"><img src="imgs/research_images/Slumgullion_landscape_compressed.png" alt=""></a>
+					<a href="#"><img src="imgs/research_images/SLV_aquifer_compressed.jpg" alt=""></a>
 				</li>
 				<li>
 					<a href="#"><img src="imgs/research_images/slumgullion_oli_2019268_modified_compressed.png" alt=""></a>
