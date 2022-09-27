@@ -4,7 +4,6 @@
 
 layout: page
 ---
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -15,29 +14,34 @@ layout: page
 		<script src="js/animate.js"></script>
 		<script src="js/index.js"></script>
 	</head>
-	<body>
-		<div class="main">
-			<!-- 左按钮 -->
-			<a href="javascript:;" class="left">&lt;</a>
-			<!-- 右按钮 -->
-			<a href="javascript:;" class="right">&gt;</a>
-			<!-- 滚动区 -->
-			<ul>
-				<li>
-					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.png"></a>
-				</li>
-				<li>
-					<a href="#"><img src="imgs/research_images/Slumgullion_landscape_compressed.png"></a>
-				</li>
-				<li>
-					<a href="#"><img src="imgs/research_images/slumgullion_oli_2019268_modified_compressed.png"></a>
-				</li>
-			</ul>
-			<!-- 小圆 -->
-			<ol class="circle">
-			</ol>
-		</div>
-	</body>
+
+<div class="focus fl">
+    <!-- 左侧按钮 -->
+    <a href="javascript:;" class="arrow-l">
+        &lt;
+    </a>
+    <!-- 右侧按钮 -->
+    <a href="javascript:;" class="arrow-r">  </a>
+    <!-- 核心的滚动区域 -->
+    <ul>
+        <li>
+            <a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" alt=""></a>
+        </li>
+        <li>
+            <a href="#"><img src="imgs/research_images/Slumgullion_landscape_compressed.png" alt=""></a>
+        </li>
+        <li>
+            <a href="#"><img src="imgs/research_images/slumgullion_oli_2019268_modified_compressed.png" alt=""></a>
+        </li>
+        <li>
+            <a href="#"><img src="imgs/research_images/SLV_aquifer_compressed.jpg" alt=""></a>
+        </li>
+    </ul>
+    <!-- 小圆圈 -->
+    <ol class="circle">
+
+    </ol>
+</div>
 </html>
 
 
