@@ -4,44 +4,122 @@
 
 layout: page
 ---
-<html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, user-scalable=no,
-		initial-sale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
-		<title></title>
-		<link rel="stylesheet" type="text/css" href="css/index.css"/>
-		<script src="js/animate.js"></script>
-		<script src="js/index.js"></script>
-	</head>
 
-<div class="focus fl">
-    <!-- 左侧按钮 -->
-    <a href="javascript:;" class="arrow-l">
-        &lt;
-    </a>
-    <!-- 右侧按钮 -->
-    <a href="javascript:;" class="arrow-r">  </a>
-    <!-- 核心的滚动区域 -->
-    <ul>
-        <li>
-            <a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" alt=""></a>
-        </li>
-        <li>
-            <a href="#"><img src="imgs/research_images/Slumgullion_landscape_compressed.png" alt=""></a>
-        </li>
-        <li>
-            <a href="#"><img src="imgs/research_images/slumgullion_oli_2019268_modified_compressed.png" alt=""></a>
-        </li>
-        <li>
-            <a href="#"><img src="imgs/research_images/SLV_aquifer_compressed.jpg" alt=""></a>
-        </li>
-    </ul>
-    <!-- 小圆圈 -->
-    <ol class="circle">
-
-    </ol>
-</div>
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img {
+            width: 600px;
+            height: 300px
+        }
+        
+        .focus {
+            position: relative;
+            width: 600px;
+            height: 300px;
+            background-color: purple;
+            padding-left: 0px;
+            overflow: hidden;
+        }
+        /* 父盒子宽度比较小，而liimg里面加起来宽度很大，不能一行显示，就会竖着显示 */
+        /* 解决：把ul的宽度设置的大一点 */
+        
+        .focus ul li {
+            float: left;
+            list-style: none;
+        }
+        
+        .focus ul {
+            width: 400%;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            margin: 0px;
+            padding: 0px
+        }
+        
+        .arrow-l,
+        .arrow-r {
+            /* display: none; */
+            background: rgba(0, 0, 0, 0.3);
+            position: absolute;
+            top: 50%;
+            margin-top: -20px;
+            width: 24px;
+            height: 24px;
+            text-decoration: none;
+            z-index: 7;
+            color: white;
+            text-align: center;
+            line-height: 24px;
+        }
+        
+        .arrow-l {
+            left: 0px;
+        }
+        
+        .arrow-r {
+            right: 0px
+        }
+        
+        .circle {
+            width: 90px;
+            height: 40px;
+            position: absolute;
+            bottom: 0px;
+            left: 245px;
+            /* margin: 0px;
+            padding: 0px; */
+            z-index: 1;
+            text-align: center;
+            line-height: 40px;
+        }
+        
+        .circle li {
+            width: 30px;
+            height: 30px;
+            float: left;
+            list-style: circle;
+            color: white;
+        }
+        
+        .circle .current {
+            list-style: disc
+        }
+    </style>
+    <script src="js/animate.js"></script>
+    <!-- 注意顺序 -->
+    <script src="js/index.js"></script>
+</head>
+ 
+<body>
+    <div class="focus">
+        <a href="javascript:;" class="arrow-l">←</a>
+        <a href="javascript:;" class="arrow-r">→</a>
+        <!-- 核心滚动区域 -->
+        <!-- 要让所有图片排在一行显示，不要什么都用div解决 -->
+        <ul>
+				<li>
+					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" alt=""></a>
+				</li>
+				<li>
+					<a href="#"><img src="imgs/research_images/Slumgullion_landscape_compressed.png" alt=""></a>
+				</li>
+				<li>
+					<a href="#"><img src="imgs/research_images/slumgullion_oli_2019268_modified_compressed.png" alt=""></a>
+				</li> 
+        </ul>
+        <ol class="circle">
+ 
+        </ol>
+    </div>
+</body>
+ 
 </html>
 
 
