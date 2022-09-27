@@ -1,26 +1,35 @@
 function animate(obj, target, callback) {
-    // console.log(callback);  callback = function() {}  调用的时候 callback()
-
-    // 先清除以前的定时器，只保留当前的一个定时器执行
-    clearInterval(obj.timer);
-    obj.timer = setInterval(function() {
-        // 步长值写到定时器的里面
-        // 把我们步长值改为整数 不要出现小数的问题
-        // var step = Math.ceil((target - obj.offsetLeft) / 10);
-        var step = (target - obj.offsetLeft) / 10;
-        step = step > 0 ? Math.ceil(step) : Math.floor(step);
-        if (obj.offsetLeft == target) {
-            // 停止动画 本质是停止定时器
-            clearInterval(obj.timer);
-            // 回调函数写到定时器结束里面
-            // if (callback) {
-            //     // 调用函数
-            //     callback();
-            // }
-            callback && callback();
+    clearInterval(obj.timer) //先把原先地定时器清除之后，再开启另外一个新地定时器
+    obj.timer = setInterval(fn, [15])
+ 
+    function fn() {
+        var a = obj.offsetLeft //不能换成div.style.left 不然会只移动一次。注意读取位置永offset，修改永style
+        var step = (target - a) / 10
+        step = step > 0 ? Math.ceil(step) : Math.floor(step) //将结果赋值回去
+            //把步长值改为整数，不要出现小数的情况
+        if (a == target) {
+ 
+            //取消定时器
+            clearInterval(obj.timer)
+                //执行回调函数 函数名+()回调函数写到定时器结束里面
+                //首先判断没有有这个回调函数
+            if (callback) {
+                callback()
+            }
+ 
         }
-        // 把每次加1 这个步长值改为一个慢慢变小的值  步长公式：(目标值 - 现在的位置) / 10
-        obj.style.left = obj.offsetLeft + step + 'px';
-
-    }, 15);
+ 
+        obj.style.left = a + step + 'px'
+ 
+    }
+}
+ 
+function callback() {
+    img.src = '10-右.png'
+    img.style.width = '50%'
+}
+ 
+function callback1() {
+    img.src = '9-左.png'
+    img.style.width = '50%'
 }
