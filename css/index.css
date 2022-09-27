@@ -1,62 +1,57 @@
-*{
-	padding: 0;
-	margin: 0;
+.focus {
+    position: relative;
+    width: 721px;
+    height: 455px;
+    background-color: purple;
+    overflow: hidden;
 }
-ul,ol{
-	list-style: none;
+
+.focus ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 600%;
 }
-a{
-	text-decoration: none;
+
+.focus ul li {
+    float: left;
 }
-.main{
-	position: relative;
-	width: 721px;
-	height: 455px;
-	margin: 100px auto;
-	overflow: hidden;
+
+.arrow-l,
+.arrow-r {
+    display: none;
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    width: 24px;
+    height: 40px;
+    background: rgba(0, 0, 0, .3);
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+    font-family: 'icomoon';
+    font-size: 18px;
+    z-index: 2;
 }
-.left,.right{
-	display: none;
-	position: absolute;
-	top: 50%;
-	margin-top: -20px;
-	width: 24px;
-	height: 40px;
-	background: rgba(0, 0, 0, .3);
-	text-align: center;
-	line-height: 40px;
-	color: #fff;
-	font-size: 18px;
-	z-index: 2;
+
+.arrow-r {
+    right: 0;
 }
-.right{
-	right: 0;
-}
+
 .circle {
-	position: absolute;
-	bottom: 10px;
-	left: 50px;
-}
-.main ul{
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 100%;
-}
-.main ul li{
-	float:left;
+    position: absolute;
+    bottom: 10px;
+    left: 50px;
 }
 
 .circle li {
-	float: left;
-	width: 8px;
-	height: 8px;
-	border: 2px solid orange;
-	margin: 0 3px;
-	border-radius: 50%;
-	/*鼠标经过显示小手*/
-	cursor: pointer;
-}
-.current {
-    background-color: orange;
-}
+    float: left;
+    width: 8px;
+    height: 8px;
+    /*background-color: #fff;*/
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    margin: 0 3px;
+    border-radius: 50%;
+    /*鼠标经过显示小手*/
+    cursor: pointer;
+}：
