@@ -198,7 +198,7 @@ window.addEventListener('load', function() {
     var timer = setInterval(function() {
         //手动调用点击事件
         arrowr.click()
-    }, 1000)
+    }, 2000)
  
  
 })
