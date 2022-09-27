@@ -101,7 +101,7 @@ Research interests:
     <table>
         <tbody>
             <tr>
-                <td rowspan="3">
+                <td style="width:100px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Xiao_headshot.jpg" width="200" >
                     </div>
@@ -137,7 +137,7 @@ Research interests:
     <table>
         <tbody>
             <tr>
-                <td rowspan="4">
+                <td style="width:100px;" rowspan="4">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Sayyed.jpg" width="200" >
                     </div>
@@ -181,7 +181,7 @@ Research interests:
     <table>
         <tbody>
             <tr>
-                <td rowspan="3">
+                <td style="width:100px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Yuqi_Song.jpg" width="200" >
                     </div>
@@ -219,7 +219,7 @@ Research interests:
     <table>
         <tbody>
             <tr>
-                <td rowspan="3">
+                <td style="width:100px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Penghui.jpg" width="200" >
                     </div>
@@ -257,7 +257,7 @@ Research interests:
     <table>
         <tbody>
             <tr>
-                <td rowspan="3">
+                <td style="width:100px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Yongxuan.jpg" width="200" >
                     </div>
@@ -295,7 +295,7 @@ Research interests:
     <table>
         <tbody>
             <tr>
-                <td rowspan="3">
+                <td style="width:100px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Yiling.jpg" width="200" >
                     </div>
@@ -334,7 +334,7 @@ Research interests:
     <table>
         <tbody>
             <tr>
-                <td rowspan="10">
+                <td style="width:100px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/milk_cap1.jpg" width="200" >
                     </div>
