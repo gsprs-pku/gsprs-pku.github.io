@@ -149,6 +149,8 @@ grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Da
             <tr>
                 <td>10/2022</td>
 		<td>Yiling was awarded the National Scholarship. Big Congrats!</td>
+	    </tr>
+            <tr>
 		<td>&nbsp;</td> 
                 <td>Xie obtained a national grant on natural hazards research.</td>
             </tr>
