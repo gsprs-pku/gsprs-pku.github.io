@@ -39,13 +39,13 @@ permalink: /people/
             </tr>
             <tr>
                 <td> 2011-2013 </td>
-                <td> M.E. </td>
+                <td> M.S. </td>
                 <td> Remote Sensing </td>
                 <td> Wuhan University, China </td>
             </tr>
             <tr>
                 <td> 2007-2011 </td>
-                <td> B.E. </td>
+                <td> B.S. </td>
                 <td> GIS </td>
                 <td> China University of Geosciences, Wuhan, China </td>
             </tr>
