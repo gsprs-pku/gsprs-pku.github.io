@@ -24,7 +24,7 @@ permalink: /news/
             </tr>
             <tr>
                 <td>10/2022</td>
-                <td>Xie was awarded a National Grant on natural hazards research.</td>
+                <td>Xie obtained a National grant on natural hazards research.</td>
             </tr>
             <tr>
                 <td>9/2022</td>
