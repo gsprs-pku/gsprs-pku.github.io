@@ -135,6 +135,14 @@ We are always looking for highly motivated students and postdocs to join our lab
     <table>
         <tbody>
             <tr>
+                <td>12/2022</td>
+                <td>Yuqi was awarded the Best Presentation Award in 2022 International Graduate Workshop on GeoInformatics. Big Congrats!</td>
+            </tr>
+            <tr>
+                <td>10/2022</td>
+                <td>Xie obtained a National grant on natural hazards research.</td>
+            </tr>
+	    <tr>
                 <td>9/2022</td>
                 <td>Xie obtained the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>. Read <a href="https://mp.weixin.qq.com/s/YTeDEQdhrV15d6SxjbNf-w" target="_blank"><i>News</i></a>!</td>
             </tr>
