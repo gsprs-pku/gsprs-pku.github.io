@@ -14,19 +14,44 @@ permalink: /news/
 </head>
 
 <body>
+    <p>GSPRS Lab is going to attend 2022 AGU virtually: </p>
+    <p>- Undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02)</p>
+    <p>- Grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249)</p>
+    <p>- Grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07)</p>
+    <p>- Grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02)</p>
+    <p>- Grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03)</p>
+    <p>- PI Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01)</p>
+    <p>Welcome!</p>
+    <br>
     <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-March. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
     <br>
     <table>
         <tbody>
-             <tr>
+            <tr>
                 <td>12/2022</td>
+		<td>Penghui, Sayyed, Xiao, Yiling, Yuqi, and Xie are going to attend and present at 2022 AGU remotely.</td>
+	    </tr>
+            <tr>
+		<td>&nbsp;</td> 
                 <td>Yuqi was awarded the Best Presentation Award in 2022 International Graduate Workshop on GeoInformatics. Big Congrats!</td>
             </tr>
             <tr>
-                <td>10/2022</td>
-                <td>Xie obtained a National grant on natural hazards research.</td>
+		<td>11/2022</td> 
+                <td>Dr. Lingchao Huang from CU Boulder was invited to give a virtual talk on deep learning on 11/9.</td>
             </tr>
             <tr>
+                <td>10/2022</td>
+		<td>Yiling was awarded the National Scholarship. Big Congrats!</td>
+	    </tr>
+            <tr>
+		<td>&nbsp;</td> 
+		<td>Dr. Zan Wang from CAS was invited to give a virtual talk on machine learning application in monitoring carbon sequestration on 10/26.</td>
+            </tr>
+	    <tr>
+		<td>&nbsp;</td>
+                <td>Xie obtained a national grant on natural hazards research.</td>
+            </tr>
+	    <tr>
                 <td>9/2022</td>
                 <td>Xie obtained the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>. Read <a href="https://mp.weixin.qq.com/s/YTeDEQdhrV15d6SxjbNf-w" target="_blank"><i>News</i></a>!</td>
             </tr>
@@ -36,7 +61,7 @@ permalink: /news/
             </tr>
             <tr>
                 <td>&nbsp;</td> 
-                <td>Yuqi and Penghui officially started their graduate program at PKU. Big Welcome!</td> 
+                <td>Yuqi and Penghui officially started their graduate program at PKU. Big Welcome!</td>
             </tr>
             <tr>
                 <td>8/2022</td>
@@ -56,7 +81,7 @@ permalink: /news/
             </tr>
             <tr>
                 <td>4/2022</td>
-                <td>We invited Dr. Lin Liu from CNHK to give a virtual talk on 4/26.</td>
+                <td>Dr. Lin Liu from CNHK was invited to give a virtual talk on geodetic studies of frozen ground on 4/26.</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
