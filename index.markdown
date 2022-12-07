@@ -153,7 +153,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
 		<td>11/2022</td> 
-                <td>We invited Dr. Lingchao Huang from CU Boulder to give a virtual talk on deep learning on 11/9.</td>
+                <td>Dr. Lingchao Huang from CU Boulder was invited to give a virtual talk on deep learning on 11/9.</td>
             </tr>
             <tr>
                 <td>10/2022</td>
@@ -161,6 +161,10 @@ We are always looking for highly motivated students and postdocs to join our lab
 	    </tr>
             <tr>
 		<td>&nbsp;</td> 
+		<td>Dr. Zan Wang from CAS was invited to give a virtual talk on machine learning application in monitoring carbon sequestration on 10/26.</td>
+            </tr>
+	    <tr>
+		<td>&nbsp;</td>
                 <td>Xie obtained a national grant on natural hazards research.</td>
             </tr>
 	    <tr>
@@ -193,7 +197,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
                 <td>4/2022</td>
-                <td>We invited Dr. Lin Liu from CNHK to give a virtual talk on geodetic studies of frozen ground on 4/26.</td>
+                <td>Dr. Lin Liu from CNHK was invited to give a virtual talk on geodetic studies of frozen ground on 4/26.</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
