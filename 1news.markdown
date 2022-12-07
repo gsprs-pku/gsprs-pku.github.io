@@ -14,10 +14,18 @@ permalink: /news/
 </head>
 
 <body>
-    <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-October. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
+    <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-March. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
     <br>
     <table>
         <tbody>
+             <tr>
+                <td>12/2022</td>
+                <td>Yuqi was awarded the Best Presentation Award in 2022 International Graduate Workshop on GeoInformatics. Big Congrats!</td>
+            </tr>
+            <tr>
+                <td>10/2022</td>
+                <td>Xie was awarded a National Grant on natural hazards research.</td>
+            </tr>
             <tr>
                 <td>9/2022</td>
                 <td>Xie obtained the <a href="https://eos.org/agu-news/2022-agu-section-awardees-and-named-lecturers" target="_blank">2022 AGU Natural Hazards Early Career Award</a>. Read <a href="https://mp.weixin.qq.com/s/YTeDEQdhrV15d6SxjbNf-w" target="_blank"><i>News</i></a>!</td>
