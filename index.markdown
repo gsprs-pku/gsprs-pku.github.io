@@ -130,14 +130,17 @@ We are always looking for highly motivated students and postdocs to join our lab
 **NEWS**
 
 <body>
+    <p>GSPRS Lab is going to attend 2022 AGU virtually: 1, undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02); 2, grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249); 3, grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07); 4, 
+grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02); 5, grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03), 6, Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01). Welcome!</p>
+    <br>
+    <br>
     <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-October. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
     <br>
     <table>
         <tbody>
             <tr>
                 <td>12/2022</td>
-		<td>GSPRS Lab is going to attend 2022 AGU virtually: 1, undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02); 2, grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249); 3, grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07); 4, 
-grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02); 5, grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03), 6, Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01). Welcome!</td>
+		<td>Penghui, Sayyed, Xiao, Yiling, Yuqi, and Xie are going to attend and present at 2022 AGU remotely.</td>
 	    </tr>
             <tr>
 		<td>&nbsp;</td> 
