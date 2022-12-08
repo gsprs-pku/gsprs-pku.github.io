@@ -49,6 +49,11 @@ permalink: /people/
                 <td> GIS </td>
                 <td> China University of Geosciences, Wuhan, China </td>
             </tr>
+  </tbody>
+ </table>
+    
+   <table>
+   <tbody>
             <tr>
        <td colspan="3">
             Employment
