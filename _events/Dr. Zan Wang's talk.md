@@ -1,0 +1,9 @@
+---
+layout: event
+title:  "virtual talk of Dr. Zan Wang from CAS"
+event_date: 2022-10-28
+---
+
+Dr. Zan Wang from CAS was invited to give a virtual talk on machine learning application in monitoring carbon sequestration
+
+Participant(s): Xie, Yilin
