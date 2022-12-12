@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Group meeting"
-event_date: 2022-4-28
+event_date: 2022-4-30
 ---
 
 Presenters: Yuqi and Xiao
