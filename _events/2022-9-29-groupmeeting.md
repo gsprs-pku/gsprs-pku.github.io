@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Group meeting"
-event_date: 2022-9-29
+event_date: 2022-9-30
 ---
 
 Presenters: Presenters: Yuqi, Penghui, Xiao, Sayyed, Yongxuan and Yilin
