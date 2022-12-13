@@ -6,6 +6,8 @@ permalink: /publication/
 **Journal Publications**
 † denotes group members under direct supervision  * denotes corresponding
 
+21.&nbsp;Qi, S., Hou, X., Yu, Y., Zhang, Y., <b>Hu, X.</b>, Zhang, L., Li, Z., Guo, S., Zhang, F., Li, T., Peng, J., 2022. Collapse and subsidence mechanism of compacted loess and suitability of mountain bulldozing and city creation projects in the Loess Plateau of China. Science Bulletin (in Chinese).
+
 20.&nbsp;Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X., 2022, Machine-learning estimation of snow depth in 2021 Texas statewide winter storm using SAR imagery. <i>Geophys. Res. Lett.</i>, 49, e2022GL099119. <a href="https://doi.org/10.1029/2022GL099119" target="_blank">https://doi.org/10.1029/2022GL099119</a> <a href="/articles/Yu_GRL_2022.pdf" download>&#91;*pdf*&#93;</a>
 
 19.&nbsp;Zhou, C., Cao, Y., <b>Hu, X.</b>, Yin, K., 2022, Enhanced dynamic landslide hazard assessment using MT-InSAR method in the Three Gorges Reservoir Area. <i>Landslides</i>. <a href="https://doi.org/10.1007/s10346-021-01796-1" target="_blank">https://doi.org/10.1007/s10346-021-01796-1</a> <a href="/articles/Zhou_Landslides_2022.pdf" download>&#91;*pdf*&#93;</a>
@@ -50,23 +52,31 @@ permalink: /publication/
 
 **Under Review**
 † denotes group members under direct supervision  * denotes corresponding
+ 
+7.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
 
-6.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Machine learning characterization of the 2021 Texas statewide winter storm using SAR imagery. 
+6.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
 
-5.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+5.&nbsp;Shi, X., <b>Hu, X.*</b>, et al., Characterization of landslide displacements in active fault zone in Zhouqu, China.
 
-4.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
+4.&nbsp;Chen, X., et al., INVC-Investigation of the water vapor channel within the Yarlung Zangbo Grand Canyon, China. 
 
-3.&nbsp;Shi, X., <b>Hu, X.*</b>, et al., Characterization of landslide displacements in active fault zone in Zhouqu, China.
+3.&nbsp;Zhou, C., Gan, L., Cao, Y., Wang, Y., Motagh, M., Roessner, S., <b>Xie Hu</b>, Yin, K., Catani, F. A novel framework for landslide displacement prediction using MT-InSAR and machine learning techniques.
 
-2.&nbsp;Chen, X., et al., INVC-Investigation of the water vapor channel within the Yarlung Zangbo Grand Canyon, China. 
+2. Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. Enhanced kinematic inversion of 3-D displacements, geometry, and hydraulic properties of a north-south slow-moving landslide in Three Gorges Reservoir.
 
-1.&nbsp;Qi, S., et al., 压实黄土场地湿陷沉降机理与平山造城工程适宜性研究
+1. Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and Nnumerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
 
 <br>
 
 **In Preparation**
 † denotes group members under direct supervision  * denotes corresponding
+
+5.&nbsp;Lin, Y.†, Mirzadeh, S.M.J.†, <b>Hu, X.*</b>, et al., Deep-learning characterization of retrogressive thaw slumps in Qinghai Tibet Engineering Corridor.
+
+4.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Geodetic implications for the 2021 lethal building collapse in Surfside, Florida
+
+3.&nbsp;Song, Y.†, <b>Hu, X.*</b>, et al., Landslide inventorying in California driven by interdisciplinary remote sensing and machine learning.
 
 2.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
 
