@@ -6,7 +6,7 @@ permalink: /publication/
 **Journal Publications**
 † denotes group members under direct supervision  * denotes corresponding
 
-21.&nbsp;Qi, S., Hou, X., Yu, Y., Zhang, Y., <b>Hu, X.</b>, Zhang, L., Li, Z., Guo, S., Zhang, F., Li, T., Peng, J., 2022. Collapse and subsidence mechanism of compacted loess and suitability of mountain bulldozing and city creation projects in the Loess Plateau of China. Science Bulletin (in Chinese).
+21.&nbsp;Qi, S., Hou, X., Yu, Y., Zhang, Y., <b>Hu, X.</b>, Zhang, L., Li, Z., Guo, S., Zhang, F., Li, T., Peng, J., 2022. Collapse and subsidence mechanism of compacted loess and suitability of mountain bulldozing and city creation projects in the Loess Plateau of China. <i>Science Bulletin</i> (in Chinese).
 
 20.&nbsp;Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X., 2022, Machine-learning estimation of snow depth in 2021 Texas statewide winter storm using SAR imagery. <i>Geophys. Res. Lett.</i>, 49, e2022GL099119. <a href="https://doi.org/10.1029/2022GL099119" target="_blank">https://doi.org/10.1029/2022GL099119</a> <a href="/articles/Yu_GRL_2022.pdf" download>&#91;*pdf*&#93;</a>
 
