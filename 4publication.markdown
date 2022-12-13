@@ -76,7 +76,7 @@ permalink: /publication/
 
 5.&nbsp;Lin, Y.†, Mirzadeh, S.M.J.†, <b>Hu, X.*</b>, et al., Deep-learning characterization of retrogressive thaw slumps in Qinghai Tibet Engineering Corridor.
 
-4.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Geodetic implications for the 2021 lethal building collapse in Surfside, Florida
+4.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Geodetic implications for the 2021 lethal building collapse in Surfside, Florida.
 
 3.&nbsp;Song, Y.†, <b>Hu, X.*</b>, et al., Landslide inventorying in California driven by interdisciplinary remote sensing and machine learning.
 
