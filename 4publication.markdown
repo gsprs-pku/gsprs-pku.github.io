@@ -63,9 +63,9 @@ permalink: /publication/
 
 3.&nbsp;Zhou, C., Gan, L., Cao, Y., Wang, Y., Motagh, M., Roessner, S., <b>Xie Hu</b>, Yin, K., Catani, F. A novel framework for landslide displacement prediction using MT-InSAR and machine learning techniques.
 
-2. Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. Enhanced kinematic inversion of 3-D displacements, geometry, and hydraulic properties of a north-south slow-moving landslide in Three Gorges Reservoir.
+2.&nbsp;Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. Enhanced kinematic inversion of 3-D displacements, geometry, and hydraulic properties of a north-south slow-moving landslide in Three Gorges Reservoir.
 
-1. Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and Nnumerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
+1.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and Nnumerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
 
 <br>
 
