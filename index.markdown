@@ -147,6 +147,10 @@ We are always looking for highly motivated students and postdocs to join our lab
                 <td>12/2022</td>
 		<td>Penghui, Sayyed, Xiao, Yiling, Yuqi, and Xie are going to attend and present at 2022 AGU remotely.</td>
 	    </tr>
+	<tr>
+		<td>&nbsp;</td> 
+                <td>GSPRS Lab virtually celebrated Xiao's graduation ceremony at UH. Big Congrats, Dr. Yu!</td>
+            </tr>
             <tr>
 		<td>&nbsp;</td> 
                 <td>Yuqi was awarded the Best Presentation Award in 2022 International Graduate Workshop on GeoInformatics. Big Congrats!</td>
@@ -181,7 +185,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
                 <td>8/2022</td>
-                <td>Xiao published her <a href="https://doi.org/10.1029/2022GL099119" target="_blank"><i>GRL</i></a> paper on quantifying large-scale snow depth during the winter storm and national major disaster across Texas in Feb. 2022 using SAR scenes and machine learning methods. Big Congrats!</td>
+                <td>Xiao published her <a href="https://doi.org/10.1029/2022GL099119" target="_blank"><i>GRL</i></a> paper on quantifying large-scale snow depth during the winter storm and national major disaster across Texas in February 2021 using SAR scenes and machine learning methods. Big Congrats!</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
