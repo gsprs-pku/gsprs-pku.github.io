@@ -14,6 +14,8 @@ permalink: /news/
 </head>
 
 <body>
+    <p>We would like to draw your attentions to 2023 EGU session <a href="https://meetingorganizer.copernicus.org/EGU23/session/45830" target="_blank"><i>SAR remote sensing for natural and human-induced hazard applications</i></a>. Abstract due on 1/10/2023.</p>
+    <br>
     <p>GSPRS Lab is going to attend 2022 AGU virtually: </p>
     <p>- Undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02)</p>
     <p>- Grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249)</p>
