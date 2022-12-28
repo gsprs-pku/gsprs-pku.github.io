@@ -31,6 +31,10 @@ permalink: /news/
                 <td>12/2022</td>
 		<td>Penghui, Sayyed, Xiao, Yiling, Yuqi, and Xie are going to attend and present at 2022 AGU remotely.</td>
 	    </tr>
+	<tr>
+		<td>&nbsp;</td> 
+                <td>GSPRS Lab virtually celebrated Xiao's graduation ceremony at UH. Big Congrats, Dr. Yu!</td>
+            </tr>
             <tr>
 		<td>&nbsp;</td> 
                 <td>Yuqi was awarded the Best Presentation Award in 2022 International Graduate Workshop on GeoInformatics. Big Congrats!</td>
