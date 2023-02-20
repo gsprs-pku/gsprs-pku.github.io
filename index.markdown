@@ -140,31 +140,31 @@ We are always looking for highly motivated students and postdocs to join our lab
         <tbody>
             <tr>
                 <td>12/2022</td>
-		<td>GSPRS members presented at 2022 AGU remotely.</td>
+		<td>GSPRS members presented at 2022 AGU remotely</td>
             </tr>
       	    <tr>
 		<td>&nbsp;</td> 
-		<td>- Undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02)</td>
+		<td>  - Undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02)</td>
 	    </tr>
 	    <tr>
 		<td>&nbsp;</td> 
-		<td>- Grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249)</td>
+		<td>  - Grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249)</td>
 	    </tr>
     	    <tr>
 	        <td>&nbsp;</td> 
-		<td>- Grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07)</td>
+		<td>  - Grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07)</td>
        	    </tr>
             <tr>
 		<td>&nbsp;</td> 
-		<td>- Grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02)</td>
+		<td>  - Grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02)</td>
 	    </tr>
             <tr>
 		<td>&nbsp;</td> 
-		<td>- Grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03)</td>
+		<td>  - Grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03)</td>
        	    </tr>
 	    <tr>
 	 	<td>&nbsp;</td> 
-                <td>- PI Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01)</td>
+                <td>  - PI Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01)</td>
 	    </tr>
 	    <tr>
 		<td>&nbsp;</td> 
