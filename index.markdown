@@ -153,20 +153,19 @@ We are always looking for highly motivated students and postdocs to join our lab
     	    <tr>
 	        <td>&nbsp;</td> 
 		<td>- Grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07)</td>
-       	 </tr>
-           <tr>
+       	    </tr>
+            <tr>
 		<td>&nbsp;</td> 
 		<td>- Grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02)</td>
-	   </tr>
-           <tr>
+	    </tr>
+            <tr>
 		<td>&nbsp;</td> 
 		<td>- Grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03)</td>
-       	   </tr>
-	   <tr>
+       	    </tr>
+	    <tr>
 	 	<td>&nbsp;</td> 
                 <td>- PI Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01)</td>
-	   </tr>
-	
+	    </tr>
 	    <tr>
 		<td>&nbsp;</td> 
                 <td>GSPRS Lab virtually celebrated Xiao's graduation ceremony at UH. Big Congrats, Dr. Yu!</td>
