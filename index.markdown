@@ -130,7 +130,7 @@ We are always looking for highly motivated students and postdocs to join our lab
 **NEWS**
 
 <body>
-    <p>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map from Susu</i></a>. </p>
+    <p>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map</i></a> from Susu.</p>
     <br>
     <p>We would like to draw your attentions to 2023 EGU session <a href="https://meetingorganizer.copernicus.org/EGU23/session/45830" target="_blank"><i>SAR remote sensing for natural and human-induced hazard applications</i></a>. </p>
     <br>
