@@ -14,26 +14,43 @@ permalink: /news/
 </head>
 
 <body>
-    <p>We would like to draw your attentions to 2023 EGU session <a href="https://meetingorganizer.copernicus.org/EGU23/session/45830" target="_blank"><i>SAR remote sensing for natural and human-induced hazard applications</i></a>. Abstract due on 1/10/2023.</p>
+    <p>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map</i></a> from Susu.</p>
     <br>
-    <p>GSPRS Lab is going to attend 2022 AGU virtually: </p>
-    <p>- Undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02)</p>
-    <p>- Grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249)</p>
-    <p>- Grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07)</p>
-    <p>- Grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02)</p>
-    <p>- Grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03)</p>
-    <p>- PI Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01)</p>
-    <p>Welcome!</p>
+    <p>We would like to draw your attentions to 2023 EGU session <a href="https://meetingorganizer.copernicus.org/EGU23/session/45830" target="_blank"><i>SAR remote sensing for natural and human-induced hazard applications</i></a>. </p>
     <br>
     <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-March. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
     <br>
     <table>
         <tbody>
-            <tr>
+             <tr>
                 <td>12/2022</td>
-		<td>Penghui, Sayyed, Xiao, Yiling, Yuqi, and Xie are going to attend and present at 2022 AGU remotely.</td>
+		<td>GSPRS members presented at 2022 AGU remotely</td>
+            </tr>
+      	    <tr>
+		<td>&nbsp;</td> 
+		<td>  - Undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02)</td>
 	    </tr>
-	<tr>
+	    <tr>
+		<td>&nbsp;</td> 
+		<td>  - Grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249)</td>
+	    </tr>
+    	    <tr>
+	        <td>&nbsp;</td> 
+		<td>  - Grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07)</td>
+       	    </tr>
+            <tr>
+		<td>&nbsp;</td> 
+		<td>  - Grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02)</td>
+	    </tr>
+            <tr>
+		<td>&nbsp;</td> 
+		<td>  - Grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03)</td>
+       	    </tr>
+	    <tr>
+	 	<td>&nbsp;</td> 
+                <td>  - PI Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01)</td>
+	    </tr>
+	    <tr>
 		<td>&nbsp;</td> 
                 <td>GSPRS Lab virtually celebrated Xiao's graduation ceremony at UH. Big Congrats, Dr. Yu!</td>
             </tr>
