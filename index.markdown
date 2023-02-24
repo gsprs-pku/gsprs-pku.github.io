@@ -105,7 +105,7 @@ layout: page
         <!-- 要让所有图片排在一行显示，不要什么都用div解决 -->
         <ul>
 				<li>
-					<a href="#"><img src="imgs/research_images/turkeyEQ.jpeg" alt=""></a>
+					<a href="#"><img src="imgs/research_images/turkey_changeSize.png" alt=""></a>
 				</li>
 				<li>
 					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" alt=""></a>
