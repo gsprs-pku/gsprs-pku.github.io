@@ -141,34 +141,22 @@ We are always looking for highly motivated students and postdocs to join our lab
     <br>
     <table>
         <tbody>
+	    <tr>
+                <td>3/2023</td>
+		<td>Xiao published a paper on the alleviation of land subsidence in Tianjin due to the National South-to-North Water Diversion Project in <a href="https://doi.org/10.3390/rs15061647" target="_blank"><i>Remote Sensing</i></a></td>
+            </tr>
+	    <tr>
+		<td>&nbsp;</td> 
+		<td>Dr. Yelu Zeng from China Agricultural University was invited to give a talk on vegetation indices and remote sensing on 3/13.</td>
+            </tr>
+            <tr>
+                <td>2/2023</td>
+		<td>Xie, as the PI, was granted a national grant on Martian landslides and craters and their analogs on the Earth.</td>
+            </tr>
             <tr>
                 <td>12/2022</td>
-		<td>GSPRS members presented at 2022 AGU remotely</td>
+		<td>GSPRS members presented at 2022 AGU remotely -- Yiling (NH44A-02), Xiao (G42D-0249), Sayyed (G41A-07), Yuqi (G41A-02), Penghui (NH31B-03), Xie (NH23C-01).</td>
             </tr>
-      	    <tr>
-		<td>&nbsp;</td> 
-		<td>  - Undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02)</td>
-	    </tr>
-	    <tr>
-		<td>&nbsp;</td> 
-		<td>  - Grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249)</td>
-	    </tr>
-    	    <tr>
-	        <td>&nbsp;</td> 
-		<td>  - Grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07)</td>
-       	    </tr>
-            <tr>
-		<td>&nbsp;</td> 
-		<td>  - Grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02)</td>
-	    </tr>
-            <tr>
-		<td>&nbsp;</td> 
-		<td>  - Grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03)</td>
-       	    </tr>
-	    <tr>
-	 	<td>&nbsp;</td> 
-                <td>  - PI Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01)</td>
-	    </tr>
 	    <tr>
 		<td>&nbsp;</td> 
                 <td>GSPRS Lab virtually celebrated Xiao's graduation ceremony at UH. Big Congrats, Dr. Yu!</td>
@@ -187,11 +175,11 @@ We are always looking for highly motivated students and postdocs to join our lab
 	    </tr>
             <tr>
 		<td>&nbsp;</td> 
-		<td>Dr. Zan Wang from CAS was invited to give a virtual talk on machine learning application in monitoring carbon sequestration on 10/26.</td>
+		<td>Dr. Zan Wang from CAS was invited to give a talk on machine learning application in monitoring carbon sequestration on 10/26.</td>
             </tr>
 	    <tr>
 		<td>&nbsp;</td>
-                <td>Xie obtained a national grant on natural hazards research.</td>
+                <td>Xie, as the PI, was granted a national grant on natural hazards.</td>
             </tr>
 	    <tr>
                 <td>9/2022</td>
@@ -207,7 +195,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
                 <td>8/2022</td>
-                <td>Xiao published her <a href="https://doi.org/10.1029/2022GL099119" target="_blank"><i>GRL</i></a> paper on quantifying large-scale snow depth during the winter storm and national major disaster across Texas in February 2021 using SAR scenes and machine learning methods. Big Congrats!</td>
+                <td>Xiao published a paper on quantifying large-scale snow depth during the winter storm and national major disaster across Texas in February 2021 using SAR scenes and machine learning methods in <a href="https://doi.org/10.1029/2022GL099119" target="_blank"><i>GRL</i></a>. Big Congrats!</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
@@ -235,11 +223,11 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
                 <td>2/2022</td>
-                <td>Awarded the PAZ's satellite imagery program: Joint DLR-INTA Scientific Announcement of Opportunity.</td>
+                <td>Xie, as the PI, was awarded the PAZ's satellite imagery program: Joint DLR-INTA Scientific Announcement of Opportunity.</td>
             </tr> 
             <tr>
                 <td>1/2022</td>
-                <td>Awarded JAXA's satellite imagery program: The 3rd Research Announcement on the Earth Observations.</td>
+                <td>Xie, as the PI, was awarded JAXA's satellite imagery program: The 3rd Research Announcement on the Earth Observations.</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
