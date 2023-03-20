@@ -143,11 +143,15 @@ We are always looking for highly motivated students and postdocs to join our lab
         <tbody>
 	    <tr>
                 <td>3/2023</td>
-		<td>Xiao published a paper on the alleviation of land subsidence in Tianjin due to the National South-to-North Water Diversion Project in <a href="https://doi.org/10.3390/rs15061647" target="_blank"><i>Remote Sensing</i></a></td>
+		<td>Xiao published a paper on the alleviation of land subsidence in Tianjin due to the National South-to-North Water Diversion Project in <a href="https://doi.org/10.3390/rs15061647" target="_blank"><i>Remote Sensing</i></a></td>.
             </tr>
 	    <tr>
 		<td>&nbsp;</td> 
 		<td>Dr. Yelu Zeng from China Agricultural University was invited to give a talk on vegetation indices and remote sensing on 3/13.</td>
+            </tr>
+	    <tr>
+		<td>&nbsp;</td> 
+		<td>Collaborative research report entitled "M7.8 Turkey-Syria Earthquake Impact Estimates from Near-real-time Crowdsourced and Remote Sensing Data" led by Dr. Susu Xu's lab at Stony Brook University was published in DesignSafe-CI.</td>
             </tr>
             <tr>
                 <td>2/2023</td>
@@ -156,6 +160,10 @@ We are always looking for highly motivated students and postdocs to join our lab
             <tr>
                 <td>12/2022</td>
 		<td>GSPRS members presented at 2022 AGU remotely -- Yiling (NH44A-02), Xiao (G42D-0249), Sayyed (G41A-07), Yuqi (G41A-02), Penghui (NH31B-03), Xie (NH23C-01).</td>
+            </tr>
+            <tr>
+		<td>&nbsp;</td> 
+		<td>Collaborative research paper (in Chinese) entitled "Collapse and subsidence mechanism of compacted loess and suitability of mountain bulldozing and city creation projects in the Loess Plateau of China" led by Dr. Shengwen Qi from CAS was published in Science Bulletin.</td>
             </tr>
 	    <tr>
 		<td>&nbsp;</td> 
