@@ -17,39 +17,32 @@ permalink: /news/
     <p>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map</i></a> from Susu.</p>
     <br>
     <p>We would like to draw your attentions to 2023 EGU session <a href="https://meetingorganizer.copernicus.org/EGU23/session/45830" target="_blank"><i>SAR remote sensing for natural and human-induced hazard applications</i></a>. </p>
-    <br>
-    <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-March. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
-    <br>
     <table>
         <tbody>
-             <tr>
-                <td>12/2022</td>
-		<td>GSPRS members presented at 2022 AGU remotely</td>
+           <tr>
+                <td>3/2023</td>
+		<td>Xiao published a paper on the alleviation of land subsidence in Tianjin due to the National South-to-North Water Diversion Project in <a href="https://doi.org/10.3390/rs15061647" target="_blank"><i>Remote Sensing</i></a></td>.
             </tr>
-      	    <tr>
-		<td>&nbsp;</td> 
-		<td>  - Undergrad Yiling "Deep-learning Characterization of Geohazards in Qinghai Tibet Engineering Corridor" (NH44A-02)</td>
-	    </tr>
 	    <tr>
 		<td>&nbsp;</td> 
-		<td>  - Grad Xiao "Geodetic implications for the 2021 lethal building collapse in Surfside, Florida" (G42D-0249)</td>
-	    </tr>
-    	    <tr>
-	        <td>&nbsp;</td> 
-		<td>  - Grad Sayyed "ICA-Based Spatiotemporal Characterization of Vertical and Horizontal Deformations from InSAR Time Series" (G41A-07)</td>
-       	    </tr>
-            <tr>
-		<td>&nbsp;</td> 
-		<td>  - Grad Yuqi "Revisit Landslide Inventory in California Using Remote Sensing Big Data and Machine Learning" (G41A-02)</td>
-	    </tr>
-            <tr>
-		<td>&nbsp;</td> 
-		<td>  - Grad Penghui "Multi-source remote sensing characterization of the lethal 2021 Zhengzhou floods in China" (NH31B-03)</td>
-       	    </tr>
+		<td>Dr. Yelu Zeng from China Agricultural University was invited to give a talk on vegetation indices and remote sensing on 3/13.</td>
+            </tr>
 	    <tr>
-	 	<td>&nbsp;</td> 
-                <td>  - PI Xie "Opportunities of Remote Sensing in Landslide Research" (NH23C-01)</td>
-	    </tr>
+		<td>&nbsp;</td> 
+		<td>Collaborative research report entitled "M7.8 Turkey-Syria Earthquake Impact Estimates from Near-real-time Crowdsourced and Remote Sensing Data" led by Dr. Susu Xu's lab at Stony Brook University was published in DesignSafe-CI.</td>
+            </tr>
+            <tr>
+                <td>2/2023</td>
+		<td>Xie, as the PI, was granted a national grant on Martian landslides and craters and their analogs on the Earth.</td>
+            </tr>
+            <tr>
+                <td>12/2022</td>
+		<td>GSPRS members presented at 2022 AGU remotely -- Yiling (NH44A-02), Xiao (G42D-0249), Sayyed (G41A-07), Yuqi (G41A-02), Penghui (NH31B-03), Xie (NH23C-01).</td>
+            </tr>
+            <tr>
+		<td>&nbsp;</td> 
+		<td>Collaborative research paper (in Chinese) entitled "Collapse and subsidence mechanism of compacted loess and suitability of mountain bulldozing and city creation projects in the Loess Plateau of China" led by Dr. Shengwen Qi from CAS was published in Science Bulletin.</td>
+            </tr>
 	    <tr>
 		<td>&nbsp;</td> 
                 <td>GSPRS Lab virtually celebrated Xiao's graduation ceremony at UH. Big Congrats, Dr. Yu!</td>
