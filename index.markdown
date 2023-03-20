@@ -128,7 +128,7 @@ layout: page
 
 We are the Geohazards and Shallow Processes Remote Sensing Lab (GSPRS) at Peking University. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with geohazards and surface processes in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer science.
 
-We are always looking for highly motivated students and postdocs to join our lab. Please contact PI Xie Hu if you are interested.
+We are always looking for highly motivated students and postdocs to join our lab. The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids. Please contact PI Xie Hu if you are interested.
 
 **NEWS**
 
@@ -136,8 +136,6 @@ We are always looking for highly motivated students and postdocs to join our lab
     <p>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map</i></a> from Susu.</p>
     <br>
     <p>We would like to draw your attentions to 2023 EGU session <a href="https://meetingorganizer.copernicus.org/EGU23/session/45830" target="_blank"><i>SAR remote sensing for natural and human-induced hazard applications</i></a>. </p>
-    <br>
-    <p>The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in mid-March. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids.</p>
     <br>
     <table>
         <tbody>
