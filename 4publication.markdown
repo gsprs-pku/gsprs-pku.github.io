@@ -6,9 +6,13 @@ permalink: /publication/
 **Journal Publications**
 † denotes group members under direct supervision  * denotes corresponding
 
+23.&nbsp;Shi, X., <b>Hu, X.*</b>, 2023. Characterization of landslide displacements in an active fault zone in Northwest China.<i>Earth Surface Processes and Landforms</i>. <a href="https://doi.org/10.1002/esp.5594" target="_blank">https://doi.org/10.1002/esp.5594</a>
+
+22.&nbsp;Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y., 2023. Land Subsidence in Tianjin, China: Before and after the South-to-North Water Diversion. <i>Remote Sensing</i>, 15(6), 1647. <a href="https://doi.org/10.3390/rs15061647" target="_blank">https://doi.org/10.3390/rs15061647</a>
+
 21.&nbsp;Qi, S., Hou, X., Yu, Y., Zhang, Y., <b>Hu, X.</b>, Zhang, L., Li, Z., Guo, S., Zhang, F., Li, T., Peng, J., 2022. Collapse and subsidence mechanism of compacted loess and suitability of mountain bulldozing and city creation projects in the Loess Plateau of China. <i>Science Bulletin</i> (in Chinese).
 
-20.&nbsp;Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X., 2022, Machine-learning estimation of snow depth in 2021 Texas statewide winter storm using SAR imagery. <i>Geophys. Res. Lett.</i>, 49, e2022GL099119. <a href="https://doi.org/10.1029/2022GL099119" target="_blank">https://doi.org/10.1029/2022GL099119</a> <a href="/articles/Yu_GRL_2022.pdf" download>&#91;*pdf*&#93;</a>
+20.&nbsp;Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X., 2022, Machine-learning estimation of snow depth in 2021 Texas statewide winter storm using SAR imagery. <i>Geophysical Research Letters</i>, 49, e2022GL099119. <a href="https://doi.org/10.1029/2022GL099119" target="_blank">https://doi.org/10.1029/2022GL099119</a> <a href="/articles/Yu_GRL_2022.pdf" download>&#91;*pdf*&#93;</a>
 
 19.&nbsp;Zhou, C., Cao, Y., <b>Hu, X.</b>, Yin, K., 2022, Enhanced dynamic landslide hazard assessment using MT-InSAR method in the Three Gorges Reservoir Area. <i>Landslides</i>. <a href="https://doi.org/10.1007/s10346-021-01796-1" target="_blank">https://doi.org/10.1007/s10346-021-01796-1</a> <a href="/articles/Zhou_Landslides_2022.pdf" download>&#91;*pdf*&#93;</a>
 
@@ -52,14 +56,10 @@ permalink: /publication/
 
 **Under Review**
 † denotes group members under direct supervision  * denotes corresponding
- 
-8.&nbsp;Shi, X., <b>Hu, X.*</b>, et al., Characterization of landslide displacements in active fault zone in Zhouqu, China.
 
-7.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+6.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
 
-6.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
-
-5.&nbsp;Chen, X., et al., INVC-Investigation of the water vapor channel within the Yarlung Zangbo Grand Canyon, China. 
+5.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
 
 4.&nbsp;Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Ouyang, C., Zhang, Q., Hazard analysis and flooding model of glacial lake outburst flood using multiple remote sensing methods.
 
@@ -74,7 +74,11 @@ permalink: /publication/
 **In Preparation**
 † denotes group members under direct supervision  * denotes corresponding
 
-5.&nbsp;Lin, Y.†, Mirzadeh, S.M.J.†, <b>Hu, X.*</b>, et al., Deep-learning characterization of retrogressive thaw slumps in Qinghai Tibet Engineering Corridor.
+7.&nbsp;Yu, X.†, Song, Y.†, <b>Hu, X.*</b>, et al., Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations.
+
+6.&nbsp;Lin, Y.†, Mirzadeh, S.M.J.†, <b>Hu, X.*</b>, et al., Deep-learning characterization of retrogressive thaw slumps in Qinghai Tibet Engineering Corridor.
+
+5.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
 
 4.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Geodetic implications for the 2021 lethal building collapse in Surfside, Florida.
 
@@ -84,8 +88,5 @@ permalink: /publication/
 
 1.&nbsp;Xue, L., et al., Anthropogenic impacts on landscape evolution: A case study of mountain excavation and city construction in Loess Plateau.
 
-<br>
-<br>
-<br>
 <br>
 <br>
