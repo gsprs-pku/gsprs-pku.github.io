@@ -20,8 +20,16 @@ permalink: /news/
     <table>
         <tbody>
            <tr>
+                <td>4/2023</td>
+		<td>We published a paper on slow-moving landslides nested in Pingding-Huama fault zone in Northwest China in <a href="https://doi.org/10.1002/esp.5594" target="_blank"><i>Earth Surface Processes and Landforms</i></a>. Dr. Xuguo Shi from China University of Geosciences led this research.</td>
+           </tr>
+		<tr>
+		<td>&nbsp;</td> 
+		<td>Xie will participate EGU in Vienna, Austria during the week of 4/23.</td>
+           </tr>
+           <tr>
                 <td>3/2023</td>
-		<td>Xiao published a paper on the alleviation of land subsidence in Tianjin due to the National South-to-North Water Diversion Project in <a href="https://doi.org/10.3390/rs15061647" target="_blank"><i>Remote Sensing</i></a></td>.
+		<td>Xiao published a paper on the alleviation of land subsidence in Tianjin due to the National South-to-North Water Diversion Project in <a href="https://doi.org/10.3390/rs15061647" target="_blank"><i>Remote Sensing</i></a>.</td>
             </tr>
 	    <tr>
 		<td>&nbsp;</td> 
