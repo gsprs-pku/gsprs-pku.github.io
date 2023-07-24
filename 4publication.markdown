@@ -6,6 +6,8 @@ permalink: /publication/
 **Journal Publications**
 † denotes group members under direct supervision  * denotes corresponding
 
+24.&nbsp;Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z., 2023. Enhanced kinematic inversion of 3-D displacements, geometry, and hydraulic properties of a north-south slow-moving landslide in Three Gorges Reservoir. <i>Journal of Geophysical Research: Solid Earth</i>, 128, e2022JB026232. <a href="https://doi.org/10.1029/2022JB026232" target="_blank">https://doi.org/10.1029/2022JB026232</a>
+
 23.&nbsp;Shi, X., <b>Hu, X.*</b>, 2023. Characterization of landslide displacements in an active fault zone in Northwest China.<i>Earth Surface Processes and Landforms</i>. <a href="https://doi.org/10.1002/esp.5594" target="_blank">https://doi.org/10.1002/esp.5594</a>
 
 22.&nbsp;Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y., 2023. Land Subsidence in Tianjin, China: Before and after the South-to-North Water Diversion. <i>Remote Sensing</i>, 15(6), 1647. <a href="https://doi.org/10.3390/rs15061647" target="_blank">https://doi.org/10.3390/rs15061647</a>
@@ -57,15 +59,13 @@ permalink: /publication/
 **Under Review**
 † denotes group members under direct supervision  * denotes corresponding
 
-6.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+5.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
 
-5.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
+4.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
 
-4.&nbsp;Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Ouyang, C., Zhang, Q., Hazard analysis and flooding model of glacial lake outburst flood using multiple remote sensing methods.
+3.&nbsp;Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Ouyang, C., Zhang, Q., Hazard analysis and flooding model of glacial lake outburst flood using multiple remote sensing methods.
 
-3.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
-
-2.&nbsp;Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. Enhanced kinematic inversion of 3-D displacements, geometry, and hydraulic properties of a north-south slow-moving landslide in Three Gorges Reservoir.
+2.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
 
 1.&nbsp;Zhou, C., Gan, L., Cao, Y., Wang, Y., Motagh, M., Roessner, S., <b>Hu, X.</b>, Yin, K., Catani, F. A novel framework for landslide displacement prediction using MT-InSAR and machine learning techniques.
 
