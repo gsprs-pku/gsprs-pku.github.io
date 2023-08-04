@@ -164,7 +164,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
                 <td>12/2022</td>
-		<td>GSPRS members presented at 2022 AGU remotely -- Yiling (NH44A-02), Xiao (G42D-0249), Sayyed (G41A-07), Yuqi (G41A-02), Penghui (NH31B-03), Xie (NH23C-01).</td>
+		<td>NHRS members presented at 2022 AGU remotely -- Yiling (NH44A-02), Xiao (G42D-0249), Sayyed (G41A-07), Yuqi (G41A-02), Penghui (NH31B-03), Xie (NH23C-01).</td>
             </tr>
             <tr>
 		<td>&nbsp;</td> 
