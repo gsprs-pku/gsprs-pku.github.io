@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Geohazards and Shallow Processes Remote Sensing Lab
+title: Natural Hazards Remote Sensing Lab
 #contact: PI Xie Hu
 email: hu.xie@pku.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
