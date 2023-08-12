@@ -140,7 +140,7 @@ We are always looking for highly motivated students and postdocs to join our lab
         <tbody>
 	   <tr>
                 <td>8/2023</td>
-		<td>Xie participated 2023 AOGS in Singapore and the International Symposium on Geo-disaster Reduction in Shanghai, and also joined a field survey on tranditional villages in Hubei Province led by Prof. Fang Wang.</td>
+		<td>Xie gave a talk in 2023 AOGS in Singapore and the International Symposium on Geo-disaster Reduction in Shanghai, and  joined a field survey on tranditional villages in Hubei Province led by Prof. Fang Wang.</td>
            </tr>
 	   <tr>
     		<td>&nbsp;</td>
@@ -148,11 +148,19 @@ We are always looking for highly motivated students and postdocs to join our lab
            </tr>
 	   <tr>
     		<td>&nbsp;</td>
-     		<td>Yuqi, Yiling, and Xie are going to participate the National Symposium on Landform and Quaternary Research in Taiyuan, Shanxi Province.</td>
+     		<td>Penghui gave a talk on Henan floods in CYWater, held in Beijing.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Yuqi, Yiling, and Xie gave talks in the National Symposium on Landform and Quaternary Research in Taiyuan, Shanxi Province.</td>
            </tr>
 	   <tr>
                 <td>7/2023</td>
-     		<td>Prof. Zhou Zhang and his lab from Zhejiang University visited our lab.</td>
+		<td>Dr. Sayyed Mohammad Javad Mirzadeh officially joined us as a postdoc fellow!</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Prof. Zhou Zhang and his lab from Zhejiang University visited our lab and had some colloquial talks.</td>
            </tr>
 	   <tr>
     		<td>&nbsp;</td>
@@ -164,11 +172,15 @@ We are always looking for highly motivated students and postdocs to join our lab
            </tr>
 	   <tr>
     		<td>6/2023</td>
-	   	<td>Prof. Guoquan Wang from the University of Houston and Dr. Yuexin Li from Caltech visited our lab during their summer break.
+	   	<td>Prof. Guoquan Wang from the University of Houston and Dr. Yuexin Li from Caltech were invited to visit our lab and give talks.</td>
+           </tr>
+    	   <tr>
+		<td>&nbsp;</td> 
+		<td>Congrong, Yongxuan, and Yiling received their B.S. degree from PKU, WHU, and BNU, respectively.</td>
 	   </tr>
     	   <tr>
                 <td>5/2023</td>
-		<td>Xie participated the National Symposium on Remote Sensing Application in Chengdu, and the National Symposium on Chinese Society for Rock Mechanics & Engineeringin in Beijing.</td>
+		<td>Xie gave talks in the National Symposium on Remote Sensing Application in Chengdu and the National Symposium on Chinese Society for Rock Mechanics & Engineeringin in Beijing.</td>
            </tr>
 	   <tr>
                 <td>4/2023</td>
@@ -176,7 +188,7 @@ We are always looking for highly motivated students and postdocs to join our lab
            </tr>
 	   <tr>
 		<td>&nbsp;</td> 
-		<td>Xie participated the National 1st Symposium Of Data Riven Earth Science Developmentiodes in Zuhai, 5th Congress of China Geodesy and Geophysics in Wuhan, and 2023 EGU in Vienna, Austria. She also visited Institute of Geodesy and Geophysics, Chinese Academy of Sciences during her stay in Wuhan.</td>
+		<td>Xie participated the National 1st Symposium Of Data Riven Earth Science Developmentiodes in Zhuhai, 5th Congress of China Geodesy and Geophysics in Wuhan, and 2023 EGU in Vienna, Austria. She also visited Institute of Geodesy and Geophysics, Chinese Academy of Sciences during her stay in Wuhan.</td>
            </tr>
 	   <tr>
                 <td>3/2023</td>
