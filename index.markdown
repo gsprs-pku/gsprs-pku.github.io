@@ -192,7 +192,7 @@ We are always looking for highly motivated students and postdocs to join our lab
            </tr>
 	   <tr>
                 <td>3/2023</td>
-		<td>Xiao published a paper on the alleviation of land subsidence in Tianjin due to the National South-to-North Water Diversion Project in <a href="https://doi.org/10.3390/rs15061647" target="_blank"><i>Remote Sensing</i></a></td>.
+		<td>Xiao published a paper on the alleviation of land subsidence in Tianjin due to the National South-to-North Water Diversion Project in <a href="https://doi.org/10.3390/rs15061647" target="_blank"><i>Remote Sensing</i></a>.</td>
             </tr>
 	    <tr>
 		<td>&nbsp;</td> 
