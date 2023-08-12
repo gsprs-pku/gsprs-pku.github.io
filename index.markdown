@@ -131,7 +131,6 @@ We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We cha
 We are always looking for highly motivated students and postdocs to join our lab. The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids. Please contact PI Xie Hu if you are interested.
 
 **NEWS**
-
 <body>
     <p>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map</i></a> from Susu.</p>
     <br>
