@@ -176,7 +176,7 @@ We are always looking for highly motivated students and postdocs to join our lab
            </tr>
     	   <tr>
 		<td>&nbsp;</td> 
-		<td>Congrong, Yongxuan, and Yiling received their B.S. degree from PKU, WHU, and BNU, respectively.</td>
+		<td>Congrong, Yongxuan, and Yiling received their B.S. degree from PKU, WHU, and BNU, respectively. Big Congrats!</td>
 	   </tr>
     	   <tr>
                 <td>5/2023</td>
