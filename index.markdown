@@ -126,7 +126,7 @@ layout: page
 </html>
 
 
-We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with geohazards and surface processes in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer science.
+We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We changed our lab name from Geological Hazards and Shallow Processes Remote Sensing (GSPRS) as now we are working on more general hazards including extreme climate hazards. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with geohazards and surface processes in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer science.
 
 We are always looking for highly motivated students and postdocs to join our lab. The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids. Please contact PI Xie Hu if you are interested.
 
@@ -135,16 +135,36 @@ We are always looking for highly motivated students and postdocs to join our lab
 <body>
     <p>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map</i></a> from Susu.</p>
     <br>
-    <p>We would like to draw your attentions to 2023 EGU session <a href="https://meetingorganizer.copernicus.org/EGU23/session/45830" target="_blank"><i>SAR remote sensing for natural and human-induced hazard applications</i></a>. </p>
+   
     <table>
         <tbody>
+	   <tr>
+                <td>8/2023</td>
+		<td>Xie participated 2023 AOGS in Singapore and the International Symposium on Geo-disaster Reduction in Shanghai, and also joined a field survey on tranditional villages in Hubei Province led by Prof. Fang Wang.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Penghui, Yuqi, Sayyed, Feng, and Xie got some hands-on experience on drone survey in Tianjin.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Yuqi, Yiling, and Xie are going to participate the National Symposium on Landform and Quaternary Research in Taiyuan, Shanxi Province.</td>
+           </tr>
+	   <tr>
+                <td>7/2023</td>
+		<td>Yiling, Penghui, and Xie had a quick training on drone survey in Tianjin.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Yiling and Xie had a few days' fieldwork on slumps (moving frozen land on gentle slopes) in Beiluhe region, Qinghai Province. They were doing well in the high altitude environment.</td>
+           </tr>
 	   <tr>
                 <td>4/2023</td>
 		<td>We published a paper on slow-moving landslides nested in Pingding-Huama fault zone in Northwest China in <a href="https://doi.org/10.1002/esp.5594" target="_blank"><i>Earth Surface Processes and Landforms</i></a>. Dr. Xuguo Shi from China University of Geosciences led this research.</td>
            </tr>
-		<tr>
+	   <tr>
 		<td>&nbsp;</td> 
-		<td>Xie will participate EGU in Vienna, Austria during the week of 4/23.</td>
+		<td>Xie participated the National 1st Symposium Of Data Riven Earth Science Developmentiodes in Zuhai, 5th Congress of China Geodesy and Geophysics in Wuhan, and 2023 EGU in Vienna, Austria. She also visited Institute of Geodesy and Geophysics, Chinese Academy of Sciences during her stay in Wuhan.</td>
            </tr>
 	   <tr>
                 <td>3/2023</td>
