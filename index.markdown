@@ -152,11 +152,23 @@ We are always looking for highly motivated students and postdocs to join our lab
            </tr>
 	   <tr>
                 <td>7/2023</td>
+     		<td>Prof. Zhou Zhang and his lab from Zhejiang University visited our lab.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
 		<td>Yiling, Penghui, and Xie had a quick training on drone survey in Tianjin.</td>
            </tr>
 	   <tr>
     		<td>&nbsp;</td>
      		<td>Yiling and Xie had a few days' fieldwork on slumps (moving frozen land on gentle slopes) in Beiluhe region, Qinghai Province. They were doing well in the high altitude environment.</td>
+           </tr>
+	   <tr>
+    		<td>6/2023</td>
+	   	<td>Prof. Guoquan Wang from the University of Houston and Dr. Yuexin Li from Caltech visited our lab during their summer break.
+	   </tr>
+    	   <tr>
+                <td>5/2023</td>
+		<td>Xie participated the National Symposium on Remote Sensing Application in Chengdu, and the National Symposium on Chinese Society for Rock Mechanics & Engineeringin in Beijing.</td>
            </tr>
 	   <tr>
                 <td>4/2023</td>
