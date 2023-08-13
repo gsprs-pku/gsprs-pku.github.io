@@ -16,18 +16,63 @@ permalink: /news/
 <body>
     <p>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map</i></a> from Susu.</p>
     <br>
-    <p>We would like to draw your attentions to 2023 EGU session <a href="https://meetingorganizer.copernicus.org/EGU23/session/45830" target="_blank"><i>SAR remote sensing for natural and human-induced hazard applications</i></a>. </p>
+    <br>
+	
     <table>
         <tbody>
-           <tr>
+	   <tr>
+                <td>8/2023</td>
+		<td>Xie gave a talk in 2023 AOGS in Singapore and the International Symposium on Geo-disaster Reduction in Shanghai, and Xie also joined a field survey on tranditional villages in Hubei Province led by Prof. Fang Wang.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Penghui, Yuqi, Sayyed, Feng, and Xie got some hands-on experience on drone survey in Tianjin.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Penghui gave a talk on Henan floods in CYWater, held in Beijing.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Yuqi, Yiling, and Xie gave talks in the National Symposium on Landform and Quaternary Research in Taiyuan, Shanxi Province.</td>
+           </tr>
+	   <tr>
+                <td>7/2023</td>
+		<td>Dr. Sayyed Mohammad Javad Mirzadeh officially joined us as a postdoc fellow!</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Prof. Zhou Zhang and his lab from Zhejiang University visited our lab and had some colloquial talks.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+		<td>Yiling, Penghui, and Xie had a quick training on drone survey in Tianjin.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Yiling and Xie had a few days' fieldwork on slumps (moving frozen land on gentle slopes) in Qinghai-Tibet Plateau (Beiluhe region, Qinghai Province).</td>
+           </tr>
+	   <tr>
+    		<td>6/2023</td>
+	   	<td>Prof. Guoquan Wang from the University of Houston and Dr. Yuexin Li from Caltech were invited to visit our lab and give talks.</td>
+           </tr>
+    	   <tr>
+		<td>&nbsp;</td> 
+		<td>Congrong, Yongxuan, and Yiling received their B.S. degree from PKU, WHU, and BNU, respectively. Big Congrats!</td>
+	   </tr>
+    	   <tr>
+                <td>5/2023</td>
+		<td>Xie gave talks in the National Symposium on Remote Sensing Application in Chengdu and the National Symposium on Chinese Society for Rock Mechanics & Engineeringin in Beijing.</td>
+           </tr>
+	   <tr>
                 <td>4/2023</td>
 		<td>We published a paper on slow-moving landslides nested in Pingding-Huama fault zone in Northwest China in <a href="https://doi.org/10.1002/esp.5594" target="_blank"><i>Earth Surface Processes and Landforms</i></a>. Dr. Xuguo Shi from China University of Geosciences led this research.</td>
            </tr>
-		<tr>
+	   <tr>
 		<td>&nbsp;</td> 
-		<td>Xie will participate EGU in Vienna, Austria during the week of 4/23.</td>
+		<td>Xie participated the National 1st Symposium Of Data Riven Earth Science Developmentiodes in Zhuhai, 5th Congress of China Geodesy and Geophysics in Wuhan, and 2023 EGU in Vienna, Austria. She also visited the Institute of Geodesy and Geophysics, Chinese Academy of Sciences during her stay in Wuhan.</td>
            </tr>
-           <tr>
+	   <tr>
                 <td>3/2023</td>
 		<td>Xiao published a paper on the alleviation of land subsidence in Tianjin due to the National South-to-North Water Diversion Project in <a href="https://doi.org/10.3390/rs15061647" target="_blank"><i>Remote Sensing</i></a>.</td>
             </tr>
@@ -41,11 +86,11 @@ permalink: /news/
             </tr>
             <tr>
                 <td>2/2023</td>
-		<td>Xie, as the PI, was granted a national grant on Martian landslides and craters and their analogs on the Earth.</td>
+		<td>Xie, as the PI, was granted a national grant on Maritian landslides and craters and their analogs on the Earth.</td>
             </tr>
             <tr>
                 <td>12/2022</td>
-		<td>GSPRS members presented at 2022 AGU remotely -- Yiling (NH44A-02), Xiao (G42D-0249), Sayyed (G41A-07), Yuqi (G41A-02), Penghui (NH31B-03), Xie (NH23C-01).</td>
+		<td>NHRS members presented at 2022 AGU remotely -- Yiling (NH44A-02), Xiao (G42D-0249), Sayyed (G41A-07), Yuqi (G41A-02), Penghui (NH31B-03), Xie (NH23C-01).</td>
             </tr>
             <tr>
 		<td>&nbsp;</td> 
@@ -65,15 +110,15 @@ permalink: /news/
             </tr>
             <tr>
                 <td>10/2022</td>
-		<td>Yiling was awarded the National Scholarship. Big Congrats!</td>
+		<td>Yiling was awarded the National Undergraduate Scholarship. Big Congrats!</td>
 	    </tr>
             <tr>
 		<td>&nbsp;</td> 
-		<td>Dr. Zan Wang from CAS was invited to give a virtual talk on machine learning application in monitoring carbon sequestration on 10/26.</td>
+		<td>Dr. Zan Wang from CAS was invited to give a talk on machine learning application in monitoring carbon sequestration on 10/26.</td>
             </tr>
 	    <tr>
 		<td>&nbsp;</td>
-                <td>Xie obtained a national grant on natural hazards research.</td>
+                <td>Xie, as the PI, was granted a national grant on natural hazards.</td>
             </tr>
 	    <tr>
                 <td>9/2022</td>
@@ -89,7 +134,7 @@ permalink: /news/
             </tr>
             <tr>
                 <td>8/2022</td>
-                <td>Xiao published her <a href="https://doi.org/10.1029/2022GL099119" target="_blank"><i>GRL</i></a> paper on quantifying large-scale snow depth during the winter storm and national major disaster across Texas in Feb. 2022 using SAR scenes and machine learning methods. Big Congrats!</td>
+                <td>Xiao published a paper on quantifying large-scale snow depth during the winter storm and national major disaster across Texas in February 2021 using SAR scenes and machine learning methods in <a href="https://doi.org/10.1029/2022GL099119" target="_blank"><i>GRL</i></a>. Big Congrats!</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
@@ -117,11 +162,11 @@ permalink: /news/
             </tr>
             <tr>
                 <td>2/2022</td>
-                <td>Awarded the PAZ's satellite imagery program: Joint DLR-INTA Scientific Announcement of Opportunity.</td>
+                <td>Xie, as the PI, was awarded the PAZ's satellite imagery program: Joint DLR-INTA Scientific Announcement of Opportunity.</td>
             </tr> 
             <tr>
                 <td>1/2022</td>
-                <td>Awarded JAXA's satellite imagery program: The 3rd Research Announcement on the Earth Observations.</td>
+                <td>Xie, as the PI, was awarded JAXA's satellite imagery program: The 3rd Research Announcement on the Earth Observations.</td>
             </tr>
             <tr>
                 <td>&nbsp;</td> 
