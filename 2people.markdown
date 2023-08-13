@@ -49,7 +49,7 @@ permalink: /people/
                 <td> GIS </td>
                 <td> China University of Geosciences, Wuhan, China </td>
             </tr>
-  </tbody>
+ </tbody>
  </table>
     
    <table>
