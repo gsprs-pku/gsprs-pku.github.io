@@ -126,9 +126,9 @@ layout: page
 </html>
 
 
-We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We changed our lab name from Geological Hazards and Shallow Processes Remote Sensing (GSPRS) as now we are working on more general hazards including extreme climate hazards. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with geohazards and surface processes in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer science.
+We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We changed our lab name from Geological Hazards and Shallow Processes Remote Sensing (GSPRS) as now we are working on more general hazards including extreme climate hazards. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with natural hazards in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer sciences.
 
-We are always looking for highly motivated students and postdocs to join our lab. The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! The package includes good benefits in housing and healthcare as well as the national leading educational resources for kids. Please contact PI Xie Hu if you are interested.
+We are always looking for highly motivated students and postdocs to join our lab. The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! Please contact PI Xie Hu if you are interested.
 
 **NEWS**
 <body>
@@ -140,7 +140,7 @@ We are always looking for highly motivated students and postdocs to join our lab
         <tbody>
 	   <tr>
                 <td>8/2023</td>
-		<td>Xie gave a talk in 2023 AOGS in Singapore and the International Symposium on Geo-disaster Reduction in Shanghai, and  joined a field survey on tranditional villages in Hubei Province led by Prof. Fang Wang.</td>
+		<td>Xie gave a talk in 2023 AOGS in Singapore and the International Symposium on Geo-disaster Reduction in Shanghai, and Xie also joined a field survey on tranditional villages in Hubei Province led by Prof. Fang Wang.</td>
            </tr>
 	   <tr>
     		<td>&nbsp;</td>
@@ -168,7 +168,7 @@ We are always looking for highly motivated students and postdocs to join our lab
            </tr>
 	   <tr>
     		<td>&nbsp;</td>
-     		<td>Yiling and Xie had a few days' fieldwork on slumps (moving frozen land on gentle slopes) in Beiluhe region, Qinghai Province. They were doing well in the high altitude environment.</td>
+     		<td>Yiling and Xie had a few days' fieldwork on slumps (moving frozen land on gentle slopes) in Qinghai-Tibet Plateau (Beiluhe region, Qinghai Province).</td>
            </tr>
 	   <tr>
     		<td>6/2023</td>
@@ -188,7 +188,7 @@ We are always looking for highly motivated students and postdocs to join our lab
            </tr>
 	   <tr>
 		<td>&nbsp;</td> 
-		<td>Xie participated the National 1st Symposium Of Data Riven Earth Science Developmentiodes in Zhuhai, 5th Congress of China Geodesy and Geophysics in Wuhan, and 2023 EGU in Vienna, Austria. She also visited Institute of Geodesy and Geophysics, Chinese Academy of Sciences during her stay in Wuhan.</td>
+		<td>Xie participated the National 1st Symposium Of Data Riven Earth Science Developmentiodes in Zhuhai, 5th Congress of China Geodesy and Geophysics in Wuhan, and 2023 EGU in Vienna, Austria. She also visited the Institute of Geodesy and Geophysics, Chinese Academy of Sciences during her stay in Wuhan.</td>
            </tr>
 	   <tr>
                 <td>3/2023</td>
@@ -204,7 +204,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
             <tr>
                 <td>2/2023</td>
-		<td>Xie, as the PI, was granted a national grant on Martian landslides and craters and their analogs on the Earth.</td>
+		<td>Xie, as the PI, was granted a national grant on Maritian landslides and craters and their analogs on the Earth.</td>
             </tr>
             <tr>
                 <td>12/2022</td>
