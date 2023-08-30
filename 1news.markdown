@@ -14,15 +14,23 @@ permalink: /news/
 </head>
 
 <body>
-    <p>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map</i></a> from Susu.</p>
-    <br>
-    <br>
-	
     <table>
         <tbody>
 	   <tr>
                 <td>8/2023</td>
-		<td>Xie gave a talk in 2023 AOGS in Singapore and the International Symposium on Geo-disaster Reduction in Shanghai, and Xie also joined a field survey on tranditional villages in Hubei Province led by Prof. Fang Wang.</td>
+		<td>Dr. Susu Xu from Stony Brook University | Johns Hopkins University was invitied to visit our lab and give her talk entitled "Causality-informed Rapid Assessment of Seismic Multi-hazards and Impacts from InSAR imagery".</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Xiao got her job as an AI Remote Sensing Scientist in Illinois State Water Survey, UIUC. Big Congrats!</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+	        <td>Xie, as the PI, was granted a Chinese NSF grant on Berkeley Hills landslides over East SF Bay area.</td>
+           </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Xie gave a talk in 2023 AOGS in Singapore and the International Symposium on Geo-disaster Reduction in Shanghai, and Xie also joined a field survey on tranditional villages in Hubei Province led by Prof. Fang Wang.</td>
            </tr>
 	   <tr>
     		<td>&nbsp;</td>
@@ -34,7 +42,11 @@ permalink: /news/
            </tr>
 	   <tr>
     		<td>&nbsp;</td>
-     		<td>Yuqi, Yiling, and Xie gave talks in the National Symposium on Landform and Quaternary Research in Taiyuan, Shanxi Province.</td>
+     		<td>Yuqi, Yiling, and Xie gave talks and posters in the National Symposium on Landform and Quaternary Research in Taiyuan, Shanxi Province. Multiple exciting ongoing studies were covered: SegmentAnythingModel results on Martian craters with diameter of 10s' meters, implications for active layer thickness of permafrost in Tibet Plateau from ground deformation, and large-scale flood mapping in Beijing-Tianjin-Hebei using Geofen-3 and Sentinel-1 SAR images..</td>
+       	   </tr>
+	   <tr>
+    		<td>&nbsp;</td>
+     		<td>Penghui, Yuqi, and Yiling flied drone over steep landslides in Lvliang, Shanxi Province.</td>
            </tr>
 	   <tr>
                 <td>7/2023</td>
@@ -86,7 +98,11 @@ permalink: /news/
             </tr>
             <tr>
                 <td>2/2023</td>
-		<td>Xie, as the PI, was granted a national grant on Maritian landslides and craters and their analogs on the Earth.</td>
+		<td>We are collaborating with Dr. Susu Xu's lab at Stony Brook University to assess the building damage in the 2023 M7.8 Turkey-Siyra earthquake <a href="https://arcg.is/09Wzy5" target="_blank"><i>Interactive Map</i></a> from Susu.</td>
+	    </tr>
+            <tr>
+	        <td>&nbsp;</td> 
+		<td>Xie, as the PI, was granted a Chinese NSF grant on Martian landslides and craters and their analogs on the Earth.</td>
             </tr>
             <tr>
                 <td>12/2022</td>
@@ -98,7 +114,7 @@ permalink: /news/
             </tr>
 	    <tr>
 		<td>&nbsp;</td> 
-                <td>GSPRS Lab virtually celebrated Xiao's graduation ceremony at UH. Big Congrats, Dr. Yu!</td>
+                <td>NHRS Lab virtually celebrated Xiao's graduation ceremony at UH. Big Congrats, Dr. Yu!</td>
             </tr>
             <tr>
 		<td>&nbsp;</td> 
@@ -118,7 +134,7 @@ permalink: /news/
             </tr>
 	    <tr>
 		<td>&nbsp;</td>
-                <td>Xie, as the PI, was granted a national grant on natural hazards.</td>
+                <td>Xie, as the PI, was granted a Chinese NSF grant on natural hazards.</td>
             </tr>
 	    <tr>
                 <td>9/2022</td>
