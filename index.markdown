@@ -136,7 +136,7 @@ We are always looking for highly motivated students and postdocs to join our lab
         <tbody>
 	   <tr>
                 <td>8/2023</td>
-		<td>Dr. Susu Xu from Stony Brook University | Johns Hopkins University was invitied to give a talk entitled "Causality-informed Rapid Assessment of Seismic Multi-hazards and Impacts from InSAR imagery".</td>
+		<td>Dr. Susu Xu from Stony Brook University | Johns Hopkins University was invitied to visit our lab and give her talk entitled "Causality-informed Rapid Assessment of Seismic Multi-hazards and Impacts from InSAR imagery".</td>
            </tr>
 	   <tr>
     		<td>&nbsp;</td>
