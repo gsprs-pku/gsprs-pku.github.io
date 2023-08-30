@@ -252,7 +252,7 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
 	    <tr>
 		<td>&nbsp;</td>
-                <td>Xie, as the PI, was granted a national grant on natural hazards.</td>
+                <td>Xie, as the PI, was granted a Chinese NSF grant on natural hazards.</td>
             </tr>
 	    <tr>
                 <td>9/2022</td>
