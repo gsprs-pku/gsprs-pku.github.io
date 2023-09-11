@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Topic
 permalink: /publication/topic/
 ---
