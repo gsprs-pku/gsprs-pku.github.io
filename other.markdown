@@ -14,36 +14,32 @@ permalink: /other/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-	/* 新增的外层容器，使用Flexbox布局 */
+	/* 外部容器使用 Flexbox 布局，以实现2:1的宽度比例 */
         .container {
             display: flex;
         }
 
-        /* 第一个子容器，占据2/3的宽度 */
+        /* 第一个子容器（focus），占据2/3的宽度 */
         .focus {
             flex: 2;
+            /* 其他样式保持不变 */
             position: relative;
+            width: 66.66%; /* 2/3 */
+            height: 455px;
             background-color: white;
             overflow: hidden;
         }
 
-        /* 第二个子容器，占据1/3的宽度 */
-        .sidebar {
+        /* 第二个子容器（sider），占据1/3的宽度 */
+        .sider {
             flex: 1;
-            /* 可以添加样式或内容 */
+            /* 其他样式保持不变 */
         }
+
+        /* 其他样式保持不变 */
         img {
             width: 721px;
-            height: 455px
-        }
-        
-        .focus {
-            position: relative;
-            width: 721px;
             height: 455px;
-            background-color: white;
-            padding-left: 0px;
-            overflow: hidden;
         }
         /* 父盒子宽度比较小，而liimg里面加起来宽度很大，不能一行显示，就会竖着显示 */
         /* 解决：把ul的宽度设置的大一点 */
@@ -117,6 +113,8 @@ permalink: /other/
 </head>
  
 <body>
+    <!-- 外部容器包含两个子容器，一个是 class="focus" 的 div，另一个是 class="sider" 的 div -->
+    <div class="container">
     <div class="focus">
         <a href="javascript:;" class="arrow-l">←</a>
         <a href="javascript:;" class="arrow-r">→</a>
@@ -390,6 +388,7 @@ permalink: /other/
             </tr>
         </tbody>
     </table>
+    </div>
     </div>
 </body>
  
