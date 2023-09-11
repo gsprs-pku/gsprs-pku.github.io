@@ -106,16 +106,16 @@ permalink: /other/
         <!-- 要让所有图片排在一行显示，不要什么都用div解决 -->
         <ul>
 				<li>
-					<a href="#"><img src="imgs/research_images/turkey_changeSize.png" alt=""></a>
+					<a href="#"><img src="{{site.url}}/imgs/research_images/turkey_changeSize.png" alt=""></a>
 				</li>
 				<li>
-					<a href="#"><img src="imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" alt=""></a>
+					<a href="#"><img src="{{site.url}}/imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" alt=""></a>
 				</li>
 				<li>
-					<a href="#"><img src="imgs/research_images/SLV_aquifer_compressed.jpg" alt=""></a>
+					<a href="#"><img src="{{site.url}}/imgs/research_images/SLV_aquifer_compressed.jpg" alt=""></a>
 				</li>
 				<li>
-					<a href="#"><img src="imgs/research_images/slumgullion_oli_2019268_modified_compressed.png" alt=""></a>
+					<a href="#"><img src="{{site.url}}/imgs/research_images/slumgullion_oli_2019268_modified_compressed.png" alt=""></a>
 				</li> 
         </ul>
         <ol class="circle">
