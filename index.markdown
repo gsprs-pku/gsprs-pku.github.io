@@ -13,6 +13,22 @@ layout: page
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         * { margin: 0; padding: 0; }
+        :-webkit-full-screen {
+            min-width: 100%;
+            min-height: 100%;
+        }
+        :-moz-full-screen {
+            min-width: 100%;
+            min-height: 100%;
+        }
+        :-ms-fullscreen {
+            min-width: 100%;
+            min-height: 100%;
+        }
+        :full-screen {
+            min-width: 100%;
+            min-height: 100%;
+        }
         html, body { height: 100%; overflow: hidden; }
         .box { 
             width: 100%; 
@@ -59,7 +75,7 @@ layout: page
 
 <body>
     <div class="box">
-        <video autoplay loop preload>
+        <video autoplay loop preload muted>
             <source src="https://wudiguang.top/images/video.mp4">
         </video>
     </div>
