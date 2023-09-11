@@ -14,32 +14,18 @@ permalink: /other/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-	/* 外部容器使用 Flexbox 布局，以实现2:1的宽度比例 */
-        .container {
-            display: flex;
-        }
-
-        /* 第一个子容器（focus），占据2/3的宽度 */
-        .focus {
-            flex: 2;
-            /* 其他样式保持不变 */
-            position: relative;
-            width: 66.66%; /* 2/3 */
-            height: 455px;
-            background-color: white;
-            overflow: hidden;
-        }
-
-        /* 第二个子容器（sider），占据1/3的宽度 */
-        .sider {
-            flex: 1;
-            /* 其他样式保持不变 */
-        }
-
-        /* 其他样式保持不变 */
         img {
             width: 721px;
+            height: 455px
+        }
+        
+        .focus {
+            position: relative;
+            width: 721px;
             height: 455px;
+            background-color: white;
+            padding-left: 0px;
+            overflow: hidden;
         }
         /* 父盒子宽度比较小，而liimg里面加起来宽度很大，不能一行显示，就会竖着显示 */
         /* 解决：把ul的宽度设置的大一点 */
@@ -113,8 +99,6 @@ permalink: /other/
 </head>
  
 <body>
-    <!-- 外部容器包含两个子容器，一个是 class="focus" 的 div，另一个是 class="sider" 的 div -->
-    <div class="container">
     <div class="focus">
         <a href="javascript:;" class="arrow-l">←</a>
         <a href="javascript:;" class="arrow-r">→</a>
@@ -138,9 +122,18 @@ permalink: /other/
  
         </ol>
     </div>
-    <div class="sidebar">
-    <h1>NEWS</h1>
-        <table>
+</body>
+ 
+</html>
+
+
+We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We changed our lab name from Geological Hazards and Shallow Processes Remote Sensing (GSPRS) as now we are working on more general hazards including extreme climate hazards. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with natural hazards in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer sciences.
+
+We are always looking for highly motivated students and postdocs to join our lab. The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! Please contact PI Xie Hu if you are interested.
+
+**NEWS**
+<body>
+    <table>
         <tbody>
 	   <tr>
                 <td>8/2023</td>
@@ -388,13 +381,8 @@ permalink: /other/
             </tr>
         </tbody>
     </table>
-    </div>
-    </div>
+    <br>
+    <br>
+    <br>
+    <br>
 </body>
- 
-</html>
-
-
-We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We changed our lab name from Geological Hazards and Shallow Processes Remote Sensing (GSPRS) as now we are working on more general hazards including extreme climate hazards. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with natural hazards in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer sciences.
-
-We are always looking for highly motivated students and postdocs to join our lab. The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! Please contact PI Xie Hu if you are interested.
