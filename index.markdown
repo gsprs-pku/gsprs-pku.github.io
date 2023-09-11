@@ -5,7 +5,6 @@
 layout: page
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -18,8 +17,9 @@ layout: page
         .box { 
             width: 100%; 
             height: 100%; 
-            position: absolute; 
-            overflow: hidden; 
+            position: absolute; /* 设置定位为绝对定位 */
+            top: 0; /* 位于页面顶部 */
+            left: 0; /* 位于页面左侧 */
         }
         video { 
             min-width: 100%; 
@@ -28,7 +28,7 @@ layout: page
             top: 0; 
             left: 0; 
         }
-        .word {
+        .content {
             position: absolute;
             z-index: 3;
             top: 50%;
@@ -42,7 +42,7 @@ layout: page
         .button {
             position: absolute;
             z-index: 3;
-            top: 70%;
+            top: 80%;
             left: 50%;
             transform: translateX(-50%);
             text-align: center;
@@ -60,10 +60,10 @@ layout: page
 <body>
     <div class="box">
         <video autoplay loop muted preload>
-            <source src="imgs/research_images/test.mp4">
+            <source src="https://wudiguang.top/images/video.mp4">
         </video>
     </div>
-    <div class="word">
+    <div class="content">
         We are a research group at Peking University, focusing on the spatial and temporal dynamics, scaling, and organization of urbanization in China and their diverse ecological consequences.
     </div>
     <div class="button">
@@ -72,5 +72,4 @@ layout: page
 </body>
 
 </html>
-
 
