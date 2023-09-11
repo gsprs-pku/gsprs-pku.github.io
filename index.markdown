@@ -59,7 +59,7 @@ layout: page
 
 <body>
     <div class="box">
-        <video autoplay loop muted preload>
+        <video autoplay loop preload>
             <source src="https://wudiguang.top/images/video.mp4">
         </video>
     </div>
