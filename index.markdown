@@ -76,7 +76,7 @@ layout: page
 <body>
     <div class="box">
         <video autoplay loop preload muted>
-            <source src="https://wudiguang.top/images/video.mp4">
+            <source src="imgs/research_images/test.mp4">
         </video>
     </div>
     <div class="content">
