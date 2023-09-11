@@ -24,9 +24,11 @@ permalink: /publication/topic/
  
 <body>
 
+<h1>I'm Topic Frame</h1>
+
 <div class="links">
   <p><strong><a href="https://wudg.github.io/publication/">Publications by Year</a></strong> &nbsp
-  <strong><a href="/publication/topic/">Publications by Topic</a></strong>
+  <strong><a href="/">Publications by Topic</a></strong>
 </div>
  
 <div>
