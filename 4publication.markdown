@@ -25,8 +25,8 @@ permalink: /publication/
 <body>
 
 <div class="links">
-  <p><strong><a href="https://visionlanguagelab.github.io/research/">Publications by Year</a></strong> &nbsp
-  <strong><a href="topic.html">Publications by Topic</a></strong></p>
+  <p><strong><a href="/">Publications by Year</a></strong> 
+  <strong><a href="/topic/">Publications by Topic</a></strong></p>
 </div>
  
 <div>
