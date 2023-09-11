@@ -60,14 +60,14 @@ layout: page
 <body>
     <div class="box">
         <video autoplay loop preload>
-            <source src="https://wudiguang.top/images/video.mp4">
+            <source src="imgs/research_images/test.mp4">
         </video>
     </div>
     <div class="content">
         We are a research group at Peking University, focusing on the spatial and temporal dynamics, scaling, and organization of urbanization in China and their diverse ecological consequences.
     </div>
     <div class="button">
-        <a href="/other/">Learn more</a>
+        <a href="/home/">Learn more</a>
     </div>
 </body>
 
