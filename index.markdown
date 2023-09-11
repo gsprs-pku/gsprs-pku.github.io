@@ -75,7 +75,7 @@ layout: page
 
 <body>
     <div class="box">
-        <video autoplay loop preload muted>
+        <video autoplay muted>
             <source src="imgs/research_images/test.mp4">
         </video>
     </div>
