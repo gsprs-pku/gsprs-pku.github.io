@@ -28,7 +28,7 @@ layout: page
             We are a research group at Peking University, focusing on the spatial and temporal dynamics, scaling, and organization of urbanization in China and their diverse ecological consequences.
         </div>
         <div class="button">
-            <a href="/other/">Learn more</a>
+            <a href="/other/">Learn more.</a>
         </div>
     </div>
 </body>
