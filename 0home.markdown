@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Home
-permalink: //
+permalink: /other/
 ---
