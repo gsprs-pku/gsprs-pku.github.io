@@ -4,16 +4,25 @@ title: Publication
 permalink: /publication/
 ---
 
-<style>
-/* a { text-decoration : none; } */
-/* a:hover { text-decoration : underline; } */
-/* a, a:visited { color : #0050e7; } */
-.links { position : relative; top : 1px;  }
-.links a {text-decoration: none; margin-right : 20px; }
-table td{ border:none; }
-table strong a { color : #0050e7; }
-table { border-collapse: collapse; border-style: hidden; font-size: 1em}
-</style>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    /* a { text-decoration : none; } */
+    /* a:hover { text-decoration : underline; } */
+    /* a, a:visited { color : #0050e7; } */
+    .links { position : relative; top : 1px;  }
+    .links a {text-decoration: none; margin-right : 20px; }
+    table td{ border:none; }
+    table strong a { color : #0050e7; }
+    table { border-collapse: collapse; border-style: hidden; font-size: 1em}
+    </style>
+</head>
+ 
+<body>
 
 <div class="links">
   <p><strong><a href="https://visionlanguagelab.github.io/research/">Publications by Year</a></strong> &nbsp
@@ -26,7 +35,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
 
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/MEID.png" />
+          <img src="images/research/MEID.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -48,7 +57,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
 
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/Weakly-Supervised.jpg" />
+          <img src="images/research/Weakly-Supervised.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -69,7 +78,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
 
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/Syntax.png" />
+          <img src="images/research/Syntax.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -90,7 +99,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
 
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/Disentangled.png" />
+          <img src="images/research/Disentangled.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -111,7 +120,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
 
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/OSAD.png" />
+          <img src="images/research/OSAD.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -131,7 +140,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/meta.jpeg" />
+          <img src="images/research/meta.jpeg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -150,7 +159,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/logan.jpg" />
+          <img src="images/research/logan.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -171,7 +180,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/AuxiliaryTask/2020NeurIPSAux.png" />
+          <img src="images/research/AuxiliaryTask/2020NeurIPSAux.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -194,7 +203,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/WeaklyTAD/Fig1.png" />
+          <img src="images/research/WeaklyTAD/Fig1.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -217,7 +226,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/learningCanonical/CanonicalSg2Im.gif" />
+          <img src="images/research/learningCanonical/CanonicalSg2Im.gif" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -239,7 +248,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/something/stin.jpg" />
+          <img src="images/research/something/stin.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -261,7 +270,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/TwoStreamVAN/model_comparison_1st_page.jpg" />
+          <img src="images/research/TwoStreamVAN/model_comparison_1st_page.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -283,7 +292,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/Spatio_Temporal_Action_Graph/teaser_fig5.jpg" />
+          <img src="images/research/Spatio_Temporal_Action_Graph/teaser_fig5.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -304,7 +313,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/IAM/IAM.png" />
+          <img src="images/research/IAM/IAM.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -325,7 +334,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/R-C3D/R-C3D_pami.jpg" />
+          <img src="images/research/R-C3D/R-C3D_pami.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -346,7 +355,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/language_retrieval/new_retrieval_figure.png" />
+          <img src="images/research/language_retrieval/new_retrieval_figure.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -369,7 +378,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/JEDDi-Net/model.png" />
+          <img src="images/research/JEDDi-Net/model.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -392,7 +401,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/R-C3D.png" />
+          <img src="images/research/R-C3D.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -415,7 +424,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/VQA.png" />
+          <img src="images/research/VQA.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -437,7 +446,7 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
       
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/images/research/youtube2text.png" />
+          <img src="images/research/youtube2text.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -458,3 +467,6 @@ table { border-collapse: collapse; border-style: hidden; font-size: 1em}
     </tbody>
   </table>
 </div>
+</body>
+ 
+</html>
