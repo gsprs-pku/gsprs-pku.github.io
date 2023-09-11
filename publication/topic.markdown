@@ -23,7 +23,7 @@ permalink: /publication/topic/
 </head>
  
 <body>
-<h1>I'm Publication Frame</h1>
+<h1>I'm Topic Frame</h1>
 <div class="links">
   <p><strong><a href="/publication/">Publications by Year</a></strong> 
   <strong><a href="/publication/topic/">Publications by Topic</a></strong></p>
