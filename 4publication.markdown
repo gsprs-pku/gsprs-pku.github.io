@@ -35,7 +35,7 @@ permalink: /publication/
 
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/MEID.png" />
+          <img src="{{site.url}}/imgs/research_images/MEID.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -57,7 +57,7 @@ permalink: /publication/
 
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/Weakly-Supervised.jpg" />
+          <img src="{{site.url}}/imgs/research_images/Weakly-Supervised.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -78,7 +78,7 @@ permalink: /publication/
 
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/Syntax.png" />
+          <img src="{{site.url}}/imgs/research_images/Syntax.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -99,7 +99,7 @@ permalink: /publication/
 
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/Disentangled.png" />
+          <img src="{{site.url}}/imgs/research_images/Disentangled.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -120,7 +120,7 @@ permalink: /publication/
 
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/OSAD.png" />
+          <img src="{{site.url}}/imgs/research_images/OSAD.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -140,7 +140,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/meta.jpeg" />
+          <img src="{{site.url}}/imgs/research_images/meta.jpeg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -159,7 +159,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/logan.jpg" />
+          <img src="{{site.url}}/imgs/research_images/logan.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -180,7 +180,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/AuxiliaryTask/2020NeurIPSAux.png" />
+          <img src="{{site.url}}/imgs/research_images/AuxiliaryTask/2020NeurIPSAux.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -203,7 +203,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/WeaklyTAD/Fig1.png" />
+          <img src="{{site.url}}/imgs/research_images/WeaklyTAD/Fig1.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -226,7 +226,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/learningCanonical/CanonicalSg2Im.gif" />
+          <img src="{{site.url}}/imgs/research_images/learningCanonical/CanonicalSg2Im.gif" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -248,7 +248,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/something/stin.jpg" />
+          <img src="{{site.url}}/imgs/research_images/something/stin.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -270,7 +270,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/TwoStreamVAN/model_comparison_1st_page.jpg" />
+          <img src="{{site.url}}/imgs/research_images/TwoStreamVAN/model_comparison_1st_page.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -292,7 +292,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/Spatio_Temporal_Action_Graph/teaser_fig5.jpg" />
+          <img src="{{site.url}}/imgs/research_images/Spatio_Temporal_Action_Graph/teaser_fig5.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -313,7 +313,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/IAM/IAM.png" />
+          <img src="{{site.url}}/imgs/research_images/IAM/IAM.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -334,7 +334,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/R-C3D/R-C3D_pami.jpg" />
+          <img src="{{site.url}}/imgs/research_images/R-C3D/R-C3D_pami.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -355,7 +355,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/language_retrieval/new_retrieval_figure.png" />
+          <img src="{{site.url}}/imgs/research_images/language_retrieval/new_retrieval_figure.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -378,7 +378,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/JEDDi-Net/model.png" />
+          <img src="{{site.url}}/imgs/research_images/JEDDi-Net/model.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -401,7 +401,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/R-C3D.png" />
+          <img src="{{site.url}}/imgs/research_images/R-C3D.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -424,7 +424,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/VQA.png" />
+          <img src="{{site.url}}/imgs/research_images/VQA.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -446,7 +446,7 @@ permalink: /publication/
       
       <tr>
         <td style="width: 30%;">
-          <img src="images/research/youtube2text.png" />
+          <img src="{{site.url}}/imgs/research_images/youtube2text.png" />
         </td>
         <td style="width: 70%;">
           <p>
