@@ -20,7 +20,7 @@ permalink: /home/
             position: relative;
             width: 721px;
             height: 455px;
-            background-color: white;
+            background-color: black;
             padding-left: 0px;
             overflow: hidden;
         }
