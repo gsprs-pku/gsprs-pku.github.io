@@ -59,7 +59,7 @@ layout: page
 
 <body>
     <div class="box">
-        <video autoplay loop preload>
+    <video autoplay loop preload muted>
             <source src="imgs/research_images/test.mp4">
         </video>
     </div>
