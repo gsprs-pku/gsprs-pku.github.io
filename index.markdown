@@ -23,7 +23,7 @@ layout: page
 </head>
 <body>
     <div class="box"><!-- autoplay 自动播放  loop循环播放  muted 声音 preload 预加载 -->
-        <video autoplay loop muted="" preload><source src="https://wudiguang.top/images/video.mp4"></video>
+        <video autoplay loop muted="" preload><source src="imgs/research_images/test.mkv"></video>
         <div class="word">
             We are a research group at Peking University, focusing on the spatial and temporal dynamics, scaling, and organization of urbanization in China and their diverse ecological consequences.
         </div>
