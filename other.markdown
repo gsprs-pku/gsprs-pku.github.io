@@ -93,9 +93,9 @@ permalink: /other/
             list-style: disc
         }
     </style>
-    <script src="js/animate.js"></script>
+    <script src="{{site.url}}/js/animate.js"></script>
     <!-- 注意顺序 -->
-    <script src="js/index.js"></script>
+    <script src="{{site.url}}/js/index.js"></script>
 </head>
  
 <body>
