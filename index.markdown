@@ -14,10 +14,10 @@ layout: page
     <style>
         * {margin: 0;padding: 0;}
         html, body {height: 100%;overflow: hidden;}
-        .box {width: 750px;height: 400px;position: relative;}
+        .box {width: 1920px;height: 1080px;position: absolute;top: 0;left: 0;}
         video {width: 100%;height: 100%;position: absolute;top: 0;left: 0;}
-        .word {position: absolute;z-index: 3;top: 50%;left: 50%;transform: translate(-50%, -50%);text-align: center; color: white;}
-        .button {position: absolute;z-index: 3;top: 60%;left: 50%;transform: translateX(-50%);text-align: center;}
+        .word {position: absolute;z-index: 3;top: 20%;left: 50%;transform: translate(-50%, -50%);text-align: center; color: white;}
+        .button {position: absolute;z-index: 3;top: 30%;left: 50%;transform: translateX(-50%);text-align: center;}
         .button a {text-decoration: none; background-color: #333; color: white; padding: 10px 20px; border-radius: 5px;}
     </style>
 </head>
