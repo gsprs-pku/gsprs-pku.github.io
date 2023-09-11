@@ -25,8 +25,8 @@ permalink: /publication/
 <body>
 <h1>I'm Publication Frame</h1>
 <div class="links">
-  <p><strong><a href="/">Publications by Year</a></strong> 
-  <strong><a href="/topic/">Publications by Topic</a></strong></p>
+  <p><strong><a href="/publication/">Publications by Year</a></strong> 
+  <strong><a href="/publication/topic/">Publications by Topic</a></strong></p>
 </div>
  
 <div>
