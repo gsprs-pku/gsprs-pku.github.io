@@ -35,7 +35,7 @@ permalink: /publication/
 
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/imgs/research_images/MEID.png" />
+          <img src="{{site.url}}/imgs/research_images/slumgullion_oli_2019268_modified_compressed.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -57,7 +57,7 @@ permalink: /publication/
 
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/imgs/research_images/Weakly-Supervised.jpg" />
+          <img src="{{site.url}}/imgs/research_images/SLV_aquifer_compressed.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -78,7 +78,7 @@ permalink: /publication/
 
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/imgs/research_images/Syntax.png" />
+          <img src="{{site.url}}/imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -99,7 +99,7 @@ permalink: /publication/
 
       <tr>
         <td style="width: 30%;">
-          <img src="{{site.url}}/imgs/research_images/Disentangled.png" />
+          <img src="{{site.url}}/imgs/research_images/turkey_changeSize.png" />
         </td>
         <td style="width: 70%;">
           <p>
