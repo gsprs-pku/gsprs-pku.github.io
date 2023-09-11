@@ -14,7 +14,7 @@ layout: page
     <style>
         * {margin: 0;padding: 0;}
         html, body {height: 100%;overflow: hidden;}
-        .box {width: 1920px;height: 1080px;background-color: rgb(230, 134, 134);position: relative;}
+        .box {width: 750px;height: 400px;position: relative;}
         video {width: 100%;height: 100%;position: absolute;top: 0;left: 0;}
         .word {position: absolute;z-index: 3;top: 50%;left: 50%;transform: translate(-50%, -50%);text-align: center; color: white;}
         .button {position: absolute;z-index: 3;top: 60%;left: 50%;transform: translateX(-50%);text-align: center;}
