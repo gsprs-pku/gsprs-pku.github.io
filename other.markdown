@@ -14,6 +14,24 @@ permalink: /other/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+	/* 新增的外层容器，使用Flexbox布局 */
+        .container {
+            display: flex;
+        }
+
+        /* 第一个子容器，占据2/3的宽度 */
+        .focus {
+            flex: 2;
+            position: relative;
+            background-color: white;
+            overflow: hidden;
+        }
+
+        /* 第二个子容器，占据1/3的宽度 */
+        .sidebar {
+            flex: 1;
+            /* 可以添加样式或内容 */
+        }
         img {
             width: 721px;
             height: 455px
@@ -122,18 +140,9 @@ permalink: /other/
  
         </ol>
     </div>
-</body>
- 
-</html>
-
-
-We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We changed our lab name from Geological Hazards and Shallow Processes Remote Sensing (GSPRS) as now we are working on more general hazards including extreme climate hazards. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with natural hazards in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer sciences.
-
-We are always looking for highly motivated students and postdocs to join our lab. The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! Please contact PI Xie Hu if you are interested.
-
-**NEWS**
-<body>
-    <table>
+    <div class="sidebar">
+    <h1>NEWS</h1>
+        <table>
         <tbody>
 	   <tr>
                 <td>8/2023</td>
@@ -381,8 +390,12 @@ We are always looking for highly motivated students and postdocs to join our lab
             </tr>
         </tbody>
     </table>
-    <br>
-    <br>
-    <br>
-    <br>
+    </div>
 </body>
+ 
+</html>
+
+
+We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We changed our lab name from Geological Hazards and Shallow Processes Remote Sensing (GSPRS) as now we are working on more general hazards including extreme climate hazards. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with natural hazards in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer sciences.
+
+We are always looking for highly motivated students and postdocs to join our lab. The next application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! Please contact PI Xie Hu if you are interested.
