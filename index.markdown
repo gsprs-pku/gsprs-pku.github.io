@@ -64,7 +64,7 @@ layout: page
         </video>
     </div>
     <div class="content">
-        We are a research group at Peking University, focusing on the spatial and temporal dynamics, scaling, and organization of urbanization in China and their diverse ecological consequences.
+        We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University, focusing on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with natural hazards in terrestrial planets.
     </div>
     <div class="button">
         <a href="/home/">Learn more</a>
