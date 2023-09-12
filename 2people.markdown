@@ -101,7 +101,7 @@ Research interests:
 <br>
     
 <p style="font-weight:bold">Postdoctoral fellow</p>
-<p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh (m. mirzadeh@pku.edu.cn)</p>
+<p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh (m.mirzadeh@pku.edu.cn)</p>
 
     <table>
         <tbody>
