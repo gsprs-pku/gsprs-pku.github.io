@@ -47,7 +47,7 @@ permalink: /publication/
             <br> Xinjie Li, Huijuan Xu <br>
             <em>Thirty-Seven AAAI Conference on Artificial Intelligence (AAAI),</em> 2023 <br>
             <span class="links">
-              <a href="">Paper</a>
+              <a href="/articles/Internal kinematics of the Slumgullion landslide from high-resolution UAVSAR InSAR data.pdf">Paper</a>
               <a href="">Code</a>                         
             </span>
           </p>
