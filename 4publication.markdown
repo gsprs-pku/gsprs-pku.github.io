@@ -59,30 +59,28 @@ permalink: /publication/
 **Under Review**
 † denotes group members under direct supervision  * denotes corresponding
 
-5.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+7.&nbsp;Song, Y.†, <b>Hu, X.*</b>, et al., Landslide inventorying in California driven by interdisciplinary remote sensing and machine learning.
 
-4.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
+6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., Deep-learning characterization of retrogressive thaw slumps in Qinghai Tibet Engineering Corridor.
 
-3.&nbsp;Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Ouyang, C., Zhang, Q., Hazard analysis and flooding model of glacial lake outburst flood using multiple remote sensing methods.
+5.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations.
 
-2.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
+4.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
 
-1.&nbsp;Zhou, C., Gan, L., Cao, Y., Wang, Y., Motagh, M., Roessner, S., <b>Hu, X.</b>, Yin, K., Catani, F. A novel framework for landslide displacement prediction using MT-InSAR and machine learning techniques.
+3.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
+
+2.&nbsp;Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Ouyang, C., Zhang, Q., Hazard analysis and flooding model of glacial lake outburst flood using multiple remote sensing methods.
+
+1.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
 
 <br>
 
 **In Preparation**
 † denotes group members under direct supervision  * denotes corresponding
 
-7.&nbsp;Yu, X.†, Song, Y.†, <b>Hu, X.*</b>, et al., Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations.
+4.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
 
-6.&nbsp;Lin, Y.†, Mirzadeh, S.M.J.†, <b>Hu, X.*</b>, et al., Deep-learning characterization of retrogressive thaw slumps in Qinghai Tibet Engineering Corridor.
-
-5.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
-
-4.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Geodetic implications for the 2021 lethal building collapse in Surfside, Florida.
-
-3.&nbsp;Song, Y.†, <b>Hu, X.*</b>, et al., Landslide inventorying in California driven by interdisciplinary remote sensing and machine learning.
+3.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Geodetic implications for the 2021 lethal building collapse in Surfside, Florida.
 
 2.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
 
