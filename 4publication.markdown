@@ -59,9 +59,9 @@ permalink: /publication/
 **Under Review**
 † denotes group members under direct supervision  * denotes corresponding
 
-7.&nbsp;Song, Y.†, <b>Hu, X.*</b>, et al., Landslide inventorying in California driven by interdisciplinary remote sensing and machine learning.
+7.&nbsp;Song, Y.†, <b>Hu, X.*</b>, et al., Alternative hydrological variable from InSAR coherence in landslide characterization.
 
-6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., Deep-learning characterization of retrogressive thaw slumps in Qinghai Tibet Engineering Corridor.
+6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
 
 5.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations.
 
