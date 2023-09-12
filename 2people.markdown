@@ -101,7 +101,7 @@ Research interests:
 <br>
     
 <p style="font-weight:bold">Postdoctoral fellow</p>
-<p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh (m.mirzadeh@mails.ucas.ac.cn)</p>
+<p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh (m. mirzadeh@pku.edu.cn)</p>
 
     <table>
         <tbody>
@@ -122,7 +122,7 @@ Research interests:
             </tr>
             <tr>           
                 <td> M.S. </td> 
-                <td> hotogrammetry and Remote Sensing </td> 
+                <td> Photogrammetry and Remote Sensing </td> 
                 <td> K.N.TOOSI University of Technology, Iran </td> 
             </tr>
             <tr>      
