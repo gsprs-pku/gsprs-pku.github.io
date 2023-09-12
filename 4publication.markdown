@@ -13,6 +13,9 @@ permalink: /publication/
 22.&nbsp;Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y., 2023. Land Subsidence in Tianjin, China: Before and after the South-to-North Water Diversion. <i>Remote Sensing</i>, 15(6), 1647. <a href="https://doi.org/10.3390/rs15061647" target="_blank">https://doi.org/10.3390/rs15061647</a>
 
 21.&nbsp;Qi, S., Hou, X., Yu, Y., Zhang, Y., <b>Hu, X.</b>, Zhang, L., Li, Z., Guo, S., Zhang, F., Li, T., Peng, J., 2022. Collapse and subsidence mechanism of compacted loess and suitability of mountain bulldozing and city creation projects in the Loess Plateau of China. <i>Science Bulletin</i> (in Chinese).
+ <span class="links">
+              <a href="/article/1F422530185B4B67B39147A7D220726D.pdf">Paper</a>            
+            </span>
 
 20.&nbsp;Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X., 2022, Machine-learning estimation of snow depth in 2021 Texas statewide winter storm using SAR imagery. <i>Geophysical Research Letters</i>, 49, e2022GL099119. <a href="https://doi.org/10.1029/2022GL099119" target="_blank">https://doi.org/10.1029/2022GL099119</a> <a href="/articles/Yu_GRL_2022.pdf" download>&#91;*pdf*&#93;</a>
 
