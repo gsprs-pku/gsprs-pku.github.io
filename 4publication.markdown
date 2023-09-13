@@ -1,0 +1,538 @@
+---
+layout: page
+title: Publication
+permalink: /publication/
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    /* a { text-decoration : none; } */
+    /* a:hover { text-decoration : underline; } */
+    /* a, a:visited { color : #0050e7; } */
+    .links { position : relative; top : 1px;  }
+    .links a {text-decoration: none; margin-right : 20px; }
+    table td{ border:none; }
+    table strong a { color : #0050e7; }
+    table { border-collapse: collapse; border-style: hidden; font-size: 1em}
+    </style>
+</head>
+ 
+<body>
+<h1>Publication</h1>
+
+† denotes group members under direct supervision  * denotes corresponding
+
+<div class="links">
+  <p><strong><a href="/publication/">Publications by Year</a></strong> 
+<!--<strong><a href="/publication/topic/">Publications by Topic</a></strong></p>-->
+</div>
+ 
+<div>
+  <table style="width: 100%;">
+    <tbody>
+
+
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/enhanced_2023.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Enhanced Kinematic Inversion of 3-D Displacements, Geometry, and Hydraulic Properties of a North-South Slow-Moving Landslide in Three Gorges Reservoir
+              </span>
+            </strong>
+            <br> Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. <br>
+            <em> Journal of Geophysical Research: Solid Earth, 128, e2022JB026232,</em> 2023 <br>
+            <a href="/article/JGR Solid Earth - 2023 - Zheng.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/character_2023.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Characterization of landslide displacements in an active fault zone in Northwest China
+              </span>
+            </strong>
+            <br>  Shi, X., <b>Hu, X.*</b> <br>
+            <em> Earth Surface Processes and Landforms,</em> 2023 <br>
+            <a href="/article/Earth Surf Processes Landf - 2023 - Shi.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/land_2023.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Land Subsidence in Tianjin, China: Before and after the South-to-North Water Diversion
+              </span>
+            </strong>
+            <br>  Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
+            <em> Remote Sensing, 15(6), 1647,</em> 2023 <br>
+            <a href="/article/remotesensing-15-01647-v2.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/collapse_2022.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Collapse and subsidence mechanism of compacted loess and suitability of mountain bulldozing and city creation projects in the Loess Plateau of China
+              </span>
+            </strong>
+            <br>  Qi, S., Hou, X., Yu, Y., Zhang, Y., <b>Hu, X.</b>, Zhang, L., Li, Z., Guo, S., Zhang, F., Li, T., Peng, J. <br>
+            <em> Science Bulletin (in Chinese),</em> 2022 <br>
+            <a href="/article/1F422530185B4B67B39147A7D220726D.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/machine_2022.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Machine-learning estimation of snow depth in 2021 Texas statewide winter storm using SAR imagery
+              </span>
+            </strong>
+            <br>  Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X. <br>
+            <em> Geophysical Research Letters, 49, e2022GL099119,</em> 2022 <br>
+            <a href="/articles/Yu_GRL_2022.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/enhanced_2022.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Enhanced dynamic landslide hazard assessment using MT-InSAR method in the Three Gorges Reservoir Area
+              </span>
+            </strong>
+            <br>  Zhou, C., Cao, Y., <b>Hu, X.</b>, Yin, K. <br>
+            <em> Landslides,</em> 2022 <br>
+             <a href="/articles/Zhou_Landslides_2022.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/stress_2021.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Stress perturbations from hydrological and industrial loads and seismicity in the Salt Lake City region
+              </span>
+            </strong>
+            <br>  <b>Hu, X.</b>, Xue, L., Bürgmann, R., Fu, Y. <br>
+            <em> Journal of Geophysical Research: Solid Earth, 126, e2021JB022362,</em> 2021 <br>
+             <a href="/articles/Hu_JGR_2021JB022362.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/machine_2021.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Machine-learning characterization of tectonic, hydrological and anthropogenic sources of ground deformation in California
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Xu, X., Zhen, L. <br>
+            <em> Journal of Geophysical Research: Solid Earth, 126, e2021JB022373,</em> 2021 <br>
+             <a href="/articles/Hu_JGR_2021JB022373.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/remote_2021.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Remote sensing characterization of mountain excavation and city construction in loess plateau
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Xue, L., Yu, Y., Guo, S., Cui, Y., Li, Y., Qi, S. <br>
+            <em> Geophysical Research Letters, 48, e2021GL095230,</em> 2021 <br>
+             <a href="/articles/Hu_GRL_2021GL095230.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/hydro_2021.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Hydrological control shift from river level to rainfall in the reactivated Guobu Slope besides the Laxiwa hydropower station (China)
+              </span>
+            </strong>
+            <br> Shi, X.G., <b>Hu, X.*</b>, Sitar, N., Kayen, R., Qi, S., Jiang, H., Wang, X., Zhang, L. <br>
+            <em> Remote Sensing of Environment, 265, 112664,</em> 2021 <br>
+             <a href="/articles/Hydrological control shift from river level to rainfall.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/knowledge_2021.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Knowledge-aided InSAR phase unwrapping approach
+              </span>
+            </strong>
+            <br> Yu, H.†, <b>Hu, X.</b> <br>
+            <em> IEEE Transactions on Geoscience and Remote Sensing,</em> 2021 <br>
+             <a href="/articles/Knowledge-Aided_InSAR_Phase_Unwrapping_Approach.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/surfae_2021.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Surface response and subsurface features during the restriction of groundwater exploitation in Suzhou (China) inferred from decadal SAR interferometry
+              </span>
+            </strong>
+            <br> Shi, G.Q., Ma, P., <b>Hu, X.</b>, Song, X., Huang, B., Lin, H. <br>
+            <em> Remote Sensing of Environment, 256, 112327,</em> 2021 <br>
+             <a href="/articles/Surface response and subsurface features during the restriction of groundwater exploitation.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/hydro-_2021.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Hydro-mechanical coupling in the shallow crust – insight from groundwater level and satellite radar imagery in a mining area
+              </span>
+            </strong>
+            <br> Shi, Z.M., <b>Hu, X.</b>, Wang, C.-Y. <br>
+            <em> Journal of Hydrology, 125649,</em> 2021 <br>
+             <a href="/articles/Hydro-mechanical coupling in the shallow crust.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/four_2020.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Four-dimensional surface motions of the Slumgullion landslide and quantification of hydrometeorological forcing
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Bürgmann, R., Schulz, W., Fielding, E.J. <br>
+            <em> Nature Communications, 11, 2792,</em> 2020 <br>
+             <a href="/articles/Four-dimensional surface motions.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/aquifer_2020.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Aquifer dynamics in the seismically hazardous Salt Lake Valley, Utah, USA.
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Bürgmann, R. <br>
+            <em> Earth and Planetary Science Letters, 547,</em> 2020 <br>
+             <a href="/articles/aquifer deformation and active faulting.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/internal_2020.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Internal kinematics of the Slumgullion landslide (USA) from high-resolution UAVSAR InSAR data
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Lee, H. <br>
+            <em> Remote Sensing of Environment, 251,</em> 2020 <br>
+             <a href="/articles/Internal kinematics of the Slumgullion landslide from high-resolution UAVSAR InSAR data.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/rheology_2020.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Rheology of a debris slide from the joint analysis of UAVSAR and LiDAR data
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Bürgmann, R. <br>
+            <em> Geophysical Research Letters, 47, e2020GL087452,</em> 2020 <br>
+              <a href="/articles/Rheology of a Debris Slide From the Joint Analysisof UAVSAR and LiDAR Data.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/mobility_2019.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Mobility, thickness, and hydraulic diffusivity of the slow-moving Monroe landslide in California revealed by L-band satellite radar interferometry
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Bürgmann, R., Lu, Z., Handwerger, A. L., Wang, T., Miao, R. <br>
+            <em> Journal of Geophysical Research: Solid Earth, 124,</em> 2019 <br>
+              <a href="/articles/Mobility, Thickness, and Hydraulic Diffusivityof the Slow Moving Monroe Landslidein California Revealed by LBand Satellite Radar Interferometry.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/char_2018.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Characterization of hydrogeological properties in Salt Lake Valley, Utah using InSAR
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Lu, Z., Wang, T. <br>
+            <em> Journal of Geophysical Research: Earth Surface, 123,</em> 2018 <br>
+              <a href="/articles/Characterization of Hydrogeological Propertiesin Salt Lake Valley, Utah, using InSAR.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/combining_2018.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Combining InSAR and GPS to determine transient movement and thickness of a seasonally active low‐gradient translational landslide
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Lu, Z., Pierson, T. C., Kramer, R., George, D. L. <br>
+            <em> Geophysical Research Letters, 45, 1453–1462,</em> 2018 <br>
+              <a href="/articles/Combining InSAR and GPS to Determine Transient Movement and Thickness of a Seasonally Active Low-Gradient Translational Landslide.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/consolid_2017.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Consolidation settlement of Salt Lake County tailings impoundment revealed by time-series InSAR observations from multiple radar satellites
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Oommen, T., Lu, Z., Wang, T., Kim, J. W. <br>
+            <em> Remote Sensing of Environment, 202, 199–209,</em> 2017 <br>
+              <a href="/articles/Consolidation settlement of Salt Lake County tailings impoundment revealed by time-series InSAR observations from multiple radar satellites.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/detect_2016.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Detecting seasonal landslide movement within the Cascade landslide complex (Washington) using time-series SAR imagery
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Wang, T., Pierson, T. C., Lu, Z., Kim, J. W., Cecere, T. H. <br>
+            <em> Remote Sensing of Environment, 187, 49–61,</em> 2016 <br>
+               <a href="/articles/Detecting seasonal landslide movement within the Cascade landslide complex (Washington) using time-series SAR imagery.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/pre_2015.jpg" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Pre-2014 mudslides at Oso revealed by InSAR and multi-source DEM analysis
+              </span>
+            </strong>
+            <br> Kim, J.W., Lu, Z., Qu, F., <b>Hu, X.</b> <br>
+            <em> Geomatics, Natural Hazards and Risk, 6(3), 184–194,</em> 2015 <br>
+               <a href="/articles/Pre 2014 mudslides at Oso revealed by InSAR and multi source DEM analysis.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+  
+      <tr>
+        <td style="width: 30%;">
+          <img src="{{site.url}}/imgs/article_img/measure_2014.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Measuring coseismic displacements with point-like targets offset tracking
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Wang, T, Liao, M. <br>
+            <em> IEEE Geoscience and Remote Sensing Letters, 11(1), 283–287,</em> 2014 <br>
+               <a href="/articles/Measuring_Coseismic_Displacements_With_Point-Like_Targets_Offset_Tracking.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>    
+
+
+    </tbody>
+  </table>
+</div>
+
+<br>
+
+**Under Review**
+† denotes group members under direct supervision  * denotes corresponding
+
+7.&nbsp;Song, Y.†, <b>Hu, X.*</b>, et al., Alternative hydrological variable from InSAR coherence in landslide characterization.
+
+6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
+
+5.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations.
+
+4.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+
+3.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
+
+2.&nbsp;Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Ouyang, C., Zhang, Q., Hazard analysis and flooding model of glacial lake outburst flood using multiple remote sensing methods.
+
+1.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
+
+<br>
+
+**In Preparation**
+† denotes group members under direct supervision  * denotes corresponding
+
+4.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
+
+3.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Geodetic implications for the 2021 lethal building collapse in Surfside, Florida.
+
+2.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
+
+1.&nbsp;Xue, L., et al., Anthropogenic impacts on landscape evolution: A case study of mountain excavation and city construction in Loess Plateau.
+
+<br/>
+<br/>
+<br/>
+<br/>
+</body>
+ 
+</html>
