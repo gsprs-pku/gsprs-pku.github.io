@@ -524,7 +524,7 @@ permalink: /publication/
 <br>
 </body>
 
-**Under Review**
+<b>**Under Review**</b>
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
@@ -543,8 +543,9 @@ permalink: /publication/
 1.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
 
 <br>
+<br>
 
-**In Preparation**
+<b>**In Preparation**</b>
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
