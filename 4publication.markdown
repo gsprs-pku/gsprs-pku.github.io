@@ -40,7 +40,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Zheng_2023_JGR.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -60,7 +60,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Shi_2023_ESPL.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -80,7 +80,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Yu_2023_RS.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -100,7 +100,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Qi_2022.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -120,7 +120,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Yu_2022_GRL.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -140,7 +140,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Zhou_2022_Landslides.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -160,7 +160,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2021_JGR.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -180,7 +180,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2021_JGR_ML.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -200,7 +200,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2021_GRL.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -220,7 +220,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Shi_2021_RSE.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -240,7 +240,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Yu_2021_IEEE.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -260,7 +260,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Shi_RSE_2020.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -280,7 +280,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Shi_2021_JH.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -300,7 +300,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2020_NComms.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -320,7 +320,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2020_EPSL.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -340,7 +340,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2020_RSE.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -360,7 +360,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2020_GRL.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -380,7 +380,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2019_JGR.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -400,7 +400,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2018_JGR.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -420,7 +420,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2018_GRL2.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -440,7 +440,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2017_RSE.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -460,7 +460,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2016_RSE.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -480,7 +480,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Kim_2015.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -500,7 +500,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/xxx.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2012_IEEE.png" />
         </td>
         <td style="width: 70%;">
           <p>
