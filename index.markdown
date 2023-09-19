@@ -60,7 +60,7 @@ layout: page
 <body>
     <div class="box">
     <video autoplay loop preload muted>
-            <source src="/imgs/research_images/1_out.mp4">
+            <source src="/imgs/research_images/backGround.mp4">
         </video>
     </div>
     <div class="content">
