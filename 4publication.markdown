@@ -541,6 +541,7 @@ permalink: /publication/
 3.&nbsp;Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Ouyang, C., Zhang, Q., Hazard analysis and flooding model of glacial lake outburst flood using multiple remote sensing methods.
 <br>
 2.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
+<br>
 1.&nbsp;Ma, Z., et al., 10 times more precipitation changing trends occur in the ocean than land from 2003 to 2019.
 <br>
 <br>
