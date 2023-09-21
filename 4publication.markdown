@@ -27,7 +27,7 @@ permalink: /publication/
 
 <div class="links">
   <p><strong><a href="/publication/">Publications by Year</a></strong> </p>
-  <p></p><strong><a href="/publication/topic/">Publications by Topic</a></strong></p>
+  <p><strong><a href="/publication/topic/">Publications by Topic</a></strong></p>
 </div>
 
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
