@@ -106,6 +106,24 @@ permalink: /publication/topic/
   <table style="width: 100%;">
     <tbody>
 
+      <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Hu_2012_IEEE.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                Measuring coseismic displacements with point-like targets offset tracking
+              </span>
+            </strong>
+            <br> <b>Hu, X.</b>, Wang, T, Liao, M. <br>
+            <em> IEEE Geoscience and Remote Sensing Letters, 11(1), 283–287,</em> 2014 <br>
+               <a href="/articles/Measuring_Coseismic_Displacements_With_Point-Like_Targets_Offset_Tracking.pdf" download>&#91;*pdf*&#93;</a>
+          </p>
+        </td>
+      </tr>  
 
     </tbody>
   </table>
@@ -208,13 +226,50 @@ permalink: /publication/topic/
 
     </tbody>
   </table>
-</div>
+</div>  
 
 
+
+
+<b>**Under Review**</b>
+<br>
+† denotes group members under direct supervision  * denotes corresponding
+<br>
+8.&nbsp;Song, Y.†, <b>Hu, X.*</b>, et al., Alternative hydrological variable from InSAR coherence in landslide characterization.
+<br>
+7.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
+<br>
+6.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations.
+<br>
+5.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+<br>
+4.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
+<br>
+3.&nbsp;Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Ouyang, C., Zhang, Q., Hazard analysis and flooding model of glacial lake outburst flood using multiple remote sensing methods.
+<br>
+2.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
+<br>
+1.&nbsp;Ma, Z., et al., 10 times more precipitation changing trends occur in the ocean than land from 2003 to 2019.
+<br>
+<br>
+
+<b>**In Preparation**</b>
+<br>
+† denotes group members under direct supervision  * denotes corresponding
+<br>
+5.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., 2023 extreme floods in Beijing-Tianjin-Hebei region.
+<br>
+4.&nbsp;Mirzadeh, S.†, <b>Hu, X.*</b>, et al., Spatiotemporal Changes in Natural Balance of Abarkuh Playa Enlightened by Remote Sensing and Hydrological Datasets.
+<br>
+3.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
+<br>
+2.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Geodetic implications for the 2021 lethal building collapse in Surfside, Florida.
+<br>
+1.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
 <br/>
 <br/>
 <br/>
 <br/>
-</body>
+
  
 </html>
