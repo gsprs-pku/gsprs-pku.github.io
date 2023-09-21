@@ -25,12 +25,12 @@ permalink: /publication/
 <body>
 <h1>Publication</h1>
 
-† denotes group members under direct supervision  * denotes corresponding
-
 <div class="links">
   <p><strong><a href="/publication/">Publications by Year</a></strong> </p>
-<strong><a href="/publication/topic/">Publications by Topic</a></strong></p>
+  <p></p><strong><a href="/publication/topic/">Publications by Topic</a></strong></p>
 </div>
+
+<p>† denotes group members under direct supervision  * denotes corresponding </p>
  
 <div>
   <table style="width: 100%;">
