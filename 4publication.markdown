@@ -29,7 +29,7 @@ permalink: /publication/
 
 <div class="links">
   <p><strong><a href="/publication/">Publications by Year</a></strong> </p>
-<!--<strong><a href="/publication/topic/">Publications by Topic</a></strong></p>-->
+<strong><a href="/publication/topic/">Publications by Topic</a></strong></p>
 </div>
  
 <div>
