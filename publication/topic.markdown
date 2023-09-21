@@ -228,10 +228,6 @@ permalink: /publication/topic/
   </table>
 </div>  
 
-    </tbody>
-  </table>
-</div>
-
 <br>
 </body>
 
