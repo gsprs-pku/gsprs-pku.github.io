@@ -28,6 +28,8 @@ permalink: /publication/topic/
   <p><strong><a href="/publication/">Publications by Year</a></strong> 
   <strong><a href="/publication/topic/">Publications by Topic</a></strong></p>
 </div>
+
+<p>† denotes group members under direct supervision  * denotes corresponding </p>
  
  <p>
    <strong> Landslides </strong>
