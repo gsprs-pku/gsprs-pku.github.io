@@ -183,7 +183,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yongxuan Ran (yongxuanran@whu.edu.cn) </p>
+<p style="font-weight:bold">Yongxuan Ran (yongxuan@stu.pku.edu.cn) </p>
 
     <table>
         <tbody>
@@ -331,6 +331,42 @@ Research interests:
     <br>
 <br>
 <br>
+
+<p style="font-weight:bold">Feng Lin (linfeng02@bjfu.edu.cn)</p>    
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:100px;" rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/people/Feng_Lin.jpg" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2024- </td>
+                <td> Ph.D. </td>  
+                <td> Physical Geography </td> 
+                <td> Peking University </td> 
+            </tr>
+            <tr>   
+                <td> 2020-2024 </td>
+                <td> B.S. </td>     
+                <td> Computer Science and Technology </td> 
+                <td> Beijing Forestry University </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Deep learning in remote sensing
+    <br>
+<br>
+<br>
+
 <br>
 
 <p style="font-weight:bold">VIP</p>
