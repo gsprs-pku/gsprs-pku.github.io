@@ -34,7 +34,7 @@ permalink: /publication/topic/
  <p>
    <strong> Landslides </strong>
  </p>
- <br>
+ 
 
 <div>
   <table style="width: 100%;">
@@ -67,7 +67,7 @@ permalink: /publication/topic/
 <p>
    <strong> Extreme precipitation events </strong>
  </p>
- <br>
+
 
 <div>
   <table style="width: 100%;">
@@ -100,7 +100,7 @@ permalink: /publication/topic/
 <p>
    <strong> Urban subsidence </strong>
  </p>
- <br>
+
 
 <div>
   <table style="width: 100%;">
@@ -133,7 +133,6 @@ permalink: /publication/topic/
 <p>
    <strong> Methodology </strong>
  </p>
- <br>
 
 <div>
   <table style="width: 100%;">
@@ -166,7 +165,7 @@ permalink: /publication/topic/
 <p>
    <strong> Mine and engineering structures </strong>
  </p>
- <br>
+
 
 <div>
   <table style="width: 100%;">
@@ -199,7 +198,6 @@ permalink: /publication/topic/
 <p>
    <strong> Tectonics </strong>
  </p>
- <br>
 
 <div>
   <table style="width: 100%;">
