@@ -562,7 +562,5 @@ permalink: /publication/
 <br>
 <br/>
 <br/>
-<br/>
-<br/>
 
 </html>
