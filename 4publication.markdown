@@ -26,8 +26,8 @@ permalink: /publication/
 <h1>Publication</h1>
 
 <div class="links">
-  <p><strong><a href="/publication/">Publications by Year</a></strong> 
-  <strong><a href="/publication/topic/">Publications by Topic</a></strong></p>
+  <p><strong><a href="/publication/">Publication by year</a></strong> 
+  <strong><a href="/publication/topic/">Publication by topics</a></strong></p>
 </div>
 
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
@@ -523,7 +523,7 @@ permalink: /publication/
 
 <br>
 </body>
-
+<br>
 <b>**Under Review**</b>
 <br>
 † denotes group members under direct supervision  * denotes corresponding
