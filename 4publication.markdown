@@ -99,11 +99,19 @@ permalink: /publication/
           </p>
         </td>
       </tr>
+    </tbody>
+  </table>
+</div>
 
+<br>
 <p>
    <strong> 2022 </strong>
 </p> 
 
+<div>
+  <table style="width: 100%;">
+    <tbody>
+        
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -160,10 +168,17 @@ permalink: /publication/
           </p>
         </td>
       </tr>
+    </tbody>
+  </table>
+</div>
 
 <p>
    <strong> 2021 </strong>
 </p>  
+<div>
+  <table style="width: 100%;">
+    <tbody>
+        
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -202,8 +217,7 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
-  
+ 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -222,7 +236,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
   
       <tr>
         <td style="width: 30%;">
@@ -242,8 +255,7 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
-  
+ 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -263,7 +275,7 @@ permalink: /publication/
         </td>
       </tr>
 
-        <tr>
+      <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Shi_2021_JH.png" />
@@ -281,11 +293,18 @@ permalink: /publication/
           </p>
         </td>
       </tr>
+    </tbody>
+  </table>
+</div>
 
 <p>
    <strong> 2020 </strong>
 </p>  
-  
+
+<div>
+  <table style="width: 100%;">
+    <tbody>
+
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -324,7 +343,6 @@ permalink: /publication/
         </td>
       </tr>
 
-  
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -343,7 +361,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
   
       <tr>
         <td style="width: 30%;">
@@ -363,7 +380,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
   
       <tr>
         <td style="width: 30%;">
@@ -383,10 +399,18 @@ permalink: /publication/
           </p>
         </td>
       </tr>
+    </tbody>
+  </table>
+</div>
 
 <p>
    <strong> 2019 </strong>
 </p>    
+
+<div>
+  <table style="width: 100%;">
+    <tbody>
+        
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -405,11 +429,18 @@ permalink: /publication/
           </p>
         </td>
       </tr>
+    </tbody>
+  </table>
+</div>
 
 <p>
    <strong> 2018 </strong>
 </p>  
 
+<div>
+  <table style="width: 100%;">
+    <tbody>
+        
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -447,11 +478,17 @@ permalink: /publication/
           </p>
         </td>
       </tr>
+    </tbody>
+  </table>
+</div>
 
 <p>
    <strong> Before 2018 </strong>
 </p>   
 
+<div>
+  <table style="width: 100%;">
+    <tbody>
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -470,11 +507,7 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
-<p>
-   <strong> 2016 </strong>
-</p>  
-
+ 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -493,7 +526,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
   
       <tr>
         <td style="width: 30%;">
@@ -513,7 +545,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
   
       <tr>
         <td style="width: 30%;">
@@ -533,7 +564,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>    
-
 
     </tbody>
   </table>
