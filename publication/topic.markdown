@@ -53,7 +53,7 @@ permalink: /publication/topic/
             </strong>
             <br> Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. <br>
             <em> Journal of Geophysical Research: Solid Earth, 128, e2022JB026232,</em> 2023 <br>
-            <a href="/article/JGR Solid Earth - 2023 - Zheng.pdf" download>&#91;*pdf*&#93;</a>
+            <a href="/article/JGR Solid Earth - 2023 - Zheng.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -72,7 +72,7 @@ permalink: /publication/topic/
             </strong>
             <br>  Shi, X., <b>Hu, X.*</b> <br>
             <em> Earth Surface Processes and Landforms,</em> 2023 <br>
-            <a href="/article/Earth Surf Processes Landf - 2023 - Shi.pdf" download>&#91;*pdf*&#93;</a>
+            <a href="/article/Earth Surf Processes Landf - 2023 - Shi.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -91,7 +91,7 @@ permalink: /publication/topic/
             </strong>
             <br>  Zhou, C., Cao, Y., <b>Hu, X.</b>, Yin, K. <br>
             <em> Landslides,</em> 2022 <br>
-             <a href="/articles/Zhou_Landslides_2022.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/Zhou_Landslides_2022.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -129,7 +129,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Bürgmann, R., Schulz, W., Fielding, E.J. <br>
             <em> Nature Communications, 11, 2792,</em> 2020 <br>
-             <a href="/articles/Four-dimensional surface motions.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/Four-dimensional surface motions.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -148,7 +148,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Lee, H. <br>
             <em> Remote Sensing of Environment, 251,</em> 2020 <br>
-             <a href="/articles/Internal kinematics of the Slumgullion landslide from high-resolution UAVSAR InSAR data.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/Internal kinematics of the Slumgullion landslide from high-resolution UAVSAR InSAR data.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -167,7 +167,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Bürgmann, R. <br>
             <em> Geophysical Research Letters, 47, e2020GL087452,</em> 2020 <br>
-              <a href="/articles/Rheology of a Debris Slide From the Joint Analysisof UAVSAR and LiDAR Data.pdf" download>&#91;*pdf*&#93;</a>
+              <a href="/articles/Rheology of a Debris Slide From the Joint Analysisof UAVSAR and LiDAR Data.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -186,7 +186,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Bürgmann, R., Lu, Z., Handwerger, A. L., Wang, T., Miao, R. <br>
             <em> Journal of Geophysical Research: Solid Earth, 124,</em> 2019 <br>
-              <a href="/articles/Mobility, Thickness, and Hydraulic Diffusivityof the Slow Moving Monroe Landslidein California Revealed by LBand Satellite Radar Interferometry.pdf" download>&#91;*pdf*&#93;</a>
+              <a href="/articles/Mobility, Thickness, and Hydraulic Diffusivityof the Slow Moving Monroe Landslidein California Revealed by LBand Satellite Radar Interferometry.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -205,7 +205,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Lu, Z., Pierson, T. C., Kramer, R., George, D. L. <br>
             <em> Geophysical Research Letters, 45, 1453–1462,</em> 2018 <br>
-              <a href="/articles/Combining InSAR and GPS to Determine Transient Movement and Thickness of a Seasonally Active Low-Gradient Translational Landslide.pdf" download>&#91;*pdf*&#93;</a>
+              <a href="/articles/Combining InSAR and GPS to Determine Transient Movement and Thickness of a Seasonally Active Low-Gradient Translational Landslide.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -224,7 +224,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Wang, T., Pierson, T. C., Lu, Z., Kim, J. W., Cecere, T. H. <br>
             <em> Remote Sensing of Environment, 187, 49–61,</em> 2016 <br>
-               <a href="/articles/Detecting seasonal landslide movement within the Cascade landslide complex (Washington) using time-series SAR imagery.pdf" download>&#91;*pdf*&#93;</a>
+               <a href="/articles/Detecting seasonal landslide movement within the Cascade landslide complex (Washington) using time-series SAR imagery.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -243,7 +243,7 @@ permalink: /publication/topic/
             </strong>
             <br> Kim, J.W., Lu, Z., Qu, F., <b>Hu, X.</b> <br>
             <em> Geomatics, Natural Hazards and Risk, 6(3), 184–194,</em> 2015 <br>
-               <a href="/articles/Pre 2014 mudslides at Oso revealed by InSAR and multi source DEM analysis.pdf" download>&#91;*pdf*&#93;</a>
+               <a href="/articles/Pre 2014 mudslides at Oso revealed by InSAR and multi source DEM analysis.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -274,7 +274,7 @@ permalink: /publication/topic/
             </strong>
             <br>  Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
             <em> Remote Sensing, 15(6), 1647,</em> 2023 <br>
-            <a href="/article/remotesensing-15-01647-v2.pdf" download>&#91;*pdf*&#93;</a>
+            <a href="/article/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -293,7 +293,7 @@ permalink: /publication/topic/
             </strong>
             <br>  Qi, S., Hou, X., Yu, Y., Zhang, Y., <b>Hu, X.</b>, Zhang, L., Li, Z., Guo, S., Zhang, F., Li, T., Peng, J. <br>
             <em> Science Bulletin (in Chinese),</em> 2022 <br>
-            <a href="/article/1F422530185B4B67B39147A7D220726D.pdf" download>&#91;*pdf*&#93;</a>
+            <a href="/article/1F422530185B4B67B39147A7D220726D.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -312,7 +312,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Xue, L., Yu, Y., Guo, S., Cui, Y., Li, Y., Qi, S. <br>
             <em> Geophysical Research Letters, 48, e2021GL095230,</em> 2021 <br>
-             <a href="/articles/Hu_GRL_2021GL095230.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/Hu_GRL_2021GL095230.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
        </tr>
@@ -331,7 +331,7 @@ permalink: /publication/topic/
             </strong>
             <br> Shi, G.Q., Ma, P., <b>Hu, X.</b>, Song, X., Huang, B., Lin, H. <br>
             <em> Remote Sensing of Environment, 256, 112327,</em> 2021 <br>
-             <a href="/articles/Surface response and subsurface features during the restriction of groundwater exploitation.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/Surface response and subsurface features during the restriction of groundwater exploitation.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -350,7 +350,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Lu, Z., Wang, T. <br>
             <em> Journal of Geophysical Research: Earth Surface, 123,</em> 2018 <br>
-              <a href="/articles/Characterization of Hydrogeological Propertiesin Salt Lake Valley, Utah, using InSAR.pdf" download>&#91;*pdf*&#93;</a>
+              <a href="/articles/Characterization of Hydrogeological Propertiesin Salt Lake Valley, Utah, using InSAR.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -382,7 +382,7 @@ permalink: /publication/topic/
             </strong>
             <br> Shi, Z.M., <b>Hu, X.</b>, Wang, C.-Y. <br>
             <em> Journal of Hydrology, 125649,</em> 2021 <br>
-             <a href="/articles/Hydro-mechanical coupling in the shallow crust.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/Hydro-mechanical coupling in the shallow crust.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -401,7 +401,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Oommen, T., Lu, Z., Wang, T., Kim, J. W. <br>
             <em> Remote Sensing of Environment, 202, 199–209,</em> 2017 <br>
-              <a href="/articles/Consolidation settlement of Salt Lake County tailings impoundment revealed by time-series InSAR observations from multiple radar satellites.pdf" download>&#91;*pdf*&#93;</a>
+              <a href="/articles/Consolidation settlement of Salt Lake County tailings impoundment revealed by time-series InSAR observations from multiple radar satellites.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -433,7 +433,7 @@ permalink: /publication/topic/
             </strong>
             <br>  <b>Hu, X.</b>, Xue, L., Bürgmann, R., Fu, Y. <br>
             <em> Journal of Geophysical Research: Solid Earth, 126, e2021JB022362,</em> 2021 <br>
-             <a href="/articles/Hu_JGR_2021JB022362.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/Hu_JGR_2021JB022362.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
     </tr>
@@ -452,7 +452,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Xu, X., Zhen, L. <br>
             <em> Journal of Geophysical Research: Solid Earth, 126, e2021JB022373,</em> 2021 <br>
-             <a href="/articles/Hu_JGR_2021JB022373.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/Hu_JGR_2021JB022373.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
     </tr>
@@ -471,7 +471,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Bürgmann, R. <br>
             <em> Earth and Planetary Science Letters, 547,</em> 2020 <br>
-             <a href="/articles/aquifer deformation and active faulting.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/aquifer deformation and active faulting.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>     
@@ -502,7 +502,7 @@ permalink: /publication/topic/
             </strong>
             <br>  Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X. <br>
             <em> Geophysical Research Letters, 49, e2022GL099119,</em> 2022 <br>
-            <a href="/articles/Yu_GRL_2022.pdf" download>&#91;*pdf*&#93;</a>
+            <a href="/articles/Yu_GRL_2022.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -532,7 +532,7 @@ permalink: /publication/topic/
             </strong>
             <br> Yu, H.†, <b>Hu, X.</b> <br>
             <em> IEEE Transactions on Geoscience and Remote Sensing,</em> 2021 <br>
-             <a href="/articles/Knowledge-Aided_InSAR_Phase_Unwrapping_Approach.pdf" download>&#91;*pdf*&#93;</a>
+             <a href="/articles/Knowledge-Aided_InSAR_Phase_Unwrapping_Approach.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -551,7 +551,7 @@ permalink: /publication/topic/
             </strong>
             <br> <b>Hu, X.</b>, Wang, T, Liao, M. <br>
             <em> IEEE Geoscience and Remote Sensing Letters, 11(1), 283–287,</em> 2014 <br>
-               <a href="/articles/Measuring_Coseismic_Displacements_With_Point-Like_Targets_Offset_Tracking.pdf" download>&#91;*pdf*&#93;</a>
+               <a href="/articles/Measuring_Coseismic_Displacements_With_Point-Like_Targets_Offset_Tracking.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>  
