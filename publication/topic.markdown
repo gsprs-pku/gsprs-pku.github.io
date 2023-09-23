@@ -560,8 +560,9 @@ permalink: /publication/topic/
   </table>
 </div>
 
+<br>
 </body>
-
+<br>
 
 <b>**Under Review**</b>
 <br>
