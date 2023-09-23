@@ -221,7 +221,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Feng Lin (linfeng02@bjfu.edu.cn)</p>    
+<p style="font-weight:bold">Feng Lin (linfeng02@bjfu.edu.cn; officially join in 2024 fall)</p>    
     <table>
         <tbody>
             <tr>
@@ -279,7 +279,7 @@ Research interests:
                 <td> Peking University, Beijing </td> 
             </tr>
             <tr>     
-               <td> 2018-2022 </td>
+               <td> 2017-2021 </td>
                <td> B.S. </td> 
                <td> Land Resource Managment </td> 
                <td> China University of Geosciences, Beijing </td> 
@@ -333,7 +333,7 @@ Research interests:
 <br>
 <br>       
 
-<p style="font-weight:bold">Jinghui Xiao (xiaojinghui@whu.edu.cn)</p>    
+<p style="font-weight:bold">Jinghui Xiao (xiaojinghui@whu.edu.cn; officially join in 2024 fall)</p>    
     <table>
         <tbody>
             <tr>
