@@ -24,7 +24,7 @@ permalink: /people/
             <tr>
                 <td style="width:100px;" rowspan="10">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/people/XH.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Xie.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
