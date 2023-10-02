@@ -13,8 +13,8 @@ permalink: /photos/
 
 
 <body>
-    <div>
-    <img src="{{site.url}}/imgs/people/milk_cap1.jpg">
+    <div align=center>
+    <img src="{{site.url}}/imgs/people/milk_cap1.jpg" width="200" >
     </div>
 </body>
 
