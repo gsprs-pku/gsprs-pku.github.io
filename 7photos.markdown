@@ -21,7 +21,7 @@ permalink: /photos/
 
 <body>
     <div>
-    img src="{{site.url}}/imgs/milk_cup1.jpg" >
+    <img src="{{site.url}}/imgs/milk_cup1.jpg" >
     </div>
 </body>
 
