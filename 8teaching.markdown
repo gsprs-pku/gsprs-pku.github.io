@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+<embed src="http://gsprs-pku.github.io/teaching/GIS%E9%AB%98%E7%BA%A7%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8Syllabus2023.pdf" type="application/pdf" />
+
 <html lang="en">
 
 <head>

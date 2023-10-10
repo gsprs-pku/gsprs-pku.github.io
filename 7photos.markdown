@@ -14,8 +14,9 @@ permalink: /photos/
 
 <body>
     <div align=center>
-    <img src="{{site.url}}/imgs/people/milk_cap1.jpg" width="200" >
+    <img src="{{site.url}}/research_images/2023MidAutumn.gif" width="200" >
     </div>
+    <br>
 </body>
 
 </html>
