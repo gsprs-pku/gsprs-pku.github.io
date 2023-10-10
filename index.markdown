@@ -60,11 +60,11 @@ layout: page
 <body>
     <div class="box">
     <video autoplay loop preload muted>
-            <source src="/imgs/research_images/backGround.mp4">
+            <source src="/imgs/research_images/NewFenghuoshanRTS.mp4">
         </video>
     </div>
     <div class="content">
-        We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University, focusing on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with natural hazards in terrestrial planets.
+        We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University, focusing on using remote sensing tools to characterize land disturbances associated with natural hazards in terrestrial planets.
     </div>
     <div class="button">
         <a href="/home/">Learn more</a>

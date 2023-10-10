@@ -16,6 +16,7 @@ permalink: /photos/
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2023MidAutumn.gif" width="800" >
     </div>
+    <td> 2023 Mid-autumn Eve - from left to right - standing: Sayyed, Feng - sitting: Penghui, Yuqi, Yongxuan, Yiling, Xie </td> 
     <br>
 </body>
 
