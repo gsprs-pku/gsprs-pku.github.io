@@ -14,7 +14,7 @@ permalink: /photos/
 
 <body>
     <div align=center>
-    <img src="{{site.url}}/research_images/2023MidAutumn.gif" width="200" >
+    <img src="{{site.url}}/imgs/group_photos/2023MidAutumn.gif" width="200" >
     </div>
     <br>
 </body>
