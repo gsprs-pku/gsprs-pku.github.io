@@ -16,6 +16,10 @@ permalink: /teaching/
 
 <iframe src="/teaching/GIS高级技术与应用Syllabus2023.pdf" width="100%" height="600px"></iframe>
 
+<iframe src="/teaching/SAR_RS_2023_syllabus.pdf" width="100%" height="600px"></iframe>
+
+<iframe src="/teaching/微波遥感地学应用专题.pdf" width="100%" height="600px"></iframe>
+
 </body>
 
 </html>
