@@ -13,7 +13,9 @@ permalink: /teaching/
 </head>
 
 <body>
-
+<h>
+    Advanced GIS Technologies and Applications
+</h>
 <iframe src="/teaching/GIS高级技术与应用Syllabus2023.pdf" width="100%" height="600px"></iframe>
 
 <iframe src="/teaching/SAR_RS_2023_syllabus.pdf" width="100%" height="600px"></iframe>
