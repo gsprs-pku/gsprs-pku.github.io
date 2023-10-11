@@ -59,8 +59,8 @@ layout: page
 
 <body>
     <div class="box">
-    <video autoplay loop preload muted>
-            <source src="/imgs/research_images/NewFenghuoshanRTS.mp4">
+        <video autoplay loop preload muted>
+            <source src="/imgs/research_images/NewFenghuoshanRTS.mp4" type="video/mp4">
         </video>
     </div>
     <div class="content">
