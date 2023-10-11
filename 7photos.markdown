@@ -16,8 +16,15 @@ permalink: /photos/
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2023MidAutumn.gif" width="800" >
     </div>
-    <td> 2023 Mid-autumn Eve - from left to right - standing: Sayyed, Feng - sitting: Penghui, Yuqi, Yongxuan, Yiling, Xie </td> 
+    <td> 2023 Mid-autumn Eve - from left to right - standing: Sayyed, Feng - sitting: Penghui, Yuqi, Yongxuan, Yiling, Xie. Yongxuan, Yuqi, and Sayyed brought mooncakes to share. </td> 
     <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2023MidAutumn.gif" width="800" >
+    </div>
+    <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
+
 </body>
 
 </html>
