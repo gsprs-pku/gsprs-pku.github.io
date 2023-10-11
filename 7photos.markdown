@@ -21,7 +21,7 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2023MidAutumn.gif" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/2023BeforeChineseNewYear.png" width="800" >
     </div>
     <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
 
