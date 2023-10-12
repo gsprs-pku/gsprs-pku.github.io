@@ -30,7 +30,7 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/RTS1.JPG" width="800" >
     <img src="{{site.url}}/imgs/group_photos/RTS2.jpg" width="800" >
     </div>
-    <td> Field work on retrogressive thaw slumps in Wudaoliang, Qinghai Province, Tibetan Plateau. Yiling in front of the toe of one slump. </td> 
+    <td> Field work on retrogressive thaw slumps in Wudaoliang, Qinghai Province, Tibetan Plateau. Yiling was standing in front of the emergent toe of one slump. </td> 
     <br>
     <br>
     <br>
