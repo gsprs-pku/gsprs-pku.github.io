@@ -30,14 +30,14 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/RTS1.JPG" width="800" >
     <img src="{{site.url}}/imgs/group_photos/RTS2.jpg" width="800" >
     </div>
-    <td> Field work on retrogressive thaw slumps in Wudaoliang, Qinghai Province, Tibetan Plateau. Yiling was standing in front of the emergent toe of one slump. </td> 
+    <td> Field work on retrogressive thaw slumps in Wudaoliang, Qinghai Province, Tibetan Plateau in July 2023. Yiling was standing in front of an emergent toe of the slump. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2023DroneSurveyTraining.png" width="800" >
     </div>
-    <td> Drone survey training in Tianjin - one session in July and another in August. </td> 
+    <td> Drone survey training in Tianjin - one session in July and another in August 2023. </td> 
     <br>
     <br>
     <br>
@@ -45,6 +45,5 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/2023BeforeChineseNewYear.png" width="800" >
     </div>
     <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
-    <br>
 </body>
 </html>
