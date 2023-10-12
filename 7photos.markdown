@@ -11,7 +11,6 @@ permalink: /photos/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-
 <body>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2023MidAutumn.gif" width="800" >
@@ -29,8 +28,7 @@ permalink: /photos/
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/RTS1.JPG" width="800" >
-    <br>
-    <img src="{{site.url}}/imgs/group_photos/RTS2.JPG" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/RTS2.jpg" width="800" >
     </div>
     <td> Field work on retrogressive thaw slumps in Wudaoliang, Qinghai Province, Tibetan Plateau. Yiling in front of the toe of one slump. </td> 
     <br>
