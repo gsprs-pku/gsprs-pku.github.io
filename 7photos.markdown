@@ -28,6 +28,8 @@ permalink: /photos/
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/RTS1.JPG" width="800" >
+    </div>
+    <div align=center> 
     <img src="{{site.url}}/imgs/group_photos/RTS2.JPG" width="800" >
     </div>
     <td> Field work on retrogressive thaw slumps in Wudaoliang, Qinghai Province, Tibetan Plateau. Yiling in front of the toe of one slump. </td> 
