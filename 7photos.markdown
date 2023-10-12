@@ -22,14 +22,14 @@ permalink: /photos/
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2023TeachersDay.JPG" width="800" >
+    </div>
     <td> 2023 Teachers' Day - from left to right - Sayyed, Xie, Yuqi, Yiling, Yongxuan, Penghui, and Feng.
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/RTS1.JPG" width="800" >
-    </div>
-    <div align=center> 
+    <br>
     <img src="{{site.url}}/imgs/group_photos/RTS2.JPG" width="800" >
     </div>
     <td> Field work on retrogressive thaw slumps in Wudaoliang, Qinghai Province, Tibetan Plateau. Yiling in front of the toe of one slump. </td> 
@@ -48,9 +48,5 @@ permalink: /photos/
     </div>
     <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
     <br>
-    <br>
-    <br>
-    </div>  
 </body>
-
 </html>
