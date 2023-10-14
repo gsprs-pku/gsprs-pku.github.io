@@ -22,7 +22,14 @@ permalink: /photos/
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2023TeachersDay.JPG" width="800" >
     </div>
-    <td> 2023 Teachers' Day - from left to right - Sayyed, Xie, Yuqi, Yiling, Yongxuan, Penghui, and Feng.
+    <td> 2023 Teachers' Day - from left to right - Sayyed, Xie, Yuqi, Yiling, Yongxuan, Penghui, and Feng. </td> 
+    <br>
+    <br>
+    <br>
+<div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2023Lvliang.png" width="800" >
+    </div>
+    <td> Field work in summertime in Penghui’s hometown Lvliang with numerous landslides - Selfie taken by the drone - from left to right - Yuqi, Yiling, and Penghui. </td>
     <br>
     <br>
     <br>
