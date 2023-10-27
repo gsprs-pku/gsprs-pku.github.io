@@ -74,16 +74,6 @@ permalink: /people/
                 <td> Postdoctoral Researcher </td>
                 <td> University of California Berkeley, CA, USA </td>
             </tr>
-            <tr>
-                <td> 2014-2018 </td>
-                <td> Graduate Research Assistant </td>
-                <td> Southern Methodist University, Dallas, TX, USA </td>
-            </tr>
-            <tr>
-                <td> 2013-2014 </td>
-                <td> Research Assistant </td>
-                <td> King Abdullah University of Science and Technology,<br>Thuwal, Saudi Arabia </td>
-            </tr>
         </tbody>
     </table>
     <br>
