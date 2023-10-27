@@ -86,8 +86,16 @@ permalink: /people/
             </tr>
         </tbody>
     </table>
-
     <br>
+Honors & awards:
+    <br>
+- AGU Natural Hazards Early Career Awards
+    <br>
+- NASA New (Early Career) Investigator Program in Earth Science
+    <br>
+- Top 10 most downloaded papers* in Journal of Geophysical Research: Solid Earth
+*In work published between 1 January 2021 – 31 December 2021, Hu et al. (2021) is among the top 10 most downloaded papers in the 12 months following online publication.
+
 Research interests:
     <br>
 - SAR remote sensing in natural hazards and shallow solid earth
