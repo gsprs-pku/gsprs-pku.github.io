@@ -620,7 +620,6 @@ permalink: /publication/
 2.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lin, F.†, et al., Inventorying Martian craters based on segment anything model (SAM). 
 <br>
 1.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
-<br>
 <br/>
 <br/>
 
