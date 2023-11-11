@@ -608,7 +608,7 @@ permalink: /publication/
 <br>
 4.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
 <br>
-3.&nbsp;Li, Y., Cui, Y., <b>Hu, X., et al. Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
+3.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al. Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
 <br>
 2.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
 <br>
