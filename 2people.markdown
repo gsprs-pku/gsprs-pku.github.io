@@ -412,6 +412,10 @@ Research interests:
 Research Assistant, now Researcher at the Illinois State Water Survey, University of Illinois Urbana-Champaign, USA. 
 <br>
 <br> 
+<p style="font-weight:bold">Congrong Wang</p> 
+Undergrad thesis work with the lab.
+<br>
+<br> 
 <p style="font-weight:bold">Qingyu Sui</p> 
 Research Assistant, now PhD student at the Southern Methodish University, USA.
 <br> 
