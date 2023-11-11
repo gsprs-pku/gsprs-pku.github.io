@@ -595,14 +595,23 @@ permalink: /publication/
 † denotes group members under direct supervision  * denotes corresponding
 <br>
 10.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C. Alternative hydrological variable from InSAR coherence in landslide characterization.
+<br>
 9.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lu, H., Niu, F., Zhang, S., Liu, J., Liu, Y. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
+<br>
 8.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X. Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations.
+<br>
 7.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Ballarini, R., Tao, S. Land subsidence hastens Miami suburb’s seawater intrusion by 350 years.
+<br>
 6.&nbsp;Thomas, J., Klida, R., Oommen, T., Sajinkumar, K.S., Zhang, B., <b>Hu, X.</b>, Need for a multi-sensor monitoring approach for embankment failures: Lessons learned from the Edenville Dam failure in 2020.
+<br>
 5.&nbsp;Welch, J., Wang, G., Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b>, Unveiling the hidden threat: drought-induced inelastic subsidence in expansive soils.
+<br>
 4.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+<br>
 3.&nbsp;Li, Y., Cui, Y., <b>Hu, X., et al. Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
+<br>
 2.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
+<br>
 1.&nbsp;Ma, Z., Fu, Z., Xu, J., Dong, B., <b>Hu, X.</b>, et al. 10 times more precipitation changing trends occur in the ocean than land from 2003 to 2019.
 <br>
 <br>
@@ -620,7 +629,7 @@ permalink: /publication/
 2.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lin, F.†, et al., Inventorying Martian craters based on segment anything model (SAM). 
 <br>
 1.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
-<br/>
-<br/>
+<br>
+<br>
 
 </html>
