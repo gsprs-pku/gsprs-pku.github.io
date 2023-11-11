@@ -40,6 +40,24 @@ permalink: /publication/
   <table style="width: 100%;">
     <tbody>
 
+    <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Yang_2023_RS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                25. Glacial lake outburst hazard monitoring and flooding modeling by integrating multiple remote sensing methods and HEC-RAS
+              </span>
+            </strong>
+            <br> Yang, L., Lu, Z., Ouyang, C., Zhao, C., <b>Hu, X.</b>, Zhang, Q. <br>
+            <em> Remote Sensing,</em> 2023 <br>
+            <a href="/article/.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
 
       <tr>
         <td style="width: 30%;">
@@ -576,21 +594,16 @@ permalink: /publication/
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
-8.&nbsp;Song, Y.†, <b>Hu, X.*</b>, et al., Alternative hydrological variable from InSAR coherence in landslide characterization.
-<br>
-7.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
-<br>
-6.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations.
-<br>
-5.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
-<br>
-4.&nbsp;Li, Y., Cui, Y., <b>Hu, X.</b>, et al., Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
-<br>
-3.&nbsp;Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Ouyang, C., Zhang, Q., Hazard analysis and flooding model of glacial lake outburst flood using multiple remote sensing methods.
-<br>
+10.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C. Alternative hydrological variable from InSAR coherence in landslide characterization.
+9.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lu, H., Niu, F., Zhang, S., Liu, J., Liu, Y. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
+8.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X. Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations.
+7.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Ballarini, R., Tao, S. Land subsidence hastens Miami suburb’s seawater intrusion by 350 years.
+6.&nbsp;Thomas, J., Klida, R., Oommen, T., Sajinkumar, K.S., Zhang, B., <b>Hu, X.</b>, Need for a multi-sensor monitoring approach for embankment failures: Lessons learned from the Edenville Dam failure in 2020.
+5.&nbsp;Welch, J., Wang, G., Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b>, Unveiling the hidden threat: drought-induced inelastic subsidence in expansive soils.
+4.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+3.&nbsp;Li, Y., Cui, Y., <b>Hu, X., et al. Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain.
 2.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
-<br>
-1.&nbsp;Ma, Z., et al., 10 times more precipitation changing trends occur in the ocean than land from 2003 to 2019.
+1.&nbsp;Ma, Z., Fu, Z., Xu, J., Dong, B., <b>Hu, X.</b>, et al. 10 times more precipitation changing trends occur in the ocean than land from 2003 to 2019.
 <br>
 <br>
 
@@ -604,7 +617,7 @@ permalink: /publication/
 <br>
 3.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
 <br>
-2.&nbsp;Yu, X.†, <b>Hu, X.*</b>, et al., Geodetic implications for the 2021 lethal building collapse in Surfside, Florida.
+2.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lin, F.†, et al., Inventorying Martian craters based on segment anything model (SAM). 
 <br>
 1.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
 <br>
