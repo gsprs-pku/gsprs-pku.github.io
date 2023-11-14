@@ -132,7 +132,7 @@ The Climate Hazards group Infrared Precipitation with Stations (CHIRPS) <a href=
 
 Center Merged Analysis of Precipitation (CMAP)  <a href="https://researchdata.edu.au/national-centers-environmental-precipitation-cmap/15209" target="_blank">                    https://researchdata.edu.au/national-centers-environmental-precipitation-cmap/15209
 
-Global precipitation climatology project （GPCP）  <a href="https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/" target="_blank">                 https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/
+Global precipitation climatology project (GPCP)  <a href="https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/" target="_blank">                 https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/
 
 China 1km resolution monthly precipitation dataset(1901-2022)<a href="https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2" target="_blank">  https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2
 
