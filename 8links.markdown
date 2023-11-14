@@ -34,6 +34,20 @@ TerraSAR-X Airbus <a href="https://terrasar-x-archive.terrasar.com" target="_bla
 
 UAVSAR <a href="https://uavsar.jpl.nasa.gov" target="_blank">https://uavsar.jpl.nasa.gov</a>
 
+ESA Catalog <a href="https://earth.esa.int/eogateway/catalog" target="_blank">https://earth.esa.int/eogateway/catalog
+
+ENVISAT and ERS1&2 <a href="https://esar-ds.eo.esa.int/oads/access/collection" target="_blank">https://esar-ds.eo.esa.int/oads/access/collection
+
+ENVISAT Auxiliary Data <a href="https://earth.esa.int/eogateway/instruments/asar/auxiliary-data" target="_blank">https://earth.esa.int/eogateway/instruments/asar/auxiliary-data
+
+ERA1&2 Auxiliary Data <a href="https://earth.esa.int/eogateway/instruments/sar-ers/auxiliary-data" target="_blank">https://earth.esa.int/eogateway/instruments/sar-ers/auxiliary-data
+
+ALOS-1 <a href="https://alos-palsar-ds.eo.esa.int/oads/access/collection" target="_blank">https://alos-palsar-ds.eo.esa.int/oads/access/collection
+
+ESA Third Party Missions <a href="https://tpm-ds.eo.esa.int/oads/access/collection" target="_blank">https://tpm-ds.eo.esa.int/oads/access/collection
+
+TerraSAR-X <a href="https://sss.terrasar-x.dlr.de/" target="_blank">https://sss.terrasar-x.dlr.de/
+
 <br>
 **GPS**
 
@@ -89,6 +103,27 @@ University of Utah <a href="https://quake.utah.edu/regional-info/earthquake-cata
 USGS <a href="https://waterdata.usgs.gov/usa/nwis/" target="_blank">https://waterdata.usgs.gov/usa/nwis/</a>
 
 Utah Geological Survey <a href="https://apps.geology.utah.gov/gwdp/" target="_blank">https://apps.geology.utah.gov/gwdp/</a>
+
+<br>
+**Precipitation datasets**
+
+Copernicus Climate Change Service (C3S) <a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-global-and-regional?tab=form" target="_blank">https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-global-and-regional?tab=form
+
+Global Precipitation Measurement (GPM)      <a href="https://gpm.nasa.gov/data/directory" target="_blank">                        https://gpm.nasa.gov/data/directory
+
+ECMWF Reanalysis v5 (ERA5)    <a href="https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5" target="_blank">           https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5
+
+Global Land Data Assimilation System (GLDAS)   <a href="https://ldas.gsfc.nasa.gov/gldas/forcing-data" target="_blank">                     https://ldas.gsfc.nasa.gov/gldas/forcing-data
+
+China Meteorological Forcing Dataset (CMFD)   <a href="https://data.tpdc.ac.cn/en/data/8028b944-daaa-4511-8769-965612652c49" target="_blank">                      https://data.tpdc.ac.cn/en/data/8028b944-daaa-4511-8769-965612652c49
+
+The Tropical Rainfall Measuring Mission (TRMM)   <a href="https://gpm.nasa.gov/data/directory" target="_blank">         https://gpm.nasa.gov/data/directory
+
+The Climate Hazards group Infrared Precipitation with Stations (CHIRPS) <a href="https://data.chc.ucsb.edu/products/CHIRPS-2.0/" target="_blank">https://data.chc.ucsb.edu/products/CHIRPS-2.0/
+
+Center Merged Analysis of Precipitation (CMAP)  <a href="https://researchdata.edu.au/national-centers-environmental-precipitation-cmap/15209" target="_blank">                    https://researchdata.edu.au/national-centers-environmental-precipitation-cmap/15209
+
+Global precipitation climatology project （GPCP）  <a href="https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/" target="_blank">                 https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/
 
 <br>
 **Climate data**
