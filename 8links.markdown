@@ -79,7 +79,16 @@ ASTER GDEM <a href="https://asterweb.jpl.nasa.gov/gdem.asp" target="_blank">http
 
 USGS NED <a href="https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned" target="_blank">https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned</a>
 
+USGS 3DEP (3D Elevation Program) <a href="https://www.usgs.gov/3d-elevation-program" target="_blank">https://www.usgs.gov/3d-elevation-program
+
 TanDEM <a href="https://download.geoservice.dlr.de/TDM90/" target="_blank">https://download.geoservice.dlr.de/TDM90/</a>
+
+TanDEM-X DEM <a href="https://tandemx-science.dlr.de/cgi-bin/wcm.pl?page=TDM-Proposal-Submission-Procedure" target="_blank">https://tandemx-science.dlr.de/cgi-bin/wcm.pl?page=TDM-Proposal-Submission-Procedure
+
+ALOS World 3D-30m <a href="https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm" target="_blank">(AW3D30 )https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm
+
+Copernicus DEM (European Space Agency) <a href="https://dataspace.copernicus.eu/browser/" target="_blank">https://dataspace.copernicus.eu/browser/
+
 
 <br>
 **Aerial imagery**
@@ -125,6 +134,15 @@ Center Merged Analysis of Precipitation (CMAP)  <a href="https://researchdata.ed
 
 Global precipitation climatology project （GPCP）  <a href="https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/" target="_blank">                 https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/
 
+China 1km resolution monthly precipitation dataset(1901-2022)<a href="https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2" target="_blank">  https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2
+
+China regional surface meteorological element driven dataset(1979-2018)<a href="https://data.tpdc.ac.cn/zh-hans/data/8028b944-daaa-4511-8769-965612652c49" target="_blank"> https://data.tpdc.ac.cn/zh-hans/data/8028b944-daaa-4511-8769-965612652c49
+
+<br>
+**Permafrost**
+
+Newly drawn permafrost distribution map of Qinghai-Tibet Plateau(2017) <a href="https://data.tpdc.ac.cn/zh-hans/data/0231c972-8460-4691-a187-70e4cc356f60" target="_blank">https://data.tpdc.ac.cn/zh-hans/data/0231c972-8460-4691-a187-70e4cc356f60
+
 <br>
 **Climate data**
 
@@ -164,6 +182,17 @@ USGS (faults in the US; some are inferred) <a href="https://earthquake.usgs.gov/
 California Department of Conservation (faults in California) <a href="https://maps.conservation.ca.gov/cgs/fam/" target="_blank">https://maps.conservation.ca.gov/cgs/fam/</a>
 
 Faults in China <a href="http://activefault-datacenter.cn" target="_blank">http://activefault-datacenter.cn</a> (interactive map only; no shape file)
+
+<br>
+**geology**
+
+National Geological Map Data <a href="http://www.ngac.org.cn/DataSpecial/geomap.html" target="_blank">http://www.ngac.org.cn/DataSpecial/geomap.html
+
+&nbsp;&nbsp;&nbsp;&nbsp;1) China land area 1:250,000 scale structural map spatial database (wider spatial coverage) <a href="http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2018.NGA131703.K1.1.1.V1" target="_blank">http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2018.NGA131703.K1.1.1.V1
+
+&nbsp;&nbsp;&nbsp;&nbsp;National 1:200 000 digital geological map (public version) spatial database (limited coverage) <a href="http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1" target="_blank">http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1
+
+Generalized Geology of the Far East (geo3al) (1:5,000,000) <a href="https://www.sciencebase.gov/catalog/item/60abc7f9d34ea221ce51e5ee" target="_blank">https://www.sciencebase.gov/catalog/item/60abc7f9d34ea221ce51e5ee
 
 <br>
 **Geoid Height Calculator**
