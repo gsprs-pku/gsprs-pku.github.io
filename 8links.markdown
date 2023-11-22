@@ -5,7 +5,7 @@ permalink: /links/
 ---
 
 <br>
-**InSAR principles**
+**InSAR Principles**
 
 NASA (NISAR Handbook) <a href="https://nisar.jpl.nasa.gov/files/nisar/NISAR_Science_Users_Handbook.pdf" target="_blank">https://nisar.jpl.nasa.gov/files/nisar/NISAR_Science_Users_Handbook.pdf</a>
 
@@ -18,21 +18,19 @@ Geospatial Information Authority of Japan (GSI) <a href="https://vldb.gsi.go.jp/
 NASA (SAR Handbook in forest and biomass monitoring) <a href="https://servirglobal.net/Global/Articles/Article/2674/sar-handbook-comprehensive-methodologies-for-forest-monitoring-and-biomass-estimation" target="_blank">https://servirglobal.net/Global/Articles/Article/2674/sar-handbook-comprehensive-methodologies-for-forest-monitoring-and-biomass-estimation</a>
 
 <br>
-**SAR data search and download**
-  
-ASF <a href="https://vertex.daac.asf.alaska.edu" target="_blank">https://vertex.daac.asf.alaska.edu</a>
+**SAR Scenes**
 
+Just need to use ASF Vertex to access Sentinel-1, ALOS-1, ENVISAT, etc.
+ASF Vertex <a href="https://vertex.daac.asf.alaska.edu" target="_blank">https://vertex.daac.asf.alaska.edu</a>
+
+X-band
+TerraSAR-X Airbus <a href="https://terrasar-x-archive.terrasar.com" target="_blank">https://terrasar-x-archive.terrasar.com</a>
+TerraSAR-X Science Service System (Proposal Submission) <a href="https://sss.terrasar-x.dlr.de/" target="_blank">https://sss.terrasar-x.dlr.de/
+
+C-band
 Sentinel Copernicus Open Access Hub <a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank">https://scihub.copernicus.eu/dhus/#/home</a>
 
 Sentinel POD Precise Orbit Ephemerides <a href="https://qc.sentinel1.eo.esa.int/aux_poeorb/" target="_blank">https://qc.sentinel1.eo.esa.int/aux_poeorb/</a>
-
-ALOS2 PASCO Corporation <a href="http://en.alos-pasco.com" target="_blank">http://en.alos-pasco.com</a>
-
-ALOS2 data download (account required) <a href="https://auig2.jaxa.jp/ips/home" target="_blank">https://auig2.jaxa.jp/ips/home</a>
-
-TerraSAR-X Airbus <a href="https://terrasar-x-archive.terrasar.com" target="_blank">https://terrasar-x-archive.terrasar.com</a>
-
-UAVSAR <a href="https://uavsar.jpl.nasa.gov" target="_blank">https://uavsar.jpl.nasa.gov</a>
 
 ESA Catalog <a href="https://earth.esa.int/eogateway/catalog" target="_blank">https://earth.esa.int/eogateway/catalog
 
@@ -42,14 +40,17 @@ ENVISAT Auxiliary Data <a href="https://earth.esa.int/eogateway/instruments/asar
 
 ERA1&2 Auxiliary Data <a href="https://earth.esa.int/eogateway/instruments/sar-ers/auxiliary-data" target="_blank">https://earth.esa.int/eogateway/instruments/sar-ers/auxiliary-data
 
+L-band
+ALOS-2 PASCO Corporation <a href="http://en.alos-pasco.com" target="_blank">http://en.alos-pasco.com</a>
+
+ALOS-2 (account required) <a href="https://auig2.jaxa.jp/ips/home" target="_blank">https://auig2.jaxa.jp/ips/home</a>
+
 ALOS-1 <a href="https://alos-palsar-ds.eo.esa.int/oads/access/collection" target="_blank">https://alos-palsar-ds.eo.esa.int/oads/access/collection
 
-ESA Third Party Missions <a href="https://tpm-ds.eo.esa.int/oads/access/collection" target="_blank">https://tpm-ds.eo.esa.int/oads/access/collection
-
-TerraSAR-X <a href="https://sss.terrasar-x.dlr.de/" target="_blank">https://sss.terrasar-x.dlr.de/
+UAVSAR <a href="https://uavsar.jpl.nasa.gov" target="_blank">https://uavsar.jpl.nasa.gov</a>
 
 <br>
-**GPS**
+**GNSS/GPS**
 
 UNAVCO <a href="http://www.unavco.org/data/gps-gnss/data-access-methods/dai2/app/dai2.html#" target="_blank">http://www.unavco.org/data/gps-gnss/data-access-methods/dai2/app/dai2.html#</a>
 
@@ -62,6 +63,25 @@ Nevada Geodetic Laboratory <a href="http://geodesy.unr.edu/" target="_blank">htt
 GPS tools (courtesy of Dr. Kathryn Materna) <a href="https://github.com/kmaterna/GNSS_TimeSeries_Viewers" target="_blank">https://github.com/kmaterna/GNSS_TimeSeries_Viewers</a>
 
 <br>
+**Digital Elevation Model - DEM**
+
+SRTM DEM (30 m; page bottom for SRTM V2) <a href="https://www2.jpl.nasa.gov/srtm/" target="_blank">https://www2.jpl.nasa.gov/srtm/</a>
+
+ASTER GDEM <a href="https://asterweb.jpl.nasa.gov/gdem.asp" target="_blank">https://asterweb.jpl.nasa.gov/gdem.asp</a>
+
+USGS NED <a href="https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned" target="_blank">https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned</a>
+
+USGS 3DEP (3D Elevation Program) <a href="https://www.usgs.gov/3d-elevation-program" target="_blank">https://www.usgs.gov/3d-elevation-program
+
+TanDEM-X DEM (90 m) <a href="https://download.geoservice.dlr.de/TDM90/" target="_blank">https://download.geoservice.dlr.de/TDM90/</a>
+
+TanDEM-X DEM (12 m with request/proposal) <a href="https://tandemx-science.dlr.de/cgi-bin/wcm.pl?page=TDM-Proposal-Submission-Procedure" target="_blank">https://tandemx-science.dlr.de/cgi-bin/wcm.pl?page=TDM-Proposal-Submission-Procedure
+
+ALOS World 3D (30 m) <a href="https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm" target="_blank">(AW3D30 )https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm
+
+Copernicus DEM (European Space Agency) <a href="https://dataspace.copernicus.eu/browser/" target="_blank">https://dataspace.copernicus.eu/browser/
+
+<br>
 **LiDAR DEM**
 
 Washington DNR, LiDAR DEM in Washington <a href="http://lidarportal.dnr.wa.gov" target="_blank">http://lidarportal.dnr.wa.gov</a>
@@ -71,80 +91,43 @@ PSLC, LiDAR DEM over the Pacific Northwest <a href="http://pugetsoundlidar.ess.w
 OpenTopography, LiDAR DEM over the US <a href="https://opentopography.org" target="_blank">https://opentopography.org</a>
 
 <br>
-**Statewide/Worldwide DEM sources**
+**Aerial Imagery**
 
-SRTM DEM (page bottom for SRTM V2) <a href="https://www2.jpl.nasa.gov/srtm/" target="_blank">https://www2.jpl.nasa.gov/srtm/</a>
-
-ASTER GDEM <a href="https://asterweb.jpl.nasa.gov/gdem.asp" target="_blank">https://asterweb.jpl.nasa.gov/gdem.asp</a>
-
-USGS NED <a href="https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned" target="_blank">https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned</a>
-
-USGS 3DEP (3D Elevation Program) <a href="https://www.usgs.gov/3d-elevation-program" target="_blank">https://www.usgs.gov/3d-elevation-program
-
-TanDEM <a href="https://download.geoservice.dlr.de/TDM90/" target="_blank">https://download.geoservice.dlr.de/TDM90/</a>
-
-TanDEM-X DEM <a href="https://tandemx-science.dlr.de/cgi-bin/wcm.pl?page=TDM-Proposal-Submission-Procedure" target="_blank">https://tandemx-science.dlr.de/cgi-bin/wcm.pl?page=TDM-Proposal-Submission-Procedure
-
-ALOS World 3D-30m <a href="https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm" target="_blank">(AW3D30 )https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm
-
-Copernicus DEM (European Space Agency) <a href="https://dataspace.copernicus.eu/browser/" target="_blank">https://dataspace.copernicus.eu/browser/
-
-
-<br>
-**Aerial imagery**
-
+U.S.
 NAIP <a href="https://datagateway.nrcs.usda.gov/GDGHome_DirectDownLoad.aspx" target="_blank">https://datagateway.nrcs.usda.gov/GDGHome_DirectDownLoad.aspx</a>
+
+Worldwide
+Sentinel-2
 
 Landsat
 
-Sentinel-2
-
 <br>
-**Earthquake catalog**
-
-USGS <a href="https://earthquake.usgs.gov/earthquakes/search" target="_blank">https://earthquake.usgs.gov/earthquakes/search</a>
-
-University of Utah <a href="https://quake.utah.edu/regional-info/earthquake-catalogs" target="_blank">https://quake.utah.edu/regional-info/earthquake-catalogs</a>
-
-<br>
-**Water level and water discharge**
-
-USGS <a href="https://waterdata.usgs.gov/usa/nwis/" target="_blank">https://waterdata.usgs.gov/usa/nwis/</a>
-
-Utah Geological Survey <a href="https://apps.geology.utah.gov/gwdp/" target="_blank">https://apps.geology.utah.gov/gwdp/</a>
-
-<br>
-**Precipitation datasets**
-
-Copernicus Climate Change Service (C3S) <a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-global-and-regional?tab=form" target="_blank">https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-global-and-regional?tab=form
+**Precipitation**
 
 Global Precipitation Measurement (GPM)      <a href="https://gpm.nasa.gov/data/directory" target="_blank">                        https://gpm.nasa.gov/data/directory
 
 ECMWF Reanalysis v5 (ERA5)    <a href="https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5" target="_blank">           https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5
 
-Global Land Data Assimilation System (GLDAS)   <a href="https://ldas.gsfc.nasa.gov/gldas/forcing-data" target="_blank">                     https://ldas.gsfc.nasa.gov/gldas/forcing-data
+National | Global Land Data Assimilation System (NLDAS | GLDAS)   <a href="https://disc.gsfc.nasa.gov/datasets/" target="_blank"> https://disc.gsfc.nasa.gov/datasets/
 
-China Meteorological Forcing Dataset (CMFD)   <a href="https://data.tpdc.ac.cn/en/data/8028b944-daaa-4511-8769-965612652c49" target="_blank">                      https://data.tpdc.ac.cn/en/data/8028b944-daaa-4511-8769-965612652c49
+Copernicus Climate Change Service (C3S) <a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-global-and-regional?tab=form" target="_blank">https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-global-and-regional?tab=form
 
-The Tropical Rainfall Measuring Mission (TRMM)   <a href="https://gpm.nasa.gov/data/directory" target="_blank">         https://gpm.nasa.gov/data/directory
+Tropical Rainfall Measuring Mission (TRMM)   <a href="https://gpm.nasa.gov/data/directory" target="_blank">         https://gpm.nasa.gov/data/directory
 
-The Climate Hazards group Infrared Precipitation with Stations (CHIRPS) <a href="https://data.chc.ucsb.edu/products/CHIRPS-2.0/" target="_blank">https://data.chc.ucsb.edu/products/CHIRPS-2.0/
+Climate Hazards group Infrared Precipitation with Stations (CHIRPS) <a href="https://data.chc.ucsb.edu/products/CHIRPS-2.0/" target="_blank">https://data.chc.ucsb.edu/products/CHIRPS-2.0/
 
 Center Merged Analysis of Precipitation (CMAP)  <a href="https://researchdata.edu.au/national-centers-environmental-precipitation-cmap/15209" target="_blank">                    https://researchdata.edu.au/national-centers-environmental-precipitation-cmap/15209
 
 Global precipitation climatology project (GPCP)  <a href="https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/" target="_blank">                 https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/access/
 
-China 1km resolution monthly precipitation dataset(1901-2022)<a href="https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2" target="_blank">  https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2
+China Meteorological Forcing Dataset (CMFD)   <a href="https://data.tpdc.ac.cn/en/data/8028b944-daaa-4511-8769-965612652c49" target="_blank">                      https://data.tpdc.ac.cn/en/data/8028b944-daaa-4511-8769-965612652c49
+
+China 1-km resolution monthly precipitation dataset(1901-2022)<a href="https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2" target="_blank">  https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2
 
 China regional surface meteorological element driven dataset(1979-2018)<a href="https://data.tpdc.ac.cn/zh-hans/data/8028b944-daaa-4511-8769-965612652c49" target="_blank"> https://data.tpdc.ac.cn/zh-hans/data/8028b944-daaa-4511-8769-965612652c49
 
 <br>
-**Permafrost**
-
-Newly drawn permafrost distribution map of Qinghai-Tibet Plateau(2017) <a href="https://data.tpdc.ac.cn/zh-hans/data/0231c972-8460-4691-a187-70e4cc356f60" target="_blank">https://data.tpdc.ac.cn/zh-hans/data/0231c972-8460-4691-a187-70e4cc356f60
-
-<br>
-**Climate data**
+**Other Hydroclimatic Data**
 
 WRCC <a href="https://wrcc.dri.edu/summary/" target="_blank">https://wrcc.dri.edu/summary/</a>
 
@@ -160,12 +143,24 @@ California Data Exchange Center <a href="http://cdec.water.ca.gov/snow_rain.html
 
 PRISM <a href="http://www.prism.oregonstate.edu/" target="_blank">http://www.prism.oregonstate.edu/</a>
 
-<br>
-**Soil moisture**
-
-NLDAS GLDAS <a href="https://disc.gsfc.nasa.gov/datasets/" target="_blank">https://disc.gsfc.nasa.gov/datasets/</a>
+Soil moisture
+NLDAS | GLDAS <a href="https://disc.gsfc.nasa.gov/datasets/" target="_blank">https://disc.gsfc.nasa.gov/datasets/</a>
 
 SMAP <a href="http://nsidc.org/data/smap/smap-data.html" target="_blank">http://nsidc.org/data/smap/smap-data.html</a>
+
+<br>
+**Water level and water discharge**
+
+USGS <a href="https://waterdata.usgs.gov/usa/nwis/" target="_blank">https://waterdata.usgs.gov/usa/nwis/</a>
+
+Utah Geological Survey <a href="https://apps.geology.utah.gov/gwdp/" target="_blank">https://apps.geology.utah.gov/gwdp/</a>
+
+<br>
+**Sea Levels**
+
+NASA Sea Level Change Protal <a href="https://sealevel.nasa.gov/data_tools/1" target="_blank">https://sealevel.nasa.gov/data_tools/1</a>
+
+NASA Sea Level Projection <a href="https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool?type=global" target="_blank">https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool?type=global</a>
 
 <br>
 **Gravity**
@@ -173,26 +168,44 @@ SMAP <a href="http://nsidc.org/data/smap/smap-data.html" target="_blank">http://
 USGS <a href="https://mrdata.usgs.gov/gravity/bouguer/" target="_blank">https://mrdata.usgs.gov/gravity/bouguer/</a>
 
 <br>
-**Shape files**
+**Tectonics**
 
-Utah Automated Geographic Reference Center (aquifers, streams, faults, etc. in Utah) <a href="https://gis.utah.gov/data/geoscience/" target="_blank">https://gis.utah.gov/data/geoscience/</a>
+Earthquake Catalogs
+USGS <a href="https://earthquake.usgs.gov/earthquakes/search" target="_blank">https://earthquake.usgs.gov/earthquakes/search</a>
 
-USGS (faults in the US; some are inferred) <a href="https://earthquake.usgs.gov/hazards/qfaults/" target="_blank">https://earthquake.usgs.gov/hazards/qfaults/</a>
+University of Utah <a href="https://quake.utah.edu/regional-info/earthquake-catalogs" target="_blank">https://quake.utah.edu/regional-info/earthquake-catalogs</a>
 
-California Department of Conservation (faults in California) <a href="https://maps.conservation.ca.gov/cgs/fam/" target="_blank">https://maps.conservation.ca.gov/cgs/fam/</a>
+Earthquake catalog analysis
 
-Faults in China <a href="http://activefault-datacenter.cn" target="_blank">http://activefault-datacenter.cn</a> (interactive map only; no shape file)
+ZMAP (based on matlab) <a href="http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP/" target="_blank">http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP/</a>
+
+Faults
+China
+<a href="http://activefault-datacenter.cn" target="_blank">http://activefault-datacenter.cn</a> (interactive map only; no shape file)
+
+U.S.
+USGS (some are inferred) <a href="https://earthquake.usgs.gov/hazards/qfaults/" target="_blank">https://earthquake.usgs.gov/hazards/qfaults/</a>
+
+California
+California Department of Conservation <a href="https://maps.conservation.ca.gov/cgs/fam/" target="_blank">https://maps.conservation.ca.gov/cgs/fam/</a>
 
 <br>
-**geology**
+**Geology**
 
+China
 National Geological Map Data <a href="http://www.ngac.org.cn/DataSpecial/geomap.html" target="_blank">http://www.ngac.org.cn/DataSpecial/geomap.html
 
-&nbsp;&nbsp;&nbsp;&nbsp;1) China land area 1:250,000 scale structural map spatial database (wider spatial coverage) <a href="http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2018.NGA131703.K1.1.1.V1" target="_blank">http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2018.NGA131703.K1.1.1.V1
+China Land Area 1:250,000 Scale Structural Map Spatial Database (Wider Spatial Coverage) <a href="http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2018.NGA131703.K1.1.1.V1" target="_blank">http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2018.NGA131703.K1.1.1.V1
 
-&nbsp;&nbsp;&nbsp;&nbsp;National 1:200 000 digital geological map (public version) spatial database (limited coverage) <a href="http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1" target="_blank">http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1
+National 1:200,000 Digital Geological Map (public version) spatial database (limited coverage) <a href="http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1" target="_blank">http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1
 
 Generalized Geology of the Far East (geo3al) (1:5,000,000) <a href="https://www.sciencebase.gov/catalog/item/60abc7f9d34ea221ce51e5ee" target="_blank">https://www.sciencebase.gov/catalog/item/60abc7f9d34ea221ce51e5ee
+
+<br>
+**Shapefiles**
+Utah Automated Geographic Reference Center (aquifers, streams, faults, etc. in Utah) <a href="https://gis.utah.gov/data/geoscience/" target="_blank">https://gis.utah.gov/data/geoscience/</a>
+
+Permafrost distribution map in Qinghai-Tibet Plateau (2017) <a href="https://data.tpdc.ac.cn/zh-hans/data/0231c972-8460-4691-a187-70e4cc356f60" target="_blank">https://data.tpdc.ac.cn/zh-hans/data/0231c972-8460-4691-a187-70e4cc356f60
 
 <br>
 **Geoid Height Calculator**
@@ -205,14 +218,10 @@ UNAVCO <a href="https://www.unavco.org/software/geodetic-utilities/geoid-height-
 <a href="http://spatialreference.org" target="_blank">http://spatialreference.org</a>
 
 <br>
-**Remote sensing data analysis**
+**Remote Sensing Data Analysis**
 
 Custom scripts <a href="https://custom-scripts.sentinel-hub.com/" target="_blank">https://custom-scripts.sentinel-hub.com/</a>
 
-<br>
-**Earthquake catalog analysis**
-
-ZMAP (based on matlab) <a href="http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP/" target="_blank">http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP/</a>
 
 <br>
 **Strain calculation**
@@ -251,15 +260,6 @@ Hydrologic Loading Model Displacements from the National and Global Data Assimil
 **Ten simple rules for better figures**
 
 Rougier et al., 2014 <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833#s12" target="_blank">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833#s12</a>
-
-<br>
-**GeoMapApp**
-
-<br>
-**QGIS (free)**
-
-<br>
-**ArcGIS Pro (license required)**
 
 <br>
 ***Credits to the authors***
