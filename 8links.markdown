@@ -102,9 +102,11 @@ OpenTopography, LiDAR DEM over the US <a href="https://opentopography.org" targe
 **Aerial Imagery**
 
 U.S.:
+
 NAIP <a href="https://datagateway.nrcs.usda.gov/GDGHome_DirectDownLoad.aspx" target="_blank">https://datagateway.nrcs.usda.gov/GDGHome_DirectDownLoad.aspx</a>
 
 Globe:
+
 Sentinel-2
 Sentinel Copernicus Open Access Hub <a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank">https://scihub.copernicus.eu/dhus/#/home</a>
 
@@ -132,9 +134,9 @@ Global precipitation climatology project (GPCP)  <a href="https://www.ncei.noaa.
 
 China Meteorological Forcing Dataset (CMFD)   <a href="https://data.tpdc.ac.cn/en/data/8028b944-daaa-4511-8769-965612652c49" target="_blank">https://data.tpdc.ac.cn/en/data/8028b944-daaa-4511-8769-965612652c49</a>
 
-China 1-km resolution monthly precipitation dataset(1901-2022)<a href="https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2" target="_blank">https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2</a>
+China 1-km Resolution Monthly Precipitation Dataset (1901-2022)<a href="https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2" target="_blank">https://data.tpdc.ac.cn/zh-hans/data/faae7605-a0f2-4d18-b28f-5cee413766a2</a>
 
-China regional surface meteorological element driven dataset(1979-2018)<a href="https://data.tpdc.ac.cn/zh-hans/data/8028b944-daaa-4511-8769-965612652c49" target="_blank">https://data.tpdc.ac.cn/zh-hans/data/8028b944-daaa-4511-8769-965612652c49</a>
+China Regional Surface Meteorological Element Driven Dataset (1979-2018)<a href="https://data.tpdc.ac.cn/zh-hans/data/8028b944-daaa-4511-8769-965612652c49" target="_blank">https://data.tpdc.ac.cn/zh-hans/data/8028b944-daaa-4511-8769-965612652c49</a>
 
 <br>
 **Other Hydroclimatic Data**
@@ -153,7 +155,9 @@ California Data Exchange Center <a href="http://cdec.water.ca.gov/snow_rain.html
 
 PRISM <a href="http://www.prism.oregonstate.edu/" target="_blank">http://www.prism.oregonstate.edu/</a>
 
+
 Soil Moisture:
+
 
 NLDAS | GLDAS <a href="https://disc.gsfc.nasa.gov/datasets/" target="_blank">https://disc.gsfc.nasa.gov/datasets/</a>
 
@@ -192,19 +196,24 @@ Earthquake Decluster:
 ZMAP (based on matlab) <a href="http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP/" target="_blank">http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP/</a>
 
 Faults:
+
 China:
+
 <a href="http://activefault-datacenter.cn" target="_blank">http://activefault-datacenter.cn</a> (Interactive Map Only)
 
 U.S.:
+
 USGS (some are inferred) <a href="https://earthquake.usgs.gov/hazards/qfaults/" target="_blank">https://earthquake.usgs.gov/hazards/qfaults/</a>
 
 California:
+
 California Department of Conservation <a href="https://maps.conservation.ca.gov/cgs/fam/" target="_blank">https://maps.conservation.ca.gov/cgs/fam/</a>
 
 <br>
 **Geology**
 
 China:
+
 National Geological Map Data <a href="http://www.ngac.org.cn/DataSpecial/geomap.html" target="_blank">http://www.ngac.org.cn/DataSpecial/geomap.html</a>
 
 China Land Area 1:250,000 Scale Structural Map Spatial Database (Wider Spatial Coverage) <a href="http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2018.NGA131703.K1.1.1.V1" target="_blank">http://dcc.ngac.org.cn/cn/geologicalData/details/doi/10.23650/data.A.2018.NGA131703.K1.1.1.V1</a>
@@ -215,6 +224,7 @@ Generalized Geology of the Far East (geo3al) (1:5,000,000) <a href="https://www.
 
 <br>
 **Other GIS Shapefiles**
+
 Utah Automated Geographic Reference Center (aquifers, streams, faults, etc. in Utah) <a href="https://gis.utah.gov/data/geoscience/" target="_blank">https://gis.utah.gov/data/geoscience/</a>
 
 Resource and Environment Science and Data Center <a href="https://www.resdc.cn" target="_blank">https://www.resdc.cn</a>
