@@ -30,6 +30,7 @@ TerraSAR-X Science Service System (Proposal Submission) <a href="https://sss.ter
 
 C-band:
 
+Sentinel-1
 Sentinel Copernicus Open Access Hub <a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank">https://scihub.copernicus.eu/dhus/#/home</a>
 
 Sentinel POD Precise Orbit Ephemerides <a href="https://qc.sentinel1.eo.esa.int/aux_poeorb/" target="_blank">https://qc.sentinel1.eo.esa.int/aux_poeorb/</a>
@@ -53,7 +54,7 @@ ALOS-1 <a href="https://alos-palsar-ds.eo.esa.int/oads/access/collection" target
 UAVSAR <a href="https://uavsar.jpl.nasa.gov" target="_blank">https://uavsar.jpl.nasa.gov</a>
 
 <br>
-**GNSS/GPS**
+**GNSS|GPS**
 
 UNAVCO <a href="http://www.unavco.org/data/gps-gnss/data-access-methods/dai2/app/dai2.html#" target="_blank">http://www.unavco.org/data/gps-gnss/data-access-methods/dai2/app/dai2.html#</a>
 
@@ -68,21 +69,25 @@ GPS Tools (courtesy of Dr. Kathryn Materna) <a href="https://github.com/kmaterna
 <br>
 **Digital Elevation Model - DEM**
 
+Free:
+
 SRTM DEM (30 m; page bottom for SRTM V2) <a href="https://www2.jpl.nasa.gov/srtm/" target="_blank">https://www2.jpl.nasa.gov/srtm/</a>
 
-ASTER GDEM <a href="https://asterweb.jpl.nasa.gov/gdem.asp" target="_blank">https://asterweb.jpl.nasa.gov/gdem.asp</a>
-
-USGS NED <a href="https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned" target="_blank">https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned</a>
-
-USGS 3DEP (3D Elevation Program) <a href="https://www.usgs.gov/3d-elevation-program" target="_blank">https://www.usgs.gov/3d-elevation-program
+Copernicus Global Digital Elevation Models (30 m|90 m) <a href="https://dataspace.copernicus.eu/browser/" target="_blank">https://dataspace.copernicus.eu/browser/
 
 TanDEM-X DEM (90 m) <a href="https://download.geoservice.dlr.de/TDM90/" target="_blank">https://download.geoservice.dlr.de/TDM90/</a>
 
 TanDEM-X DEM (12 m with request/proposal) <a href="https://tandemx-science.dlr.de/cgi-bin/wcm.pl?page=TDM-Proposal-Submission-Procedure" target="_blank">https://tandemx-science.dlr.de/cgi-bin/wcm.pl?page=TDM-Proposal-Submission-Procedure
 
-ALOS World 3D (30 m) <a href="https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm" target="_blank">(AW3D30 )https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm
+ASTER GDEM (30 m) <a href="https://asterweb.jpl.nasa.gov/gdem.asp" target="_blank">https://asterweb.jpl.nasa.gov/gdem.asp</a>
 
-Copernicus DEM (European Space Agency) <a href="https://dataspace.copernicus.eu/browser/" target="_blank">https://dataspace.copernicus.eu/browser/
+USGS NED <a href="https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned" target="_blank">https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned</a>
+
+USGS 3DEP (3D Elevation Program) <a href="https://www.usgs.gov/3d-elevation-program" target="_blank">https://www.usgs.gov/3d-elevation-program
+
+Paid:
+
+ALOS World 3D (AW3D) (2.5 m | 5 m) <a href="https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm" target="_blank">https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm
 
 <br>
 **LiDAR DEM**
@@ -101,8 +106,10 @@ NAIP <a href="https://datagateway.nrcs.usda.gov/GDGHome_DirectDownLoad.aspx" tar
 
 Globe:
 Sentinel-2
+Sentinel Copernicus Open Access Hub <a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank">https://scihub.copernicus.eu/dhus/#/home</a>
 
 Landsat
+USGS Earth Explorer <a href="https://earthexplorer.usgs.gov/" target="_blank">https://earthexplorer.usgs.gov/</a>
 
 <br>
 **Precipitation**
