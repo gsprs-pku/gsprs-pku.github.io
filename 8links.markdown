@@ -23,11 +23,13 @@ NASA (SAR Handbook in forest and biomass monitoring) <a href="https://servirglob
 Just need to use ASF Vertex to access Sentinel-1, ALOS-1, ENVISAT, etc.
 ASF Vertex <a href="https://vertex.daac.asf.alaska.edu" target="_blank">https://vertex.daac.asf.alaska.edu</a>
 
-X-band
+X-band:
+
 TerraSAR-X Airbus <a href="https://terrasar-x-archive.terrasar.com" target="_blank">https://terrasar-x-archive.terrasar.com</a>
 TerraSAR-X Science Service System (Proposal Submission) <a href="https://sss.terrasar-x.dlr.de/" target="_blank">https://sss.terrasar-x.dlr.de/
 
-C-band
+C-band:
+
 Sentinel Copernicus Open Access Hub <a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank">https://scihub.copernicus.eu/dhus/#/home</a>
 
 Sentinel POD Precise Orbit Ephemerides <a href="https://qc.sentinel1.eo.esa.int/aux_poeorb/" target="_blank">https://qc.sentinel1.eo.esa.int/aux_poeorb/</a>
@@ -40,7 +42,8 @@ ENVISAT Auxiliary Data <a href="https://earth.esa.int/eogateway/instruments/asar
 
 ERA1&2 Auxiliary Data <a href="https://earth.esa.int/eogateway/instruments/sar-ers/auxiliary-data" target="_blank">https://earth.esa.int/eogateway/instruments/sar-ers/auxiliary-data
 
-L-band
+L-band:
+
 ALOS-2 PASCO Corporation <a href="http://en.alos-pasco.com" target="_blank">http://en.alos-pasco.com</a>
 
 ALOS-2 (account required) <a href="https://auig2.jaxa.jp/ips/home" target="_blank">https://auig2.jaxa.jp/ips/home</a>
@@ -60,7 +63,7 @@ USGS <a href="https://earthquake.usgs.gov/monitoring/gps" target="_blank">https:
 
 Nevada Geodetic Laboratory <a href="http://geodesy.unr.edu/" target="_blank">http://geodesy.unr.edu/</a> (right panel of the homepage has additional information that may be useful)
 
-GPS tools (courtesy of Dr. Kathryn Materna) <a href="https://github.com/kmaterna/GNSS_TimeSeries_Viewers" target="_blank">https://github.com/kmaterna/GNSS_TimeSeries_Viewers</a>
+GPS Tools (courtesy of Dr. Kathryn Materna) <a href="https://github.com/kmaterna/GNSS_TimeSeries_Viewers" target="_blank">https://github.com/kmaterna/GNSS_TimeSeries_Viewers</a>
 
 <br>
 **Digital Elevation Model - DEM**
@@ -93,10 +96,10 @@ OpenTopography, LiDAR DEM over the US <a href="https://opentopography.org" targe
 <br>
 **Aerial Imagery**
 
-U.S.
+U.S.:
 NAIP <a href="https://datagateway.nrcs.usda.gov/GDGHome_DirectDownLoad.aspx" target="_blank">https://datagateway.nrcs.usda.gov/GDGHome_DirectDownLoad.aspx</a>
 
-Worldwide
+Globe:
 Sentinel-2
 
 Landsat
@@ -143,7 +146,8 @@ California Data Exchange Center <a href="http://cdec.water.ca.gov/snow_rain.html
 
 PRISM <a href="http://www.prism.oregonstate.edu/" target="_blank">http://www.prism.oregonstate.edu/</a>
 
-Soil moisture
+Soil Moisture:
+
 NLDAS | GLDAS <a href="https://disc.gsfc.nasa.gov/datasets/" target="_blank">https://disc.gsfc.nasa.gov/datasets/</a>
 
 SMAP <a href="http://nsidc.org/data/smap/smap-data.html" target="_blank">http://nsidc.org/data/smap/smap-data.html</a>
