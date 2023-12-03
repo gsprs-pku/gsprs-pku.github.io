@@ -222,6 +222,11 @@ National 1:200,000 Digital Geological Map (public version) spatial database (lim
 
 Generalized Geology of the Far East (geo3al) (1:5,000,000) <a href="https://www.sciencebase.gov/catalog/item/60abc7f9d34ea221ce51e5ee" target="_blank">https://www.sciencebase.gov/catalog/item/60abc7f9d34ea221ce51e5ee</a>
 
+Global:
+
+Global Geological Provinces and Tectonic Plates <a href="https://github.com/dhasterok/global_tectonics" target="_blank">https://github.com/dhasterok/global_tectonics</a>
+
+
 <br>
 **Other GIS Shapefiles**
 
