@@ -12,7 +12,7 @@ permalink: /research/
 Knowledge about the geographic information of craters on Mars provide critical information in making route plan for rovers and investigating the origin of this enigmatic red planet. However, the accuracy of the present-day Martian crater inventory can still be improved as some boundaries are not delineated accurately, and many small-size craters are missing. Classic deep learning algorithms meet challenges in spatial generalization and can have adequate performance in a given region when sufficient pre-training is deployed. The state-of-the-art semantic segmentation model, Segment Anything Model (SAM), achieves unprecedented generalization from prior knowledge from considerable datasets. Yet SAM has not been effectively transferred to downstream tasks, and thus the semantic information is missing in the results. We employed a feature-based method to implement a zero-shot transfer from SAM to crater delineation. Here we apply the 5-m-resolution CTX panchromatic scenes, allowing for the delineation of small-size craters. Compared to classic deep learning models, our approach has improved the accuracy by ~10% in resolving the geographic boundaries of craters. Thrillingly, the generalization performance increases by 60%-100%, enlightening the potentials of SAM in crater inventory for the entire Mars.
 
 <figure>
-<a><img src="{{site.url}}/imgs/research_images/craters_mars.png"></a>
+<a><img src="{{site.url}}/imgs/research_images/craters_mars.jpg"></a>
 </figure>
 
 <br>
