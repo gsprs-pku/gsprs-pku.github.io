@@ -7,6 +7,15 @@ permalink: /research/
 <a><img src="{{site.url}}/imgs/research_images/idea1_E.png"></a>
 </div>
 <br>
+**Craters**
+
+Knowledge about the geographic information of craters on Mars provide critical information in making route plan for rovers and investigating the origin of this enigmatic red planet. However, the accuracy of the present-day Martian crater inventory can still be improved as some boundaries are not delineated accurately, and many small-size craters are missing. Classic deep learning algorithms meet challenges in spatial generalization and can have adequate performance in a given region when sufficient pre-training is deployed. The state-of-the-art semantic segmentation model, Segment Anything Model (SAM), achieves unprecedented generalization from prior knowledge from considerable datasets. Yet SAM has not been effectively transferred to downstream tasks, and thus the semantic information is missing in the results. We employed a feature-based method to implement a zero-shot transfer from SAM to crater delineation. Here we apply the 5-m-resolution CTX panchromatic scenes, allowing for the delineation of small-size craters. Compared to classic deep learning models, our approach has improved the accuracy by ~10% in resolving the geographic boundaries of craters. Thrillingly, the generalization performance increases by 60%-100%, enlightening the potentials of SAM in crater inventory for the entire Mars.
+
+<figure>
+<a><img src="{{site.url}}/imgs/research_images/craters_mars.png"></a>
+</figure>
+
+<br>
 **Landslide**
 
 Landsliding is an intriguing interdisciplinary subject associated with geophysics, hydrology, geology, geomorphology, geodesy and geotechnical engineering. Researchers use their specialties to study fundamental questions related to the triggering mechanisms using the Coulomb stress-transfer model or the viscoplastic flow model. I intend to use SAR imaging techniques to derive spatiotemporal displacements and to develop physical models for a better understanding of landslide dynamics.
@@ -16,14 +25,14 @@ Landsliding is an intriguing interdisciplinary subject associated with geophysic
 
 **Slumgullion landslide, CO**
 
-With its large area of ~1 km2 and perennial motions at ~10-20 mm per day, the Slumgullion landslide in Colorado, USA, represents an ideal natural laboratory to better understand landslide behavior. Here, we use hybrid remote sensing data and methods to recover the four-dimensional surface motions during 2011-2018. We construct a mechanical framework to quantify the rheology, subsurface channel geometry, mass flow rate, and spatiotemporally dependent pore-water pressure feedback through a joint analysis of displacement and hydrometeorological measurements from ground, air and space
+With its large area of ~1 km2 and perennial motions at ~10-20 mm per day, the Slumgullion landslide in Colorado, USA, represents an ideal natural laboratory to better understand landslide behavior. Here, we use hybrid remote sensing data and methods to recover the four-dimensional surface motions during 2011-2018. We construct a mechanical framework to quantify the rheology, subsurface channel geometry, mass flow rate, and spatiotemporally dependent pore-water pressure feedback through a joint analysis of displacement and hydrometeorological measurements from ground, air and space.
 
 <figure>
 <a><img src="{{site.url}}/imgs/research_images/Slumgullion_disp.png"></a>
 </figure>
 <br>
 
-A joint analysis of UAVSAR InSAR-derived surface displacements and LiDAR DEM-derived landslide thickness at its toe allows us to invert for the intrinsic viscosity (109~1011.5 Pa·s under different degrees of plasticity) based on the Bingham plastic model
+A joint analysis of UAVSAR InSAR-derived surface displacements and LiDAR DEM-derived landslide thickness at its toe allows us to invert for the intrinsic viscosity (109~1011.5 Pa·s under different degrees of plasticity) based on the Bingham plastic model.
 
 <figure>
 <a><img src="{{site.url}}/imgs/research_images/Slumgullion_toe.png"></a>
