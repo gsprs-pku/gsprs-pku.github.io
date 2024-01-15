@@ -53,7 +53,7 @@ The East San Francisco Bay is a highly urbanized area with ~2.5 million resident
 
 **Monroe landslide, CA**
 
-Similar to the shape of the Slumgullion landslide, Monroe landslide is an elongated landslide with the ratio between the length and width >10. We inverted for a landslide thickening at the intersection between the ground subsidence and uplift in the middle part. We also simulated the pore pressure changes at depth using the rainfall records, and their correlation with time-dependent landslide rates allows us to characterize the landslide diffusivity
+Similar to the shape of the Slumgullion landslide, Monroe landslide is an elongated landslide with the ratio between the length and width >10. We inverted for a landslide thickening at the intersection between the ground subsidence and uplift in the middle part. We also simulated the pore pressure changes at depth using the rainfall records, and their correlation with time-dependent landslide rates allows us to characterize the landslide diffusivity.
 
 ***
 <br>
@@ -61,6 +61,10 @@ Similar to the shape of the Slumgullion landslide, Monroe landslide is an elonga
 **Crescent Lake landslide, WA**
 
 We found precursory slope-normal subsidence during antecedent rainfall, and the consequent increase in pore pressure at the basal surface reduces friction and instigates downslope slip in the course of less than one month. We also applied the 3D displacements to invert for the landslide basal geometry
+
+<figure>
+<a><img src="{{site.url}}/imgs/crescent lake landslide.png"></a>
+</figure>
 
 ***
 <br>
