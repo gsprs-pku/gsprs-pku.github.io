@@ -33,6 +33,113 @@ permalink: /publication/
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
 
 <p>
+   <strong> 2024 </strong>
+</p> 
+
+<div>
+  <table style="width: 100%;">
+    <tbody>
+
+    <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Ao_2024_Sciences.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                31. A national-scale assessment of land subsidence in China’s major cities
+              </span>
+            </strong>
+            <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., et al. <br>
+            <em> Sciences,</em> 2024 <br>
+            <a href="" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Yu_2024_npjNH.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                30. Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations
+              </span>
+            </strong>
+            <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
+            <em> npj Natural Hazards, 1, </em> 2024 <br>
+            <a href="/article/.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Li_2024_GRL.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                29. Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain
+              </span>
+            </strong>
+            <br> Li, Y., Cui, Y.*, <b>Hu, X.</b>, Lu, Z., Guo, J., Wang, Y., Wang, H., Wang, S., Zhou, X. <br>
+            <em> Geophysical Research Letters, </em> 2024 <br>
+            <a href="/article/.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Welch_2024_GRL.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                28. Unveiling the Hidden Threat: Drought-Induced Inelastic Subsidence in Expansive Soils
+              </span>
+            </strong>
+            <br> Welch, J., Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br>
+            <em> Geophysical Research Letters, </em> 2024 <br>
+            <a href="/article/.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Chen_2024_BAMS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                27. Investigation of precipitation process in the water vapor channel of the Yarlung Zsangbo Grand Canyon
+              </span>
+            </strong>
+            <br> Chen, X., Xu, X., Ma, Y., Wang, G., Chen, D., Cao, D., Xu, X., Zhang, Q., Li, L., Liu, Y., Liu, L., Li, M., Luo, S., Wang, X., <b>Hu, X.</b> <br>
+            <em> Bulletin of the American Meteorological Society,</em> 2024 <br>
+            <a href="/article/Chen_RS_2023.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br>
+<p>
    <strong> 2023 </strong>
 </p> 
 
@@ -40,6 +147,25 @@ permalink: /publication/
   <table style="width: 100%;">
     <tbody>
 
+    <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Yu_2023_RS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                26. Land Subsidence in Tianjin, China: Before and after the South-to-North Water Diversion
+              </span>
+            </strong>
+            <br> Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
+            <em> Remote Sensing, 15(6), 1647,</em> 2023 <br>
+            <a href="/article/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+    </tr>
+      
     <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -54,7 +180,7 @@ permalink: /publication/
             </strong>
             <br> Yang, L., Lu, Z., Ouyang, C., Zhao, C., <b>Hu, X.</b>, Zhang, Q. <br>
             <em> Remote Sensing,</em> 2023 <br>
-            <a href="/article/.pdf" download>&#91;pdf&#93;</a>
+            <a href="/article/Yang_RS_2023.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
