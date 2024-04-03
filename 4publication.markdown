@@ -603,7 +603,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
- 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -622,7 +621,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-  
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -641,7 +639,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-  
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -659,8 +656,7 @@ permalink: /publication/
                <a href="/articles/Measuring_Coseismic_Displacements_With_Point-Like_Targets_Offset_Tracking.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
-      </tr>    
-
+      </tr>
     </tbody>
   </table>
 </div>
