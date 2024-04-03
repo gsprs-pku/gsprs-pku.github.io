@@ -40,29 +40,29 @@ permalink: /publication/
   <table style="width: 100%;">
     <tbody>
 
-    <tr>
-        <td style="width: 30%;">
-        <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Ao_2024_Sciences.png" />
-        </td>
-        <td style="width: 70%;">
-          <p>
-            <strong>
-              <span class="links">
-                31. A national-scale assessment of land subsidence in China’s major cities
-              </span>
-            </strong>
-            <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., Li, M., Wang, F., Hu, L., Liang, X., Qi, W., Ran, Q., Yusup, A., Xiao, J., Fang, J., Chang, J., Zeng, Z., Fu, Y., Xue, B., Wang, P., Zhao, K., Li, L., Li, W., Li, Y., Jiang, M., Yang, Y., Shen, H., Zhao, X., Shi, Y., Wu, B., Yan, Z., Wang, M., Su, Y., Hu, T., Ma, Q., Bai, H., Wang, L., Yang, Z., Feng, Y., Zhang, D., Huang, E., Pan, J., Ye, H., Yang, C., Qin, Y., He, C., Guo, Y., Cheng, K., Ren, Y., Yang, H., Zheng, C., Zhu, J., Wang, S., Ji, C., Zhu, B., Liu, H., Tang, Z., Wang, Z., Zhao, S., Tang, Y., Xing, H.,  Guo, Q., Liu, Y., Fang, J. <br>
-            <em> Sciences,</em> 2024 <br>
-            <a href="" download>&#91;pdf&#93;</a>
-          </p>
-        </td>
-      </tr>
+#    <tr>
+#        <td style="width: 30%;">
+#        <!--change the picture here!!-->
+#          <img src="{{site.url}}/imgs/article_img/Ao_2024_Sciences.png" />
+#        </td>
+#        <td style="width: 70%;">
+#          <p>
+#            <strong>
+#              <span class="links">
+#                31. A national-scale assessment of land subsidence in China’s major cities
+#              </span>
+#            </strong>
+#            <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., Li, M., Wang, F., Hu, L., Liang, X., Qi, W., Ran, Q., Yusup, A., Xiao, J., Fang, J., Chang, J., Zeng, Z., Fu, Y., Xue, B., Wang, P., Zhao, K., Li, L., Li, W., Li, Y., Jiang, M., Yang, Y., Shen, H., Zhao, X., Shi, Y., Wu, B., Yan, Z., Wang, M., Su, Y., Hu, T., Ma, Q., Bai, H., Wang, L., Yang, Z., Feng, Y., Zhang, D., Huang, E., Pan, J., Ye, H., Yang, C., Qin, Y., He, C., Guo, Y., Cheng, K., Ren, Y., Yang, H., Zheng, C., Zhu, J., Wang, S., Ji, C., Zhu, B., Liu, H., Tang, Z., Wang, Z., Zhao, S., Tang, Y., Xing, H.,  Guo, Q., Liu, Y., Fang, J. <br>
+#            <em> Sciences,</em> 2024 <br>
+#            <a href="/article/Ao_2024_Sciences.pdf" download>&#91;pdf&#93;</a>
+#          </p>
+#        </td>
+#      </tr>
 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Yu_2024_npjNH.png" />
+          <img src="{{site.url}}/imgs/article_img/Yu_Hu_2024_npjNH.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -73,7 +73,7 @@ permalink: /publication/
             </strong>
             <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
             <em> npj Natural Hazards, 1, </em> 2024 <br>
-            <a href="/article/.pdf" download>&#91;pdf&#93;</a>
+            <a href="/article/Yu_Hu_2024_npjNH.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -92,7 +92,7 @@ permalink: /publication/
             </strong>
             <br> Li, Y., Cui, Y.*, <b>Hu, X.</b>, Lu, Z., Guo, J., Wang, Y., Wang, H., Wang, S., Zhou, X. <br>
             <em> Geophysical Research Letters, </em> 2024 <br>
-            <a href="/article/.pdf" download>&#91;pdf&#93;</a>
+            <a href="/article/Li_2024_GRL.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -111,7 +111,7 @@ permalink: /publication/
             </strong>
             <br> Welch, J., Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br>
             <em> Geophysical Research Letters, </em> 2024 <br>
-            <a href="/article/.pdf" download>&#91;pdf&#93;</a>
+            <a href="/article/Welch_2024_GRL.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
