@@ -128,9 +128,9 @@ permalink: /publication/
                 27. Investigation of precipitation process in the water vapor channel of the Yarlung Zsangbo Grand Canyon
               </span>
             </strong>
-            <br> Chen, X., Xu, X., Ma, Y., Wang, G., Chen, D., Cao, D., Xu, X., Zhang, Q., Li, L., Liu, Y., Liu, L., Li, M., Luo, S., Wang, X., <b>Hu, X.</b> <br>
+            <br> Chen, X.*, Xu, X., Ma, Y.*, Wang, G., Chen, D., Cao, D., Xu, X., Zhang, Q., Li, L., Liu, Y., Liu, L., Li, M., Luo, S., Wang, X., <b>Hu, X.</b> <br>
             <em> Bulletin of the American Meteorological Society,</em> 2024 <br>
-            <a href="/article/Chen_RS_2023.pdf" download>&#91;pdf&#93;</a>
+            <a href="/article/Chen_BAMS_2023.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
