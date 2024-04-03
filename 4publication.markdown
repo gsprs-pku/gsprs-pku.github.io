@@ -39,7 +39,6 @@ permalink: /publication/
 <div>
   <table style="width: 100%;">
     <tbody>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -58,7 +57,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -77,7 +75,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -96,7 +93,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -127,7 +123,6 @@ permalink: /publication/
 <div>
   <table style="width: 100%;">
     <tbody>
-
     <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -146,7 +141,6 @@ permalink: /publication/
           </p>
         </td>
     </tr>
-      
     <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -165,7 +159,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -184,8 +177,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -204,8 +195,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -235,8 +224,7 @@ permalink: /publication/
 
 <div>
   <table style="width: 100%;">
-    <tbody>
-        
+    <tbody>       
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -255,7 +243,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -274,7 +261,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -302,8 +288,7 @@ permalink: /publication/
 </p>  
 <div>
   <table style="width: 100%;">
-    <tbody>
-        
+    <tbody>       
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -322,8 +307,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
-  
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -342,7 +325,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
- 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -360,8 +342,7 @@ permalink: /publication/
              <a href="/articles/Hu_GRL_2021GL095230.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
-      </tr>
-  
+      </tr> 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -380,7 +361,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
- 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -399,7 +379,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -429,7 +408,6 @@ permalink: /publication/
 <div>
   <table style="width: 100%;">
     <tbody>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -448,7 +426,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -467,7 +444,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -485,8 +461,7 @@ permalink: /publication/
              <a href="/articles/aquifer deformation and active faulting.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
-      </tr>
-  
+      </tr> 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -504,8 +479,7 @@ permalink: /publication/
              <a href="/articles/Internal kinematics of the Slumgullion landslide from high-resolution UAVSAR InSAR data.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
-      </tr>
-  
+      </tr> 
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -534,8 +508,7 @@ permalink: /publication/
 
 <div>
   <table style="width: 100%;">
-    <tbody>
-        
+    <tbody>      
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -564,8 +537,7 @@ permalink: /publication/
 
 <div>
   <table style="width: 100%;">
-    <tbody>
-        
+    <tbody>        
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -584,7 +556,6 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
