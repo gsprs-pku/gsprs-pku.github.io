@@ -668,9 +668,10 @@ permalink: /publication/
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
+8.&nbsp;Lin, F.†, <b>Hu, X.*</b>, Lin, Y., Li, Y., Liu, Y., Li, D. Lunar impact crater detection based on multi-modal Chang’e remote sensing fusion.
 7.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C. Alternative hydrological variable from InSAR coherence in landslide characterization.
 <br>
-6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lu, H., Niu, F., Zhang, S., Liu, J., Liu, Y. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
+6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lu, H., Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
 <br>
 5.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Ballarini, R., Tao, S. Land subsidence hastens Miami suburb’s seawater intrusion by 350 years.
 <br>
@@ -688,9 +689,7 @@ permalink: /publication/
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
-5.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., 2023 extreme floods in Beijing-Tianjin-Hebei region.
-<br>
-4.&nbsp;Mirzadeh, S.†, <b>Hu, X.*</b>, et al., Spatiotemporal Changes in Natural Balance of Abarkuh Playa Enlightened by Remote Sensing and Hydrological Datasets.
+4.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., 2023 extreme floods in Beijing-Tianjin-Hebei region.
 <br>
 3.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
 <br>
