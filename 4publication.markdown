@@ -87,7 +87,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                28. Unveiling the Hidden Threat: Drought-Induced Inelastic Subsidence in Expansive Soils
+                28. Unveiling the hidden threat: drought-induced inelastic subsidence in expansive soils
               </span>
             </strong>
             <br> Welch, J., Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br>
