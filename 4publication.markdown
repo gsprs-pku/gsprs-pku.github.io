@@ -31,11 +31,10 @@ permalink: /publication/
 </div>
 
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
-
 <p>
    <strong> 2024 </strong>
 </p> 
-
+               
 <div>
   <table style="width: 100%;">
     <tbody>
@@ -53,7 +52,7 @@ permalink: /publication/
             </strong>
             <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
             <em> npj Natural Hazards, 1, </em> 2024 <br>
-            <a href="/article/Yu_Hu_2024_npjNH.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Yu_Hu_2024_npjNH.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -71,7 +70,7 @@ permalink: /publication/
             </strong>
             <br> Li, Y., Cui, Y.*, <b>Hu, X.</b>, Lu, Z., Guo, J., Wang, Y., Wang, H., Wang, S., Zhou, X. <br>
             <em> Geophysical Research Letters, </em> 2024 <br>
-            <a href="/article/Li_2024_GRL.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Li_2024_GRL.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -89,7 +88,7 @@ permalink: /publication/
             </strong>
             <br> Welch, J., Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br>
             <em> Geophysical Research Letters, </em> 2024 <br>
-            <a href="/article/Welch_2024_GRL.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Welch_2024_GRL.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -107,7 +106,7 @@ permalink: /publication/
             </strong>
             <br> Chen, X.*, Xu, X., Ma, Y.*, Wang, G., Chen, D., Cao, D., Xu, X., Zhang, Q., Li, L., Liu, Y., Liu, L., Li, M., Luo, S., Wang, X., <b>Hu, X.</b> <br>
             <em> Bulletin of the American Meteorological Society,</em> 2024 <br>
-            <a href="/article/Chen_BAMS_2023.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Chen_BAMS_2023.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -137,7 +136,7 @@ permalink: /publication/
             </strong>
             <br> Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
             <em> Remote Sensing, 15(6), 1647,</em> 2023 <br>
-            <a href="/article/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
     </tr>
@@ -155,7 +154,7 @@ permalink: /publication/
             </strong>
             <br> Yang, L., Lu, Z., Ouyang, C., Zhao, C., <b>Hu, X.</b>, Zhang, Q. <br>
             <em> Remote Sensing,</em> 2023 <br>
-            <a href="/article/Yang_RS_2023.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Yang_RS_2023.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -173,7 +172,7 @@ permalink: /publication/
             </strong>
             <br> Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. <br>
             <em> Journal of Geophysical Research: Solid Earth, 128, e2022JB026232,</em> 2023 <br>
-            <a href="/article/JGR Solid Earth - 2023 - Zheng.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/JGR Solid Earth - 2023 - Zheng.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -191,7 +190,7 @@ permalink: /publication/
             </strong>
             <br> Shi, X., <b>Hu, X.*</b> <br>
             <em> Earth Surface Processes and Landforms,</em> 2023 <br>
-            <a href="/article/Earth Surf Processes Landf - 2023 - Shi.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Earth Surf Processes Landf - 2023 - Shi.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -209,7 +208,7 @@ permalink: /publication/
             </strong>
             <br> Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
             <em> Remote Sensing, 15(6), 1647,</em> 2023 <br>
-            <a href="/article/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -239,7 +238,7 @@ permalink: /publication/
             </strong>
             <br> Qi, S., Hou, X., Yu, Y., Zhang, Y., <b>Hu, X.</b>, Zhang, L., Li, Z., Guo, S., Zhang, F., Li, T., Peng, J. <br>
             <em> Science Bulletin (in Chinese),</em> 2022 <br>
-            <a href="/article/1F422530185B4B67B39147A7D220726D.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/1F422530185B4B67B39147A7D220726D.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
