@@ -40,7 +40,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Ao_2024_Sciences.png" />
+          <img src="{{site.url}}/imgs/article_img/Ao_2024_Science.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -51,14 +51,14 @@ permalink: /publication/
             </strong>
             <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., Li, M., Wang, F., Hu, L., Liang, X., Qi, W., Ran, Q., Yusup, A., Xiao, J., Fang, J., Chang, J., Zeng, Z., Fu, Y., Xue, B., Wang, P., Zhao, K., Li, L., Li, W., Li, Y., Jiang, M., Yang, Y., Shen, H., Zhao, X., Shi, Y., Wu, B., Yan, Z., Wang, M., Su, Y., Hu, T., Ma, Q., Bai, H., Wang, L., Yang, Z., Feng, Y., Zhang, D., Huang, E., Pan, J., Ye, H., Yang, C., Qin, Y., He, C., Guo, Y., Cheng, K., Ren, Y., Yang, H., Zheng, C., Zhu, J., Wang, S., Ji, C., Zhu, B., Liu, H., Tang, Z., Wang, Z., Zhao, S., Tang, Y., Xing, H.,  Guo, Q., Liu, Y., Fang, J. <br>
             <em> Sciences, 384(6693), 301-306,</em> 2024 <br> 
-            <a href="/article/Ao_2024_Sciences.pdf" download>&#91;pdf&#93;</a>
+            <a href="/article/Ao_2024_Science.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
     <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Ao_2024_Sciences.png" />
+          <img src="{{site.url}}/imgs/article_img/Zhou_2024_EngGeo.png" />
         </td>
         <td style="width: 70%;">
           <p>
