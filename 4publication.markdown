@@ -27,7 +27,6 @@ permalink: /publication/
 
 <div class="links">
   <p><strong><a href="/publication/">Publication by year</a></strong> 
-  <strong><a href="/publication/topic/">Publication by topics</a></strong></p>
 </div>
 
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
@@ -707,7 +706,7 @@ permalink: /publication/
 <br>
 6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lu, H., Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
 <br>
-5.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Ballarini, R., Tao, S. Land subsidence hastens Miami suburb’s seawater intrusion by 350 years.
+5.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Ballarini, R., Tao, S. Land subsidence hastens Miami suburb’s seawater intrusion.
 <br>
 4.&nbsp;Thomas, J., Klida, R., Oommen, T., Sajinkumar, K.S., Zhang, B., <b>Hu, X.</b>, Need for a multi-sensor monitoring approach for embankment failures: Lessons learned from the Edenville Dam failure in 2020.
 <br>
