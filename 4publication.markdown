@@ -30,10 +30,12 @@ permalink: /publication/
 </div>
 
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
+
 <br>
 <p>
    <strong> 2024 </strong>
-</p>             
+</p>  
+
 <div>
   <table style="width: 100%;">
     <tbody>
@@ -55,7 +57,7 @@ permalink: /publication/
           </p>
         </td>
       </tr>
-    <tr>
+      <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Thomas_2024_EEG.png" />
@@ -74,7 +76,7 @@ permalink: /publication/
         </td>
       </tr>
       <tr>
-    <tr>
+      <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Zhou_2024_EngGeo.png" />
@@ -711,7 +713,6 @@ permalink: /publication/
     </tbody>
   </table>
 </div>
-
 <br>
 </body>
 <br>
