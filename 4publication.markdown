@@ -30,7 +30,6 @@ permalink: /publication/
 </div>
 
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
-
 <br>
 <p>
    <strong> 2024 </strong>
