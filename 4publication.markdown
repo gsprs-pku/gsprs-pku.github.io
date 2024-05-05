@@ -721,15 +721,16 @@ permalink: /publication/
 † denotes group members under direct supervision  * denotes corresponding
 <br>
 8.&nbsp;Lin, F.†, <b>Hu, X.*</b>, Lin, Y., Li, Y., Liu, Y., Li, D. Lunar impact crater detection based on multi-modal Chang’e remote sensing fusion.
+<br>
 7.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C. Alternative hydrological variable from InSAR coherence in landslide characterization.
 <br>
 6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lu, H., Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
 <br>
 5.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Ballarini, R., Tao, S. Land subsidence hastens Miami suburb’s seawater intrusion.
 <br>
-4.&nbsp;Thomas, J., Klida, R., Oommen, T., Sajinkumar, K.S., Zhang, B., <b>Hu, X.</b>, Need for a multi-sensor monitoring approach for embankment failures: Lessons learned from the Edenville Dam failure in 2020.
+4.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Duan, X., Lin, F.†, Lu, H., Wang, L., A zero-shot generalized Martian Craters mapping model based on foundation model. 
 <br>
-3.&nbsp;Li, Y., <b>Hu, X.</b>, Cui, Y., Ouyang, C., Increasing glacier-related hazards in High Mountain Asia.
+3.&nbsp;Zhu, H.H.*, Ye, X., Tian, F., Wu, B., Zhang, W., <b>Hu, X.</b>, Schenato, L., Pasuto, A., Catani, F. Near-surface soil hydrothermal responses feedback landslide activity and mechanism.
 <br>
 2.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
 <br>
@@ -741,11 +742,9 @@ permalink: /publication/
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
-4.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., 2023 extreme floods in Beijing-Tianjin-Hebei region.
+3.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., 2023 extreme floods in Beijing-Tianjin-Hebei region.
 <br>
-3.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
-<br>
-2.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lin, F.†, et al., Inventorying Martian craters based on segment anything model (SAM). 
+2.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
 <br>
 1.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
 <br>
