@@ -45,7 +45,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                32. A national-scale assessment of land subsidence in China’s major cities
+                33. A national-scale assessment of land subsidence in China’s major cities
               </span>
             </strong>
             <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., Li, M., Wang, F., Hu, L., Liang, X., Qi, W., Ran, Q., Yusup, A., Xiao, J., Fang, J., Chang, J., Zeng, Z., Fu, Y., Xue, B., Wang, P., Zhao, K., Li, L., Li, W., Li, Y., Jiang, M., Yang, Y., Shen, H., Zhao, X., Shi, Y., Wu, B., Yan, Z., Wang, M., Su, Y., Hu, T., Ma, Q., Bai, H., Wang, L., Yang, Z., Feng, Y., Zhang, D., Huang, E., Pan, J., Ye, H., Yang, C., Qin, Y., He, C., Guo, Y., Cheng, K., Ren, Y., Yang, H., Zheng, C., Zhu, J., Wang, S., Ji, C., Zhu, B., Liu, H., Tang, Z., Wang, Z., Zhao, S., Tang, Y., Xing, H.,  Guo, Q., Liu, Y., Fang, J. <br>
@@ -54,6 +54,25 @@ permalink: /publication/
           </p>
         </td>
       </tr>
+    <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Thomas_2024_EEG.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                32. Need for a multi-sensor monitoring approach for embankment failures: lessons learned from the Edenville Dam failure
+              </span>
+            </strong>
+            <br> Thomas, J., Klida, R., Oommen, T.*, Sajinkumar, K.S., Zhang, B., <b>Hu, X.</b> <br>
+            <em> Environmental & Engineering Geoscience, 30(1-2), 19–30,</em> 2024 <br> 
+            <a href="/articles/Thomas_2024_EEG.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+      <tr>
     <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
