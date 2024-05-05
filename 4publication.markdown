@@ -125,7 +125,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Li, Y., Cui, Y.*, <b>Hu, X.</b>, Lu, Z., Guo, J., Wang, Y., Wang, H., Wang, S., Zhou, X. <br>
-            <em> Geophysical Research Letters, </em> 2024 <br>
+            <em> Geophysical Research Letters</em>, 2024 <br>
             <a href="/articles/Li_2024_GRL.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -143,7 +143,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Welch, J., Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br>
-            <em> Geophysical Research Letters, </em> 2024 <br>
+            <em> Geophysical Research Letters</em>, 2024 <br>
             <a href="/articles/Welch_2024_GRL.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -161,7 +161,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Chen, X.*, Xu, X., Ma, Y.*, Wang, G., Chen, D., Cao, D., Xu, X., Zhang, Q., Li, L., Liu, Y., Liu, L., Li, M., Luo, S., Wang, X., <b>Hu, X.</b> <br>
-            <em> Bulletin of the American Meteorological Society,</em> 2024 <br>
+            <em> Bulletin of the American Meteorological Society</em>, 2024 <br>
             <a href="/articles/Chen_BAMS_2023.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
