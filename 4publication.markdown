@@ -76,7 +76,6 @@ permalink: /publication/
         </td>
       </tr>
       <tr>
-      <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Zhou_2024_EngGeo.png" />
