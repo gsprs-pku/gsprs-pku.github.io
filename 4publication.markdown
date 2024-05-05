@@ -50,7 +50,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., Li, M., Wang, F., Hu, L., Liang, X., Qi, W., Ran, Q., Yusup, A., Xiao, J., Fang, J., Chang, J., Zeng, Z., Fu, Y., Xue, B., Wang, P., Zhao, K., Li, L., Li, W., Li, Y., Jiang, M., Yang, Y., Shen, H., Zhao, X., Shi, Y., Wu, B., Yan, Z., Wang, M., Su, Y., Hu, T., Ma, Q., Bai, H., Wang, L., Yang, Z., Feng, Y., Zhang, D., Huang, E., Pan, J., Ye, H., Yang, C., Qin, Y., He, C., Guo, Y., Cheng, K., Ren, Y., Yang, H., Zheng, C., Zhu, J., Wang, S., Ji, C., Zhu, B., Liu, H., Tang, Z., Wang, Z., Zhao, S., Tang, Y., Xing, H.,  Guo, Q., Liu, Y., Fang, J. <br>
-            <em> Sciences, 384(6693), 301-306,</em> 2024 <br> 
+            <em> Sciences</em>, 384(6693), 301-306, 2024 <br> 
             <a href="/articles/Ao_2024_Science.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -68,7 +68,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Thomas, J., Klida, R., Oommen, T.*, Sajinkumar, K.S., Zhang, B., <b>Hu, X.</b> <br>
-            <em> Environmental & Engineering Geoscience, 30(1-2), 19–30,</em> 2024 <br> 
+            <em> Environmental & Engineering Geoscience</em>, 30(1-2), 19–30, 2024 <br> 
             <a href="/articles/Thomas_2024_EEG.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -87,7 +87,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Zhou, C., Cao, Y.*, Gan, L., Wang, Y., Motagh, M., Roessner, S., <b>Hu, X.</b>, Yin, K. <br>
-            <em> Engineering Geology, 334, 107497,</em> 2024 <br> 
+            <em> Engineering Geology</em>, 334, 107497, 2024 <br> 
             <a href="/articles/Zhou_2024_EngGeo.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -105,7 +105,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
-            <em> npj Natural Hazards, 1, </em> 2024 <br>
+            <em> npj Natural Hazards</em>, 1, 2024 <br>
             <a href="/articles/Yu_Hu_2024_npjNH.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -188,7 +188,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
-            <em> Remote Sensing, 15(6), 1647,</em> 2023 <br>
+            <em> Remote Sensing</em>, 15(6), 1647, 2023 <br>
             <a href="/articles/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -224,7 +224,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. <br>
-            <em> Journal of Geophysical Research: Solid Earth, 128, e2022JB026232,</em> 2023 <br>
+            <em> Journal of Geophysical Research: Solid Earth</em>, 128, e2022JB026232, 2023 <br>
             <a href="/articles/JGR Solid Earth - 2023 - Zheng.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -260,7 +260,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
-            <em> Remote Sensing, 15(6), 1647,</em> 2023 <br>
+            <em> Remote Sensing</em>, 15(6), 1647, 2023 <br>
             <a href="/articles/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
