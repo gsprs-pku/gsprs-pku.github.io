@@ -30,6 +30,8 @@ permalink: /publication/
 </div>
 
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
+
+<br>
 <p>
    <strong> 2024 </strong>
 </p>             
@@ -170,8 +172,7 @@ permalink: /publication/
 <br>
 <p>
    <strong> 2023 </strong>
-</p> 
-
+</p>
 <div>
   <table style="width: 100%;">
     <tbody>
@@ -272,8 +273,7 @@ permalink: /publication/
 <br>
 <p>
    <strong> 2022 </strong>
-</p> 
-
+</p>
 <div>
   <table style="width: 100%;">
     <tbody>       
