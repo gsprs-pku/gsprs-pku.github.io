@@ -98,54 +98,9 @@ Research interests:
 <a href="https://www.ues.pku.edu.cn/szdw/qbjs/h/355860.htm" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="https://sites.google.com/site/xiehusar/" target="_blank">&#91;Google Site&#93;</a>     <a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">&#91;Google Scholar&#93;</a>     <a href="/articles/CV_XieHU_202201.pdf" download>&#91;CV&#93;</a> 
 <br>
 <br>
-    
-<p style="font-weight:bold">Postdoctoral fellow</p>
-<p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh (m.mirzadeh@pku.edu.cn)</p>
-
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="4">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Sayyed.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>
-                <td> Ph.D. </td>  
-                <td> Astrometry and Celestial Mechanics </td> 
-                <td> University of Chinese Academy of Sciences </td> 
-            </tr>
-            <tr>           
-                <td> M.S. </td> 
-                <td> Photogrammetry and Remote Sensing </td> 
-                <td> K.N.TOOSI University of Technology, Iran </td> 
-            </tr>
-            <tr>      
-               <td> B.S. </td> 
-               <td> Geomatics Engineering </td> 
-               <td> University of Tehran, Iran </td> 
-            </tr>
-    </tbody>
-    </table>
-    <br>
-     Research interests:
-    <br>
-     - Interferometric Synthetic Aperture Radar (InSAR)
-    <br>
-     - Tectonics and geohazards
-     <br>
-     - Post-analysis of InSAR big data
-<br>
-<br>
-<br>
 
 <p style="font-weight:bold">PhD students</p>
 <p style="font-weight:bold">Yuqi Song (yqsong@stu.pku.edu.cn)</p>    
-
     <table>
         <tbody>
             <tr>
@@ -183,7 +138,6 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">Yongxuan Ran (yongxuan@stu.pku.edu.cn) </p>
-
     <table>
         <tbody>
             <tr>
@@ -220,7 +174,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Feng Lin (linfeng02@bjfu.edu.cn; officially join in 2024 fall)</p>    
+<p style="font-weight:bold">Feng Lin (linfeng02@bjfu.edu.cn)</p>    
     <table>
         <tbody>
             <tr>
@@ -250,15 +204,50 @@ Research interests:
     <br>
      Research interests:
     <br>
-     - Deep learning in remote sensing
+     - AI remote sensing
     <br>
 <br>
 <br>
-<br>   
+<br>  
+
+<p style="font-weight:bold">Yi Hu (huyi2021@bjfu.edu.cn; officially join in fall 2025)</p>    
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:100px;" rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/people/.jpg" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2025- </td>
+                <td> Ph.D. </td>  
+                <td> GIS </td> 
+                <td> Peking University </td> 
+            </tr>
+            <tr>   
+                <td> 2021-2025 </td>
+                <td> B.S. </td>     
+                <td> Computer Science and Technology </td> 
+                <td> Beijing Forestry University </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - AI remote sensing
+    <br>
+<br>
+<br>
+<br>  
 
 <p style="font-weight:bold">Master students</p>
 <p style="font-weight:bold">Penghui Wu (penghui_wu@stu.pku.edu.cn)</p>
-
     <table>
         <tbody>
             <tr>
@@ -332,7 +321,7 @@ Research interests:
 <br>
 <br>       
 
-<p style="font-weight:bold">Jinghui Xiao (xiaojinghui@whu.edu.cn; officially join in 2024 fall)</p>    
+<p style="font-weight:bold">Jinghui Xiao (xiaojinghui@whu.edu.cn)</p>    
     <table>
         <tbody>
             <tr>
@@ -364,11 +353,41 @@ Research interests:
     <br>
      - InSAR
     <br>
-<br>
-<br>
-<br>
-<br>
 
+    <p style="font-weight:bold">Yuanzhuo Zhou (20211002044@cug.edu.cn; officially join in 2025)</p>    
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:100px;" rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/people/.jpg" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2025- </td>
+                <td> M.S. </td>  
+                <td> GIS </td> 
+                <td> Peking University </td> 
+            </tr>
+            <tr>   
+                <td> 2021-2025 </td>
+                <td> B.S. </td>     
+                <td> GIS </td> 
+                <td> China University of Geosciences (Wuhan) </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - InSAR
+    <br>
+<br>
+<br>
 <br>
 
 <p style="font-weight:bold">VIP</p>
@@ -408,23 +427,24 @@ Research interests:
 <p style="font-weight:bold">Alumni</p>
 <br>  
 <br> 
-<p style="font-weight:bold">Xiao Yu</p> 
-Research Assistant, now Researcher at the Illinois State Water Survey, University of Illinois Urbana-Champaign, USA. 
+<p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh</p> 
+2023-2024 Postdoctoral Researcher, now in the USA. 
 <br>
 <br> 
 <p style="font-weight:bold">Congrong Wang</p> 
-Undergrad thesis work with the lab.
+2023 Undergrad thesis work with the lab, now PhD student at University of Alaska, Fairbanks, US.
+<br>
+<br> 
+<p style="font-weight:bold">Xiao Yu</p> 
+2021-2023 Research Assistant, now Research Scientist at the Illinois State Water Survey, University of Illinois Urbana-Champaign, US. 
 <br>
 <br> 
 <p style="font-weight:bold">Qingyu Sui</p> 
-Research Assistant, now PhD student at the Southern Methodish University, USA.
+2021 Undergrad Research Assistant, now PhD student at the Southern Methodish University, US.
 <br> 
 <br> 
 <p style="font-weight:bold">Hanwen Yu</p> 
-Postdoctoral Researcher, now Professor at the University of Electronic Science and Technology of China.      
-<br>
-<br>
-<br>
+2020-2021 Postdoctoral Researcher, now Professor at the University of Electronic Science and Technology of China.      
 <br>
 <br>
 </body>
