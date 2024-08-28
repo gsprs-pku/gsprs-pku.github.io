@@ -48,12 +48,66 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                33. A national-scale assessment of land subsidence in China’s major cities
+                36. A national-scale assessment of land subsidence in China’s major cities
               </span>
             </strong>
             <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., Li, M., Wang, F., Hu, L., Liang, X., Qi, W., Ran, Q., Yusup, A., Xiao, J., Fang, J., Chang, J., Zeng, Z., Fu, Y., Xue, B., Wang, P., Zhao, K., Li, L., Li, W., Li, Y., Jiang, M., Yang, Y., Shen, H., Zhao, X., Shi, Y., Wu, B., Yan, Z., Wang, M., Su, Y., Hu, T., Ma, Q., Bai, H., Wang, L., Yang, Z., Feng, Y., Zhang, D., Huang, E., Pan, J., Ye, H., Yang, C., Qin, Y., He, C., Guo, Y., Cheng, K., Ren, Y., Yang, H., Zheng, C., Zhu, J., Wang, S., Ji, C., Zhu, B., Liu, H., Tang, Z., Wang, Z., Zhao, S., Tang, Y., Xing, H.,  Guo, Q., Liu, Y., Fang, J. <br>
             <em> Sciences</em>, 384(6693), 301-306, 2024 <br> 
             <a href="/articles/Ao_2024_Science.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                35. Rapid building damage estimates from the M7.8 Turkey Earthquake sequence via causality-informed Bayesian inference from satellite imagery
+              </span>
+            </strong>
+            <br> Li, X., Yu, X.†, Burgi, P., Wald, D., <b>Hu, X.</b>, Xu, S.*<br>
+            <em> Earthquake Spectra </em>, 2024 (Accepted)<br> 
+            <a href="/articles/.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                34. Near-surface soil hydrothermal response feedbacks landslide activity and mechanism
+              </span>
+            </strong>
+            <br>Ye, X., Zhu, H.H.*, Wu, B., Tian, F., Zhang, W., <b>Hu, X.</b>, Schenato, L., Pasuto, A., Catani, F.<br>
+            <em> Engineering Geology </em>, 2024 (Accepted) <br> 
+            <a href="/articles/.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Zhou_2024_EngGeo.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                33. A novel framework for landslide displacement prediction using MT-InSAR and machine learning techniques
+              </span>
+            </strong>
+            <br> Zhou, C., Cao, Y.*, Gan, L., Wang, Y., Motagh, M., Roessner, S., <b>Hu, X.</b>, Yin, K. <br>
+            <em> Engineering Geology</em>, 334, 107497, 2024 <br> 
+            <a href="/articles/Zhou_2024_EngGeo.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -78,49 +132,13 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Zhou_2024_EngGeo.png" />
-        </td>
-        <td style="width: 70%;">
-          <p>
-            <strong>
-              <span class="links">
-                31. A novel framework for landslide displacement prediction using MT-InSAR and machine learning techniques
-              </span>
-            </strong>
-            <br> Zhou, C., Cao, Y.*, Gan, L., Wang, Y., Motagh, M., Roessner, S., <b>Hu, X.</b>, Yin, K. <br>
-            <em> Engineering Geology</em>, 334, 107497, 2024 <br> 
-            <a href="/articles/Zhou_2024_EngGeo.pdf" download>&#91;pdf&#93;</a>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 30%;">
-        <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Yu_Hu_2024_npjNH.png" />
-        </td>
-        <td style="width: 70%;">
-          <p>
-            <strong>
-              <span class="links">
-                30. Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations
-              </span>
-            </strong>
-            <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
-            <em> npj Natural Hazards</em>, 1, 2024 <br>
-            <a href="/articles/Yu_Hu_2024_npjNH.pdf" download>&#91;pdf&#93;</a>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 30%;">
-        <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Li_2024_GRL.png" />
         </td>
         <td style="width: 70%;">
           <p>
             <strong>
               <span class="links">
-                29. Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain
+                31. Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain
               </span>
             </strong>
             <br> Li, Y., Cui, Y.*, <b>Hu, X.</b>, Lu, Z., Guo, J., Wang, Y., Wang, H., Wang, S., Zhou, X. <br>
@@ -138,12 +156,30 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                28. Unveiling the hidden threat: drought-induced inelastic subsidence in expansive soils
+                30. Unveiling the hidden threat: drought-induced inelastic subsidence in expansive soils
               </span>
             </strong>
             <br> Welch, J., Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br>
             <em> Geophysical Research Letters</em>, 2024 <br>
             <a href="/articles/Welch_2024_GRL.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Yu_Hu_2024_npjNH.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                29. Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations
+              </span>
+            </strong>
+            <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
+            <em> npj Natural Hazards</em>, 1, 2024 <br>
+            <a href="/articles/Yu_Hu_2024_npjNH.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
@@ -156,12 +192,30 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                27. Investigation of precipitation process in the water vapor channel of the Yarlung Zsangbo Grand Canyon
+                28. Investigation of precipitation process in the water vapor channel of the Yarlung Zsangbo Grand Canyon
               </span>
             </strong>
             <br> Chen, X.*, Xu, X., Ma, Y.*, Wang, G., Chen, D., Cao, D., Xu, X., Zhang, Q., Li, L., Liu, Y., Liu, L., Li, M., Luo, S., Wang, X., <b>Hu, X.</b> <br>
             <em> Bulletin of the American Meteorological Society</em>, 2024 <br>
             <a href="/articles/Chen_BAMS_2023.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                27. The locality-adaptation theory of traditional villages
+              </span>
+            </strong>
+            <br> Wang, F.*, Xue, P., Su, W., <b>Hu, X.</b> <br>
+            <em> Indoor and Built Environment </em>, 2024 <br>
+            <a href="/articles/_2024.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
