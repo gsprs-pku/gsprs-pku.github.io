@@ -204,7 +204,7 @@ permalink: /publication/
       <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/.png" />
+          <img src="{{site.url}}/imgs/article_img/Wang_2024_Indoor&BuiltEnvironment.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -215,7 +215,7 @@ permalink: /publication/
             </strong>
             <br> Wang, F.*, Xue, P., Su, W., <b>Hu, X.</b> <br>
             <em> Indoor and Built Environment </em>, 2024 <br>
-            <a href="/articles/_2024.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Wang_2024_Indoor&BuiltEnvironment.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
