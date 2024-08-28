@@ -52,8 +52,8 @@ permalink: /people/
  </tbody>
  </table>
     
-   <table>
-   <tbody>
+ <table>
+ <tbody>
             <tr>
        <td colspan="3">
             Employment
@@ -352,7 +352,9 @@ Research interests:
      Research interests:
     <br>
      - InSAR
-    <br>
+<br>
+<br>
+<br>
 
     <p style="font-weight:bold">Yuanzhuo Zhou (20211002044@cug.edu.cn; officially join in 2025)</p>    
     <table>
@@ -425,10 +427,8 @@ Research interests:
 <br>   
  
 <p style="font-weight:bold">Alumni</p>
-<br>  
-<br> 
 <p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh</p> 
-2023-2024 Postdoctoral Researcher, now in the USA. 
+2023-2024 Postdoctoral Researcher, now in the US. 
 <br>
 <br> 
 <p style="font-weight:bold">Congrong Wang</p> 
