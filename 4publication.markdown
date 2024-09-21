@@ -78,7 +78,7 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/.png" />
+          <img src="{{site.url}}/imgs/article_img/Ye_2024_EngGeo.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -89,7 +89,7 @@ permalink: /publication/
             </strong>
             <br>Ye, X., Zhu, H.H.*, Wu, B., Tian, F., Zhang, W., <b>Hu, X.</b>, Schenato, L., Pasuto, A., Catani, F.<br>
             <em> Engineering Geology </em>, 2024 (Accepted) <br> 
-            <a href="/articles/.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Ye_2024_EngGeo.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
