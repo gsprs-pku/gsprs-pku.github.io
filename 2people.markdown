@@ -169,12 +169,12 @@ Research interests:
     <br>
      - Monitoring long-term and short-term natural hazards and shallow processes though InSAR and GNSS
     <br>
-     - Remote sensing satellites
+     - Coastal hazards
 <br>
 <br>
 <br>
 
-<p style="font-weight:bold">Feng Lin (linfeng02@bjfu.edu.cn)</p>    
+<p style="font-weight:bold">Feng Lin (linfeng@stu.pku.edu.cn)</p>    
     <table>
         <tbody>
             <tr>
@@ -216,7 +216,7 @@ Research interests:
             <tr>
                 <td style="width:100px;" rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/people/.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Yi.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -284,7 +284,7 @@ Research interests:
 <br>
 <br>
     
-<p style="font-weight:bold">Yiling Lin (201911051103@bnu.edu.cn) </p>
+<p style="font-weight:bold">Yiling Lin (yllin@stu.pku.edu.cn) </p>
     <table>
         <tbody>
             <tr>
@@ -321,7 +321,7 @@ Research interests:
 <br>
 <br>       
 
-<p style="font-weight:bold">Jinghui Xiao (xiaojinghui@whu.edu.cn)</p>    
+<p style="font-weight:bold">Jinghui Xiao (xiaojinghui@stu.pku.edu.cn)</p>    
     <table>
         <tbody>
             <tr>
@@ -362,7 +362,7 @@ Research interests:
             <tr>
                 <td style="width:100px;" rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/people/.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Yuanzhuo.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -386,7 +386,8 @@ Research interests:
     <br>
      Research interests:
     <br>
-     - InSAR
+    - GIS
+    - InSAR
     <br>
 <br>
 <br>
