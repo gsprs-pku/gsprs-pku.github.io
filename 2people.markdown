@@ -306,7 +306,7 @@ Research interests:
             <tr>    
                 <td> 2019-2023 </td>
                 <td> B.S. </td> 
-                <td> Geographic Information Science </td> 
+                <td> GIS </td> 
                 <td> Beijing Normal University </td> 
             </tr>
         </tbody>
@@ -387,6 +387,7 @@ Research interests:
      Research interests:
     <br>
     - GIS
+    <br>
     - InSAR
     <br>
 <br>
