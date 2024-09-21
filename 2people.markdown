@@ -327,7 +327,7 @@ Research interests:
             <tr>
                 <td style="width:100px;" rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/people/Jinghui_Xiao.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Jinghui.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
