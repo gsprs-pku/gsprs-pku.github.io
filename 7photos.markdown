@@ -13,7 +13,14 @@ permalink: /photos/
 
 <body>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2023MidAutumn.gif" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/2024MidAutumn.jpg" width="800" >
+    </div>
+    <td> 2024 Mid-autumn Festival - from left to right around the table - Yiling, Penghui, Xie, Feng, Yi, Yuqi, Yongxuan, and Jinghui. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2023TeachersDay.JPG" width="800" >
     </div>
     <td> 2023 Mid-autumn Eve - from left to right - standing: Sayyed, Feng - sitting: Penghui, Yuqi, Yongxuan, Yiling, and Xie. Yongxuan, Yuqi, and Sayyed brought mooncakes to share. </td> 
     <br>
