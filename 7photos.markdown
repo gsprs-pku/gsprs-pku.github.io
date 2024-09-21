@@ -20,7 +20,14 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2023TeachersDay.JPG" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/2024BeforeChineseNewYear.jpg" width="800" >
+    </div>
+    <td> Hotpot buffet before 2024 Chinese New Year, the time of Yongxuan's birthday - from left to right - Penghui, Yiling, Yongxuan, Yusa, Xie, Sayyed, Feng, Mei, and Yuqi. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2023MidAutumn.gif" width="800" >
     </div>
     <td> 2023 Mid-autumn Eve - from left to right - standing: Sayyed, Feng - sitting: Penghui, Yuqi, Yongxuan, Yiling, and Xie. Yongxuan, Yuqi, and Sayyed brought mooncakes to share. </td> 
     <br>
