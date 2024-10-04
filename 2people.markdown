@@ -430,7 +430,7 @@ Research interests:
  
 <p style="font-weight:bold">Alumni</p>
 <p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh</p> 
-2023-2024 Postdoctoral Researcher, now in the US. 
+2023-2024 Postdoctoral Researcher, now in Canda. 
 <br>
 <br> 
 <p style="font-weight:bold">Congrong Wang</p> 
