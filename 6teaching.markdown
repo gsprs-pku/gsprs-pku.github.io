@@ -16,7 +16,7 @@ permalink: /teaching/
 <h>
     Advanced GIS Technologies and Applications (2022F | 2023F)
 </h>
-<iframe src="/teaching/GIS高级技术与应用2023Syllabus.pdf" width="100%" height="500px"></iframe>
+<iframe src="/teaching/GIS高级技术与应用2024Syllabus.pdf" width="100%" height="500px"></iframe>
 <h>
     SAR Remote Sensing (2020F | 2023S)
 </h>
