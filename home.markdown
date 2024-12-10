@@ -123,7 +123,10 @@ permalink: /home/
  
 </html>
 
-
 We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University. We changed our lab name from Geological Hazards and Shallow Processes Remote Sensing (GSPRS) as now we are working on more general hazards including extreme climate hazards. We focus on using remote sensing tools, e.g., Synthetic Aperture Radar (SAR), to characterize ground deformation and land alternations associated with natural hazards in terrestrial planets. We have been working on mapping, monitoring, and modeling landslides, aquifers, dams, mines, coasts, earthquakes, extreme precipitation events, etc. We are dedicated to investigating their natural or anthropogenic triggerings and environmental forcings using statistical, analytical, numerical models and artificial intelligence (AI). Our multidisciplinary research spans the fields of geomatics, geophysics, hydrology, geology, tectonics, climate change, civil and environmental engineering, and computer sciences.
 
 We are always looking for highly motivated students and postdocs to join our lab. The application to <a href="https://postdocs.pku.edu.cn/tzgg/134998.htm" target="_blank"><i>Boya Postdoc Fellowship at Peking University</i></a> is due in early Spring and early Fall. We have interesting research data and topics to help strengthen your academic profile and career development! Candidates with strong interests are welcomed to contact PI Xie Hu.
+
+P.S., I will miss 2024 AGU in DC. Please stop by our enlightening talk. Prof. Qiuhong Tang will present our work about mapping the extent and depth of floodwaters during the two-month floods that occurred in northern China in 2023. AI and multi-source SAR ana optical satellite images from Sentinel-1, Sentinel-2, Gaofen-3, and Lutan-1 made this possible. Additionally, we quantified the role of eight activated flood detention areas in retenting and releasing floodwaters.
+
+P.P.S., I will stay in CIRES, CU Boulder and work with the team (Prof. Kristy Tiampo, Prof. Kathryn Materna, and many) in the upcoming spring semester of 2025.
