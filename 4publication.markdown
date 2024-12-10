@@ -52,7 +52,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
-            <em> Journal of Geophysical Research: Machine Learning and Computation </em>, accepted, 2024 <br> 
+            <em> Journal of Geophysical Research: Machine Learning and Computation</em>, accepted, 2024 <br> 
             <a href="/articles/Lin_2024_JGRMLC.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -70,7 +70,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, F.†, <b>Hu, X.*</b>, Lin, Y.†, Li, Y., Liu, Y., Li, D. <br>
-            <em> International Journal of Applied Earth Observation and Geoinformation </em>, 134, 104215, 2024 <br> 
+            <em> International Journal of Applied Earth Observation and Geoinformation</em>, 134, 104215, 2024 <br> 
             <a href="/articles/Lin_2024_JAG.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -88,7 +88,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., Li, M., Wang, F., Hu, L., Liang, X., Qi, W., Ran, Q., Yusup, A., Xiao, J., Fang, J., Chang, J., Zeng, Z., Fu, Y., Xue, B., Wang, P., Zhao, K., Li, L., Li, W., Li, Y., Jiang, M., Yang, Y., Shen, H., Zhao, X., Shi, Y., Wu, B., Yan, Z., Wang, M., Su, Y., Hu, T., Ma, Q., Bai, H., Wang, L., Yang, Z., Feng, Y., Zhang, D., Huang, E., Pan, J., Ye, H., Yang, C., Qin, Y., He, C., Guo, Y., Cheng, K., Ren, Y., Yang, H., Zheng, C., Zhu, J., Wang, S., Ji, C., Zhu, B., Liu, H., Tang, Z., Wang, Z., Zhao, S., Tang, Y., Xing, H.,  Guo, Q., Liu, Y., Fang, J. <br>
-            <em> Science </em>, 384(6693), 301-306, 2024 <br> 
+            <em> Science</em>, 384(6693), 301-306, 2024 <br> 
             <a href="/articles/Ao_2024_Science.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -106,7 +106,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Zheng, W., Hu, J.*, Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Huang, B. <br>
-            <em> Journal of Geophysical Research: Earth Surface </em>, 129(11), 2024 <br> 
+            <em> Journal of Geophysical Research: Earth Surface</em>, 129(11), 2024 <br> 
             <a href="/articles/Zheng_2024_JGRES.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -124,7 +124,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Li, X., Yu, X.†, Burgi, P., Wald, D., <b>Hu, X.</b>, Xu, S.*<br>
-            <em> Earthquake Spectra </em>, 2024 (Accepted)<br> 
+            <em> Earthquake Spectra</em>, 2024<br> 
             <a href="/articles/.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -142,7 +142,7 @@ permalink: /publication/
               </span>
             </strong>
             <br>Ye, X., Zhu, H.H.*, Wu, B., Tian, F., Zhang, W., <b>Hu, X.</b>, Schenato, L., Pasuto, A., Catani, F.<br>
-            <em> Engineering Geology </em>, 2024 (Accepted) <br> 
+            <em> Engineering Geology</em>, 341, 107690, 2024 <br> 
             <a href="/articles/Ye_2024_EngGeo.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
