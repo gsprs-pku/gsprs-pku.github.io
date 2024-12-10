@@ -827,34 +827,25 @@ permalink: /publication/
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
-8.&nbsp;Lin, F.†, <b>Hu, X.*</b>, Lin, Y., Li, Y., Liu, Y., Li, D. Lunar impact crater detection based on multi-modal Chang’e remote sensing fusion.
+10.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. Co-seismic landslides and compound hazards of 2023 Jishishan earthquake characterized by intelligent remote sensing analysis. In revision for the 1st round of review in Journal of Geophysical Research: Earth Surface.
+9.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C. Alternative hydrological variable from InSAR coherence in landslide characterization. Under the 4th round of review in Remote Sensing of Environment.
 <br>
-7.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C. Alternative hydrological variable from InSAR coherence in landslide characterization.
+8.&nbsp;Xue, L., <b>Hu, X.</b>, Tang, Q., Qi, S., Moncha, R., Anthropogenic impacts on landscape evolution: A case study of mountain excavation and city construction in Loess Plateau. Under 2nd round of review in Geomorphology.
 <br>
-6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Lu, H., Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps.
+7.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Fang, J., Ballarini, R., Tao, S., Bian, W., Ran, Y.† Disappearing shorelines in Miami suburb amid sinking land and rising sea levels.
 <br>
-5.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Ballarini, R., Tao, S. Land subsidence hastens Miami suburb’s seawater intrusion.
+6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Wang, F., Tang, Q., Zhao, Y., Li, Y., Li, T., Liu, C., Wang, X. Lifespan of 3D flood structure reveals China's flood control empowered by flood detention areas.
 <br>
-4.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Duan, X., Lin, F.†, Lu, H., Wang, L., A zero-shot generalized Martian Craters mapping model based on foundation model. 
+5.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Duan, X., Lin, F.†, Lu, H., Wang, L., A zero-shot generalized Martian Craters mapping model based on foundation model. 
 <br>
-3.&nbsp;Zhu, H.H.*, Ye, X., Tian, F., Wu, B., Zhang, W., <b>Hu, X.</b>, Schenato, L., Pasuto, A., Catani, F. Near-surface soil hydrothermal responses feedback landslide activity and mechanism.
+4.&nbsp;Yang, L., Lu, Z., Zhao, C., Ouyang, C., Zhang, Q., <b>Hu, X.</b>, Wang, B. Triggering factor, flooding process and surrounding deformation before and after glacial lake outburst floods in southeastern Tibet.
 <br>
-2.&nbsp;Yang, L., <b>Hu, X.</b>, Ouyang, C., Lu, Z., Zhao, C., Zhang, Q., Wang, B. Kinematics and numerical simulation of Gglacier avalanches in Sedongpu basin, Southeastern Tibetan Plateau using multiple remote sensing methods.
+3.&nbsp;Yang, L., Lu, Z., Zhao, C., Ouyang, C., <b>Hu, X</b>. Kinematic thickness inversion of the parent glacier of Jiongpu Co in Southeastern Tibet.
 <br>
-1.&nbsp;Ma, Z., Fu, Z., Xu, J., Dong, B., <b>Hu, X.</b>, et al. 10 times more precipitation changing trends occur in the ocean than land from 2003 to 2019.
+2.&nbsp;Yang, L., Lu, Z., Zhao, C., Zhang, Q., <b>Hu, X.</b>, Wang, B. Studying mass movement sources and potential glacial lake outburst flood at Jiongpu Co, Southeastern Tibet, using multiple remote sensing methods and HEC-RAS model.
 <br>
-<br>
-
-<b>**In Preparation**</b>
-<br>
-† denotes group members under direct supervision  * denotes corresponding
-<br>
-3.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, et al., 2023 extreme floods in Beijing-Tianjin-Hebei region.
-<br>
-2.&nbsp;Wu, P.†, Lin, Y.†, <b>Hu, X.*</b>, et al., Floodwater growth and retreat assessment in leathal 2021 Henan flood based on AI-empowered remote sensing image analysis.
-<br>
-1.&nbsp;<b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Ferretti, A., Creeping faults and mobile landslides shoulder to shoulder in the East Bay Hills, California.
+1.&nbsp;Ma, Z., Fu, Z., Xu, J., Dong, B., <b>Hu, X.</b>, et al. 10 times more precipitation changing trends occur in the ocean than land from 2003 to 2019. Under 2nd round of review in Bulletin of the American Meteorological Society.
 <br>
 <br>
-
+<br>
 </html>
