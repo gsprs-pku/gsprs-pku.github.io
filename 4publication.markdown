@@ -39,7 +39,43 @@ permalink: /publication/
 <div>
   <table style="width: 100%;">
     <tbody>
-      <tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Lin_2024_JGRMLC.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                39. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps
+              </span>
+            </strong>
+            <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
+            <em> Journal of Geophysical Research: Machine Learning and Computation </em>, accepted, 2024 <br> 
+            <a href="/articles/Lin_2024_JGRMLC.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Lin_2024_JAG.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                38. Dual-branch multi-modal convergence for crater detection using Chang’e image
+              </span>
+            </strong>
+            <br> Lin, F.†, <b>Hu, X.*</b>, Lin, Y.†, Li, Y., Liu, Y., Li, D. <br>
+            <em> International Journal of Applied Earth Observation and Geoinformation </em>, 134, 104215, 2024 <br> 
+            <a href="/articles/Lin_2024_JAG.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+        </tr>
+        <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Ao_2024_Science.png" />
@@ -48,7 +84,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                36. A national-scale assessment of land subsidence in China’s major cities
+                37. A national-scale assessment of land subsidence in China’s major cities
               </span>
             </strong>
             <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., Li, M., Wang, F., Hu, L., Liang, X., Qi, W., Ran, Q., Yusup, A., Xiao, J., Fang, J., Chang, J., Zeng, Z., Fu, Y., Xue, B., Wang, P., Zhao, K., Li, L., Li, W., Li, Y., Jiang, M., Yang, Y., Shen, H., Zhao, X., Shi, Y., Wu, B., Yan, Z., Wang, M., Su, Y., Hu, T., Ma, Q., Bai, H., Wang, L., Yang, Z., Feng, Y., Zhang, D., Huang, E., Pan, J., Ye, H., Yang, C., Qin, Y., He, C., Guo, Y., Cheng, K., Ren, Y., Yang, H., Zheng, C., Zhu, J., Wang, S., Ji, C., Zhu, B., Liu, H., Tang, Z., Wang, Z., Zhao, S., Tang, Y., Xing, H.,  Guo, Q., Liu, Y., Fang, J. <br>
@@ -56,7 +92,25 @@ permalink: /publication/
             <a href="/articles/Ao_2024_Science.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
-      </tr>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Zheng_2024_JGRES.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                36. Enhancing 4-D landslide monitoring and block interaction analysis with a novel Kalman-Filter-Based InSAR approach
+              </span>
+            </strong>
+            <br> Zheng, W., Hu, J.*, Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Huang, B. <br>
+            <em> Journal of Geophysical Research: Earth Surface </em>, 129(11), 2024 <br> 
+            <a href="/articles/Zheng_2024_JGRES.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+        </tr>
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
