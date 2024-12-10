@@ -130,3 +130,7 @@ We are always looking for highly motivated students and postdocs to join our lab
 P.S., I will miss 2024 AGU in DC. Please stop by our enlightening talk. Prof. Qiuhong Tang will present our work about mapping the extent and depth of floodwaters during the two-month floods that occurred in northern China in 2023. AI and multi-source SAR ana optical satellite images from Sentinel-1, Sentinel-2, Gaofen-3, and Lutan-1 made this possible. Additionally, we quantified the role of eight activated flood detention areas in retenting and releasing floodwaters.
 
 P.P.S., I will stay in CIRES, CU Boulder and work with the team (Prof. Kristy Tiampo, Prof. Kathryn Materna, and many) in the upcoming spring semester of 2025.
+
+<br>
+<br>
+<br>
