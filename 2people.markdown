@@ -391,6 +391,40 @@ Research interests:
 <br>
 <br>
 
+<p style="font-weight:bold">Undergraduate student</p>
+<p style="font-weight:bold">Mei Chen (2100013722@stu.pku.edu.cn) </p>
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:100px;" rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/people/Mei.jpg" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>  
+                <td> 2021- </td>
+                <td> Bachelor </td> 
+                <td> Physical Geography </td> 
+                <td> Peking University </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Glacier
+    <br>
+     - Climate change
+    <br>
+     - Computer geek
+<br>
+<br>
+<br>
+
 <p style="font-weight:bold">VIP</p>
 <p style="font-weight:bold">Milk Cap </p>
 
