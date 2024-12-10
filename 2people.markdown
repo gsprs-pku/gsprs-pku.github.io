@@ -205,12 +205,11 @@ Research interests:
      Research interests:
     <br>
      - AI remote sensing
-    <br>
 <br>
 <br>
 <br>  
 
-<p style="font-weight:bold">Yi Hu (huyi2021@bjfu.edu.cn; officially join in fall 2025)</p>    
+<p style="font-weight:bold">Yi Hu (huyi2021@bjfu.edu.cn; will officially join in fall 2025)</p>    
     <table>
         <tbody>
             <tr>
@@ -241,7 +240,6 @@ Research interests:
      Research interests:
     <br>
      - AI remote sensing
-    <br>
 <br>
 <br>
 <br>  
@@ -356,7 +354,7 @@ Research interests:
 <br>
 <br>
 
-    <p style="font-weight:bold">Yuanzhuo Zhou (20211002044@cug.edu.cn; officially join in 2025)</p>    
+    <p style="font-weight:bold">Yuanzhuo Zhou (20211002044@cug.edu.cn; will officially join in fall 2025)</p>    
     <table>
         <tbody>
             <tr>
@@ -389,7 +387,6 @@ Research interests:
     - GIS
     <br>
     - InSAR
-    <br>
 <br>
 <br>
 <br>
@@ -430,7 +427,7 @@ Research interests:
  
 <p style="font-weight:bold">Alumni</p>
 <p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh</p> 
-2023-2024 Postdoctoral Researcher, now in Canda. 
+2023-2024 Postdoctoral Researcher, now in Canada. 
 <br>
 <br> 
 <p style="font-weight:bold">Congrong Wang</p> 
