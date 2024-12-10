@@ -114,7 +114,7 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/.png" />
+          <img src="{{site.url}}/imgs/article_img/Li_2024_ES.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -125,7 +125,7 @@ permalink: /publication/
             </strong>
             <br> Li, X., Yu, X.†, Burgi, P., Wald, D., <b>Hu, X.</b>, Xu, S.*<br>
             <em> Earthquake Spectra</em>, 2024<br> 
-            <a href="/articles/.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Li_2024_ES.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
         </tr>
