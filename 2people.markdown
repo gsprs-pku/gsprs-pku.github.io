@@ -416,11 +416,13 @@ Research interests:
     <br>
      Research interests:
     <br>
-     - Glacier
+     - Natural hazards monitoring
     <br>
-     - Climate change
+     - Cryosphere monitoring
     <br>
-     - Computer geek
+     - Geo-AI & earth system modeling
+     <br>
+     - Interactions between the technology, our cognition, and our academic life
 <br>
 <br>
 <br>
