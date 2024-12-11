@@ -392,7 +392,7 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">Undergraduate student</p>
-<p style="font-weight:bold">Mei Chen (2100013722@stu.pku.edu.cn) </p>
+<p style="font-weight:bold">Mei Chen (meichernpku@outlook.com; https://github.com/MeiChern) </p>
     <table>
         <tbody>
             <tr>
