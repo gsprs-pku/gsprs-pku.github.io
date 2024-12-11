@@ -15,7 +15,9 @@ permalink: /teaching/
 <body>
 <h>
     Advanced GIS Technologies and Applications (2022F | 2023F)
+    <br>
     A textbook with ten chapters is under publishing with the Higher Education Publisher of China. I plan to publish an English e-copy as well :-) 
+    <br>
     P.S., it is somehow a heavy load class. Please make sure you can avail yourself some time for computuer lab exercises every week. Eventually, you will gain or strengthen your GIS software and coding skills :-)
 </h>
 <iframe src="/teaching/GIS高级技术与应用2024Syllabus.pdf" width="100%" height="500px"></iframe>
