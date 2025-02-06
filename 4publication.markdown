@@ -52,7 +52,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
-            <em> Journal of Geophysical Research: Machine Learning and Computation</em>, accepted, 2024 <br> 
+            <em> Journal of Geophysical Research: Machine Learning and Computation</em>, accepted, 2025 <br> 
             <a href="/articles/Lin_2024_JGRMLC.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -124,7 +124,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Li, X., Yu, X.†, Burgi, P., Wald, D., <b>Hu, X.</b>, Xu, S.*<br>
-            <em> Earthquake Spectra</em>, 2024<br> 
+            <em> Earthquake Spectra</em>, 41(1), 2024 (Editor's Choice)<br> 
             <a href="/articles/Li_2024_ES.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -232,7 +232,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
-            <em> npj Natural Hazards</em>, 1, 2024 <br>
+            <em> npj Natural Hazards</em>, 1, 2024 (Annual Cover Paper, one only)<br>
             <a href="/articles/Yu_Hu_2024_npjNH.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
