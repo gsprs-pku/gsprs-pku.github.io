@@ -79,12 +79,17 @@ permalink: /people/
     <br>
 Honors & awards:
     <br>
-- AGU Natural Hazards Early Career Awards
+- AGU Natural Hazards Early Career
     <br>
 - NASA New (Early Career) Investigator Program in Earth Science
     <br>
-- Top 10 most downloaded papers* in Journal of Geophysical Research: Solid Earth
+- Top 10 Most Downloaded Paper* in Journal of Geophysical Research: Solid Earth
 *In work published between 1 January 2021 – 31 December 2021, Hu et al. (2021) is among the top 10 most downloaded papers in the 12 months following online publication.
+    <br>
+- Visiting Sabbatical Fellowship by Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder
+    <br>
+- Annual Cover Paper* in npj Natural Hazards
+* One only
     <br>
     <br>
 Research interests:
