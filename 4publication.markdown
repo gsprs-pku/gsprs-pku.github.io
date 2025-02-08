@@ -33,7 +33,7 @@ permalink: /publication/
 
 <br>
 <p>
-   <strong> 2024 </strong>
+   <strong> 2025 </strong>
 </p>  
 
 <div>
@@ -51,7 +51,7 @@ permalink: /publication/
                 40. A novel framework for river organic carbon retrieval through satellite data and machine learning
               </span>
             </strong>
-            <br> Tian, S., Sha, A., Luo, Y., Ke, Y., Spencer, R., <b>Hu, X.</b>, Ning, M., Zhao, Y., Deng, R., Gao, Y., Liu, Y., Li, D.*
+            <br> Tian, S., Sha, A., Luo, Y., Ke, Y., Spencer, R., <b>Hu, X.</b>, Ning, M., Zhao, Y., Deng, R., Gao, Y., Liu, Y., Li, D.* <br> 
             <em> ISPRS Journal of Photogrammetry and Remote Sensing</em>, 221, 109-123, 2025 <br> 
             <a href="/articles/Tian_2025_ISPRS.pdf" download>&#91;pdf&#93;</a>
           </p>
@@ -75,6 +75,14 @@ permalink: /publication/
           </p>
         </td>
         </tr>
+<br>
+<p>
+   <strong> 2024 </strong>
+</p>
+
+<div>
+  <table style="width: 100%;">
+    <tbody>
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -845,6 +853,8 @@ permalink: /publication/
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
+12.&nbsp;Wang, F.*, et al. (including Hu, X.) Rapid social progress but slow water adaptation of early China settlements
+11.&nbsp;Shi, J., Li, J.*, et al. (including Hu, X.) Near-surface brines on Mars revealed by seasonal marsquakes
 10.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. Co-seismic landslides and compound hazards of 2023 Jishishan earthquake characterized by intelligent remote sensing analysis. In revision for the 1st round of review in Journal of Geophysical Research: Earth Surface.
 <br>
 9.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C. Alternative hydrological variable from InSAR coherence in landslide characterization. Under the 4th round of review in Remote Sensing of Environment.
