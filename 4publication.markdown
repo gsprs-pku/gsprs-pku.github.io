@@ -858,7 +858,9 @@ permalink: /publication/
 † denotes group members under direct supervision  * denotes corresponding
 <br>
 12.&nbsp;Wang, F.*, et al. (including Hu, X.) Rapid social progress but slow water adaptation of early China settlements
+<br>
 11.&nbsp;Shi, J., Li, J.*, et al. (including Hu, X.) Near-surface brines on Mars revealed by seasonal marsquakes
+<br>
 10.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. Co-seismic landslides and compound hazards of 2023 Jishishan earthquake characterized by intelligent remote sensing analysis. In revision for the 1st round of review in Journal of Geophysical Research: Earth Surface.
 <br>
 9.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C. Alternative hydrological variable from InSAR coherence in landslide characterization. Under the 4th round of review in Remote Sensing of Environment.
