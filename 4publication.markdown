@@ -42,6 +42,24 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Tian_2025_ISPRS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                40. A novel framework for river organic carbon retrieval through satellite data and machine learning
+              </span>
+            </strong>
+            <br> Tian, S., Sha, A., Luo, Y., Ke, Y., Spencer, R., <b>Hu, X.</b>, Ning, M., Zhao, Y., Deng, R., Gao, Y., Liu, Y., Li, D.*
+            <em> ISPRS Journal of Photogrammetry and Remote Sensing</em>, 221, 109-123, 2025 <br> 
+            <a href="/articles/Tian_2025_ISPRS.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Lin_2024_JGRMLC.png" />
         </td>
         <td style="width: 70%;">
@@ -52,7 +70,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
-            <em> Journal of Geophysical Research: Machine Learning and Computation</em>, accepted, 2025 <br> 
+            <em> Journal of Geophysical Research: Machine Learning and Computation</em>, 1, e2024JH000370, 2025 <br> 
             <a href="/articles/Lin_2024_JGRMLC.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
