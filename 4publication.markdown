@@ -75,6 +75,10 @@ permalink: /publication/
           </p>
         </td>
         </tr>
+    </tbody>
+  </table>
+</div>
+
 <br>
 <p>
    <strong> 2024 </strong>
