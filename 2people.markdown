@@ -79,17 +79,25 @@ permalink: /people/
     <br>
 Honors & awards:
     <br>
-- AGU Natural Hazards Early Career
+- 2015 NASA Earth and Space Science Fellowship
+    <br>   
+- 2021 NASA New (Early Career) Investigator Program in Earth Science
     <br>
-- NASA New (Early Career) Investigator Program in Earth Science
+- 2022 AGU Natural Hazards Early Career
     <br>
-- Top 10 Most Downloaded Paper* in Journal of Geophysical Research: Solid Earth
-*In work published between 1 January 2021 – 31 December 2021, Hu et al. (2021) is among the top 10 most downloaded papers in the 12 months following online publication.
+- 2022 NSF-China Early Career
     <br>
-- Visiting Sabbatical Fellowship by Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder
+- 2022 Top 10 Most Downloaded Paper* in Journal of Geophysical Research: Solid Earth <br>
+* In work published between 1 January 2021 – 31 December 2021, Hu et al. (2021) is among the top 10 most downloaded papers in the 12 months following online publication.
     <br>
-- Annual Cover Paper* in npj Natural Hazards
-* One only
+- 2023 Beijing Emergency Response and Hazard Reduction Leadership Program (Early Career Group)
+    <br>
+- 2024 Beijing Association of Science and Technology Youth Leadership Program
+    <br>  
+- 2025 Annual Cover Paper* in npj Natural Hazards <br>
+* One only for year 2024
+    <br>
+- 2025 Visiting Sabbatical Fellowship by Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder
     <br>
     <br>
 Research interests:
