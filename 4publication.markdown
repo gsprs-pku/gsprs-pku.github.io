@@ -48,7 +48,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                40. A novel framework for river organic carbon retrieval through satellite data and machine learning
+                41. A novel framework for river organic carbon retrieval through satellite data and machine learning
               </span>
             </strong>
             <br> Tian, S., Sha, A., Luo, Y., Ke, Y., Spencer, R., <b>Hu, X.</b>, Ning, M., Zhao, Y., Deng, R., Gao, Y., Liu, Y., Li, D.* <br> 
@@ -66,12 +66,30 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                39. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps
+                40. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
             <em> Journal of Geophysical Research: Machine Learning and Computation</em>, 1, e2024JH000370, 2025 <br> 
             <a href="/articles/Lin_2024_JGRMLC.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Tang_2025_RS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                39. The Influence of Reservoirs on Landslide Erosion
+              </span>
+            </strong>
+            <br> Tang, F., Qi, S., Guo, S.*, Li, Y., Guo, X., Lu, X, Zou, Y., Wang, X., <b>Hu, X.*</b>, Ma, L., Zheng, B., Wang, Z. <br> 
+            <em> Remote Sensing</em>, 17, 569, 2025 <br> 
+            <a href="/articles/Tang_2025_RS.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
         </tr>
