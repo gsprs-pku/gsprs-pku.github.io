@@ -42,6 +42,24 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Song_2025_RSE.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                42. Hydrological proxy derived from InSAR coherence in landslide characterization
+              </span>
+            </strong>
+            <br> Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C., Xu, Y. <br> 
+            <em> Remote Sensing of Environment</em>, 2025 (Accepted)<br> 
+            <a href="/articles/Song_2025_RSE.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Tian_2025_ISPRS.png" />
         </td>
         <td style="width: 70%;">
