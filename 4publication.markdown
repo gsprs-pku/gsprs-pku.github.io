@@ -52,7 +52,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C., Xu, Y. <br> 
-            <em> Remote Sensing of Environment</em>, 322, 114712, 2025 (Accepted)<br> 
+            <em> Remote Sensing of Environment</em>, 322, 114712, 2025 <br> 
             <a href="/articles/Song_2025_RSE.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
