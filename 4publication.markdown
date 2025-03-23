@@ -52,7 +52,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C., Xu, Y. <br> 
-            <em> Remote Sensing of Environment</em>, 2025 (Accepted)<br> 
+            <em> Remote Sensing of Environment</em>, 322, 114712, 2025 (Accepted)<br> 
             <a href="/articles/Song_2025_RSE.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -399,7 +399,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. <br>
-            <em> Journal of Geophysical Research: Solid Earth</em>, 128, e2022JB026232, 2023 <br>
+            <em> Journal of Geophysical Research: Solid Earth</em>, 128, e2022JB026232, 2023 (Top 10 most-cited papers published by the journal in 2023)<br>
             <a href="/articles/JGR Solid Earth - 2023 - Zheng.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -546,7 +546,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> <b>Hu, X.</b>, Bürgmann, R., Fielding, E.J., Xu, X., Zhen, L. <br>
-            <em> Journal of Geophysical Research: Solid Earth</em>, 126, e2021JB022373, 2021 <br>
+            <em> Journal of Geophysical Research: Solid Earth</em>, 126, e2021JB022373, 2021 (Top 10 most-downloaded papers published by the journal in 2021)<br>
              <a href="/articles/Hu_JGR_2021JB022373.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -893,13 +893,11 @@ permalink: /publication/
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
-12.&nbsp;Wang, F.*, et al. (including Hu, X.) Rapid social progress but slow water adaptation of early China settlements
+11.&nbsp;Wang, F.*, et al. (including Hu, X.) Rapid social progress but slow water adaptation of early China settlements
 <br>
-11.&nbsp;Shi, J., Li, J.*, et al. (including Hu, X.) Near-surface brines on Mars revealed by seasonal marsquakes
+10.&nbsp;Shi, J., Li, J.*, et al. (including Hu, X.) Near-surface brines on Mars revealed by seasonal marsquakes
 <br>
-10.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. Co-seismic landslides and compound hazards of 2023 Jishishan earthquake characterized by intelligent remote sensing analysis. In revision for the 1st round of review in Journal of Geophysical Research: Earth Surface.
-<br>
-9.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C. Alternative hydrological variable from InSAR coherence in landslide characterization. Under the 4th round of review in Remote Sensing of Environment.
+9.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. Co-seismic landslides and compound hazards of 2023 Jishishan earthquake characterized by intelligent remote sensing analysis. In revision for the 1st round of review in Journal of Geophysical Research: Earth Surface.
 <br>
 8.&nbsp;Xue, L., <b>Hu, X.</b>, Tang, Q., Qi, S., Moncha, R., Anthropogenic impacts on landscape evolution: A case study of mountain excavation and city construction in Loess Plateau. Under 2nd round of review in Geomorphology.
 <br>
