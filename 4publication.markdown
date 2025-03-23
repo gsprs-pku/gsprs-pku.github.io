@@ -84,7 +84,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                40. Domain adaptive semantic segmentation of multi-annual retrogressive thaw slumps
+                40. Multi‐Annual Inventorying of Retrogressive Thaw Slumps Using Domain Adaptation
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
