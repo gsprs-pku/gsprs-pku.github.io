@@ -48,7 +48,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                42. Hydrological proxy derived from InSAR coherence in landslide characterization
+                43. Hydrological proxy derived from InSAR coherence in landslide characterization
               </span>
             </strong>
             <br> Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C., Xu, Y. <br> 
@@ -66,7 +66,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                41. A novel framework for river organic carbon retrieval through satellite data and machine learning
+                42. A novel framework for river organic carbon retrieval through satellite data and machine learning
               </span>
             </strong>
             <br> Tian, S., Sha, A., Luo, Y., Ke, Y., Spencer, R., <b>Hu, X.</b>, Ning, M., Zhao, Y., Deng, R., Gao, Y., Liu, Y., Li, D.* <br> 
@@ -84,12 +84,30 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                40. Multi‐Annual Inventorying of Retrogressive Thaw Slumps Using Domain Adaptation
+                41. Multi‐Annual Inventorying of Retrogressive Thaw Slumps Using Domain Adaptation
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
             <em> Journal of Geophysical Research: Machine Learning and Computation</em>, 1, e2024JH000370, 2025 <br> 
             <a href="/articles/Lin_2024_JGRMLC.pdf" download>&#91;pdf&#93;</a>
+          </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Ma_2025_BAMS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                40. GMCP: A fully Global multi-source Merging-and-Calibration Precipitation dataset (1-hourly, 0.1°, global, 2000–Present)
+              </span>
+            </strong>
+            <br> Ma, Z.*, Xu, J., Dong, B., <b>Hu, X.</b>, Hu, H., Yan, S., Zhu, S., He, K., Shi, Z., Chen, Y., Fang, X., Zhang, Q., Gu, S., Fu, Z.<br>
+            <em> Bulletin of the American Meteorological Society</em>, 1, e2024JH000370, 2025 <br> 
+            <a href="/articles/Ma_2025_BAMS.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
         </tr>
@@ -893,27 +911,23 @@ permalink: /publication/
 <br>
 † denotes group members under direct supervision  * denotes corresponding
 <br>
-11.&nbsp;Wang, F.*, et al. (including Hu, X.) Rapid social progress but slow water adaptation of early China settlements
+9.&nbsp;<b>Hu, X.*</b>, Bürgmann, R. Reactivation of a landslide in Washington, USA: Analogue for Martian slope failures.
 <br>
-10.&nbsp;Shi, J., Li, J.*, et al. (including Hu, X.) Near-surface brines on Mars revealed by seasonal marsquakes
+8.&nbsp;Ran, Y.†, <b>Hu, X.*</b>, Wang, F., Tao, S., Yu, X., Liu, J., Ao, Z., Liang, X., Wang, G. Sinking land reshapes coastal inundation in Bohai Economic Rim encompassing Beijing metropolis.
 <br>
-9.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. Co-seismic landslides and compound hazards of 2023 Jishishan earthquake characterized by intelligent remote sensing analysis. In revision for the 1st round of review in Journal of Geophysical Research: Earth Surface.
+7.&nbsp;Wang, F.*, et al. (including Hu, X.) Rapid social progress but slow water adaptation of early China settlements.
 <br>
-8.&nbsp;Xue, L., <b>Hu, X.</b>, Tang, Q., Qi, S., Moncha, R., Anthropogenic impacts on landscape evolution: A case study of mountain excavation and city construction in Loess Plateau. Under 2nd round of review in Geomorphology.
+6.&nbsp;Shi, J., Li, J.*, et al. (including Hu, X.) Near-surface brines on Mars revealed by seasonal marsquakes.
 <br>
-7.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Fang, J., Ballarini, R., Tao, S., Bian, W., Ran, Y.† Disappearing shorelines in Miami suburb amid sinking land and rising sea levels.
+5.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. Co-seismic landslides and compound hazards of 2023 Jishishan earthquake characterized by intelligent remote sensing analysis. In revision for the 1st round of review in Journal of Geophysical Research: Earth Surface.
 <br>
-6.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Wang, F., Tang, Q., Zhao, Y., Li, Y., Li, T., Liu, C., Wang, X. Lifespan of 3D flood structure reveals China's flood control empowered by flood detention areas.
+4.&nbsp;Xue, L., <b>Hu, X.</b>, Tang, Q., Qi, S., Moncha, R., Anthropogenic impacts on landscape evolution: A case study of mountain excavation and city construction in Loess Plateau. Under 2nd round of review in Geomorphology.
 <br>
-5.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Duan, X., Lin, F.†, Lu, H., Wang, L., A zero-shot generalized Martian Craters mapping model based on foundation model. 
+3.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Fang, J., Ballarini, R., Tao, S., Bian, W., Ran, Y.† Disappearing shorelines in Miami suburb amid sinking land and rising sea levels.
 <br>
-4.&nbsp;Yang, L., Lu, Z., Zhao, C., Ouyang, C., Zhang, Q., <b>Hu, X.</b>, Wang, B. Triggering factor, flooding process and surrounding deformation before and after glacial lake outburst floods in southeastern Tibet.
+2.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Wang, F., Tang, Q., Zhao, Y., Li, Y., Li, T., Liu, C., Wang, X. Lifespan of 3D flood structure reveals China's flood control empowered by flood detention areas.
 <br>
-3.&nbsp;Yang, L., Lu, Z., Zhao, C., Ouyang, C., <b>Hu, X</b>. Kinematic thickness inversion of the parent glacier of Jiongpu Co in Southeastern Tibet.
-<br>
-2.&nbsp;Yang, L., Lu, Z., Zhao, C., Zhang, Q., <b>Hu, X.</b>, Wang, B. Studying mass movement sources and potential glacial lake outburst flood at Jiongpu Co, Southeastern Tibet, using multiple remote sensing methods and HEC-RAS model.
-<br>
-1.&nbsp;Ma, Z., Fu, Z., Xu, J., Dong, B., <b>Hu, X.</b>, et al. 10 times more precipitation changing trends occur in the ocean than land from 2003 to 2019. Under 2nd round of review in Bulletin of the American Meteorological Society.
+1.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Duan, X., Lin, F.†, Lu, H., Wang, L., A zero-shot generalized Martian Craters mapping model based on foundation model. 
 <br>
 <br>
 <br>
