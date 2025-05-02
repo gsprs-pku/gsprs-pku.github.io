@@ -54,6 +54,7 @@ permalink: /publication/
             <br> Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C., Xu, Y. <br> 
             <em> Remote Sensing of Environment</em>, 322, 114712, 2025 <br> 
             <a href="/articles/Song_2025_RSE.pdf" download>&#91;pdf&#93;</a>
+            <a href="https://doi.org/10.1016/j.rse.2025.114712" >&#91;doi&#93;</a>
           </p>
         </td>
         </tr>
@@ -208,7 +209,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Li, X., Yu, X.†, Burgi, P., Wald, D., <b>Hu, X.</b>, Xu, S.*<br>
-            <em> Earthquake Spectra</em>, 41(1), 2024 (Editor's Choice)<br> 
+            <em> Earthquake Spectra</em>, 41(1), 2024 (Editor's Choice & Cover Image)<br> 
             <a href="/articles/Li_2024_ES.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -316,7 +317,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
-            <em> npj Natural Hazards</em>, 1, 2024 (Annual Cover Paper, one only)<br>
+            <em> npj Natural Hazards</em>, 1, 2024 (Solo Annual Cover Paper)<br>
             <a href="/articles/Yu_Hu_2024_npjNH.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
