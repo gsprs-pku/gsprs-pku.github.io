@@ -456,7 +456,7 @@ permalink: /publication/
             </strong>
             <br> Shi, X., <b>Hu, X.*</b> <br>
             <em> Earth Surface Processes and Landforms</em>, 2023 <br>
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1002/esp.5594" >&#91;doi&#93;</a>
             <a href="/articles/Earth Surf Processes Landf - 2023 - Shi.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
