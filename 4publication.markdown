@@ -198,7 +198,7 @@ permalink: /publication/
             </strong>
             <br> Zheng, W., Hu, J.*, Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Huang, B. <br>
             <em> Journal of Geophysical Research: Earth Surface</em>, 129(11), 2024 <br> 
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1029/2024JF007923" >&#91;doi&#93;</a>
             <a href="/articles/Zheng_2024_JGRES.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -217,7 +217,7 @@ permalink: /publication/
             </strong>
             <br> Li, X., Yu, X.†, Burgi, P., Wald, D., <b>Hu, X.</b>, Xu, S.*<br>
             <em> Earthquake Spectra</em>, 41(1), 2024 (Editor's Choice & Cover Image)<br> 
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1177/875529302412905" >&#91;doi&#93;</a>
             <a href="/articles/Li_2024_ES.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -236,7 +236,7 @@ permalink: /publication/
             </strong>
             <br>Ye, X., Zhu, H.H.*, Wu, B., Tian, F., Zhang, W., <b>Hu, X.</b>, Schenato, L., Pasuto, A., Catani, F.<br>
             <em> Engineering Geology</em>, 341, 107690, 2024 <br> 
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1016/j.enggeo.2024.107690" >&#91;doi&#93;</a>
             <a href="/articles/Ye_2024_EngGeo.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -255,7 +255,7 @@ permalink: /publication/
             </strong>
             <br> Zhou, C., Cao, Y.*, Gan, L., Wang, Y., Motagh, M., Roessner, S., <b>Hu, X.</b>, Yin, K. <br>
             <em> Engineering Geology</em>, 334, 107497, 2024 <br> 
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1016/j.enggeo.2024.107497" >&#91;doi&#93;</a>
             <a href="/articles/Zhou_2024_EngGeo.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -274,7 +274,7 @@ permalink: /publication/
             </strong>
             <br> Thomas, J., Klida, R., Oommen, T.*, Sajinkumar, K.S., Zhang, B., <b>Hu, X.</b> <br>
             <em> Environmental & Engineering Geoscience</em>, 30(1-2), 19–30, 2024 <br> 
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.21663/EEG-D-23-00056" >&#91;doi&#93;</a>
             <a href="/articles/Thomas_2024_EEG.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -293,7 +293,7 @@ permalink: /publication/
             </strong>
             <br> Li, Y., Cui, Y.*, <b>Hu, X.</b>, Lu, Z., Guo, J., Wang, Y., Wang, H., Wang, S., Zhou, X. <br>
             <em> Geophysical Research Letters</em>, 2024 <br>
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1029/2024GL108202" >&#91;doi&#93;</a>
             <a href="/articles/Li_2024_GRL.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -312,7 +312,7 @@ permalink: /publication/
             </strong>
             <br> Welch, J., Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br>
             <em> Geophysical Research Letters</em>, 2024 <br>
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1029/2023GL107549" >&#91;doi&#93;</a>
             <a href="/articles/Welch_2024_GRL.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -331,7 +331,7 @@ permalink: /publication/
             </strong>
             <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
             <em> npj Natural Hazards</em>, 1, 2024 (Solo Annual Cover Paper)<br>
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1038/s44304-024-00003-0" >&#91;doi&#93;</a>
             <a href="/articles/Yu_Hu_2024_npjNH.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -350,7 +350,7 @@ permalink: /publication/
             </strong>
             <br> Chen, X.*, Xu, X., Ma, Y.*, Wang, G., Chen, D., Cao, D., Xu, X., Zhang, Q., Li, L., Liu, Y., Liu, L., Li, M., Luo, S., Wang, X., <b>Hu, X.</b> <br>
             <em> Bulletin of the American Meteorological Society</em>, 2024 <br>
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1175/BAMS-D-23-0120.2" >&#91;doi&#93;</a>
             <a href="/articles/Chen_BAMS_2023.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -369,7 +369,7 @@ permalink: /publication/
             </strong>
             <br> Wang, F.*, Xue, P., Su, W., <b>Hu, X.</b> <br>
             <em> Indoor and Built Environment </em>, 2024 <br>
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1177/1420326X241234171" >&#91;doi&#93;</a>
             <a href="/articles/Wang_2024_Indoor&BuiltEnvironment.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -399,7 +399,7 @@ permalink: /publication/
             </strong>
             <br> Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
             <em> Remote Sensing</em>, 15(6), 1647, 2023 <br>
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1038/s44304-024-00003-0" >&#91;doi&#93;</a>
             <a href="/articles/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -418,7 +418,7 @@ permalink: /publication/
             </strong>
             <br> Yang, L., Lu, Z., Ouyang, C., Zhao, C., <b>Hu, X.</b>, Zhang, Q. <br>
             <em> Remote Sensing</em>, 2023 <br>
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.3390/rs15225327" >&#91;doi&#93;</a>
             <a href="/articles/Yang_RS_2023.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
@@ -437,7 +437,7 @@ permalink: /publication/
             </strong>
             <br> Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. <br>
             <em> Journal of Geophysical Research: Solid Earth</em>, 128, e2022JB026232, 2023 (Top 10 most-cited papers published by the journal in 2023)<br>
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1029/2022JB026232" >&#91;doi&#93;</a>
             <a href="/articles/JGR Solid Earth - 2023 - Zheng.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
