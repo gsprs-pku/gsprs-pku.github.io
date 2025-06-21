@@ -142,8 +142,10 @@ Research interests:
     </table>
     <br>
      Research interests:
+     <br>
+     - Permafrost
     <br>
-     - Landslide hazards in active tectonics
+     - Landslides
     <br>
      - Machine learning in remote sensing big data analysis
 <br>
@@ -180,12 +182,51 @@ Research interests:
     <br>
      Research interests:
     <br>
-     - Monitoring long-term and short-term natural hazards and shallow processes though InSAR and GNSS
+     - Coastal floods and inundation amid climate change
+     <br>
+     - InSAR and GNSS data processing
+<br>
+<br>
+<br>
+
+<p style="font-weight:bold">Yiling Lin (yllin@stu.pku.edu.cn)</p>
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:100px;" rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/people/Yiling.jpg" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>    
+                <td> 2023- (transfer from a Master to a Ph.D. program, and will officially start her Ph.D. in 2026) </td>
+                <td> Ph.D. </td> 
+                <td> GIS </td> 
+                <td> Peking University </td> 
+            </tr>
+            <tr>    
+                <td> 2019-2023 </td>
+                <td> B.S. </td> 
+                <td> GIS </td> 
+                <td> Beijing Normal University </td> 
+            </tr>
+        </tbody>
+    </table>
     <br>
-     - Coastal hazards
+     Research interests:
+    <br>
+     - Crater and slump detection in extraterrestrial planets and the Earth
+    <br>
+     - Floods
+    <br>
+     - Deep learning in remote sensing data
 <br>
 <br>
-<br>
+<br>    
 
 <p style="font-weight:bold">Feng Lin (linfeng@stu.pku.edu.cn)</p>    
     <table>
@@ -222,7 +263,7 @@ Research interests:
 <br>
 <br>  
 
-<p style="font-weight:bold">Yi Hu (huyi2021@bjfu.edu.cn; will officially join in fall 2025)</p>    
+<p style="font-weight:bold">Yi Hu (huyi2021@bjfu.edu.cn)</p>    
     <table>
         <tbody>
             <tr>
@@ -252,86 +293,12 @@ Research interests:
     <br>
      Research interests:
     <br>
-     - AI remote sensing
+     - AI in spatial and temporal analysis
 <br>
 <br>
 <br>  
 
 <p style="font-weight:bold">Master students</p>
-<p style="font-weight:bold">Penghui Wu (penghui_wu@stu.pku.edu.cn)</p>
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Penghui.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>
-                <td> 2022- </td>
-                <td> Ph.D. </td>  
-                <td> Physical Geography </td> 
-                <td> Peking University, Beijing </td> 
-            </tr>
-            <tr>     
-               <td> 2017-2021 </td>
-               <td> B.S. </td> 
-               <td> Land Resource Managment </td> 
-               <td> China University of Geosciences, Beijing </td> 
-            </tr>
-    </tbody>
-    </table>
-    <br>
-     Research interests:
-    <br>
-     - SAR remote sensing in natural hazards and shallow solid earth
-    <br>
-     - Landslide deformation and dynamics
-<br>
-<br>
-<br>
-    
-<p style="font-weight:bold">Yiling Lin (yllin@stu.pku.edu.cn) </p>
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Yiling.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>    
-                <td> 2023- </td>
-                <td> M.S. </td> 
-                <td> Physical Geography </td> 
-                <td> Peking University </td> 
-            </tr>
-            <tr>    
-                <td> 2019-2023 </td>
-                <td> B.S. </td> 
-                <td> GIS </td> 
-                <td> Beijing Normal University </td> 
-            </tr>
-        </tbody>
-    </table>
-    <br>
-     Research interests:
-    <br>
-     - Machine learning in remote sensing data
-    <br>
-     - Retrogressive thaw slumps detection
-<br>
-<br>
-<br>       
-
 <p style="font-weight:bold">Jinghui Xiao (xiaojinghui@stu.pku.edu.cn)</p>    
     <table>
         <tbody>
@@ -362,12 +329,12 @@ Research interests:
     <br>
      Research interests:
     <br>
-     - InSAR
+     - InSAR application in urban environment
 <br>
 <br>
 <br>
 
-    <p style="font-weight:bold">Yuanzhuo Zhou (20211002044@cug.edu.cn; will officially join in fall 2025)</p>    
+<p style="font-weight:bold">Yuanzhuo Zhou (20211002044@cug.edu.cn)</p>    
     <table>
         <tbody>
             <tr>
@@ -397,15 +364,12 @@ Research interests:
     <br>
      Research interests:
     <br>
-    - GIS
-    <br>
-    - InSAR
+    - Thermokarst hazard in Qinghai-Tibet Plateau
 <br>
 <br>
 <br>
 
-<p style="font-weight:bold">Undergraduate student</p>
-<p style="font-weight:bold">Mei Chen (meichernpku@outlook.com; https://github.com/MeiChern) </p>
+<p style="font-weight:bold">Mei Chen (meichernpku@outlook.com; https://github.com/MeiChern; now working as an undergrd intern and will officially join as a Master student in fall 2026) </p>
     <table>
         <tbody>
             <tr>
@@ -439,6 +403,9 @@ Research interests:
 <br>
 <br>
 <br>
+
+<p style="font-weight:bold">Undergraduate student</p>
+
 
 <p style="font-weight:bold">VIP</p>
 <p style="font-weight:bold">Milk Cap </p>
@@ -475,8 +442,12 @@ Research interests:
 <br>   
  
 <p style="font-weight:bold">Alumni</p>
+<p style="font-weight:bold">Penghui Wu</p> 
+2022-2025 Master thesis work with the lab. 
+<br>
+<br> 
 <p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh</p> 
-2023-2024 Postdoctoral Researcher, now in Canada. 
+2023-2024 Postdoctoral Researcher, now in the US. 
 <br>
 <br> 
 <p style="font-weight:bold">Congrong Wang</p> 
