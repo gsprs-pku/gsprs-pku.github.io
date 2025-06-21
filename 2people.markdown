@@ -189,7 +189,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yiling Lin (yllin@stu.pku.edu.cn)</p>
+<p style="font-weight:bold">Yiling Lin (yllin@stu.pku.edu.cn; transfer from a Master to a Ph.D. program, and will officially start her Ph.D. program in 2026)</p>
     <table>
         <tbody>
             <tr>
@@ -203,7 +203,7 @@ Research interests:
                 </td>
             </tr>
             <tr>    
-                <td> 2023- (transfer from a Master to a Ph.D. program, and will officially start her Ph.D. in 2026) </td>
+                <td> 2023- </td>
                 <td> Ph.D. </td> 
                 <td> GIS </td> 
                 <td> Peking University </td> 
@@ -382,8 +382,14 @@ Research interests:
                      Education
                 </td>
             </tr>
+            <tr>
+                <td> 2026-2029 </td>
+                <td> M.S. </td>  
+                <td> Physical Geography </td> 
+                <td> Peking University </td> 
+            </tr>
             <tr>  
-                <td> 2021- </td>
+                <td> 2021-2026 </td>
                 <td> Bachelor </td> 
                 <td> Physical Geography </td> 
                 <td> Peking University </td> 
