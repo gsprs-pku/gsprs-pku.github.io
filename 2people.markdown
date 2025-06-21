@@ -350,7 +350,7 @@ Research interests:
             <tr>
                 <td> 2025- </td>
                 <td> M.S. </td>  
-                <td> GIS </td> 
+                <td> Physical Geography </td> 
                 <td> Peking University </td> 
             </tr>
             <tr>   
@@ -369,7 +369,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Mei Chen (meichernpku@outlook.com; https://github.com/MeiChern; now working as an undergrd intern and will officially join as a Master student in fall 2026) </p>
+<p style="font-weight:bold">Mei Chen (meichernpku@outlook.com; https://github.com/MeiChern; now working as an undergrd intern) </p>
     <table>
         <tbody>
             <tr>
@@ -381,12 +381,6 @@ Research interests:
                 <td colspan="3">
                      Education
                 </td>
-            </tr>
-            <tr>
-                <td> 2026-2029 </td>
-                <td> M.S. </td>  
-                <td> Physical Geography </td> 
-                <td> Peking University </td> 
             </tr>
             <tr>  
                 <td> 2021-2026 </td>
