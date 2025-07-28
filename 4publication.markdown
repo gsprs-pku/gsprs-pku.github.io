@@ -42,6 +42,25 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Yang_2025_JGRES.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                44. Studying mass movement sources and potential glacial lake outburst flood at Jiongpu Co, southeastern Tibet, using multiple remote sensing methods and HEC-RAS model
+              </span>
+            </strong>
+            <br> Yang, L., Lu, Z.*, Zhao, C., <b>Hu, X.</b>, Wang, B. <br> 
+            <em> Journal of Geophysical Research: Earth Surface</em>, 130, e2024JF008067, 2025 <br> 
+            <a href="https://doi.org/10.1029/2024JF008067" >&#91;doi&#93;</a>
+            <a href="/articles/Yang_2025_JGRES.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Song_2025_RSE.png" />
         </td>
         <td style="width: 70%;">
