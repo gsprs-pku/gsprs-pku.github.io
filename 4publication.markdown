@@ -124,7 +124,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                41. Multi‐Annual Inventorying of Retrogressive Thaw Slumps Using Domain Adaptation
+                41. Multi‐annual inventorying of retrogressive thaw slumps using domain adaptation
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
@@ -162,7 +162,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                39. The Influence of Reservoirs on Landslide Erosion
+                39. The influence of reservoirs on landslide erosion
               </span>
             </strong>
             <br> Tang, F., Qi, S., Guo, S.*, Li, Y., Guo, X., Lu, X, Zou, Y., Wang, X., <b>Hu, X.*</b>, Ma, L., Zheng, B., Wang, Z. <br> 
