@@ -1,4 +1,4 @@
----
+<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/74405ad5-dbfe-4465-84a8-69c2d72c5ad7" />---
 layout: page
 title: Publication
 permalink: /publication/
@@ -39,6 +39,25 @@ permalink: /publication/
 <div>
   <table style="width: 100%;">
     <tbody>
+         <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Xue_2025_Geomorph.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                45. Post-anthropogenic landscape evolution: Terrain reshaping and geomorphic response in the Loess Plateau
+              </span>
+            </strong>
+            <br> 1.	Xue, L.*, <b>Hu, X.</b>, Tang, Q., Qi, S., Moucha, R. <br> 
+            <em> Geomorphology</em>, 488, 109976, 2025 <br> 
+            <a href="https://doi.org/10.1029/2024JF008067" >&#91;doi&#93;</a>
+            <a href="/articles/Xue_2025_Geomorph.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
