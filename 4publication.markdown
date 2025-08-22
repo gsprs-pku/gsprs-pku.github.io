@@ -53,7 +53,7 @@ permalink: /publication/
             </strong>
             <br> 1.	Xue, L.*, <b>Hu, X.</b>, Tang, Q., Qi, S., Moucha, R. <br> 
             <em> Geomorphology</em>, 488, 109976, 2025 <br> 
-            <a href="https://doi.org/10.1029/2024JF008067" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1016/j.geomorph.2025.109976" >&#91;doi&#93;</a>
             <a href="/articles/Xue_2025_Geomorph.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
