@@ -1,4 +1,4 @@
----
+<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/d61aa964-8423-466c-9c1e-8160b4fe988b" /><img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/a11e4ad1-ed4a-4ffe-ab33-b6af8460a510" /><img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/6663ff15-ab68-47c0-bf57-b7c720d69eee" /><img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/80011307-cc12-44f6-942d-0263c9f7b0b8" />---
 layout: page
 title: Publication
 permalink: /publication/
@@ -39,7 +39,102 @@ permalink: /publication/
 <div>
   <table style="width: 100%;">
     <tbody>
-         <tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Lin_2025_WRR.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                50. Quantifying the lifespan of 3D flood structures: unlocking the potential of flood detention areas for enhanced flood control in China
+              </span>
+            </strong>
+            <br> Lin, Y.†, <b>Hu, X.*</b>, Wang, F., Tang, Q., Zhao, Y., Li, Y., Li, T., Liu, C., Wang, X., Li, D. <br> 
+            <em> Water Resources Research</em>, Accepted, 2025 <br> 
+            <a href="." >&#91;doi&#93;</a>
+            <a href="/articles/Lin_2025_WRR.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/An_2025_Catena.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                49. Comparing landslide patterns and failure mechanisms in restored and native forest ecosystems: Insights from geomorphology, lithology and vegetation
+              </span>
+            </strong>
+            <br> An, N.*, Dai, Z., <b>Hu, X.*</b>, Wang, B., Huo, Z., Xiao, Y., Zhan, W., Yang, Y. <br> 
+            <em> Catena</em>, 260, 109452, 2025 <br> 
+            <a href=".." >&#91;doi&#93;</a>
+            <a href="/articles/An_2025_Catena.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Wang_2025_JGRMLC.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                48. ChangePointCNN-GNSS: An AI Model for Assessing Change Points and Optimizing Site Velocity Estimation from Global GNSS Data. (Accepted)
+              </span>
+            </strong>
+            <br> Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br> 
+            <em> Journal of Geophysical Research: Machine Learning and Computation</em>, Accepted, 2025 <br> 
+            <a href=".." >&#91;doi&#93;</a>
+            <a href="/articles/Wang_2025_JGRMLC.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Yang_2025_JSTAR.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                47. Kinematic glacier thickness inversion using 3D flow velocities from multi-track SAR images
+              </span>
+            </strong>
+            <br> Yang, L., Zhao, C.*, Lu, Z., <b>Hu, X.</b> <br> 
+            <em> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em>, Accepted, 2025 <br> 
+            <a href=".." >&#91;doi&#93;</a>
+            <a href="/articles/Yang_2025_JSTAR.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Yang_2025_npjNH.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                46. Triggering factors and flooding processes of glacial lake outburst flood at Ranzerio lake
+              </span>
+            </strong>
+            <br> Yang, L., Lu, Z.*, Zhao, C.*, Zhang, Q., <b>Hu, X.</b>, Wang, B. <br> 
+            <em> npj Natural Hazards</em>, 2, 90, 2025 <br> 
+            <a href=".." >&#91;doi&#93;</a>
+            <a href="/articles/Yang_2025_npjNH.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Xue_2025_Geomorph.png" />
@@ -51,7 +146,7 @@ permalink: /publication/
                 45. Post-anthropogenic landscape evolution: Terrain reshaping and geomorphic response in the Loess Plateau
               </span>
             </strong>
-            <br> 1.	Xue, L.*, <b>Hu, X.</b>, Tang, Q., Qi, S., Moucha, R. <br> 
+            <br> Xue, L.*, <b>Hu, X.</b>, Tang, Q., Qi, S., Moucha, R. <br> 
             <em> Geomorphology</em>, 488, 109976, 2025 <br> 
             <a href="https://doi.org/10.1016/j.geomorph.2025.109976" >&#91;doi&#93;</a>
             <a href="/articles/Xue_2025_Geomorph.pdf" download>&#91;pdf&#93;</a>
