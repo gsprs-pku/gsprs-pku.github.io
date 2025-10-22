@@ -86,7 +86,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                48. ChangePointCNN-GNSS: An AI Model for Assessing Change Points and Optimizing Site Velocity Estimation from Global GNSS Data. (Accepted)
+                48. ChangePointCNN-GNSS: An AI Model for Assessing Change Points and Optimizing Site Velocity Estimation from Global GNSS Data
               </span>
             </strong>
             <br> Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br> 
