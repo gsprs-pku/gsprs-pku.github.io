@@ -1,4 +1,4 @@
----
+<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/2653e279-2c13-4eec-897a-3ba04dcddb04" />---
 layout: page
 title: Publication
 permalink: /publication/
@@ -53,7 +53,7 @@ permalink: /publication/
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Wang, F., Tang, Q., Zhao, Y., Li, Y., Li, T., Liu, C., Wang, X., Li, D. <br> 
             <em> Water Resources Research</em>, Accepted, 2025 <br> 
-            <a href="." >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1029/2025WR039992" >&#91;doi&#93;</a>
             <a href="/articles/Lin_2025_WRR.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
@@ -72,7 +72,7 @@ permalink: /publication/
             </strong>
             <br> An, N.*, Dai, Z., <b>Hu, X.*</b>, Wang, B., Huo, Z., Xiao, Y., Zhan, W., Yang, Y. <br> 
             <em> Catena</em>, 260, 109452, 2025 <br> 
-            <a href=".." >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1016/j.catena.2025.109452" >&#91;doi&#93;</a>
             <a href="/articles/An_2025_Catena.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
@@ -86,7 +86,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                48. ChangePointCNN-GNSS: An AI Model for Assessing Change Points and Optimizing Site Velocity Estimation from Global GNSS Data
+                48. ChangePointCNN-GNSS: an AI model for assessing change points and optimizing site velocity estimation from global GNSS data
               </span>
             </strong>
             <br> Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br> 
@@ -129,7 +129,7 @@ permalink: /publication/
             </strong>
             <br> Yang, L., Lu, Z.*, Zhao, C.*, Zhang, Q., <b>Hu, X.</b>, Wang, B. <br> 
             <em> npj Natural Hazards</em>, 2, 90, 2025 <br> 
-            <a href=".." >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1038/s44304-025-00147-7" >&#91;doi&#93;</a>
             <a href="/articles/Yang_2025_npjNH.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
