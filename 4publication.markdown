@@ -1,4 +1,4 @@
-<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/d61aa964-8423-466c-9c1e-8160b4fe988b" /><img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/a11e4ad1-ed4a-4ffe-ab33-b6af8460a510" /><img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/6663ff15-ab68-47c0-bf57-b7c720d69eee" /><img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/80011307-cc12-44f6-942d-0263c9f7b0b8" />---
+---
 layout: page
 title: Publication
 permalink: /publication/
