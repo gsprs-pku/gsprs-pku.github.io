@@ -48,7 +48,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                50. Quantifying the lifespan of 3D flood structures: unlocking the potential of flood detention areas for enhanced flood control in China
+                49. Quantifying the lifespan of 3D flood structures: unlocking the potential of flood detention areas for enhanced flood control in China
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Wang, F., Tang, Q., Zhao, Y., Li, Y., Li, T., Liu, C., Wang, X., Li, D. <br> 
@@ -67,7 +67,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                49. Comparing landslide patterns and failure mechanisms in restored and native forest ecosystems: Insights from geomorphology, lithology and vegetation
+                48. Comparing landslide patterns and failure mechanisms in restored and native forest ecosystems: Insights from geomorphology, lithology and vegetation
               </span>
             </strong>
             <br> An, N.*, Dai, Z., <b>Hu, X.*</b>, Wang, B., Huo, Z., Xiao, Y., Zhan, W., Yang, Y. <br> 
@@ -86,7 +86,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                48. ChangePointCNN-GNSS: an AI model for assessing change points and optimizing site velocity estimation from global GNSS data
+                47. ChangePointCNN-GNSS: an AI model for assessing change points and optimizing site velocity estimation from global GNSS data
               </span>
             </strong>
             <br> Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br> 
@@ -105,7 +105,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                47. Kinematic glacier thickness inversion using 3D flow velocities from multi-track SAR images
+                46. Kinematic glacier thickness inversion using 3D flow velocities from multi-track SAR images
               </span>
             </strong>
             <br> Yang, L., Zhao, C.*, Lu, Z., <b>Hu, X.</b> <br> 
@@ -124,7 +124,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                46. Triggering factors and flooding processes of glacial lake outburst flood at Ranzerio lake
+                45. Triggering factors and flooding processes of glacial lake outburst flood at Ranzerio lake
               </span>
             </strong>
             <br> Yang, L., Lu, Z.*, Zhao, C.*, Zhang, Q., <b>Hu, X.</b>, Wang, B. <br> 
@@ -143,7 +143,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                45. Post-anthropogenic landscape evolution: Terrain reshaping and geomorphic response in the Loess Plateau
+                44. Post-anthropogenic landscape evolution: Terrain reshaping and geomorphic response in the Loess Plateau
               </span>
             </strong>
             <br> Xue, L.*, <b>Hu, X.</b>, Tang, Q., Qi, S., Moucha, R. <br> 
@@ -162,7 +162,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                44. Studying mass movement sources and potential glacial lake outburst flood at Jiongpu Co, southeastern Tibet, using multiple remote sensing methods and HEC-RAS model
+                43. Studying mass movement sources and potential glacial lake outburst flood at Jiongpu Co, southeastern Tibet, using multiple remote sensing methods and HEC-RAS model
               </span>
             </strong>
             <br> Yang, L., Lu, Z.*, Zhao, C., <b>Hu, X.</b>, Wang, B. <br> 
@@ -181,7 +181,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                43. Hydrological proxy derived from InSAR coherence in landslide characterization
+                42. Hydrological proxy derived from InSAR coherence in landslide characterization
               </span>
             </strong>
             <br> Song, Y.†, <b>Hu, X.*</b>, Shi, X., Cui, Y., Zhou, C., Xu, Y. <br> 
@@ -200,7 +200,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                42. A novel framework for river organic carbon retrieval through satellite data and machine learning
+                41. A novel framework for river organic carbon retrieval through satellite data and machine learning
               </span>
             </strong>
             <br> Tian, S., Sha, A., Luo, Y., Ke, Y., Spencer, R., <b>Hu, X.</b>, Ning, M., Zhao, Y., Deng, R., Gao, Y., Liu, Y., Li, D.* <br> 
@@ -219,7 +219,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                41. Multi‐annual inventorying of retrogressive thaw slumps using domain adaptation
+                40. Multi‐annual inventorying of retrogressive thaw slumps using domain adaptation
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
@@ -238,7 +238,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                40. GMCP: A fully Global multi-source Merging-and-Calibration Precipitation dataset (1-hourly, 0.1°, global, 2000–Present)
+                39. GMCP: A fully Global multi-source Merging-and-Calibration Precipitation dataset (1-hourly, 0.1°, global, 2000–Present)
               </span>
             </strong>
             <br> Ma, Z.*, Xu, J., Dong, B., <b>Hu, X.</b>, Hu, H., Yan, S., Zhu, S., He, K., Shi, Z., Chen, Y., Fang, X., Zhang, Q., Gu, S., Fu, Z.<br>
@@ -257,7 +257,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                39. The influence of reservoirs on landslide erosion
+                38. The influence of reservoirs on landslide erosion
               </span>
             </strong>
             <br> Tang, F., Qi, S., Guo, S.*, Li, Y., Guo, X., Lu, X, Zou, Y., Wang, X., <b>Hu, X.*</b>, Ma, L., Zheng, B., Wang, Z. <br> 
@@ -288,7 +288,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                38. Dual-branch multi-modal convergence for crater detection using Chang’e image
+                37. Dual-branch multi-modal convergence for crater detection using Chang’e image
               </span>
             </strong>
             <br> Lin, F.†, <b>Hu, X.*</b>, Lin, Y.†, Li, Y., Liu, Y., Li, D. <br>
@@ -307,7 +307,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                37. A national-scale assessment of land subsidence in China’s major cities
+                36. A national-scale assessment of land subsidence in China’s major cities
               </span>
             </strong>
             <br> Ao, Z., Hu, X.L., Tao, S.*, <b>Hu, X.</b>, Wang, G., Li, M., Wang, F., Hu, L., Liang, X., Qi, W., Ran, Q., Yusup, A., Xiao, J., Fang, J., Chang, J., Zeng, Z., Fu, Y., Xue, B., Wang, P., Zhao, K., Li, L., Li, W., Li, Y., Jiang, M., Yang, Y., Shen, H., Zhao, X., Shi, Y., Wu, B., Yan, Z., Wang, M., Su, Y., Hu, T., Ma, Q., Bai, H., Wang, L., Yang, Z., Feng, Y., Zhang, D., Huang, E., Pan, J., Ye, H., Yang, C., Qin, Y., He, C., Guo, Y., Cheng, K., Ren, Y., Yang, H., Zheng, C., Zhu, J., Wang, S., Ji, C., Zhu, B., Liu, H., Tang, Z., Wang, Z., Zhao, S., Tang, Y., Xing, H.,  Guo, Q., Liu, Y., Fang, J. <br>
@@ -326,7 +326,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                36. Enhancing 4-D landslide monitoring and block interaction analysis with a novel Kalman-Filter-Based InSAR approach
+                35. Enhancing 4-D landslide monitoring and block interaction analysis with a novel Kalman-Filter-Based InSAR approach
               </span>
             </strong>
             <br> Zheng, W., Hu, J.*, Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Huang, B. <br>
@@ -345,7 +345,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                35. Rapid building damage estimates from the M7.8 Turkey Earthquake sequence via causality-informed Bayesian inference from satellite imagery
+                34. Rapid building damage estimates from the M7.8 Turkey Earthquake sequence via causality-informed Bayesian inference from satellite imagery
               </span>
             </strong>
             <br> Li, X., Yu, X.†, Burgi, P., Wald, D., <b>Hu, X.</b>, Xu, S.*<br>
@@ -364,7 +364,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                34. Near-surface soil hydrothermal response feedbacks landslide activity and mechanism
+                33. Near-surface soil hydrothermal response feedbacks landslide activity and mechanism
               </span>
             </strong>
             <br>Ye, X., Zhu, H.H.*, Wu, B., Tian, F., Zhang, W., <b>Hu, X.</b>, Schenato, L., Pasuto, A., Catani, F.<br>
@@ -383,7 +383,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                33. A novel framework for landslide displacement prediction using MT-InSAR and machine learning techniques
+                32. A novel framework for landslide displacement prediction using MT-InSAR and machine learning techniques
               </span>
             </strong>
             <br> Zhou, C., Cao, Y.*, Gan, L., Wang, Y., Motagh, M., Roessner, S., <b>Hu, X.</b>, Yin, K. <br>
@@ -402,7 +402,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                32. Need for a multi-sensor monitoring approach for embankment failures: lessons learned from the Edenville Dam failure
+                31. Need for a multi-sensor monitoring approach for embankment failures: lessons learned from the Edenville Dam failure
               </span>
             </strong>
             <br> Thomas, J., Klida, R., Oommen, T.*, Sajinkumar, K.S., Zhang, B., <b>Hu, X.</b> <br>
@@ -421,7 +421,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                31. Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain
+                30. Glacier retreat in Eastern Himalaya drives catastrophic glacier hazard chain
               </span>
             </strong>
             <br> Li, Y., Cui, Y.*, <b>Hu, X.</b>, Lu, Z., Guo, J., Wang, Y., Wang, H., Wang, S., Zhou, X. <br>
@@ -440,7 +440,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                30. Unveiling the hidden threat: drought-induced inelastic subsidence in expansive soils
+                29. Unveiling the hidden threat: drought-induced inelastic subsidence in expansive soils
               </span>
             </strong>
             <br> Welch, J., Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br>
@@ -459,7 +459,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                29. Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations
+                28. Intelligent assessment of land surface damage in 2023 Turkey-Syria Earthquake by multiple remote sensing observations
               </span>
             </strong>
             <br> Yu, X.†, <b>Hu, X.*</b>, Song, Y.†, Xu, S., Li, X., Song, X., Fan, X., Wang, F. <br>
@@ -478,7 +478,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                28. Investigation of precipitation process in the water vapor channel of the Yarlung Zsangbo Grand Canyon
+                27. Investigation of precipitation process in the water vapor channel of the Yarlung Zsangbo Grand Canyon
               </span>
             </strong>
             <br> Chen, X.*, Xu, X., Ma, Y.*, Wang, G., Chen, D., Cao, D., Xu, X., Zhang, Q., Li, L., Liu, Y., Liu, L., Li, M., Luo, S., Wang, X., <b>Hu, X.</b> <br>
@@ -497,7 +497,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                27. The locality-adaptation theory of traditional villages
+                26. The locality-adaptation theory of traditional villages
               </span>
             </strong>
             <br> Wang, F.*, Xue, P., Su, W., <b>Hu, X.</b> <br>
@@ -527,7 +527,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                26. Land Subsidence in Tianjin, China: Before and after the South-to-North Water Diversion
+                25. Land Subsidence in Tianjin, China: Before and after the South-to-North Water Diversion
               </span>
             </strong>
             <br> Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
@@ -546,7 +546,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                25. Glacial lake outburst hazard monitoring and flooding modeling by integrating multiple remote sensing methods and HEC-RAS
+                24. Glacial lake outburst hazard monitoring and flooding modeling by integrating multiple remote sensing methods and HEC-RAS
               </span>
             </strong>
             <br> Yang, L., Lu, Z., Ouyang, C., Zhao, C., <b>Hu, X.</b>, Zhang, Q. <br>
@@ -565,7 +565,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                24. Enhanced Kinematic Inversion of 3-D Displacements, Geometry, and Hydraulic Properties of a North-South Slow-Moving Landslide in Three Gorges Reservoir
+                23. Enhanced Kinematic Inversion of 3-D Displacements, Geometry, and Hydraulic Properties of a North-South Slow-Moving Landslide in Three Gorges Reservoir
               </span>
             </strong>
             <br> Zheng, W., Hu, J., Lu, Z., <b>Hu, X.</b>, Sun, Q., Liu, J., Zhu, J., Li, Z. <br>
@@ -584,32 +584,13 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                23. Characterization of landslide displacements in an active fault zone in Northwest China
+                22. Characterization of landslide displacements in an active fault zone in Northwest China
               </span>
             </strong>
             <br> Shi, X., <b>Hu, X.*</b> <br>
             <em> Earth Surface Processes and Landforms</em>, 2023 <br>
             <a href="https://doi.org/10.1002/esp.5594" >&#91;doi&#93;</a>
             <a href="/articles/Earth Surf Processes Landf - 2023 - Shi.pdf" download>&#91;pdf&#93;</a>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 30%;">
-        <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Yu_2023_RS.png" />
-        </td>
-        <td style="width: 70%;">
-          <p>
-            <strong>
-              <span class="links">
-                22. Land Subsidence in Tianjin, China: Before and after the South-to-North Water Diversion
-              </span>
-            </strong>
-            <br> Yu, X.†, Wang, G., <b>Hu, X.</b>, Liu, Y., Bao, Y. <br>
-            <em> Remote Sensing</em>, 15(6), 1647, 2023 <br>
-            <a href="https://doi.org/10.3390/rs15061647" >&#91;doi&#93;</a>
-            <a href="/articles/remotesensing-15-01647-v2.pdf" download>&#91;pdf&#93;</a>
           </p>
         </td>
       </tr>
