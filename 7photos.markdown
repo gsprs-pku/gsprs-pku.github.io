@@ -83,7 +83,7 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/20250903BeforeGroupMeeting.JPG" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/2024MidAutumn.jpg" width="800" >
     </div>
     <td> 2024 Mid-autumn Festival - from left to right around the table - Yiling, Penghui, Xie, Feng, Yi, Yuqi, Yongxuan, and Jinghui. </td> 
     <br>
@@ -138,6 +138,7 @@ permalink: /photos/
     <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
 </body>
 </html>
+
 
 
 
