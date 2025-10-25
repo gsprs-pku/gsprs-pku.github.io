@@ -27,23 +27,16 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS_dinner.JPG" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/20251016Workshop_NHRS_dinner.jpg" width="800" >
     </div>
     <td> Hotpot - Yi, Yuqi, Xie, Yiling, Yige (sleepy?), Jinghui, Feng, and Mei. </td> 
     <br>
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS_dinner.JPG" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends.JPG" width="800" >
     </div>
-    <td> Yiling, Yuqi, Wei, Cunren, Zhong, Mahdi, Xie, Haonan, Jinghui, Mei, and Feng. </td> 
-    <br>
-    <br>
-    <br>
-    <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS_dinner.JPG" width="800" >
-    </div>
-    <td> Yiling, Yuqi, Wei, Cunren, Zhong, Mahdi, Xie, Haonan, Jinghui, Mei, and Feng. </td> 
+    <td> InSAR friends (also mentors for Xie) - from left to right - Zhong Lu, Mahdi Motagh, Xie Hu, and Cunren Liang. </td> 
     <br>
     <br>
     <br>
@@ -55,9 +48,9 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends.JPG" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS_dinner.JPG" width="800" >
     </div>
-    <td> InSAR friends (also mentors for Xie) - from left to right - Zhong Lu, Mahdi Motagh, Xie Hu, and Cunren Liang. </td> 
+    <td> Yiling, Yuqi, Wei, Cunren, Zhong, Mahdi, Xie, Haonan, Jinghui, Mei, and Feng. </td> 
     <br>
     <br>
     <br>
@@ -145,4 +138,5 @@ permalink: /photos/
     <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
 </body>
 </html>
+
 
