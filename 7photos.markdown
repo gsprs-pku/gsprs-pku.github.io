@@ -13,7 +13,84 @@ permalink: /photos/
 
 <body>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2024MidAutumn.jpg" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/20251016Workshop.JPG" width="800" >
+    </div>
+    <td> Workshop about Remote Sensing AI empowered natural hazards research. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/20251016Workshop_NHRS.JPG" width="800" >
+    </div>
+    <td> Logistic team from NHRS - from left to right - Yuqi, Yuanzhuo, Yiling, Yi, Xie, Jinghui, Mei, Feng, and Yongxuan. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS_dinner.JPG" width="800" >
+    </div>
+    <td> Hotpot - Yi, Yuqi, Xie, Yiling, Yige (sleepy?), Jinghui, Feng, and Mei. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS_dinner.JPG" width="800" >
+    </div>
+    <td> Yiling, Yuqi, Wei, Cunren, Zhong, Mahdi, Xie, Haonan, Jinghui, Mei, and Feng. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS_dinner.JPG" width="800" >
+    </div>
+    <td> Yiling, Yuqi, Wei, Cunren, Zhong, Mahdi, Xie, Haonan, Jinghui, Mei, and Feng. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS.JPG" width="800" >
+    </div>
+    <td> First row from left to right - Mei, Yuqi, Yiling, Feng, and Yuanzhuo. Second row - Fan, Ligong, Yongxuan, Jinghui, Yi, Xie, Mahdi, Zhong, Cunren, Wei, Haonan, Yuhang, and Kunyi. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2025InSARFriends.JPG" width="800" >
+    </div>
+    <td> InSAR friends (also mentors for Xie) - from left to right - Zhong Lu, Mahdi Motagh, Xie Hu, and Cunren Liang. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2025GiftsfromYuanzhuo.JPG" width="800" >
+    </div>
+    <td> Gifts to all from Yuanzhuo. Made of rocks from Mountain Tai. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/20250903Parade.JPG" width="800" >
+    </div>
+    <td> Watch living-streaming video of the parade together in our group meeting. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/202505Slumgullion.JPG" width="800" >
+    </div>
+    <td> Field work at the Slumgullion landslide by Ryan, Zhuoyi (Joey), Liwei, and Xie. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/Before2025NewYear_PKUFacultyClub.JPG" width="800" >
+    </div>
+    <td> Meal at the PKU Faculty Club before 2025 New Year - from left to right - Feng, Yi, Yongxuan, Xie, Yuqi, Yiling, and Jinghui. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/20250903BeforeGroupMeeting.JPG" width="800" >
     </div>
     <td> 2024 Mid-autumn Festival - from left to right around the table - Yiling, Penghui, Xie, Feng, Yi, Yuqi, Yongxuan, and Jinghui. </td> 
     <br>
@@ -68,3 +145,4 @@ permalink: /photos/
     <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
 </body>
 </html>
+
