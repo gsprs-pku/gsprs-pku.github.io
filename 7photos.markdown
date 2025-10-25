@@ -22,7 +22,7 @@ permalink: /photos/
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251016Workshop_NHRS.JPG" width="800" >
     </div>
-    <td> Logistic team from NHRS - from left to right - Yuqi, Yuanzhuo, Yiling, Yi, Xie, Jinghui, Mei, Feng, and Yongxuan. </td> 
+    <td> Logistic team from NHRS - from left to right - Yuqi, Yuanzhuo, Yiling, Yi (coool), Xie, Jinghui, Mei, Feng, and Yongxuan. </td> 
     <br>
     <br>
     <br>
@@ -138,5 +138,6 @@ permalink: /photos/
     <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
 </body>
 </html>
+
 
 
