@@ -15,7 +15,7 @@ permalink: /photos/
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251026NHRS_F4.jpg" width="800" >
     </div>
-    <td> NHRS flower four - from left to right - Mei, Jinghui, Yi, and Feng. </td> 
+    <td> NHRS flowers four - from left to right - Mei, Jinghui, Yi, and Feng. </td> 
     <br>
     <br>
     <br>
@@ -145,6 +145,7 @@ permalink: /photos/
     <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
 </body>
 </html>
+
 
 
 
