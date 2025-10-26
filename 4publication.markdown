@@ -108,7 +108,7 @@ permalink: /publication/
                 46. Kinematic glacier thickness inversion using 3D flow velocities from multi-track SAR images
               </span>
             </strong>
-            <br> Yang, L., Lu, Z., Zhao, C., <b>Hu, X.</b>, Wang, B. <br> 
+            <br> Yang, L., Lu, Z., Zhao, C.*, <b>Hu, X.</b>, Wang, B. <br> 
             <em> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em>, Accepted, 2025 <br> 
             <a href="https://doi.org/10.1109/JSTARS.2025.3624258" >&#91;doi&#93;</a>
             <a href="/articles/Yang_2025_JSTAR.pdf" download>&#91;pdf&#93;</a>
