@@ -42,6 +42,25 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Song_2025_JGRES.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                50. Co-seismic landslides and a massive lateral spread of the 2023 Jishishan earthquake in China characterized by intelligent remote sensing analysis
+              </span>
+            </strong>
+            <br> Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. <br> 
+            <em> Journal of Geophysical Research: Earth Surface</em>, Accepted, 2025 <br> 
+            <a href=".." >&#91;doi&#93;</a>
+            <a href="/articles/Song_2025_JGRES.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Lin_2025_WRR.png" />
         </td>
         <td style="width: 70%;">
