@@ -382,6 +382,12 @@ Research interests:
                      Education
                 </td>
             </tr>
+            <tr>
+                <td> 2026- </td>
+                <td> M.S. </td>  
+                <td> Physical Geography </td> 
+                <td> Peking University </td> 
+            </tr>
             <tr>  
                 <td> 2021-2026 </td>
                 <td> Bachelor </td> 
@@ -405,7 +411,9 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">Undergraduate student</p>
-
+<br>
+<br>
+<br>
 
 <p style="font-weight:bold">VIP</p>
 <p style="font-weight:bold">Milk Cap </p>
