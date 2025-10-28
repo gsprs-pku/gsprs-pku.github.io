@@ -263,7 +263,7 @@ Research interests:
 <br>
 <br>  
 
-<p style="font-weight:bold">Yi Hu (huyi2021@bjfu.edu.cn)</p>    
+<p style="font-weight:bold">Yi Hu (yihu25@stu.pku.edu.cn)</p>    
     <table>
         <tbody>
             <tr>
@@ -334,7 +334,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yuanzhuo Zhou (20211002044@cug.edu.cn)</p>    
+<p style="font-weight:bold">Yuanzhuo Zhou (yzzhou25@stu.pku.edu.cn)</p>    
     <table>
         <tbody>
             <tr>
