@@ -76,9 +76,23 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/202505SlumgullionFieldwork.png" width="800" >
+    </div>
+    <td> Fieldwork at the Slumgullion landslide in May 2025. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/202505Slumgullion.jpg" width="800" >
+    </div>
+    <td> Zhuoyi (Joey), Xie, Ryan, and Liwei. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
     <img src="{{site.url}}/imgs/group_photos/202505Slumgullion.JPG" width="800" >
     </div>
-    <td> Field work at the Slumgullion landslide by Ryan, Zhuoyi (Joey), Liwei, and Xie. </td> 
+    <td> Not easy! </td> 
     <br>
     <br>
     <br>
@@ -145,6 +159,7 @@ permalink: /photos/
     <td> Virtual group meeting before 2023 Chinese New Year - from top to bottom, from left to right - Yuqi, Xie, Yiling, Sayyed, Yongxuan, Xiao, Penghui. You may note that we were not really ready for this first group photo in various types of pajamas and hairstyle (≧﹏≦) </td> 
 </body>
 </html>
+
 
 
 
