@@ -136,7 +136,7 @@ window.addEventListener('load', function() {
                     //设置当前的类名
                     ol.children[num].className = 'current'
                 }
-                if (num == 3 || num == 4) {
+                if (num == 5 || num == 6) {
  
                     //克隆图片,并滚动,//会不会多创建一个小圆圈
                     for (var i = 0; i < ol.children.length; i++) {
