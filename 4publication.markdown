@@ -53,7 +53,7 @@ permalink: /publication/
             </strong>
             <br> Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. <br> 
             <em> Journal of Geophysical Research: Earth Surface</em>, Accepted, 2025 <br> 
-            <a href=".." >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1029/2025JF008702" >&#91;doi&#93;</a>
             <a href="/articles/Song_2025_JGRES.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
@@ -71,7 +71,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Wang, F., Tang, Q., Zhao, Y., Li, Y., Li, T., Liu, C., Wang, X., Li, D. <br> 
-            <em> Water Resources Research</em>, Accepted, 2025 <br> 
+            <em> Water Resources Research</em>, 61, e2025WR039992, 2025 <br> 
             <a href="https://doi.org/10.1029/2025WR039992" >&#91;doi&#93;</a>
             <a href="/articles/Lin_2025_WRR.pdf" download>&#91;pdf&#93;</a>
             </p>
@@ -109,8 +109,8 @@ permalink: /publication/
               </span>
             </strong>
             <br> Wang, G.*, Bao, Y., Zhang, S., Huang, G., <b>Hu, X.</b> <br> 
-            <em> Journal of Geophysical Research: Machine Learning and Computation</em>, Accepted, 2025 <br> 
-            <a href=".." >&#91;doi&#93;</a>
+            <em> Journal of Geophysical Research: Machine Learning and Computation</em>, 2, e2025JH000910, 2025 <br> 
+            <a href="https://doi.org/10.1029/2025JH000910" >&#91;doi&#93;</a>
             <a href="/articles/Wang_2025_JGRMLC.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
@@ -128,7 +128,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Yang, L., Lu, Z., Zhao, C.*, <b>Hu, X.</b>, Wang, B. <br> 
-            <em> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em>, Accepted, 2025 <br> 
+            <em> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em>, 18, 27340-27356, 2025 <br> 
             <a href="https://doi.org/10.1109/JSTARS.2025.3624258" >&#91;doi&#93;</a>
             <a href="/articles/Yang_2025_JSTAR.pdf" download>&#91;pdf&#93;</a>
             </p>
