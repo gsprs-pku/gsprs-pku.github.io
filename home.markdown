@@ -114,6 +114,12 @@ permalink: /home/
 				<li>
 					<a href="#"><img src="{{site.url}}/imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" alt=""></a>
 				</li>
+			 	<li>
+					<a href="#"><img src="{{site.url}}/imgs/research_images/SLV_aquifer_compressed.jpg" alt=""></a>
+				</li>
+				<li>
+					<a href="#"><img src="{{site.url}}/imgs/research_images/slumgullion_oli_2019268_modified_compressed.png" alt=""></a>
+				</li>
         </ul>
         <ol class="circle">
  
