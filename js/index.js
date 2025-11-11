@@ -120,7 +120,7 @@ window.addEventListener('load', function() {
  
                 console.log(num)
                     //如果走到了最后复制的图片，ul要快速设置为0
-                if (num <= 3) {
+                if (num <= 4) {
                     animate(ul, -num * focuswidth, function() {
                         flag = true //动画执行完毕，打开节流阀
                     })
