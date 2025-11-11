@@ -120,7 +120,7 @@ window.addEventListener('load', function() {
  
                 console.log(num)
                     //如果走到了最后复制的图片，ul要快速设置为0
-                if (num <= 4) {
+                if (num <= 6) {
                     animate(ul, -num * focuswidth, function() {
                         flag = true //动画执行完毕，打开节流阀
                     })
@@ -136,7 +136,7 @@ window.addEventListener('load', function() {
                     //设置当前的类名
                     ol.children[num].className = 'current'
                 }
-                if (num == 5 || num == 6) {
+                if (num == 6 || num == 7) {
  
                     //克隆图片,并滚动,//会不会多创建一个小圆圈
                     for (var i = 0; i < ol.children.length; i++) {
