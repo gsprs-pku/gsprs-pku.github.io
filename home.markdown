@@ -103,7 +103,13 @@ permalink: /home/
         <!-- 要让所有图片排在一行显示，不要什么都用div解决 -->
         <ul>
 				<li>
-					<a href="#"><img src="{{site.url}}/imgs/research_images/turkey_changeSize.png" alt=""></a>
+					<a href="#"><img src="{{site.url}}/imgs/research_images/Lin_2025_WRR_1.png" alt=""></a>
+				</li>
+				<li>
+					<a href="#"><img src="{{site.url}}/imgs/research_images/Lin_2025_WRR_2.png" alt=""></a>
+				</li>
+				<li>
+					<a href="#"><img src="{{site.url}}/imgs/research_images/Song_2025_JGRES_cover.png" alt=""></a>
 				</li>
 				<li>
 					<a href="#"><img src="{{site.url}}/imgs/research_images/slumgullion_sar_2018_modified_compressed.jpg" alt=""></a>
