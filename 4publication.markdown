@@ -1083,28 +1083,6 @@ permalink: /publication/
 <br>
 </body>
 <br>
-<b>**Under Review**</b>
-<br>
-† denotes group members under direct supervision  * denotes corresponding
-<br>
-9.&nbsp;<b>Hu, X.*</b>, Bürgmann, R. Reactivation of a landslide in Washington, USA: Analogue for Martian slope failures.
-<br>
-8.&nbsp;Ran, Y.†, <b>Hu, X.*</b>, Wang, F., Tao, S., Yu, X., Liu, J., Ao, Z., Liang, X., Wang, G. Sinking land reshapes coastal inundation in Bohai Economic Rim encompassing Beijing metropolis.
-<br>
-7.&nbsp;Wang, F.*, et al. (including Hu, X.) Rapid social progress but slow water adaptation of early China settlements.
-<br>
-6.&nbsp;Shi, J., Li, J.*, et al. (including Hu, X.) Near-surface brines on Mars revealed by seasonal marsquakes.
-<br>
-5.&nbsp;Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. Co-seismic landslides and compound hazards of 2023 Jishishan earthquake characterized by intelligent remote sensing analysis. In revision for the 1st round of review in Journal of Geophysical Research: Earth Surface.
-<br>
-4.&nbsp;Xue, L., <b>Hu, X.</b>, Tang, Q., Qi, S., Moncha, R., Anthropogenic impacts on landscape evolution: A case study of mountain excavation and city construction in Loess Plateau. Under 2nd round of review in Geomorphology.
-<br>
-3.&nbsp;Yu, X.†, <b>Hu, X.*</b>, Fang, J., Ballarini, R., Tao, S., Bian, W., Ran, Y.† Disappearing shorelines in Miami suburb amid sinking land and rising sea levels.
-<br>
-2.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Wang, F., Tang, Q., Zhao, Y., Li, Y., Li, T., Liu, C., Wang, X. Lifespan of 3D flood structure reveals China's flood control empowered by flood detention areas.
-<br>
-1.&nbsp;Lin, Y.†, <b>Hu, X.*</b>, Duan, X., Lin, F.†, Lu, H., Wang, L., A zero-shot generalized Martian Craters mapping model based on foundation model. 
-<br>
 <br>
 <br>
 </html>
