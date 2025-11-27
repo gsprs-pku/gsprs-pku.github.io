@@ -66,8 +66,8 @@ permalink: /home/
         }
         
         .circle {
-            width: 90px;
-            height: 40px;
+            width: 240px;
+            height: 20px;
             position: absolute;
             bottom: 0px;
             left: 245px;
