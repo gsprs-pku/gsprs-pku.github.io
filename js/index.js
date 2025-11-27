@@ -20,7 +20,7 @@ window.addEventListener('load', function() {
         timer = setInterval(function() {
             //手动调用点击事件
             arrowr.click()
-        }, 3000) // 改为3秒
+        }, 4000) // 4秒
     })
  
     //3、动态生成小圆圈
@@ -67,32 +67,34 @@ window.addEventListener('load', function() {
     var circle = 0 //控制小圆圈的变化
     var flag = true //节流阀
     
-    //右侧按钮点击事件
+    //右侧按钮点击事件 - 修复版
     arrowr.addEventListener('click', function() {
         if (flag) {
             flag = false //关闭节流阀
             
-            //如果走到了最后一张（克隆的图片）
-            if (num == ul.children.length - 1) {
+            // 如果是最后一张（克隆的图片），先跳转到第一张
+            if (num === ul.children.length - 1) {
                 ul.style.left = 0
                 num = 0
             }
             
             num++
+            
+            // 正常滚动到下一张
             animate(ul, -num * focuswidth, function() {
                 flag = true //打开节流阀
                 
                 // 如果当前是最后一张（克隆的图片），动画完成后立即跳转到第一张
-                if (num == ul.children.length - 1) {
+                if (num === ul.children.length - 1) {
                     ul.style.left = 0
                     num = 0
                 }
             })
             
             //小圆圈变化
-            circle++
+            circle = num
             // 如果circle等于小圆圈的数量，说明已经到最后一张，需要重置为0
-            if (circle == ol.children.length) {
+            if (circle >= ol.children.length) {
                 circle = 0
             }
             
@@ -101,24 +103,26 @@ window.addEventListener('load', function() {
         }
     })
     
-    //左侧按钮点击事件
+    //左侧按钮点击事件 - 修复版
     arrowl.addEventListener('click', function() {
         if (flag) {
             flag = false //关闭节流阀
             
-            //如果走到了第一张图片，需要跳转到最后一张（真实图片，不是克隆的）
-            if (num == 0) {
-                num = ul.children.length - 1
+            num--
+            
+            // 如果当前是第一张，需要跳转到最后一张（真实图片）
+            if (num < 0) {
+                num = ul.children.length - 2 // 最后一张真实图片的索引
                 ul.style.left = -num * focuswidth + 'px'
             }
             
-            num--
+            // 正常滚动到上一张
             animate(ul, -num * focuswidth, function() {
                 flag = true //打开节流阀
             })
             
             //小圆圈变化
-            circle--
+            circle = num
             // 如果circle小于0，说明已经到第一张，需要跳转到最后一张
             if (circle < 0) {
                 circle = ol.children.length - 1
@@ -134,12 +138,15 @@ window.addEventListener('load', function() {
         for (var i = 0; i < ol.children.length; i++) {
             ol.children[i].className = ''
         }
-        ol.children[circle].className = 'current'
+        // 确保circle在有效范围内
+        if (circle >= 0 && circle < ol.children.length) {
+            ol.children[circle].className = 'current'
+        }
     }
  
-    //自动播放功能,定时器 - 改为3秒
+    //自动播放功能,定时器 - 3秒
     var timer = setInterval(function() {
         //手动调用点击事件
         arrowr.click()
-    }, 3000)
+    }, 4000)
 })
