@@ -33,7 +33,7 @@ permalink: /home/
         }
         
         .focus ul {
-            width: 400%;
+            width: 700%;
             position: absolute;
             left: 0px;
             top: 0px;
