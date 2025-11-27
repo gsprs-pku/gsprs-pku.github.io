@@ -24,12 +24,13 @@ function animate(obj, target, callback) {
     }
 }
  
-function callback() {
-    img.src = '10-右.png'
-    img.style.width = '50%'
-}
- 
-function callback1() {
-    img.src = '9-左.png'
-    img.style.width = '50%'
-}
+// 
+// function callback() {
+//     img.src = '10-右.png'
+//     img.style.width = '50%'
+// }
+// 
+// function callback1() {
+//     img.src = '9-左.png'
+//     img.style.width = '50%'
+// }
