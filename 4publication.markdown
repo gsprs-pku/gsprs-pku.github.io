@@ -1,4 +1,4 @@
-<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/30e99690-1ab4-43e3-a425-9ca514ef960e" />---
+---
 layout: page
 title: Publication
 permalink: /publication/
