@@ -99,6 +99,9 @@ Honors & awards:
     <br>
 - 2025 Visiting Sabbatical Fellowship by Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder
     <br>
+- 2025 GIS Rising Star (among universities in China)
+- 2025 <a href="https://www.undrr.org/news/spotlight-tomorrows-leaders-win-drr-rising-star-award-2025-finalists" target="_blank">&#91;United Nations Women’s International Network for Disaster Risk Reduction (WIN DRR) Rising Star Award Finalist&#93;</a>
+    <br>
     <br>
 Research interests:
     <br>
@@ -108,7 +111,7 @@ Research interests:
     <br>
 - Artificial intelligence in remote sensing big data analysis
     <br>
-<a href="https://www.ues.pku.edu.cn/szdw/qbjs/h/355860.htm" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="https://sites.google.com/site/xiehusar/" target="_blank">&#91;Google Site&#93;</a>     <a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">&#91;Google Scholar&#93;</a>     <a href="/articles/CV_XieHU_202201.pdf" download>&#91;CV&#93;</a> 
+<a href="https://www.ues.pku.edu.cn/szdw/qbjs/h/355860.htm" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="https://sites.google.com/site/xiehusar/" target="_blank">&#91;Google Site&#93;</a>     <a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">&#91;Google Scholar&#93;</a>     <a href="/articles/CV_XieHU_202512.pdf" download>&#91;CV&#93;</a> 
 <br>
 <br>
 
