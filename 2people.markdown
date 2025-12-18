@@ -98,6 +98,7 @@ Honors & awards:
 2025 Visiting Sabbatical Fellowship by Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder
     <br>
 2025 GIS Rising Star (among universities in China)
+    <br>
 2025 <a href="https://www.undrr.org/news/spotlight-tomorrows-leaders-win-drr-rising-star-award-2025-finalists" target="_blank">United Nations Women’s International Network for Disaster Risk Reduction (WIN DRR) Rising Star Award Finalist</a>
     <br>
     <br>
