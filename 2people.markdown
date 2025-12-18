@@ -79,28 +79,26 @@ permalink: /people/
     <br>
 Honors & awards:
     <br>
-- 2015 NASA Earth and Space Science Fellowship
+2015 NASA Earth and Space Science Fellowship
     <br>   
-- 2021 NASA New (Early Career) Investigator Program in Earth Science
+2021 NASA New (Early Career) Investigator Program in Earth Science
     <br>
-- 2022 AGU Natural Hazards Early Career
+2022 AGU Natural Hazards Early Career
     <br>
-- 2022 NSF-China Early Career
+2022 NSF-China Early Career
     <br>
-- 2022 Top 10 Most Downloaded Paper* in Journal of Geophysical Research: Solid Earth <br>
-* In work published between 1 January 2021 – 31 December 2021, Hu et al. (2021) is among the top 10 most downloaded papers in the 12 months following online publication.
+2022 Top 10 Most Downloaded Paper in Journal of Geophysical Research: Solid Earth（in work published between 1 January 2021 – 31 December 2021, Hu et al. (2021) is among the top 10 most downloaded papers in the 12 months following online publication）
     <br>
-- 2023 Beijing Emergency Response and Hazard Reduction Leadership Program (Early Career Group)
+2023 Beijing Emergency Response and Hazard Reduction Leadership Program (Early Career Group)
     <br>
-- 2024 Beijing Association of Science and Technology Youth Leadership Program
+2024 Beijing Association of Science and Technology Youth Leadership Program
     <br>  
-- 2025 Annual Cover Paper* in npj Natural Hazards <br>
-* One only for year 2024
+2025 Annual Cover Paper* in npj Natural Hazards (One only in 2024)
     <br>
-- 2025 Visiting Sabbatical Fellowship by Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder
+2025 Visiting Sabbatical Fellowship by Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder
     <br>
-- 2025 GIS Rising Star (among universities in China)
-- 2025 <a href="https://www.undrr.org/news/spotlight-tomorrows-leaders-win-drr-rising-star-award-2025-finalists" target="_blank">&#91;United Nations Women’s International Network for Disaster Risk Reduction (WIN DRR) Rising Star Award Finalist&#93;</a>
+2025 GIS Rising Star (among universities in China)
+2025 <a href="https://www.undrr.org/news/spotlight-tomorrows-leaders-win-drr-rising-star-award-2025-finalists" target="_blank">United Nations Women’s International Network for Disaster Risk Reduction (WIN DRR) Rising Star Award Finalist</a>
     <br>
     <br>
 Research interests:
