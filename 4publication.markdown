@@ -1,4 +1,4 @@
----
+<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/30e99690-1ab4-43e3-a425-9ca514ef960e" />---
 layout: page
 title: Publication
 permalink: /publication/
@@ -48,7 +48,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                50. Co-seismic landslides and a massive lateral spread of the 2023 Jishishan earthquake in China characterized by intelligent remote sensing analysis
+                51. Co-seismic landslides and a massive lateral spread of the 2023 Jishishan earthquake in China characterized by intelligent remote sensing analysis
               </span>
             </strong>
             <br> Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. <br> 
@@ -67,7 +67,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                49. Quantifying the lifespan of 3D flood structures: unlocking the potential of flood detention areas for enhanced flood control in China
+                50. Quantifying the lifespan of 3D flood structures: unlocking the potential of flood detention areas for enhanced flood control in China
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Wang, F., Tang, Q., Zhao, Y., Li, Y., Li, T., Liu, C., Wang, X., Li, D. <br> 
@@ -86,13 +86,32 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                48. Comparing landslide patterns and failure mechanisms in restored and native forest ecosystems: Insights from geomorphology, lithology and vegetation
+                49. Comparing landslide patterns and failure mechanisms in restored and native forest ecosystems: Insights from geomorphology, lithology and vegetation
               </span>
             </strong>
             <br> An, N.*, Dai, Z., <b>Hu, X.*</b>, Wang, B., Huo, Z., Xiao, Y., Zhan, W., Yang, Y. <br> 
             <em> Catena</em>, 260, 109452, 2025 <br> 
             <a href="https://doi.org/10.1016/j.catena.2025.109452" >&#91;doi&#93;</a>
             <a href="/articles/An_2025_Catena.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Cui_2025_npjHS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                48. Investigating subsidence characteristics of Kyoto Imperial Garden cultural heritage shaped by historical landscape construction, through remote sensing
+              </span>
+            </strong>
+            <br> Cui, J., Ran, Y.†, <b>Hu, X.</b>, Takeda, S., Zhang, J., Cui, S., Ham, K., Huang, X., Sun, F.* <br> 
+            <em> npj Heritage Science</em>, 13, 630, 2025 <br> 
+            <a href="https://doi.org/10.1038/s40494-025-02205-9" >&#91;doi&#93;</a>
+            <a href="/articles/Cui_2025_npjHS.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
