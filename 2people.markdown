@@ -110,7 +110,7 @@ Research interests:
     <br>
 - Artificial intelligence in remote sensing big data analysis
     <br>
-<a href="https://www.ues.pku.edu.cn/szdw/qbjs/h/355860.htm" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="https://sites.google.com/site/xiehusar/" target="_blank">&#91;Google Site&#93;</a>     <a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">&#91;Google Scholar&#93;</a>     <a href="/articles/CV_XieHU_202512.pdf" download>&#91;CV&#93;</a> 
+<a href="https://ues.pku.edu.cn/Home/Teacher_Home/Xie_Hu/5549e7556b884abeac7da4ff8c3238ed.htm" target="_blank">&#91;PKU profile&#93;</a>     <a href="https://sites.google.com/site/xiehusar/" target="_blank">&#91;Google Site&#93;</a>     <a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">&#91;Google Scholar&#93;</a>     <a href="/articles/CV_XieHU_202512.pdf" download>&#91;CV&#93;</a> 
 <br>
 <br>
 
