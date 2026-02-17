@@ -30,6 +30,35 @@ permalink: /publication/
 </div>
 
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
+<br>
+<p>
+   <strong> 2026 </strong>
+</p>  
+<div>
+  <table style="width: 100%;">
+    <tbody>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Zhou_2026_GRL.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                53. Decoupling hydroclimatic controls on displacement of retrogressive thaw slumps in Qinghai-Tibet Plateau
+              </span>
+            </strong>
+            <br> Zhou, Y.†, <b>Hu, X.*</b>, Lu, Z., Ma, Z., Lin, Y., Shi, X. <br> 
+            <em> Geophysical Research Letters</em>, Accepted, 2026 <br> 
+            <a href="https://doi.org/" >&#91;doi&#93;</a>
+            <a href="/articles/Zhou_2026_GRL.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+    </tbody>
+  </table>
+</div>
 
 <br>
 <p>
@@ -39,6 +68,25 @@ permalink: /publication/
 <div>
   <table style="width: 100%;">
     <tbody>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Shi_2025_NC.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                52. Near-Surface liquid water on Mars inferred from seasonal marsquake
+              </span>
+            </strong>
+            <br> Shi, J., Li, J.*, Li, C., Meng, H., Sun, C., Qi, C., Pan, L., Fan, S., Tian, Z., Wang, T., Xue, L., <b>Hu, X.</b>, Chen, L. <br> 
+            <em> Nature Communications</em>, Accepted, 2025 <br> 
+            <a href="https://doi.org/10.1038/s41467-025-67784-4" >&#91;doi&#93;</a>
+            <a href="/articles/Shi_2025_NC.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -52,7 +100,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Song, Y.†, <b>Hu, X.*</b>, Xu, Y., Chen, G., Zhang, J., Li, Y. <br> 
-            <em> Journal of Geophysical Research: Earth Surface</em>, Accepted, 2025 <br> 
+            <em> Journal of Geophysical Research: Earth Surface</em>, 130, e2025JF008702, 2025 <br> 
             <a href="https://doi.org/10.1029/2025JF008702" >&#91;doi&#93;</a>
             <a href="/articles/Song_2025_JGRES.pdf" download>&#91;pdf&#93;</a>
             </p>
