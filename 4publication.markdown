@@ -81,7 +81,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Shi, J., Li, J.*, Li, C., Meng, H., Sun, C., Qi, C., Pan, L., Fan, S., Tian, Z., Wang, T., Xue, L., <b>Hu, X.</b>, Chen, L. <br> 
-            <em> Nature Communications</em>, Accepted, 2025 <br> 
+            <em> Nature Communications</em>, 17, 1034, 2025 <br> 
             <a href="https://doi.org/10.1038/s41467-025-67784-4" >&#91;doi&#93;</a>
             <a href="/articles/Shi_2025_NC.pdf" download>&#91;pdf&#93;</a>
             </p>
