@@ -1,4 +1,4 @@
----
+<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/95a3454a-f8d9-4b0f-ab5a-0a3d6b707278" /><img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/864682f4-9e71-42a8-86d1-50ee69ffec88" />---
 layout: page
 title: Publication
 permalink: /publication/
@@ -50,8 +50,8 @@ permalink: /publication/
               </span>
             </strong>
             <br> Zhou, Y.†, <b>Hu, X.*</b>, Lu, Z., Ma, Z., Lin, Y., Shi, X. <br> 
-            <em> Geophysical Research Letters</em>, Accepted, 2026 <br> 
-            <a href="https://doi.org/" >&#91;doi&#93;</a>
+            <em> Geophysical Research Letters</em>, 53, e2025GL119081, 2026 <br> 
+            <a href="https://doi.org/10.1029/2025GL119081" >&#91;doi&#93;</a>
             <a href="/articles/Zhou_2026_GRL.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
