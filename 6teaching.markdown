@@ -13,6 +13,16 @@ permalink: /teaching/
 </head>
 
 <body>
+
+<h>
+2026 PKU Young Faculty Teaching Skills Competition
+</h>
+
+<video controls width="100%" style="max-height:400px;">
+    <source src="/teaching/地学分析_冰川运动_压缩.mp4" type="video/mp4">
+    您的浏览器不支持HTML5视频，请升级浏览器。
+</video>
+
 <h>
     Advanced GIS Technologies and Applications (2022F | 2023F)
     <br>
