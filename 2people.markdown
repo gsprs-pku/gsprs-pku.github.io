@@ -454,7 +454,7 @@ Research interests:
  
 <p style="font-weight:bold">Alumni</p>
 <p style="font-weight:bold">Penghui Wu</p> 
-2022-2025 Master thesis work with the lab. 
+2022-2025 Master thesis work with the lab, now in Shanxi, China. 
 <br>
 <br> 
 <p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh</p> 
