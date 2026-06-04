@@ -40,6 +40,25 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Zhang_2026_NCities.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                54. Asymmetry between spatial pattern and hydrological adaptability in early settlements. Nature CitiesNear-Surface liquid water on Mars inferred from seasonal marsquake
+              </span>
+            </strong>
+            <br> Zhang, J., Wang, F.*, Dong, Y., Mao, S., Zhang, C., <b>Hu, X.</b>, Ning, C., Chen, J., Liu, J., Chen, Y., Liu, J., Fang, Q. <br> 
+            <em> Nature Cities</em>, 2026 <br> 
+            <a href="https://doi.org/10.1038/s44284-026-00446-8" >&#91;doi&#93;</a>
+            <a href="/articles/Zhang_2026_NCities.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Zhou_2026_GRL.png" />
         </td>
         <td style="width: 70%;">
