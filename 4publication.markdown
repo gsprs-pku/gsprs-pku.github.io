@@ -46,7 +46,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                55. Asymmetry between spatial pattern and hydrological adaptability in early settlements. Nature CitiesNear-Surface liquid water on Mars inferred from seasonal marsquake
+                55. Tension between spatial pattern and hydrological adaptability in early Yangtze River Basin settlements
               </span>
             </strong>
             <br> Zhang, J., Wang, F.*, Dong, Y., Mao, S., Zhang, C., <b>Hu, X.</b>, Ning, C., Chen, J., Liu, J., Chen, Y., Liu, J., Fang, Q. <br> 
