@@ -59,7 +59,7 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Chen_2026.png" />
+          <img src="{{site.url}}/imgs/article_img/Chen_2026_GeoenvirDisaster.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -71,7 +71,7 @@ permalink: /publication/
             <br> Chen, J., Li, Q., Huang, C., <b>Hu, X.</b>, Shen, Z.* <br> 
             <em> Geoenvironmental Disasters </em>, 13, 28, 2026 <br> 
             <a href="https://doi.org/10.1186/s40677-026-00380-w" >&#91;doi&#93;</a>
-            <a href="/articles/Chen_2026.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Chen_2026_GeoenvirDisaster.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
