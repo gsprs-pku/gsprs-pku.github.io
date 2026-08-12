@@ -264,42 +264,7 @@ Research interests:
      - AI remote sensing
 <br>
 <br>
-<br>  
-
-<p style="font-weight:bold">Yi Hu (yihu25@stu.pku.edu.cn)</p>    
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Yi.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>
-                <td> 2025- </td>
-                <td> Ph.D. </td>  
-                <td> GIS </td> 
-                <td> Peking University </td> 
-            </tr>
-            <tr>   
-                <td> 2021-2025 </td>
-                <td> B.S. </td>     
-                <td> Computer Science and Technology </td> 
-                <td> Beijing Forestry University </td> 
-            </tr>
-        </tbody>
-    </table>
-    <br>
-     Research interests:
-    <br>
-     - AI in spatial and temporal analysis
 <br>
-<br>
-<br>  
 
 <p style="font-weight:bold">Master students</p>
 <p style="font-weight:bold">Jinghui Xiao (xiaojinghui@stu.pku.edu.cn)</p>    
@@ -372,7 +337,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Mei Chen (meichernpku@outlook.com; https://github.com/MeiChern; now working as an undergrd intern) </p>
+<p style="font-weight:bold">Mei Chen (meichernpku@outlook.com; https://github.com/MeiChern) </p>
     <table>
         <tbody>
             <tr>
@@ -454,15 +419,15 @@ Research interests:
  
 <p style="font-weight:bold">Alumni</p>
 <p style="font-weight:bold">Penghui Wu</p> 
-2022-2025 Master thesis work with the lab, now in Shanxi, China. 
+2022-2025 Master thesis work with the lab. 
 <br>
 <br> 
 <p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh</p> 
-2023-2024 Postdoctoral Researcher, now in the US. 
+2023-2024 Postdoctoral Researcher, now at NASA/JPL 
 <br>
 <br> 
 <p style="font-weight:bold">Congrong Wang</p> 
-2023 Undergrad thesis work with the lab, now PhD student at University of Alaska, Fairbanks, US.
+2023 Undergrad thesis work with the lab.
 <br>
 <br> 
 <p style="font-weight:bold">Xiao Yu</p> 
@@ -472,9 +437,5 @@ Research interests:
 <p style="font-weight:bold">Qingyu Sui</p> 
 2021 Undergrad Research Assistant, now PhD student at the Southern Methodish University, US.
 <br> 
-<br> 
-<p style="font-weight:bold">Hanwen Yu</p> 
-2020-2021 Postdoctoral Researcher, now Professor at the University of Electronic Science and Technology of China.      
-<br>
 <br>
 </body>
