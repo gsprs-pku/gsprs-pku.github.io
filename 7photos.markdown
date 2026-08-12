@@ -36,7 +36,7 @@ permalink: /photos/
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251016Workshop_NHRS_dinner.jpg" width="800" >
     </div>
-    <td> Hotpot - Yi, Yuqi, Xie, Yiling, Yige (sleepy?), Jinghui, Feng, and Mei. </td> 
+    <td> Hotpot - Yi, Yuqi, Xie, Yiling, Yige, Jinghui, Feng, and Mei. </td> 
     <br>
     <br>
     <br>
