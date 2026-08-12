@@ -40,6 +40,44 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Lin_2026_GeoDis.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                57. Ground-shaking-informed regime partitioning for characterizing earthquake-induced secondary hazards
+              </span>
+            </strong>
+            <br> Lin, F.†, <b>Hu, X.*</b>, Yu, X., Xu, Y., An, N. <br> 
+            <em> Geoenvironmental Disasters (Accepted)</em>, 2026 <br> 
+            <a href="" >&#91;doi&#93;</a>
+            <a href="/articles/Lin_2026_GeoDis.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Zhao_2026_SA.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                56. Westerly induced precipitation increase drives near-surface ground ice gain on the Tibetan Plateau despite warming
+              </span>
+            </strong>
+            <br> Zhao, Y., Li, D.*, Nitzbon, J., Nan, Z., Song, Y.†, <b>Hu, X.</b>, Ran, Y., Tian, S., Deng, R., Luo, Y., Li, Y. <br> 
+            <em> Science Advances</em>, 2026 <br> 
+            <a href="https://doi.org/10.1126/sciadv.aed1105" >&#91;doi&#93;</a>
+            <a href="/articles/Zhao_2026_SA.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Zhang_2026_NCities.png" />
         </td>
         <td style="width: 70%;">
