@@ -20,13 +20,6 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/20251026NHRS_F4.jpg" width="800" >
-    </div>
-    <td> NHRS flowers four - from left to right - Mei, Jinghui, Yi, and Feng. </td> 
-    <br>
-    <br>
-    <br>
-    <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251016Workshop.JPG" width="800" >
     </div>
     <td> Workshop host by NHRS lab about Remote Sensing AI empowered natural hazards research. </td> 
@@ -36,7 +29,7 @@ permalink: /photos/
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251016Workshop_NHRS.JPG" width="800" >
     </div>
-    <td> Logistic team from NHRS - from left to right - Yuqi, Yuanzhuo, Yiling, Yi (coool), Xie, Jinghui, Mei, Feng, and Yongxuan. </td> 
+    <td> Logistic team from NHRS - from left to right - Yuqi, Yuanzhuo, Yiling, Yi, Xie, Jinghui, Mei, Feng, and Yongxuan. </td> 
     <br>
     <br>
     <br>
