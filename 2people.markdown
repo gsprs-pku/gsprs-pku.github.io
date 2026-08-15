@@ -379,6 +379,74 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">Undergraduate student</p>
+<p style="font-weight:bold">Tianyu Hou (tianyuhou04@gmail.com; https://github.com/HengtangAfar) </p>    
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:100px;" rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/people/Tianyu.png" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2027- </td>
+                <td> Ph.D. </td>  
+                <td> GIS </td> 
+                <td> Peking University </td> 
+            </tr>
+            <tr>   
+                <td> 2023-2027 </td>
+                <td> B.S. </td>     
+                <td> Geography </td> 
+                <td> Nanjing Normal University </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Floods
+     - Cryosphere monitoring
+     - Relationships between natural hazards and cultural heritage)
+<br>
+<br>
+<br>
+<p style="font-weight:bold">Yujin Xia (15234451090@163.com) </p>    
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:100px;" rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/people/Yujin.png" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2027- </td>
+                <td> Master </td>  
+                <td> GIS </td> 
+                <td> Peking University </td> 
+            </tr>
+            <tr>   
+                <td> 2023-2027 </td>
+                <td> B.S. </td>     
+                <td> GIS </td> 
+                <td> Nanjing University of Information Science and Technology </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     -Future assessment of soil erosion under the climate and land use change
+     -Land use/land cover evolution
 <br>
 <br>
 <br>
