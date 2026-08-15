@@ -192,7 +192,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yiling Lin (yllin@stu.pku.edu.cn; https://github.com/YilingLin0610/; transfer from a Master to a Ph.D. program, and will officially start her Ph.D. program in 2026)</p>
+<p style="font-weight:bold">Yiling Lin (yllin@stu.pku.edu.cn; https://github.com/YilingLin0610/; transfer from Master to Ph.D. program)</p>
     <table>
         <tbody>
             <tr>
