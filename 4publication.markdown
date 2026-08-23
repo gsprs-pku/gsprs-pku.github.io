@@ -40,6 +40,25 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Lin_2026_WR.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                58. Soil moisture tracks floodwater footprints: extracting maximum flood extent from elevated post-flood soil moisture
+              </span>
+            </strong>
+            <br> Lin, Y.†, <b>Hu, X.*</b>, Wang, X., Zhang, Y. <br> 
+            <em> Water Research</em> (Accepted), 2026 <br> 
+            <a href="" >&#91;doi&#93;</a>
+            <a href="/articles/Lin_2026_WR.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Lin_2026_GeoDis.png" />
         </td>
         <td style="width: 70%;">
@@ -50,7 +69,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, F.†, <b>Hu, X.*</b>, Yu, X., Xu, Y., An, N. <br> 
-            <em> Geoenvironmental Disasters (Accepted)</em>, 2026 <br> 
+            <em> Geoenvironmental Disasters</em> (Accepted), 2026 <br> 
             <a href="" >&#91;doi&#93;</a>
             <a href="/articles/Lin_2026_GeoDis.pdf" download>&#91;pdf&#93;</a>
             </p>
@@ -132,18 +151,6 @@ permalink: /publication/
             </p>
         </td>
         </tr>
-    </tbody>
-  </table>
-</div>
-
-<br>
-<p>
-   <strong> 2025 </strong>
-</p>  
-
-<div>
-  <table style="width: 100%;">
-    <tbody>
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
@@ -163,6 +170,18 @@ permalink: /publication/
             </p>
         </td>
         </tr>
+    </tbody>
+  </table>
+</div>
+
+<br>
+<p>
+   <strong> 2025 </strong>
+</p>  
+
+<div>
+  <table style="width: 100%;">
+    <tbody>
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
