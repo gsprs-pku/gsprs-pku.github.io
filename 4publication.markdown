@@ -46,12 +46,12 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                58. Soil moisture tracks floodwater footprints: extracting maximum flood extent from elevated post-flood soil moisture
+                59. Mapping maximum floodwater footprints from sustained flood traces
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Wang, X., Zhang, Y. <br> 
-            <em> Water Research</em> (Accepted), 2026 <br> 
-            <a href="" >&#91;doi&#93;</a>
+            <em> Water Research</em> 126783, 2026 <br> 
+            <a href="https://doi.org/10.1016/j.watres.2026.126783" >&#91;doi&#93;</a>
             <a href="/articles/Lin_2026_WR.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
@@ -65,12 +65,12 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                57. Ground-shaking-informed regime partitioning for characterizing earthquake-induced secondary hazards
+                58. Ground-shaking-informed regime partitioning for characterizing earthquake-induced secondary hazards
               </span>
             </strong>
             <br> Lin, F.†, <b>Hu, X.*</b>, Yu, X., Xu, Y., An, N. <br> 
-            <em> Geoenvironmental Disasters</em> (Accepted), 2026 <br> 
-            <a href="" >&#91;doi&#93;</a>
+            <em> Geoenvironmental Disasters</em> 13, 57, 2026 <br> 
+            <a href="https://doi.org/10.1186/s40677-026-00405-4" >&#91;doi&#93;</a>
             <a href="/articles/Lin_2026_GeoDis.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
@@ -84,13 +84,32 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                56. Westerly induced precipitation increase drives near-surface ground ice gain on the Tibetan Plateau despite warming
+                57. Westerly induced precipitation increase drives near-surface ground ice gain on the Tibetan Plateau despite warming
               </span>
             </strong>
             <br> Zhao, Y., Li, D.*, Nitzbon, J., Nan, Z., Song, Y.†, <b>Hu, X.</b>, Ran, Y., Tian, S., Deng, R., Luo, Y., Li, Y. <br> 
-            <em> Science Advances</em>, 2026 <br> 
+            <em> Science Advances</em>, 12, eaed1105, 2026 <br> 
             <a href="https://doi.org/10.1126/sciadv.aed1105" >&#91;doi&#93;</a>
             <a href="/articles/Zhao_2026_SA.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Yang_2026_npjNH.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                56. Building damage assessment in storm-induced disasters using multi-source remote sensing data and NBDANet 
+              </span>
+            </strong>
+            <br> Yang, Y., Fang, J.*, Yu, X., Bian, W., Xia, H., <b>Hu, X.</b>, Hu, T. <br> 
+            <em> npj Natural Hazards</em>, 2026 <br> 
+            <a href="https://doi.org/10.1038/s44304-026-00255-y" >&#91;doi&#93;</a>
+            <a href="/articles/Yang_2026_npjNH.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
