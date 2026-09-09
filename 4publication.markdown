@@ -40,6 +40,25 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Ran_2026_CEE.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                60. Inundation risk in North China's coastal gateway amid land subsidence, sea-level rise and coastal defense initiatives
+              </span>
+            </strong>
+            <br> Ran, Y.†, <b>Hu, X.*</b>, Wang, F., Tao, S., Yu, X., Liu-Zeng, J., Ao, Z., Liang, X., Wang, G. <br>
+            <em> Communications Earth & Environment</em>, 2026 <br> 
+            <a href="" >&#91;doi&#93;</a>
+            <a href="/articles/Ran_2026_CEE.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
           <img src="{{site.url}}/imgs/article_img/Lin_2026_WR.png" />
         </td>
         <td style="width: 70%;">
@@ -50,7 +69,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b>, Wang, X., Zhang, Y. <br> 
-            <em> Water Research</em> 126783, 2026 <br> 
+            <em> Water Research</em>, 126783, 2026 <br> 
             <a href="https://doi.org/10.1016/j.watres.2026.126783" >&#91;doi&#93;</a>
             <a href="/articles/Lin_2026_WR.pdf" download>&#91;pdf&#93;</a>
             </p>
@@ -69,7 +88,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, F.†, <b>Hu, X.*</b>, Yu, X., Xu, Y., An, N. <br> 
-            <em> Geoenvironmental Disasters</em> 13, 57, 2026 <br> 
+            <em> Geoenvironmental Disasters</em>, 13, 57, 2026 <br> 
             <a href="https://doi.org/10.1186/s40677-026-00405-4" >&#91;doi&#93;</a>
             <a href="/articles/Lin_2026_GeoDis.pdf" download>&#91;pdf&#93;</a>
             </p>
