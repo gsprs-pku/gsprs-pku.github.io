@@ -51,7 +51,7 @@ permalink: /publication/
             </strong>
             <br> Ran, Y.†, <b>Hu, X.*</b>, Wang, F., Tao, S., Yu, X., Liu-Zeng, J., Ao, Z., Liang, X., Wang, G. <br>
             <em> Communications Earth & Environment</em>, 2026 <br> 
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1038/s43247-026-04068-9" >&#91;doi&#93;</a>
             <a href="/articles/Ran_2026_CEE.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
