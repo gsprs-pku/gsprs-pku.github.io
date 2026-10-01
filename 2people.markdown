@@ -17,8 +17,7 @@ permalink: /people/
 
 <body>
 
-<p style="font-weight:bold">PI Xie Hu (hu.xie@pku.edu.cn)</p>
-
+<p style="font-weight:bold">PI Xie Hu <a href="hu.xie@pku.edu.cn" >&#91;✉️&#93;</a> </p>
     <table>
         <tbody>
             <tr>
