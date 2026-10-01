@@ -191,7 +191,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yiling Lin <a href="mailto:yllin@stu.pku.edu.cn"> 📧 yllin [at] stu.pku.edu </a> https://github.com/YilingLin0610/ </p>
+<p style="font-weight:bold">Yiling Lin <a href="mailto:yllin@stu.pku.edu.cn"> 📧 yllin [at] stu.pku.edu </a> <a href="https://github.com/YilingLin0610"> 📧 Github </a> </p>
     <table>
         <tbody>
             <tr>
@@ -230,7 +230,7 @@ Research interests:
 <br>
 <br>    
 
-<p style="font-weight:bold">Feng Lin (linfeng@stu.pku.edu.cn)</p>    
+<p style="font-weight:bold">Feng Lin <a href="mailto:linfeng@stu.pku.edu.cn"> 📧 linfeng [at] stu.pku.edu </a></p>    
     <table>
         <tbody>
             <tr>
@@ -266,7 +266,7 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">Master students</p>
-<p style="font-weight:bold">Jinghui Xiao (xiaojinghui@stu.pku.edu.cn)</p>    
+<p style="font-weight:bold">Jinghui Xiao <a href="mailto:xiaojinghui@stu.pku.edu.cn"> 📧 xiaojinghui [at] stu.pku.edu </a> </p>    
     <table>
         <tbody>
             <tr>
@@ -301,7 +301,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yuanzhuo Zhou (yzzhou25@stu.pku.edu.cn)</p>    
+<p style="font-weight:bold">Yuanzhuo Zhou <a href="mailto:yzzhou25@stu.pku.edu.cn"> 📧 yzzhou25 [at] stu.pku.edu </a> </p>    
     <table>
         <tbody>
             <tr>
@@ -336,7 +336,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Mei Chen (meichernpku@outlook.com; https://github.com/MeiChern) </p>
+<p style="font-weight:bold">Mei Chen <a href="mailto:meichernpku@outlook.com"> 📧 meichernpku [at] outlook.com </a> <a href="https://github.com/MeiChern"> 📧 Github </a> </p>
     <table>
         <tbody>
             <tr>
@@ -378,7 +378,7 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">Undergraduate student</p>
-<p style="font-weight:bold">Tianyu Hou (tianyuhou04@gmail.com; https://github.com/HengtangAfar) </p>    
+<p style="font-weight:bold">Tianyu Hou <a href="mailto:tianyuhou04@gmail.com"> 📧 tianyuhou04 [at] gmail.com </a> <a href="https://github.com/HengtangAfar"> 📧 Github </a> </p>    
     <table>
         <tbody>
             <tr>
@@ -416,7 +416,7 @@ Research interests:
 <br>
 <br>
 <br>
-<p style="font-weight:bold">Yujin Xia (15234451090@163.com) </p>    
+<p style="font-weight:bold">Yujin Xia <a href="mailto:15234451090@163.com"> 📧 15234451090 [at] 163.com </a> </p>
     <table>
         <tbody>
             <tr>
@@ -454,7 +454,7 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">Intern</p>
-<p style="font-weight:bold">Zijin Su (szijin@outlook.com) </p>    
+<p style="font-weight:bold">Zijin Su <a href="mailto:szijin@outlook.com"> 📧 szijin [at] outlook.com </a> </p>    
     <table>
         <tbody>
             <tr>
