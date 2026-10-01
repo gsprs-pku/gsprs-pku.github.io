@@ -131,13 +131,13 @@ Research interests:
             <tr>
                 <td> 2022-2026 </td>
                 <td> Ph.D. </td>  
-                <td> Geological Resources and Geological Engineering </td> 
+                <td> Geological Resources and Engineering </td> 
                 <td> Chengdu University of Technology </td> 
             </tr>
             <tr>   
                 <td> 2019-2022 </td>
                 <td> M.S. </td>     
-                <td> Cartography and Geographic Information Systems </td> 
+                <td> GIS </td> 
                 <td> Chengdu University of Technology </td> 
             </tr>
             <tr>   
