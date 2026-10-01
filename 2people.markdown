@@ -115,7 +115,7 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">PhD students</p>
-<p style="font-weight:bold">Yuqi Song (yqsong@stu.pku.edu.cn)</p>    
+<p style="font-weight:bold">Yuqi Song <a href="mailto:yqsong@stu.pku.edu.cn"> 📧 yqsong [at] stu.pku.edu </a> </p>    
     <table>
         <tbody>
             <tr>
@@ -154,7 +154,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yongxuan Ran (yongxuan@stu.pku.edu.cn) </p>
+<p style="font-weight:bold">Yongxuan Ran <a href="mailto:yongxuan@stu.pku.edu.cn"> 📧 yongxuan [at] stu.pku.edu </a> </p>
     <table>
         <tbody>
             <tr>
@@ -191,7 +191,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yiling Lin (yllin@stu.pku.edu.cn; https://github.com/YilingLin0610/; transfer from Master to Ph.D. program)</p>
+<p style="font-weight:bold">Yiling Lin <a href="mailto:yllin@stu.pku.edu.cn"> 📧 yllin [at] stu.pku.edu </a> https://github.com/YilingLin0610/ </p>
     <table>
         <tbody>
             <tr>
