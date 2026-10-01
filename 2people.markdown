@@ -454,6 +454,42 @@ Research interests:
 <br>
 <br>
 
+<p style="font-weight:bold">Intern</p>
+<p style="font-weight:bold">Zijin Su (szijin@outlook.com) </p>    
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:100px;" rowspan="3">
+                    <div align=center>
+                    <img src="{{site.url}}/imgs/people/Zijin.jpg" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2025-2026 </td>
+                <td> M.S. </td>  
+                <td> Physics </td> 
+                <td> University College London </td> 
+            </tr>
+            <tr>   
+                <td> 2021-2025 </td>
+                <td> B.S. </td>     
+                <td> Physics </td> 
+                <td> University College London </td> 
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - AI for Remote Sensing & Geophysics
+<br>
+<br>
+<br>  
+
 <p style="font-weight:bold">VIP</p>
 <p style="font-weight:bold">Milk Cap </p>
 
