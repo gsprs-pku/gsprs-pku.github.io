@@ -131,7 +131,7 @@ Research interests:
             <tr>
                 <td> 2022-2026 </td>
                 <td> Ph.D. </td>  
-                <td> Geological Resources and Engineering </td> 
+                <td> Geological Resources & Engineering </td> 
                 <td> Chengdu Univ. of Technology </td> 
             </tr>
             <tr>   
