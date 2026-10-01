@@ -479,7 +479,7 @@ permalink: /publication/
                 38. The influence of reservoirs on landslide erosion
               </span>
             </strong>
-            <br> Tang, F., Qi, S., Guo, S.*, Li, Y., Guo, X., Lu, X, Zou, Y., Wang, X., <b>Hu, X.*</b>, Ma, L., Zheng, B., Wang, Z. <br> 
+            <br> Tang, F., Qi, S., Guo, S.*, Li, Y., Guo, X., Lu, X, Zou, Y., Wang, X., <b>Hu, X.</b>, Ma, L., Zheng, B., Wang, Z. <br> 
             <em> Remote Sensing</em>, 17, 569, 2025 <br> 
             <a href="https://doi.org/10.3390/rs17040569" >&#91;doi&#93;</a>
             <a href="/articles/Tang_2025_RS.pdf" download>&#91;pdf&#93;</a>
@@ -855,7 +855,7 @@ permalink: /publication/
                 20. Machine-learning estimation of snow depth in 2021 Texas statewide winter storm using SAR imagery
               </span>
             </strong>
-            <br> Yu, X.†, <b>Hu, X.</b>, Wang, G., Wang, K., Chen, X. <br>
+            <br> Yu, X.†, <b>Hu, X.*</b>, Wang, G., Wang, K., Chen, X. <br>
             <em> Geophysical Research Letters</em>, 49, e2022GL099119, 2022 <br>
             <a href="https://doi.org/10.1029/2022GL099119" >&#91;doi&#93;</a>
             <a href="/articles/Yu_GRL_2022.pdf" download>&#91;pdf&#93;</a>
