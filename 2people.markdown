@@ -17,7 +17,7 @@ permalink: /people/
 
 <body>
 
-<p style="font-weight:bold">PI Xie Hu <a href="mailto:hu.xie@pku.edu.cn"> 📧 hu.xie [at] pku.edu</a> </p>
+<p style="font-weight:bold">PI Xie Hu <a href="mailto:hu.xie@pku.edu.cn"> 📧 hu.xie [at] pku.edu.cn</a> </p>
     <table>
         <tbody>
             <tr>
@@ -115,7 +115,7 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">Postdoc researcher</p>
-<p style="font-weight:bold">Xiangqi Lei <a href="mailto:szijin@outlook.com"> 📧 szijin [at] outlook.com</a> </p>    
+<p style="font-weight:bold">Xiangqi Lei <a href="mailto:...@outlook.com"> 📧 ... [at] outlook.com</a> </p>    
     <table>
         <tbody>
             <tr>
@@ -151,7 +151,7 @@ Research interests:
 <br>  
 
 <p style="font-weight:bold">PhD students</p>
-<p style="font-weight:bold">Yuqi Song <a href="mailto:yqsong@stu.pku.edu.cn"> 📧 yqsong [at] stu.pku.edu</a> </p>
+<p style="font-weight:bold">Yuqi Song <a href="mailto:yqsong@stu.pku.edu.cn"> 📧 yqsong [at] stu.pku.edu.cn</a> </p>
     <table>
         <tbody>
             <tr>
@@ -190,7 +190,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yongxuan Ran <a href="mailto:yongxuan@stu.pku.edu.cn"> 📧 yongxuan [at] stu.pku.edu</a> </p>
+<p style="font-weight:bold">Yongxuan Ran <a href="mailto:yongxuan@stu.pku.edu.cn"> 📧 yongxuan [at] stu.pku.edu.cn</a> </p>
     <table>
         <tbody>
             <tr>
@@ -227,7 +227,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yiling Lin <a href="mailto:yllin@stu.pku.edu.cn"> 📧 yllin [at] stu.pku.edu</a> <a href="https://github.com/YilingLin0610">Github</a> </p>
+<p style="font-weight:bold">Yiling Lin <a href="mailto:yllin@stu.pku.edu.cn"> 📧 yllin [at] stu.pku.edu.cn</a> <a href="https://github.com/YilingLin0610">Github</a> </p>
     <table>
         <tbody>
             <tr>
@@ -266,7 +266,7 @@ Research interests:
 <br>
 <br>    
 
-<p style="font-weight:bold">Feng Lin <a href="mailto:linfeng@stu.pku.edu.cn"> 📧 linfeng [at] stu.pku.edu</a></p>    
+<p style="font-weight:bold">Feng Lin <a href="mailto:linfeng@stu.pku.edu.cn"> 📧 linfeng [at] stu.pku.edu.cn</a></p>    
     <table>
         <tbody>
             <tr>
@@ -302,7 +302,7 @@ Research interests:
 <br>
 
 <p style="font-weight:bold">Master students</p>
-<p style="font-weight:bold">Jinghui Xiao <a href="mailto:xiaojinghui@stu.pku.edu.cn"> 📧 xiaojinghui [at] stu.pku.edu</a> </p>    
+<p style="font-weight:bold">Jinghui Xiao <a href="mailto:xiaojinghui@stu.pku.edu.cn"> 📧 xiaojinghui [at] stu.pku.edu.cn</a> </p>    
     <table>
         <tbody>
             <tr>
@@ -337,7 +337,7 @@ Research interests:
 <br>
 <br>
 
-<p style="font-weight:bold">Yuanzhuo Zhou <a href="mailto:yzzhou25@stu.pku.edu.cn"> 📧 yzzhou25 [at] stu.pku.edu</a> </p>    
+<p style="font-weight:bold">Yuanzhuo Zhou <a href="mailto:yzzhou25@stu.pku.edu.cn"> 📧 yzzhou25 [at] stu.pku.edu.cn</a> </p>    
     <table>
         <tbody>
             <tr>
