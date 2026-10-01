@@ -104,18 +104,18 @@ Honors & awards:
     <br>
 Research interests:
     <br>
-- SAR remote sensing in natural hazards and shallow solid earth
+- Natural hazards
     <br>
-- Landslide deformation and dynamics
+- InSAR/SAR
     <br>
-- Artificial intelligence in remote sensing big data analysis
+- AI remote sensing
     <br>
 <a href="https://ues.pku.edu.cn/Home/Teacher_Home/Xie_Hu/5549e7556b884abeac7da4ff8c3238ed.htm" target="_blank">&#91;PKU profile&#93;</a>     <a href="https://sites.google.com/site/xiehusar/" target="_blank">&#91;Google Site&#93;</a>     <a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">&#91;Google Scholar&#93;</a>     <a href="/articles/CV_XieHU_202608_published.pdf" download>&#91;CV&#93;</a> 
 <br>
 <br>
 
 <p style="font-weight:bold">Postdoc researcher</p>
-<p style="font-weight:bold">Xiangqi Lei <a href="mailto:...@outlook.com"> 📧 ... [at] outlook.com</a> </p>    
+<p style="font-weight:bold">Xiangqi Lei <a href="mailto:ray4035@163.com"> 📧 ray4035 [at] 163.com</a> </p>    
     <table>
         <tbody>
             <tr>
@@ -129,23 +129,33 @@ Research interests:
                 </td>
             </tr>
             <tr>
-                <td> 2025-2026 </td>
+                <td> 2022-2026 </td>
                 <td> Ph.D. </td>  
-                <td> GIS </td> 
-                <td> University College London </td> 
+                <td> Geological Resources and Geological Engineering </td> 
+                <td> Chengdu University of Technology </td> 
             </tr>
             <tr>   
-                <td> 2021-2025 </td>
+                <td> 2019-2022 </td>
+                <td> M.S. </td>     
+                <td> Cartography and Geographic Information Systems </td> 
+                <td> Chengdu University of Technology </td> 
+            </tr>
+            <tr>   
+                <td> 2014-2018 </td>
                 <td> B.S. </td>     
-                <td> Physics </td> 
-                <td> University College London </td> 
+                <td> Geographical Science </td> 
+                <td> Qufu Normal University </td> 
             </tr>
         </tbody>
     </table>
     <br>
      Research interests:
     <br>
-     - ..
+     - Landslide
+     <br>
+     - Cryosphere
+    <br>
+     - AI remote sensing
 <br>
 <br>
 <br>  
@@ -183,7 +193,7 @@ Research interests:
      <br>
      - Permafrost
     <br>
-     - Landslides
+     - Landslide
     <br>
      - Machine learning in remote sensing big data analysis
 <br>
