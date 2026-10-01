@@ -119,7 +119,7 @@ Research interests:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
+                <td style="width:100px;" rowspan="10">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Xiangqi.jpg" width="200" >
                     </div>
