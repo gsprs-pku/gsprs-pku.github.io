@@ -520,7 +520,7 @@ Research interests:
                 <td> University College London </td> 
             </tr>
             <tr>   
-                <td> 2021-2025 </td>
+                <td> 2022-2025 </td>
                 <td> B.S. </td>     
                 <td> Physics </td> 
                 <td> University College London </td> 
