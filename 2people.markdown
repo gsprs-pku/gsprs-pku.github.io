@@ -100,7 +100,7 @@ Honors & awards:
     <br>
 2025 <a href="https://www.undrr.org/news/spotlight-tomorrows-leaders-win-drr-rising-star-award-2025-finalists" target="_blank">United Nations Women’s International Network for Disaster Risk Reduction (WIN DRR) Rising Star Award Finalist</a>
     <br>
-2026 Editorial Excellence of Elsevier
+2026 Springer Nature Editorial Excellence
     <br>
 Research interests:
     <br>
