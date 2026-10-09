@@ -46,7 +46,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                60. Inundation risk in North China's coastal gateway amid land subsidence, sea-level rise and coastal defense initiatives
+                62. Inundation risk in North China's coastal gateway amid land subsidence, sea-level rise and coastal defense initiatives
               </span>
             </strong>
             <br> Ran, Y.†, <b>Hu, X.*</b>, Wang, F., Tao, S., Yu, X., Liu-Zeng, J., Ao, Z., Liang, X., Wang, G. <br>
@@ -59,7 +59,45 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Lin_2026_WR.png" />
+          <img src="{{site.url}}/imgs/article_img/Ran_2026_CEE.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                61. Globe-CraterSAM: A Training-Free Generalizable Framework for Mapping Sub-Kilometer Martian Craters
+              </span>
+            </strong>
+            <br> Lin, Y.†, <b>Hu, X.*</b><br>
+            <em> ISPRS Journal of Photogrammetry and Remote Sensing</em>, 2026 <br> 
+            <a href="" >&#91;doi&#93;</a>
+            <a href="/articles/Lin_2026_ISPRS.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Lin_2026_ISPRS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                60. Stage-based deformation preceding rainfall-induced landslide failure in Songxi County, China
+              </span>
+            </strong>
+            <br>An, N.*, Zhou, J., Peranić, J., Ma, C., Fan, T., <b>Hu, X.</b>, Zhao, Y., Wang, B., Lv, Q., Yang, Y.*<br>
+            <em> Landslides</em>, 2026 <br> 
+            <a href="https://doi.org/10.1007/s10346-026-02853-3" >&#91;doi&#93;</a>
+            <a href="/articles/An_2026_Landslides.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/An_2026_Landslides.png" />
         </td>
         <td style="width: 70%;">
           <p>
