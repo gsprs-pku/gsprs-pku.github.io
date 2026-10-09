@@ -69,7 +69,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b><br>
-            <em> ISPRS Journal of Photogrammetry and Remote Sensing</em>, 2026 <br> 
+            <em> ISPRS Journal of Photogrammetry and Remote Sensing</em> (Accepted), 2026 <br> 
             <a href="" >&#91;doi&#93;</a>
             <a href="/articles/Lin_2026_ISPRS.pdf" download>&#91;pdf&#93;</a>
             </p>
