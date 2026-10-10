@@ -59,7 +59,7 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Ran_2026_CEE.png" />
+          <img src="{{site.url}}/imgs/article_img/Lin_2026_ISPRS.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -78,7 +78,7 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Lin_2026_ISPRS.png" />
+          <img src="{{site.url}}/imgs/article_img/An_2026_Landslides.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -97,7 +97,7 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/An_2026_Landslides.png" />
+          <img src="{{site.url}}/imgs/article_img/Lin_2026_WR.png" />
         </td>
         <td style="width: 70%;">
           <p>
