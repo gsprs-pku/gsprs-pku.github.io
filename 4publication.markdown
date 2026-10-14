@@ -50,7 +50,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Wang, L., Ao, Z., Tao, S.*, <b>Hu, X.*</b>, Hu, X.M., Ran Y.†, Wang, G., Zhao, K., Bai, H., Xiao, J., Xue, B., Zhao, X., Zhang, F., Jiang, K., Lin, Y., Huang, Y., Gao, Y., Jiang, T., Peng, Z., Zhu, J., Zhao, S., Wang, S., Zhu, B., Wang, Z., Liu, H., Tang, Z., Xing, H., Liu, Y., Fang, J. <br>
-            <em> Communications Earth & Environment</em>, 2026 <br> 
+            <em> Nature Cities</em>, 2026 <br> 
             <a href="https://doi.org/10.1038/s44284-026-00527-8" >&#91;doi&#93;</a>
             <a href="/articles/Wang_2026_NCities.pdf" download>&#91;pdf&#93;</a>
             </p>
