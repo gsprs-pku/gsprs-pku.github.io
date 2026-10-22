@@ -88,19 +88,19 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Chen_2026_PNASNEXUS.png" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2026_JGRSE.png" />
         </td>
         <td style="width: 70%;">
           <p>
             <strong>
               <span class="links">
-                63. Spatial organization of InSAR deformation-rate extremes across permafrost-transition and thermokarst contexts on the Tibetan Plateau
+                63. 3D displacement mapping from hillshade offsets: multi-decadal deceleration and secondary mini-sliding at the Slumgullion landslide, Colorado, USA
               </span>
             </strong>
-            <br> Chen, M.†, <b>Hu, X.*</b> <br>
-            <em> PNAS Nexus</em> (Accepted), 2026 <br> 
-            <a href="https://doi.org/10.1093/pnasnexus/pgag366" >&#91;doi&#93;</a>
-            <a href="/articles/Chen_2026_PNASNEXUS.pdf" download>&#91;pdf&#93;</a>
+            <br> <b>Hu, X.*</b>, Tiampo, K.F., Bürgmann, R., Schulz, W., Lu, Z., Cassotto, R., Materna, K., Hu, L., Zhao, Z. <br>
+            <em> Journal of Geophysical Research: Solid Earth</em> (Accepted), 2026 <br> 
+            <a href="" >&#91;doi&#93;</a>
+            <a href="/articles/Hu_2026_JGRSE.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
