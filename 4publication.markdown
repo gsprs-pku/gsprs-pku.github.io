@@ -1,4 +1,4 @@
----
+<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/cd10abf1-1a27-4454-9ce0-fbb7fee33998" /><img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/27eee16c-94c2-42f9-88b3-613ebfaade00" />---
 layout: page
 title: Publication
 permalink: /publication/
@@ -32,6 +32,32 @@ permalink: /publication/
 <p>† denotes group members under direct supervision  * denotes corresponding </p>
 <br>
 <p>
+   <strong> 2027 </strong>
+</p> 
+<div>
+  <table style="width: 100%;">
+    <tbody>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Lin_2027_ISPRS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                65. Globe-CraterSAM: A Training-Free Generalizable Framework for Mapping Sub-Kilometer Martian Craters
+              </span>
+            </strong>
+            <br> Lin, Y.†, <b>Hu, X.*</b><br>
+            <em> ISPRS Journal of Photogrammetry and Remote Sensing</em>, 243, 446–463, 2027 <br> 
+            <a href="https://doi.org/10.1016/j.isprsjprs.2026.10.005" >&#91;doi&#93;</a>
+            <a href="/articles/Lin_2027_ISPRS.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+<br>
+<p>
    <strong> 2026 </strong>
 </p>  
 <div>
@@ -46,13 +72,32 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                63. A global view of urban land subsidence and its changing trajectories
+                64. A global view of urban land subsidence and its changing trajectories
               </span>
             </strong>
             <br> Wang, L., Ao, Z., Tao, S.*, <b>Hu, X.*</b>, Hu, X.M., Ran Y.†, Wang, G., Zhao, K., Bai, H., Xiao, J., Xue, B., Zhao, X., Zhang, F., Jiang, K., Lin, Y., Huang, Y., Gao, Y., Jiang, T., Peng, Z., Zhu, J., Zhao, S., Wang, S., Zhu, B., Wang, Z., Liu, H., Tang, Z., Xing, H., Liu, Y., Fang, J. <br>
             <em> Nature Cities</em>, 2026 <br> 
             <a href="https://doi.org/10.1038/s44284-026-00527-8" >&#91;doi&#93;</a>
             <a href="/articles/Wang_2026_NCities.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Chen_2026_PNASNEXUS.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                63. Spatial organization of InSAR deformation-rate extremes across permafrost-transition and thermokarst contexts on the Tibetan Plateau
+              </span>
+            </strong>
+            <br> Chen, M.†, <b>Hu, X.*</b> <br>
+            <em> PNAS Nexus</em>, 2026 <br> 
+            <a href="https://doi.org/10.1093/pnasnexus/pgag366" >&#91;doi&#93;</a>
+            <a href="/articles/Chen_2026_PNASNEXUS.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
@@ -88,9 +133,9 @@ permalink: /publication/
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b><br>
-            <em> ISPRS Journal of Photogrammetry and Remote Sensing</em> (Accepted), 2026 <br> 
-            <a href="" >&#91;doi&#93;</a>
-            <a href="/articles/Lin_2026_ISPRS.pdf" download>&#91;pdf&#93;</a>
+            <em> ISPRS Journal of Photogrammetry and Remote Sensing</em>, 243, 446–463, 2027 <br> 
+            <a href="https://doi.org/10.1016/j.isprsjprs.2026.10.005" >&#91;doi&#93;</a>
+            <a href="/articles/Lin_2027_ISPRS.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
