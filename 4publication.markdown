@@ -98,7 +98,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Chen, M.†, <b>Hu, X.*</b> <br>
-            <em> PNAS Nexus</em>, 2026 <br> 
+            <em> PNAS Nexus</em> (Accepted), 2026 <br> 
             <a href="https://doi.org/10.1093/pnasnexus/pgag366" >&#91;doi&#93;</a>
             <a href="/articles/Chen_2026_PNASNEXUS.pdf" download>&#91;pdf&#93;</a>
             </p>
