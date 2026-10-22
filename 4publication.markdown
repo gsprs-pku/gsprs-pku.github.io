@@ -46,7 +46,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                65. Globe-CraterSAM: A Training-Free Generalizable Framework for Mapping Sub-Kilometer Martian Craters
+                65. Globe-CraterSAM: a training-free generalizable framework for mapping sub-kilometer Martian craters
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b><br>
@@ -126,19 +126,19 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Lin_2026_ISPRS.png" />
+          <img src="{{site.url}}/imgs/article_img/Chen_2026_PNASNEXUS.png" />
         </td>
         <td style="width: 70%;">
           <p>
             <strong>
               <span class="links">
-                61. Globe-CraterSAM: A Training-Free Generalizable Framework for Mapping Sub-Kilometer Martian Craters
+                61. Spatial organization of InSAR deformation-rate extremes across permafrost-transition and thermokarst contexts on the Tibetan Plateau
               </span>
             </strong>
-            <br> Lin, Y.†, <b>Hu, X.*</b><br>
-            <em> ISPRS Journal of Photogrammetry and Remote Sensing</em>, 243, 446–463, 2027 <br> 
-            <a href="https://doi.org/10.1016/j.isprsjprs.2026.10.005" >&#91;doi&#93;</a>
-            <a href="/articles/Lin_2027_ISPRS.pdf" download>&#91;pdf&#93;</a>
+            <br> Chen, M.†, <b>Hu, X.*</b> <br>
+            <em> PNAS Nexus</em> (Accepted), 2026 <br> 
+            <a href="https://doi.org/10.1093/pnasnexus/pgag366" >&#91;doi&#93;</a>
+            <a href="/articles/Chen_2026_PNASNEXUS.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
