@@ -1,4 +1,4 @@
----
+<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/a5f463ff-eccd-40ef-81ea-021d1b44a67e" />---
 layout: page
 title: Publication
 permalink: /publication/
@@ -75,7 +75,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                64. A global view of urban land subsidence and its changing trajectories
+                65. A global view of urban land subsidence and its changing trajectories
               </span>
             </strong>
             <br> Wang, L., Ao, Z., Tao, S.*, <b>Hu, X.*</b>, Hu, X.M., Ran Y.†, Wang, G., Zhao, K., Bai, H., Xiao, J., Xue, B., Zhao, X., Zhang, F., Jiang, K., Lin, Y., Huang, Y., Gao, Y., Jiang, T., Peng, Z., Zhu, J., Zhao, S., Wang, S., Zhu, B., Wang, Z., Liu, H., Tang, Z., Xing, H., Liu, Y., Fang, J. <br>
@@ -94,12 +94,12 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                63. 3D displacement mapping from hillshade offsets: multi-decadal deceleration and secondary mini-sliding at the Slumgullion landslide, Colorado, USA
+                64. 3D displacement mapping from hillshade offsets: multi-decadal deceleration and secondary mini-sliding at the Slumgullion landslide, Colorado, USA
               </span>
             </strong>
             <br> <b>Hu, X.*</b>, Tiampo, K.F., Bürgmann, R., Schulz, W., Lu, Z., Cassotto, R., Materna, K., Hu, L., Zhao, Z. <br>
             <em> Journal of Geophysical Research: Solid Earth</em> (Accepted), 2026 <br> 
-            <a href="" >&#91;doi&#93;</a>
+            <a href="https://doi.org/10.1029/2026JB034517" >&#91;doi&#93;</a>
             <a href="/articles/Hu_2026_JGRSE.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
@@ -113,7 +113,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                62. Inundation risk in North China's coastal gateway amid land subsidence, sea-level rise and coastal defense initiatives
+                63. Inundation risk in North China's coastal gateway amid land subsidence, sea-level rise and coastal defense initiatives
               </span>
             </strong>
             <br> Ran, Y.†, <b>Hu, X.*</b>, Wang, F., Tao, S., Yu, X., Liu-Zeng, J., Ao, Z., Liang, X., Wang, G. <br>
@@ -132,13 +132,32 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                61. Spatial organization of InSAR deformation-rate extremes across permafrost-transition and thermokarst contexts on the Tibetan Plateau
+                62. Spatial organization of InSAR deformation-rate extremes across permafrost-transition and thermokarst contexts on the Tibetan Plateau
               </span>
             </strong>
             <br> Chen, M.†, <b>Hu, X.*</b> <br>
             <em> PNAS Nexus</em> (Accepted), 2026 <br> 
             <a href="https://doi.org/10.1093/pnasnexus/pgag366" >&#91;doi&#93;</a>
             <a href="/articles/Chen_2026_PNASNEXUS.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+            <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Hu_2026_JGRMLC.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                61. Hydrologically driven slow-moving landslide displacement prediction using an explainable generative model
+              </span>
+            </strong>
+            <br> Hu, Y.†, <b>Hu, X.*</b> An, N., Schulz, W., Zhou, C., Zhao, W. <br>
+            <em> Journal of Geophysical Research: Machine Learning and Computation</em> (Accepted), 2026 <br> 
+            <a href="https://doi.org/10.1029/2026JH001286" >&#91;doi&#93;</a>
+            <a href="/articles/Hu_2026_JGRMLC.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
@@ -154,7 +173,7 @@ permalink: /publication/
                 60. Stage-based deformation preceding rainfall-induced landslide failure in Songxi County, China
               </span>
             </strong>
-            <br>An, N.*, Zhou, J., Peranić, J., Ma, C., Fan, T., <b>Hu, X.</b>, Zhao, Y., Wang, B., Lv, Q., Yang, Y.*<br>
+            <br>An, N.*, Zhou, J., Peranić, J., Ma, C., Fan, T., <b>Hu, X.</b>, Zhao, Y., Wang, B., Lv, Q., Yang, Y.* <br>
             <em> Landslides</em>, 2026 <br> 
             <a href="https://doi.org/10.1007/s10346-026-02853-3" >&#91;doi&#93;</a>
             <a href="/articles/An_2026_Landslides.pdf" download>&#91;pdf&#93;</a>
