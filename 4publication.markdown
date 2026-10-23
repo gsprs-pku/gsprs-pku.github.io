@@ -46,7 +46,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                65. Globe-CraterSAM: a training-free generalizable framework for mapping sub-kilometer Martian craters
+                66. Globe-CraterSAM: a training-free generalizable framework for mapping sub-kilometer Martian craters
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b><br>
