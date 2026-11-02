@@ -12,10 +12,26 @@ permalink: /photos/
 </head>
 
 <body>
+    <div align="center">
+        <video width="800" autoplay muted loop playsinline style="max-width:100%; height:auto;">
+            <source src="{{site.url}}/imgs/group_photos/2026fall.mp4" type="video/mp4">
+        </video>
+    </div>
+    <td> Golden fall 2026 - Xiangqi, Yuanzhuo, Yongxuan, Yiling, Feng, Jinghui, Mei, Zijin. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/20251016Workshop.JPG" width="800" >
+    </div>
+    <td> Workshop host by NHRS lab about Remote Sensing AI empowered natural hazards research. </td> 
+    <br>
+    <br>
+    <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251029YuqiBD.gif" width="800" >
     </div>
-    <td> Yuqi's BD - from left to right - Mei, Jinghui, Yuqi, Xie, Yiling | Yongxuan, Yuanzhuo, Yi, and Feng. </td> 
+    <td> Yuqi's BD - Mei, Jinghui, Yuqi, Xie, Yiling | Yongxuan, Yuanzhuo, Yi, and Feng. </td> 
     <br>
     <br>
     <br>
@@ -29,7 +45,7 @@ permalink: /photos/
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251016Workshop_NHRS.JPG" width="800" >
     </div>
-    <td> Logistic team from NHRS - from left to right - Yuqi, Yuanzhuo, Yiling, Yi, Xie, Jinghui, Mei, Feng, and Yongxuan. </td> 
+    <td> Logistic team from NHRS - Yuqi, Yuanzhuo, Yiling, Yi, Xie, Jinghui, Mei, Feng, and Yongxuan. </td> 
     <br>
     <br>
     <br>
