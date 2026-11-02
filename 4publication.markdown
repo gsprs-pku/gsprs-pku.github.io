@@ -46,7 +46,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                66. Globe-CraterSAM: a training-free generalizable framework for mapping sub-kilometer Martian craters
+                67. Globe-CraterSAM: a training-free generalizable framework for mapping sub-kilometer Martian craters
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b><br>
@@ -75,13 +75,32 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                65. A global view of urban land subsidence and its changing trajectories
+                66. A global view of urban land subsidence and its changing trajectories
               </span>
             </strong>
             <br> Wang, L., Ao, Z., Tao, S.*, <b>Hu, X.*</b>, Hu, X.M., Ran Y.†, Wang, G., Zhao, K., Bai, H., Xiao, J., Xue, B., Zhao, X., Zhang, F., Jiang, K., Lin, Y., Huang, Y., Gao, Y., Jiang, T., Peng, Z., Zhu, J., Zhao, S., Wang, S., Zhu, B., Wang, Z., Liu, H., Tang, Z., Xing, H., Liu, Y., Fang, J. <br>
             <em> Nature Cities</em>, 2026 <br> 
             <a href="https://doi.org/10.1038/s44284-026-00527-8" >&#91;doi&#93;</a>
             <a href="/articles/Wang_2026_NCities.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Hu_2026_TC.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                65. Linking InSAR-derived deformation to active layer freeze-thaw and permafrost dynamics in the Qinghai-Tibet Engineering Corridor
+              </span>
+            </strong>
+            <br> <b>Hu, X.*</b>, Song, Y.†, Mirzadeh, S.M.J.†, Wu, Q., Li, D., Lin, Y.†, Zhou, Y.†, Chen, M.†, Qi, S., Tiampo, K. <br>
+            <em> The Cryosphere</em> (Accepted), 2026 <br> 
+            <a href="https://doi.org/" >&#91;doi&#93;</a>
+            <a href="/articles/Hu_2026_TC.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
