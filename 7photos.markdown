@@ -29,72 +29,88 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/20251016Workshop.JPG" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/202607field_gully.png" width="800" >
     </div>
-    <td> Workshop host by NHRS lab about Remote Sensing AI empowered natural hazards research. </td> 
+    <td> July 2026 - field trip in Tibetan Plateau. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/202607field_ground_ice.png" width="800" >
+    </div>
+    <td> July 2026 - ground ice (gray color) exposed at the head scarp of a gully in Tibetan Plateau! </td> 
+    <br>
+    <br>
+    <br>
+    <div align="center">
+        <video width="800" autoplay muted loop playsinline style="max-width:100%; height:auto;">
+            <source src="{{site.url}}/imgs/group_photos/202607field_gully_head.MOV" type="video/mp4">
+        </video>
+    </div>
+    <td> July 2026 - head of one thermokarst process - gully. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251029YuqiBD.gif" width="800" >
     </div>
-    <td> Yuqi's BD - Mei, Jinghui, Yuqi, Xie, Yiling | Yongxuan, Yuanzhuo, Yi, and Feng. </td> 
+    <td> Oct 2025 - Yuqi's BD - Mei, Jinghui, Yuqi, Xie, Yiling | Yongxuan, Yuanzhuo, Yi, and Feng. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251016Workshop.JPG" width="800" >
     </div>
-    <td> Workshop host by NHRS lab about Remote Sensing AI empowered natural hazards research. </td> 
+    <td> Oct 2025 - workshop host by NHRS lab about Remote Sensing AI empowered natural hazards research. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251016Workshop_NHRS.JPG" width="800" >
     </div>
-    <td> Logistic team from NHRS - Yuqi, Yuanzhuo, Yiling, Yi, Xie, Jinghui, Mei, Feng, and Yongxuan. </td> 
+    <td> Oct 2025 - Logistic team from NHRS - Yuqi, Yuanzhuo, Yiling, Yi, Xie, Jinghui, Mei, Feng, and Yongxuan. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251016Workshop_NHRS_dinner.jpg" width="800" >
     </div>
-    <td> Hotpot - Yi, Yuqi, Xie, Yiling, Yige, Jinghui, Feng, and Mei. </td> 
+    <td> Oct 2025 - HOTPOT - Yi, Yuqi, Xie, Yiling, Yige, Jinghui, Feng, and Mei. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2025InSARFriends.JPG" width="800" >
     </div>
-    <td> InSAR friends (also mentors for Xie) - from left to right - Zhong Lu, Mahdi Motagh, Xie Hu, and Cunren Liang. </td> 
+    <td> Sept 2025 - InSAR friends (also mentors for Xie) - from left to right - Zhong Lu, Mahdi Motagh, Xie Hu, and Cunren Liang. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS.JPG" width="800" >
     </div>
-    <td> First row from left to right - Mei, Yuqi, Yiling, Feng, and Yuanzhuo. Second row - Fan, Ligong, Yongxuan, Jinghui, Yi, Xie, Mahdi, Zhong, Cunren, Wei, Haonan, Yuhang, and Kunyi. </td> 
+    <td> Sept 2025 - first row from left to right - Mei, Yuqi, Yiling, Feng, and Yuanzhuo. Second row - Fan, Ligong, Yongxuan, Jinghui, Yi, Xie, Mahdi, Zhong, Cunren, Wei, Haonan, Yuhang, and Kunyi. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2025InSARFriends_NHRS_dinner.JPG" width="800" >
     </div>
-    <td> Yiling, Yuqi, Wei, Cunren, Zhong, Mahdi, Xie, Haonan, Jinghui, Mei, and Feng. </td> 
+    <td> Sept 2025 - Yiling, Yuqi, Wei, Cunren, Zhong, Mahdi, Xie, Haonan, Jinghui, Mei, and Feng. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2025GiftsfromYuanzhuo.JPG" width="800" >
     </div>
-    <td> Gifts to all from Yuanzhuo. Made of rocks from Mountain Tai. </td> 
+    <td> Sept 2025 - gifts to all from Yuanzhuo. Made of rocks from Mountain Tai. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20250903Parade.JPG" width="800" >
     </div>
-    <td> Watch living-streaming video of the parade together in our group meeting. </td> 
+    <td> Sept 2025 - watch living-streaming video of the parade together in our group meeting. </td> 
     <br>
     <br>
     <br>
@@ -157,7 +173,7 @@ permalink: /photos/
 <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2023Lvliang.png" width="800" >
     </div>
-    <td> Field work in summertime in Penghui’s hometown Lvliang with numerous landslides - Selfie taken by the drone - from left to right - Yuqi, Yiling, and Penghui. </td>
+    <td> Summer 2023 - field work in summertime in Penghui’s hometown Lvliang with numerous landslides - Selfie taken by the drone - from left to right - Yuqi, Yiling, and Penghui. </td>
     <br>
     <br>
     <br>
@@ -165,14 +181,14 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/RTS1.JPG" width="800" >
     <img src="{{site.url}}/imgs/group_photos/RTS2.jpg" width="800" >
     </div>
-    <td> Field work on retrogressive thaw slumps in Wudaoliang, Qinghai Province, Tibetan Plateau in July 2023. Yiling was standing in front of an emergent toe of the slump. </td> 
+    <td> July 2023 - field work on retrogressive thaw slumps in Wudaoliang, Qinghai Province, Tibetan Plateau. Yiling was standing in front of an emergent toe of the slump. </td> 
     <br>
     <br>
     <br>
     <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2023DroneSurveyTraining.png" width="800" >
     </div>
-    <td> Drone survey training in Tianjin - one session in July and another in August 2023. </td> 
+    <td> Summer 2023 - drone survey training in Tianjin - one session in July and another in August 2023. </td> 
     <br>
     <br>
     <br>
