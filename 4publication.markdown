@@ -584,7 +584,7 @@ permalink: /publication/
                 40. Multi‐annual inventorying of retrogressive thaw slumps using domain adaptation
               </span>
             </strong>
-            <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhu, H., Zhang, S., Liu, J., Liu, Y. <br>
+            <br> Lin, Y.†, <b>Hu, X.*</b>, Lu, H.†, Niu, F., Liu, G., Huang, L., Zhang, S., Liu, J., Liu, Y. <br>
             <em> Journal of Geophysical Research: Machine Learning and Computation</em>, 1, e2024JH000370, 2025 <br> 
             <a href="https://doi.org/10.1029/2024JH000370" >&#91;doi&#93;</a>
             <a href="/articles/Lin_2024_JGRMLC.pdf" download>&#91;pdf&#93;</a>
