@@ -22,6 +22,13 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2026fall_loop.gif" width="800" >
+    </div>
+    <td> Golden fall 2026 - Xie, Xiangqi, Yuanzhuo, Yiling, Yongxuan, Feng, Mei, Jinghui, Zijin. </td> 
+    <br>
+    <br>
+    <br>
+    <div align=center>
     <img src="{{site.url}}/imgs/group_photos/20251016Workshop.JPG" width="800" >
     </div>
     <td> Workshop host by NHRS lab about Remote Sensing AI empowered natural hazards research. </td> 
