@@ -29,14 +29,14 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/202607field_gully.JPG" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/202607field_gully.jpg" width="800" >
     </div>
     <td> July 2026 - field trip in Tibetan Plateau. </td> 
     <br>
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/202607field_ground_ice.png" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/202607field_ground_ice.jpg" width="800" >
     </div>
     <td> July 2026 - ground ice (gray color) exposed at the head scarp of a gully in Tibetan Plateau! </td> 
     <br>
