@@ -29,7 +29,7 @@ permalink: /photos/
     <br>
     <br>
     <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/202607field_gully.png" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/202607field_gully.JPG" width="800" >
     </div>
     <td> July 2026 - field trip in Tibetan Plateau. </td> 
     <br>
