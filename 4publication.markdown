@@ -117,7 +117,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> <b>Hu, X.*</b>, Tiampo, K.F., Bürgmann, R., Schulz, W., Lu, Z., Cassotto, R., Materna, K., Hu, L., Zhao, Z. <br>
-            <em> Journal of Geophysical Research: Solid Earth</em> (Accepted), 2026 <br> 
+            <em> Journal of Geophysical Research: Solid Earth</em>, 131, e2026JB034517, 2026 <br> 
             <a href="https://doi.org/10.1029/2026JB034517" >&#91;doi&#93;</a>
             <a href="/articles/Hu_2026_JGRSE.pdf" download>&#91;pdf&#93;</a>
             </p>
@@ -155,7 +155,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Chen, M.†, <b>Hu, X.*</b> <br>
-            <em> PNAS Nexus</em>, 2026 <br> 
+            <em> PNAS Nexus</em>, pgag366, 2026 <br> 
             <a href="https://doi.org/10.1093/pnasnexus/pgag366" >&#91;doi&#93;</a>
             <a href="/articles/Chen_2026_PNASNEXUS.pdf" download>&#91;pdf&#93;</a>
             </p>
@@ -174,7 +174,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> Hu, Y.†, <b>Hu, X.*</b> An, N., Schulz, W., Zhou, C., Zhao, W. <br>
-            <em> Journal of Geophysical Research: Machine Learning and Computation</em> (Accepted), 2026 <br> 
+            <em> Journal of Geophysical Research: Machine Learning and Computation</em>, 3, e2026JH001286, 2026 <br> 
             <a href="https://doi.org/10.1029/2026JH001286" >&#91;doi&#93;</a>
             <a href="/articles/Hu_2026_JGRMLC.pdf" download>&#91;pdf&#93;</a>
             </p>
