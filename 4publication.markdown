@@ -116,7 +116,7 @@ permalink: /publication/
                 64. 3D displacement mapping from hillshade offsets: multi-decadal deceleration and secondary mini-sliding at the Slumgullion landslide, Colorado, USA
               </span>
             </strong>
-            <br> <b>Hu, X.*</b>, Tiampo, K.F., Bürgmann, R., Schulz, W., Lu, Z., Cassotto, R., Materna, K., Hu, L., Zhao, Z. <br>
+            <br> <b>Hu, X.*</b>, Tiampo, K. F., Bürgmann, R., Schulz, W., Lu, Z., Cassotto, R., Materna, K., Hu, L., Zhao, Z. <br>
             <em> Journal of Geophysical Research: Solid Earth</em>, 131, e2026JB034517, 2026 <br> 
             <a href="https://doi.org/10.1029/2026JB034517" >&#91;doi&#93;</a>
             <a href="/articles/Hu_2026_JGRSE.pdf" download>&#91;pdf&#93;</a>
