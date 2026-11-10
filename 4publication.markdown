@@ -145,7 +145,7 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Chen_2026_PNASNEXUS.png" />
+          <img src="{{site.url}}/imgs/article_img/Chen_2026_PNAS_NEXUS.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -157,7 +157,7 @@ permalink: /publication/
             <br> Chen, M.†, <b>Hu, X.*</b> <br>
             <em> PNAS Nexus</em>, pgag366, 2026 <br> 
             <a href="https://doi.org/10.1093/pnasnexus/pgag366" >&#91;doi&#93;</a>
-            <a href="/articles/Chen_2026_PNASNEXUS.pdf" download>&#91;pdf&#93;</a>
+            <a href="/articles/Chen_2026_PNAS_NEXUS.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
