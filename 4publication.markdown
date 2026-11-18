@@ -88,7 +88,7 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Hu_2026_Geomorphology.png" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2026_Geomorphology.jpg" />
         </td>
         <td style="width: 70%;">
           <p>
