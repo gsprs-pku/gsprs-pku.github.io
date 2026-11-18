@@ -46,7 +46,7 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                67. Globe-CraterSAM: a training-free generalizable framework for mapping sub-kilometer Martian craters
+                68. Globe-CraterSAM: a training-free generalizable framework for mapping sub-kilometer Martian craters
               </span>
             </strong>
             <br> Lin, Y.†, <b>Hu, X.*</b><br>
@@ -75,13 +75,32 @@ permalink: /publication/
           <p>
             <strong>
               <span class="links">
-                66. A global view of urban land subsidence and its changing trajectories
+                67. A global view of urban land subsidence and its changing trajectories
               </span>
             </strong>
             <br> Wang, L., Ao, Z., Tao, S.*, <b>Hu, X.*</b>, Hu, X.M., Ran Y.†, Wang, G., Zhao, K., Bai, H., Xiao, J., Xue, B., Zhao, X., Zhang, F., Jiang, K., Lin, Y., Huang, Y., Gao, Y., Jiang, T., Peng, Z., Zhu, J., Zhao, S., Wang, S., Zhu, B., Wang, Z., Liu, H., Tang, Z., Xing, H., Liu, Y., Fang, J. <br>
             <em> Nature Cities</em>, 2026 <br> 
             <a href="https://doi.org/10.1038/s44284-026-00527-8" >&#91;doi&#93;</a>
             <a href="/articles/Wang_2026_NCities.pdf" download>&#91;pdf&#93;</a>
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td style="width: 30%;">
+        <!--change the picture here!!-->
+          <img src="{{site.url}}/imgs/article_img/Hu_2026_Geomorphology.png" />
+        </td>
+        <td style="width: 70%;">
+          <p>
+            <strong>
+              <span class="links">
+                66. InSAR reveals present-day motion of the Corfu Landslide Complex, Washington – a previously proposed Martian landslide analogue
+              </span>
+            </strong>
+            <br> <b>Hu, X.*</b>, Bürgmann, R. <br>
+            <em> Geomorphology</em>, 2026 <br> 
+            <a href="" >&#91;doi&#93;</a>
+            <a href="/articles/Hu_2026_Geomorphology.pdf" download>&#91;pdf&#93;</a>
             </p>
         </td>
         </tr>
