@@ -88,7 +88,7 @@ permalink: /publication/
         <tr>
         <td style="width: 30%;">
         <!--change the picture here!!-->
-          <img src="{{site.url}}/imgs/article_img/Hu_2026_Geomorphology.jpg" />
+          <img src="{{site.url}}/imgs/article_img/Hu_2026_Geomorphology.png" />
         </td>
         <td style="width: 70%;">
           <p>
@@ -98,7 +98,7 @@ permalink: /publication/
               </span>
             </strong>
             <br> <b>Hu, X.*</b>, Bürgmann, R. <br>
-            <em> Geomorphology</em>, 2026 <br> 
+            <em> Geomorphology</em> (Accepted), 2026 <br> 
             <a href="" >&#91;doi&#93;</a>
             <a href="/articles/Hu_2026_Geomorphology.pdf" download>&#91;pdf&#93;</a>
             </p>
